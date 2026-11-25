@@ -1,0 +1,3848 @@
+{
+ "id": "K03",
+ "title": "Hotel z restauracją – budynek niski ZL V",
+ "level": 3,
+ "lead": "Projekt przed uzgodnieniem: niski hotel na 80 miejsc z restauracją na parterze. Czy sala z 48 miejscami przy stolikach i 8 przy barze to już ZL I?",
+ "tags": [
+  "ZL V",
+  "ZL I",
+  "hotel",
+  "budynek niski",
+  "ocena projektu"
+ ],
+ "topics": [
+  "W1",
+  "W2",
+  "W3",
+  "R2",
+  "U1",
+  "U3",
+  "H1",
+  "H2",
+  "P2"
+ ],
+ "legal": "Wymagania budowlane podano według warunków technicznych z 2002 r. Rozporządzenie utraciło moc 21.09.2026, ale art. 102a–102c Prawa budowlanego pozwalają w okresie przejściowym sporządzać projekty według dotychczasowych przepisów. Nowe warunki techniczne nie zostały jeszcze ogłoszone; po ogłoszeniu klucz zostanie sprawdzony ponownie. Pozostałe podstawy (rozporządzenia MSWiA z 2009, 2010 i 2023 r., w tym zmiana z 21.11.2024 o autonomicznych czujkach dymu, ustawa o ochronie przeciwpożarowej, Prawo budowlane) obowiązują.",
+ "problem": "Projektant przekazał do uzgodnienia projekt zagospodarowania działki i projekt architektoniczno-budowlany hotelu z restauracją. Na podstawie wyciągu z opisu i trzech rysunków proszę ocenić zgodność rozwiązań z wymaganiami ochrony przeciwpożarowej.\nProszę rozstrzygnąć kwalifikację restauracji, wskazać niezgodności i braki wraz z podstawą prawną i wartością wymaganą, powiedzieć, czy projekt można uzgodnić, oraz zaproponować sposób doprowadzenia go do zgodności.",
+ "doc": {
+  "title": "Hotel z restauracją przy ul. Projektowanej – warunki ochrony przeciwpożarowej",
+  "meta": [
+   [
+    "Inwestycja",
+    "Budowa hotelu z restauracją wraz z zagospodarowaniem terenu (dane fikcyjne)"
+   ],
+   [
+    "Adres",
+    "ul. Projektowana, dz. nr 45/4 (teren miasta)"
+   ],
+   [
+    "Stadium",
+    "Projekt zagospodarowania działki i projekt architektoniczno-budowlany"
+   ],
+   [
+    "Zakres wyciągu",
+    "Opis warunków ochrony przeciwpożarowej; rys. 1 – plan zagospodarowania terenu; rys. 2 – rzut parteru; rys. 3 – rzut kondygnacji +1"
+   ]
+  ],
+  "sections": [
+   {
+    "no": "1",
+    "h": "Powierzchnia, kubatura, wysokość i liczba kondygnacji",
+    "text": "- Powierzchnia zabudowy: 750,0 m² (50,0 × 15,0 m).\n- Powierzchnia wewnętrzna: 2 095,9 m² (3 kondygnacje po 698,6 m²).\n- Kubatura brutto: 7 950 m³.\n- Wysokość budynku: 10,60 m. Liczba kondygnacji nadziemnych: 3 (parter, +1, +2). Budynek niepodpiwniczony, stropodach płaski.\n- Grupa wysokości: budynek niski (N)."
+   },
+   {
+    "no": "2",
+    "h": "Charakterystyka zagrożenia pożarowego",
+    "text": "Hotel miejski z ogólnodostępną restauracją na parterze. Na kondygnacjach +1 i +2 po 21 pokojów (19 dwuosobowych i 2 jednoosobowe), razem 80 miejsc noclegowych. Przewidywany okres pobytu gości: od 1 do 3 dób (ruch biznesowy i turystyczny).\nW kuchni (pom. 0.10) wyłącznie urządzenia elektryczne: piece konwekcyjno-parowe, płyty indukcyjne i dwie frytownice. Budynek ogrzewany z miejskiej sieci ciepłowniczej; instalacji gazowej i kotłowni nie przewiduje się.\nMateriały niebezpieczne pożarowo nie występują. Zagrożenie wybuchem nie występuje; pomieszczeń zagrożonych wybuchem i stref zagrożenia wybuchem nie wyznacza się."
+   },
+   {
+    "no": "3",
+    "h": "Kategoria zagrożenia ludzi i przewidywana liczba osób",
+    "text": "Budynek zamieszkania zbiorowego zakwalifikowano do kategorii zagrożenia ludzi ZL V.\nRestauracja (pom. 0.15, 100,9 m²) ma 48 miejsc konsumpcyjnych przy stolikach oraz bar z 8 miejscami przy ladzie. Do liczby osób przyjęto 48 miejsc przy stolikach: miejsca przy barze służą gościom oczekującym na wolny stolik, więc nie zwiększają liczby osób przebywających w sali. Restauracja nie jest pomieszczeniem przeznaczonym dla ponad 50 osób i nie powoduje zaliczenia budynku do ZL I.\nPrzewidywana liczba osób: parter – 70 (restauracja 48, hol z recepcją 10 – strefa wejściowa z ladą recepcji, bez miejsc do siedzenia, personel 12), kondygnacje +1 i +2 – po 42 (40 gości i 2 osoby personelu). W budynku nie ma pomieszczeń, z których drzwi ewakuacyjne muszą otwierać się na zewnątrz."
+   },
+   {
+    "no": "4",
+    "h": "Podział na strefy pożarowe",
+    "text": "Budynek stanowi jedną strefę pożarową ZL V o powierzchni 2 095,9 m² (dopuszczalna 8 000 m²)."
+   },
+   {
+    "no": "5",
+    "h": "Klasa odporności pożarowej i odporność ogniowa elementów",
+    "text": "Dla budynku niskiego ZL V przyjęto klasę „C” odporności pożarowej. Wszystkie elementy budynku nierozprzestrzeniające ognia. Ściany zewnętrzne ocieplone wełną mineralną, nierozprzestrzeniające ognia przy działaniu ognia od wewnątrz i od zewnątrz, z pasami międzykondygnacyjnymi o wysokości 1,0 m; otwory okienne zajmują około 25% powierzchni ścian. Przekrycie dachu nierozprzestrzeniające ognia.",
+    "table": {
+     "head": [
+      "Element budynku",
+      "Klasa odporności ogniowej"
+     ],
+     "rows": [
+      [
+       "Główna konstrukcja nośna",
+       "R 60"
+      ],
+      [
+       "Konstrukcja dachu",
+       "R 15"
+      ],
+      [
+       "Stropy",
+       "R E I 60"
+      ],
+      [
+       "Ściany zewnętrzne",
+       "E I 30 (o↔i)"
+      ],
+      [
+       "Ściany wewnętrzne",
+       "E I 15"
+      ],
+      [
+       "Ściany oddzielające pokoje hotelowe od korytarzy i od siebie",
+       "E I 30"
+      ],
+      [
+       "Przekrycie dachu",
+       "R E 15"
+      ],
+      [
+       "Obudowa klatek schodowych K1 i K2",
+       "R E I 60"
+      ],
+      [
+       "Biegi i spoczniki schodów (materiały niepalne)",
+       "R 60"
+      ],
+      [
+       "Drzwi do klatek schodowych",
+       "E I 30, z samozamykaczem"
+      ]
+     ]
+    }
+   },
+   {
+    "no": "6",
+    "h": "Warunki ewakuacji",
+    "text": "- Kondygnacje +1 i +2: korytarz o szerokości 1,50 m i długości 49,2 m, bez okien, prowadzi do dwóch klatek schodowych K1 i K2. Klatki są obudowane ścianami R E I 60, zamykane drzwiami E I 30 i wyposażone w klapy dymowe klasy B300 30 w stropodachu, otwierane samoczynnie przez czujki dymu w klatce i ręcznie przyciskami przy wejściach, z dopływem powietrza kompensacyjnego w dolnej części klatki. Wyjście do klatki kończy dojście ewakuacyjne.\n- Szerokość użytkowa biegów schodów 1,20 m (między poręczami), spoczników 1,50 m, wysokość stopni do 0,175 m. Z obu klatek wyjścia bezpośrednio na zewnątrz drzwiami o szerokości 1,20 m, otwieranymi na zewnątrz.\n- Najdłuższe dojście przy dwóch kierunkach ewakuacji: 11,8 m (pokój 1.17 – klatka K1), dopuszczalne 40 m.\n- Ślepe odcinki korytarza (jeden kierunek ewakuacji): część zachodnia – 9,6 m (pokój 1.12 – K1), część wschodnia – 9,4 m (pokój 1.23 – K2); dopuszczalne 10 m.\n- Korytarz nie przekracza 50 m długości, więc nie wymaga podziału drzwiami dymoszczelnymi.\n- Drzwi do pokoi 0,90 m, otwierane do wnętrza pokoi, bez klasy odporności ogniowej: wymaganie E I 30 z § 246 ust. 6 WT dotyczy budynków średniowysokich i wyższych.\n- Parter: wejście główne – drzwi dwuskrzydłowe 1,80 m otwierane na zewnątrz. Z restauracji dwa wyjścia: do holu (drzwi 0,90 m) i bezpośrednio na zewnątrz (drzwi dwuskrzydłowe 1,40 m). Z kuchni wyjście na zewnątrz drzwiami 1,20 m.\n- Przejścia ewakuacyjne w pomieszczeniach nie przekraczają 20 m (dopuszczalne 40 m).\n- Wykończenie dróg ewakuacyjnych i restauracji z materiałów niepalnych i niezapalnych; sufity podwieszone niepalne."
+   },
+   {
+    "no": "7",
+    "h": "Urządzenia przeciwpożarowe i instalacje",
+    "text": "- System sygnalizacji pożarowej nie jest wymagany: w budynkach zamieszkania zbiorowego obowiązek dotyczy budynków o liczbie miejsc noclegowych powyżej 200 (§ 28 ust. 1 pkt 11 rozporządzenia MSWiA z 7.06.2010). W każdym pokoju hotelowym przewidziano autonomiczną czujkę dymu (§ 28a).\n- Dźwiękowy system ostrzegawczy nie jest wymagany (budynek niski, 80 miejsc noclegowych).\n- Hydranty wewnętrzne 25 z wężem półsztywnym o długości 20 m, wydajność 1,0 dm³/s, ciśnienie na zaworze nie mniejsze niż 0,2 MPa, zawory na wysokości 1,35 m: na kondygnacjach +1 i +2 przy klatkach K1 i K2, na parterze przy klatce K1 i w holu przy wejściu głównym (rys. 2 i 3). Zasilanie z sieci wodociągowej przez dwa piony DN 32 przy klatkach, czas zasilania co najmniej 1 h. Instalację wymiarowano na jednoczesny pobór wody z jednego hydrantu 25, ponieważ budynek jest niski.\n- Awaryjne oświetlenie ewakuacyjne (czas działania 1 h) w klatkach schodowych K1 i K2 oraz w holu. Na korytarzach hotelowych go nie przewiduje się: wymaganie § 181 ust. 3 pkt 2 lit. d WT dotyczy wyłącznie wysokich i wysokościowych budynków zamieszkania zbiorowego. W restauracji nie jest wymagane (sala dla mniej niż 200 osób).\n- Przeciwpożarowy wyłącznik prądu przy wejściu głównym, oznakowany; nie odcina zasilania centrali sterującej klapami dymowymi.\n- Przewody wentylacyjne z materiałów niepalnych, centrale wentylacyjne na dachu. Instalacja odgromowa zgodna z Polską Normą."
+   },
+   {
+    "no": "8",
+    "h": "Gaśnice",
+    "text": "Gaśnice proszkowe ABC o masie środka gaśniczego 4 kg, po 4 na każdej kondygnacji: razem 12 gaśnic i 48 kg środka (wymagane 42 kg: 21 jednostek po 2 kg na strefę 2 095,9 m²). Jedna z gaśnic parteru stoi w kuchni przy wyjściu na zewnątrz. Odległość z każdego miejsca do najbliższej gaśnicy nie przekracza 30 m, dostęp do gaśnic ma szerokość co najmniej 1 m."
+   },
+   {
+    "no": "9",
+    "h": "Przygotowanie do działań ratowniczych",
+    "text": "- Droga pożarowa jest wymagana, ponieważ budynek niski ZL V ma ponad 50 miejsc noclegowych (§ 12 ust. 1 pkt 5 lit. b rozporządzenia MSWiA z 24.07.2009). Funkcję drogi pożarowej pełni ul. Projektowana (droga publiczna, jezdnia 7,0 m, nośność 100 kN na oś). Wymaganie przebiegu drogi wzdłuż dłuższego boku budynku (§ 12 ust. 2) dotyczy budynków z ust. 1 pkt 1–4, więc nie ma tu zastosowania.\n- Wejście główne jest połączone z jezdnią utwardzonym dojściem o szerokości 2,0 m i długości 38,0 m (dopuszczalne 50 m), które zapewnia dotarcie do strefy pożarowej.\n- Woda do zewnętrznego gaszenia pożaru: wymagane 20 dm³/s (§ 5 ust. 1 pkt 2 – kubatura ponad 5 000 m³). Źródło: miejska sieć wodociągowa obwodowa DN 150 w ul. Projektowanej o wydajności 15 dm³/s przy ciśnieniu w hydrancie co najmniej 0,1 MPa przez 2 h, według warunków technicznych przedsiębiorstwa wodociągowego. Hydranty nadziemne DN 80: HZ1 w odległości 37 m od budynku, przy jezdni, i HZ2 w ulicy 110 m na wschód od HZ1, około 84 m od budynku. Wymaganą ilość wody zapewniają dwa hydranty o wydajności nominalnej 10 dm³/s każdy.\n- Dźwig dla ekip ratowniczych nie jest wymagany."
+   },
+   {
+    "no": "10",
+    "h": "Usytuowanie z uwagi na bezpieczeństwo pożarowe",
+    "text": "Od wschodu budynek usługowy na działce nr 45/7 w odległości 13,0 m; ściany zewnętrzne i przekrycia dachów obu budynków nierozprzestrzeniające ognia; w ścianie zachodniej budynku usługowego okna zajmują około 20% jej powierzchni, a w ścianie wschodniej hotelu – okna kuchni i drzwi, poniżej 10%. Od zachodu działka nr 45/3, niezabudowana, w planie miejscowym przeznaczona pod zabudowę usługową; zachodnia ściana szczytowa hotelu nie ma otworów. Od północy teren zieleni urządzonej (dz. nr 45/9). Usytuowanie budynku na działce według rysunku 1."
+   },
+   {
+    "no": "11",
+    "h": "Rozwiązania zamienne",
+    "text": "Nie przewiduje się rozwiązań zamiennych w stosunku do wymagań ochrony przeciwpożarowej ani odstępstw od przepisów techniczno-budowlanych."
+   }
+  ]
+ },
+ "drawings": [
+  {
+   "id": "R1",
+   "title": "Plan zagospodarowania terenu",
+   "scale": "1:500",
+   "kind": "pzt",
+   "size": [
+    100,
+    74
+   ],
+   "pad": [
+    2,
+    2,
+    2,
+    2
+   ],
+   "font": 1.15,
+   "north": [
+    94,
+    40
+   ],
+   "items": [
+    {
+     "t": "rect",
+     "k": "road",
+     "rect": [
+      0,
+      63,
+      100,
+      9
+     ]
+    },
+    {
+     "t": "rect",
+     "k": "fireroad",
+     "rect": [
+      0,
+      65,
+      100,
+      7
+     ],
+     "label": "ul. Projektowana – droga publiczna, jezdnia 7,0 m (wg projektu droga pożarowa)",
+     "size": 0.85
+    },
+    {
+     "t": "poly",
+     "k": "plot",
+     "pts": [
+      [
+       12,
+       4
+      ],
+      [
+       74,
+       4
+      ],
+      [
+       74,
+       63
+      ],
+      [
+       12,
+       63
+      ]
+     ]
+    },
+    {
+     "t": "poly",
+     "k": "plot",
+     "pts": [
+      [
+       0,
+       4
+      ],
+      [
+       12,
+       4
+      ],
+      [
+       12,
+       63
+      ],
+      [
+       0,
+       63
+      ]
+     ]
+    },
+    {
+     "t": "poly",
+     "k": "plot",
+     "pts": [
+      [
+       74,
+       4
+      ],
+      [
+       100,
+       4
+      ],
+      [
+       100,
+       63
+      ],
+      [
+       74,
+       63
+      ]
+     ]
+    },
+    {
+     "t": "rect",
+     "k": "paved",
+     "rect": [
+      16,
+      10.2,
+      51.2,
+      1.8
+     ]
+    },
+    {
+     "t": "rect",
+     "k": "paved",
+     "rect": [
+      65.4,
+      10.2,
+      1.8,
+      16.8
+     ]
+    },
+    {
+     "t": "rect",
+     "k": "paved",
+     "rect": [
+      15,
+      27,
+      52.2,
+      3
+     ]
+    },
+    {
+     "t": "rect",
+     "k": "paved",
+     "rect": [
+      33.6,
+      30,
+      2,
+      33
+     ]
+    },
+    {
+     "t": "rect",
+     "k": "parking",
+     "rect": [
+      40,
+      36,
+      24,
+      21
+     ],
+     "label": "parking\n40 m.p."
+    },
+    {
+     "t": "rect",
+     "k": "paved",
+     "rect": [
+      58,
+      57,
+      6,
+      6
+     ]
+    },
+    {
+     "t": "rect",
+     "k": "green",
+     "rect": [
+      15,
+      31,
+      17,
+      30
+     ]
+    },
+    {
+     "t": "rect",
+     "k": "building",
+     "rect": [
+      15.0,
+      12.0,
+      50,
+      15
+     ],
+     "label": "HOTEL Z RESTAURACJĄ (projektowany)\n3 kondygnacje nadziemne, wysokość 10,60 m",
+     "lo": [
+      0,
+      1.6
+     ]
+    },
+    {
+     "t": "rect",
+     "k": "neighbor",
+     "rect": [
+      78,
+      13,
+      14,
+      18
+     ],
+     "label": "budynek\nusługowy\n(istniejący),\n2 kondygnacje",
+     "size": 0.8
+    },
+    {
+     "t": "sym",
+     "k": "HZ",
+     "at": [
+      30,
+      64
+     ],
+     "label": "HZ1 – DN 80",
+     "lo": [
+      0,
+      -2.0
+     ]
+    },
+    {
+     "t": "leader",
+     "a": [
+      27.0,
+      33.5
+     ],
+     "b": [
+      34.3,
+      27.5
+     ],
+     "text": "wejście główne",
+     "anchor": "end",
+     "lo": [
+      -0.4,
+      0.45
+     ]
+    },
+    {
+     "t": "leader",
+     "a": [
+      58.0,
+      33.5
+     ],
+     "b": [
+      54.75,
+      27.4
+     ],
+     "text": "wyjście z restauracji",
+     "anchor": "start",
+     "lo": [
+      0.4,
+      0.45
+     ]
+    },
+    {
+     "t": "leader",
+     "a": [
+      28.0,
+      7.2
+     ],
+     "b": [
+      25.5,
+      11.7
+     ],
+     "text": "wyjście z K1",
+     "anchor": "middle"
+    },
+    {
+     "t": "leader",
+     "a": [
+      50.5,
+      7.2
+     ],
+     "b": [
+      48.1,
+      11.7
+     ],
+     "text": "wyjście z K2",
+     "anchor": "middle"
+    },
+    {
+     "t": "dim",
+     "a": [
+      15.0,
+      14.5
+     ],
+     "b": [
+      65.0,
+      14.5
+     ],
+     "text": "50,00"
+    },
+    {
+     "t": "dim",
+     "a": [
+      17.2,
+      12.0
+     ],
+     "b": [
+      17.2,
+      27.0
+     ],
+     "text": "15,00"
+    },
+    {
+     "t": "dim",
+     "a": [
+      12.0,
+      20.5
+     ],
+     "b": [
+      15.0,
+      20.5
+     ],
+     "text": "3,00",
+     "tlo": [
+      0,
+      -0.2
+     ]
+    },
+    {
+     "t": "dim",
+     "a": [
+      60.0,
+      4.0
+     ],
+     "b": [
+      60.0,
+      12.0
+     ],
+     "text": "8,00"
+    },
+    {
+     "t": "dim",
+     "a": [
+      65.0,
+      22.5
+     ],
+     "b": [
+      74.0,
+      22.5
+     ],
+     "text": "9,00"
+    },
+    {
+     "t": "dim",
+     "a": [
+      65.0,
+      16.0
+     ],
+     "b": [
+      78.0,
+      16.0
+     ],
+     "text": "13,00"
+    },
+    {
+     "t": "dim",
+     "a": [
+      37.2,
+      27.0
+     ],
+     "b": [
+      37.2,
+      65.0
+     ],
+     "text": "38,00"
+    },
+    {
+     "t": "dim",
+     "a": [
+      5.0,
+      65.0
+     ],
+     "b": [
+      5.0,
+      72.0
+     ],
+     "text": "7,00"
+    },
+    {
+     "t": "text",
+     "at": [
+      6,
+      34
+     ],
+     "text": "dz. nr 45/3\nniezabudowana\n(plan miejscowy:\nzabudowa\nusługowa)",
+     "size": 0.75
+    },
+    {
+     "t": "text",
+     "at": [
+      44,
+      2.4
+     ],
+     "text": "dz. nr 45/9 – zieleń urządzona",
+     "size": 0.8
+    },
+    {
+     "t": "text",
+     "at": [
+      22,
+      50
+     ],
+     "text": "dz. nr 45/4",
+     "size": 0.9
+    },
+    {
+     "t": "text",
+     "at": [
+      87,
+      50
+     ],
+     "text": "dz. nr 45/7",
+     "size": 0.9
+    }
+   ],
+   "note": "Wymiary w metrach. Sieć wodociągowa DN 150 w ul. Projektowanej; hydrant HZ2 (DN 80) w ulicy 110 m na wschód od HZ1, poza arkuszem."
+  },
+  {
+   "id": "R2",
+   "title": "Rzut parteru",
+   "scale": "1:100",
+   "kind": "rzut",
+   "size": [
+    50,
+    15
+   ],
+   "pad": [
+    3,
+    2.8,
+    1.5,
+    2.8
+   ],
+   "font": 0.42,
+   "items": [
+    {
+     "t": "wall",
+     "pts": [
+      [
+       0.2,
+       0.2
+      ],
+      [
+       49.8,
+       0.2
+      ],
+      [
+       49.8,
+       14.8
+      ],
+      [
+       0.2,
+       14.8
+      ]
+     ],
+     "k": "ext",
+     "w": 0.4,
+     "close": true
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       0.4,
+       6.65
+      ],
+      [
+       43.2,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       0.4,
+       8.35
+      ],
+      [
+       12.7,
+       8.35
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       26.6,
+       8.35
+      ],
+      [
+       43.2,
+       8.35
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       4.6,
+       0.4
+      ],
+      [
+       4.6,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       8.8,
+       0.4
+      ],
+      [
+       8.8,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       12.2,
+       0.4
+      ],
+      [
+       12.2,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       14.6,
+       0.4
+      ],
+      [
+       14.6,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       18.8,
+       0.4
+      ],
+      [
+       18.8,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       23.0,
+       0.4
+      ],
+      [
+       23.0,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       27.2,
+       0.4
+      ],
+      [
+       27.2,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       31.4,
+       0.4
+      ],
+      [
+       31.4,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       34.8,
+       0.4
+      ],
+      [
+       34.8,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       39.0,
+       0.4
+      ],
+      [
+       39.0,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       43.2,
+       0.4
+      ],
+      [
+       43.2,
+       14.6
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       4.5,
+       8.35
+      ],
+      [
+       4.5,
+       14.6
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       8.6,
+       8.35
+      ],
+      [
+       8.6,
+       14.6
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       12.7,
+       8.35
+      ],
+      [
+       12.7,
+       14.6
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       26.6,
+       8.35
+      ],
+      [
+       26.6,
+       14.6
+      ]
+     ]
+    },
+    {
+     "t": "window",
+     "at": [
+      2.5,
+      0.2
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      6.7,
+      0.2
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      13.4,
+      0.2
+     ],
+     "w": 1.2
+    },
+    {
+     "t": "window",
+     "at": [
+      16.7,
+      0.2
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      20.9,
+      0.2
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      25.1,
+      0.2
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      29.3,
+      0.2
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      36.9,
+      0.2
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      41.1,
+      0.2
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      2.45,
+      14.8
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      6.55,
+      14.8
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      10.65,
+      14.8
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      14.9,
+      14.8
+     ],
+     "w": 2.4
+    },
+    {
+     "t": "window",
+     "at": [
+      23.6,
+      14.8
+     ],
+     "w": 3.0
+    },
+    {
+     "t": "window",
+     "at": [
+      29.6,
+      14.8
+     ],
+     "w": 2.4
+    },
+    {
+     "t": "window",
+     "at": [
+      34.2,
+      14.8
+     ],
+     "w": 2.4
+    },
+    {
+     "t": "window",
+     "at": [
+      46.4,
+      0.2
+     ],
+     "w": 2.0
+    },
+    {
+     "t": "window",
+     "at": [
+      49.8,
+      8.6
+     ],
+     "w": 2.0,
+     "dir": "v"
+    },
+    {
+     "t": "window",
+     "at": [
+      49.8,
+      12.2
+     ],
+     "w": 2.0,
+     "dir": "v"
+    },
+    {
+     "t": "door",
+     "at": [
+      3.75,
+      6.65
+     ],
+     "w": 0.9,
+     "open": "n",
+     "hinge": "b"
+    },
+    {
+     "t": "door",
+     "at": [
+      5.45,
+      6.65
+     ],
+     "w": 0.9,
+     "open": "n",
+     "hinge": "a"
+    },
+    {
+     "t": "door",
+     "at": [
+      11.55,
+      6.65
+     ],
+     "w": 1.0,
+     "open": "n",
+     "hinge": "b",
+     "cls": "EI 30",
+     "lo": [
+      -1.25,
+      -0.5
+     ]
+    },
+    {
+     "t": "door",
+     "at": [
+      14.0,
+      6.65
+     ],
+     "w": 0.9,
+     "open": "n",
+     "hinge": "b"
+    },
+    {
+     "t": "door",
+     "at": [
+      15.35,
+      6.65
+     ],
+     "w": 0.9,
+     "open": "n",
+     "hinge": "a"
+    },
+    {
+     "t": "door",
+     "at": [
+      19.55,
+      6.65
+     ],
+     "w": 0.9,
+     "open": "n",
+     "hinge": "a"
+    },
+    {
+     "t": "door",
+     "at": [
+      26.45,
+      6.65
+     ],
+     "w": 0.9,
+     "open": "n",
+     "hinge": "b"
+    },
+    {
+     "t": "door",
+     "at": [
+      27.95,
+      6.65
+     ],
+     "w": 0.9,
+     "open": "n",
+     "hinge": "a"
+    },
+    {
+     "t": "door",
+     "at": [
+      34.15,
+      6.65
+     ],
+     "w": 1.0,
+     "open": "n",
+     "hinge": "b",
+     "cls": "EI 30",
+     "lo": [
+      -1.25,
+      -0.5
+     ]
+    },
+    {
+     "t": "door",
+     "at": [
+      38.25,
+      6.65
+     ],
+     "w": 0.9,
+     "open": "n",
+     "hinge": "b"
+    },
+    {
+     "t": "door",
+     "at": [
+      39.75,
+      6.65
+     ],
+     "w": 0.9,
+     "open": "n",
+     "hinge": "a"
+    },
+    {
+     "t": "door",
+     "at": [
+      3.65,
+      8.35
+     ],
+     "w": 0.9,
+     "open": "s",
+     "hinge": "b"
+    },
+    {
+     "t": "door",
+     "at": [
+      5.35,
+      8.35
+     ],
+     "w": 0.9,
+     "open": "s",
+     "hinge": "a"
+    },
+    {
+     "t": "door",
+     "at": [
+      11.95,
+      8.35
+     ],
+     "w": 0.9,
+     "open": "s",
+     "hinge": "b"
+    },
+    {
+     "t": "door",
+     "at": [
+      10.5,
+      0.2
+     ],
+     "w": 1.2,
+     "open": "n",
+     "th": 0.4,
+     "label": "1,20",
+     "lo": [
+      -1.55,
+      -0.55
+     ]
+    },
+    {
+     "t": "door",
+     "at": [
+      33.1,
+      0.2
+     ],
+     "w": 0.9,
+     "open": "n",
+     "th": 0.4,
+     "label": "0,90",
+     "lo": [
+      -1.35,
+      -0.55
+     ]
+    },
+    {
+     "t": "door",
+     "at": [
+      19.6,
+      14.8
+     ],
+     "w": 1.8,
+     "open": "s",
+     "leafs": 2,
+     "th": 0.4,
+     "label": "1,80",
+     "lo": [
+      0,
+      -0.55
+     ]
+    },
+    {
+     "t": "door",
+     "at": [
+      39.75,
+      14.8
+     ],
+     "w": 1.4,
+     "open": "s",
+     "leafs": 2,
+     "th": 0.4,
+     "label": "1,40 (2 × 0,70)",
+     "lo": [
+      0,
+      -0.55
+     ]
+    },
+    {
+     "t": "door",
+     "at": [
+      26.6,
+      12.0
+     ],
+     "w": 0.9,
+     "dir": "v",
+     "open": "e",
+     "hinge": "b",
+     "label": "0,90",
+     "lo": [
+      -0.55,
+      0.15
+     ]
+    },
+    {
+     "t": "door",
+     "at": [
+      43.2,
+      7.5
+     ],
+     "w": 1.0,
+     "dir": "v",
+     "open": "e",
+     "hinge": "a"
+    },
+    {
+     "t": "door",
+     "at": [
+      43.2,
+      11.5
+     ],
+     "w": 1.0,
+     "dir": "v",
+     "open": "e",
+     "hinge": "a",
+     "label": "wahadłowe",
+     "lo": [
+      1.6,
+      0.15
+     ]
+    },
+    {
+     "t": "door",
+     "at": [
+      49.8,
+      3.0
+     ],
+     "w": 1.2,
+     "dir": "v",
+     "open": "e",
+     "th": 0.4,
+     "label": "1,20",
+     "lo": [
+      -0.6,
+      0.15
+     ]
+    },
+    {
+     "t": "room",
+     "rect": [
+      0.4,
+      0.4,
+      4.1,
+      6.15
+     ],
+     "no": "0.01",
+     "name": "Biuro",
+     "area": 25.2,
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      4.7,
+      0.4,
+      4.0,
+      6.15
+     ],
+     "no": "0.02",
+     "name": "Socjalne",
+     "area": 24.6,
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      8.9,
+      0.4,
+      3.2,
+      6.15
+     ],
+     "no": "K1",
+     "lo": [
+      0,
+      -2.35
+     ],
+     "fill": "evac"
+    },
+    {
+     "t": "stair",
+     "rect": [
+      9.1,
+      1.9,
+      1.2,
+      3.15
+     ],
+     "n": 10,
+     "axis": "y"
+    },
+    {
+     "t": "room",
+     "rect": [
+      12.3,
+      0.4,
+      2.2,
+      6.15
+     ],
+     "no": "0.03",
+     "name": "Pom. porządkowe",
+     "area": 13.5,
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      14.7,
+      0.4,
+      4.0,
+      6.15
+     ],
+     "no": "0.04",
+     "name": "Bagażownia",
+     "area": 24.6,
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      18.9,
+      0.4,
+      4.0,
+      6.15
+     ],
+     "no": "0.05",
+     "name": "Zaplecze",
+     "area": 24.6,
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      23.1,
+      0.4,
+      4.0,
+      6.15
+     ],
+     "no": "0.06",
+     "name": "WC",
+     "area": 24.6,
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      27.3,
+      0.4,
+      4.0,
+      6.15
+     ],
+     "no": "0.07",
+     "name": "Magazyn",
+     "area": 24.6,
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      31.5,
+      0.4,
+      3.2,
+      6.15
+     ],
+     "no": "K2",
+     "lo": [
+      0,
+      -2.35
+     ],
+     "fill": "evac"
+    },
+    {
+     "t": "stair",
+     "rect": [
+      31.7,
+      1.9,
+      1.2,
+      3.15
+     ],
+     "n": 10,
+     "axis": "y"
+    },
+    {
+     "t": "room",
+     "rect": [
+      34.9,
+      0.4,
+      4.0,
+      6.15
+     ],
+     "no": "0.08",
+     "name": "Zmywalnia",
+     "area": 24.6,
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      39.1,
+      0.4,
+      4.0,
+      6.15
+     ],
+     "no": "0.09",
+     "name": "Szatnia",
+     "area": 24.6,
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      0.4,
+      8.45,
+      4.0,
+      6.15
+     ],
+     "no": "0.11",
+     "name": "Pralnia",
+     "area": 24.6,
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      4.6,
+      8.45,
+      3.9,
+      6.15
+     ],
+     "no": "0.12",
+     "name": "Szatnie",
+     "area": 24.0,
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      8.7,
+      8.45,
+      3.9,
+      6.15
+     ],
+     "no": "0.13",
+     "name": "Biuro",
+     "area": 24.0,
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      43.3,
+      0.4,
+      6.3,
+      14.2
+     ],
+     "no": "0.10",
+     "name": "Kuchnia",
+     "area": 89.5,
+     "note": "frytownice",
+     "lo": [
+      0,
+      -1.4
+     ],
+     "flat": true
+    },
+    {
+     "t": "room",
+     "rect": [
+      12.8,
+      6.75,
+      13.7,
+      7.85
+     ],
+     "no": "0.14",
+     "name": "Hol z recepcją",
+     "lo": [
+      -2.2,
+      1.6
+     ]
+    },
+    {
+     "t": "room",
+     "rect": [
+      26.7,
+      8.45,
+      16.4,
+      6.15
+     ],
+     "no": "0.15",
+     "name": "Restauracja",
+     "area": 100.9,
+     "note": "48 miejsc przy stolikach",
+     "lo": [
+      0,
+      0.9
+     ]
+    },
+    {
+     "t": "room",
+     "rect": [
+      0.4,
+      6.75,
+      12.3,
+      1.5
+     ],
+     "no": "0.16",
+     "name": "Korytarz",
+     "size": 0.8,
+     "flat": true,
+     "lo": [
+      -2.6,
+      0
+     ]
+    },
+    {
+     "t": "room",
+     "rect": [
+      26.7,
+      6.75,
+      16.4,
+      1.5
+     ],
+     "no": "0.17",
+     "name": "Korytarz zaplecza",
+     "size": 0.8,
+     "flat": true,
+     "lo": [
+      -4.6,
+      0
+     ]
+    },
+    {
+     "t": "line",
+     "a": [
+      30.4,
+      9.25
+     ],
+     "b": [
+      36.4,
+      9.25
+     ]
+    },
+    {
+     "t": "line",
+     "a": [
+      30.4,
+      9.85
+     ],
+     "b": [
+      36.4,
+      9.85
+     ]
+    },
+    {
+     "t": "line",
+     "a": [
+      30.4,
+      9.25
+     ],
+     "b": [
+      30.4,
+      9.85
+     ]
+    },
+    {
+     "t": "line",
+     "a": [
+      36.4,
+      9.25
+     ],
+     "b": [
+      36.4,
+      9.85
+     ]
+    },
+    {
+     "t": "text",
+     "at": [
+      33.4,
+      10.75
+     ],
+     "text": "bar – 8 miejsc przy ladzie",
+     "size": 0.8
+    },
+    {
+     "t": "line",
+     "a": [
+      21.0,
+      9.4
+     ],
+     "b": [
+      24.6,
+      9.4
+     ]
+    },
+    {
+     "t": "line",
+     "a": [
+      21.0,
+      10.0
+     ],
+     "b": [
+      24.6,
+      10.0
+     ]
+    },
+    {
+     "t": "line",
+     "a": [
+      21.0,
+      9.4
+     ],
+     "b": [
+      21.0,
+      10.0
+     ]
+    },
+    {
+     "t": "line",
+     "a": [
+      24.6,
+      9.4
+     ],
+     "b": [
+      24.6,
+      10.0
+     ]
+    },
+    {
+     "t": "text",
+     "at": [
+      22.8,
+      10.85
+     ],
+     "text": "lada recepcji",
+     "size": 0.8
+    },
+    {
+     "t": "sym",
+     "k": "H25",
+     "at": [
+      12.75,
+      7.05
+     ],
+     "label": " "
+    },
+    {
+     "t": "sym",
+     "k": "H25",
+     "at": [
+      17.0,
+      14.1
+     ],
+     "label": " "
+    },
+    {
+     "t": "sym",
+     "k": "G",
+     "at": [
+      6.5,
+      7.97
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "G",
+     "at": [
+      25.0,
+      14.1
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "G",
+     "at": [
+      36.6,
+      7.97
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "G",
+     "at": [
+      48.6,
+      4.7
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "PWP",
+     "at": [
+      15.4,
+      9.4
+     ],
+     "label": " "
+    },
+    {
+     "t": "dim",
+     "a": [
+      0.0,
+      0.0
+     ],
+     "b": [
+      50.0,
+      0.0
+     ],
+     "off": -1.5,
+     "text": "50,00"
+    },
+    {
+     "t": "dim",
+     "a": [
+      0.0,
+      0.0
+     ],
+     "b": [
+      0.0,
+      15.0
+     ],
+     "off": 1.5,
+     "text": "15,00"
+    },
+    {
+     "t": "dim",
+     "a": [
+      26.7,
+      15.0
+     ],
+     "b": [
+      43.1,
+      15.0
+     ],
+     "off": 1.3,
+     "text": "16,40"
+    },
+    {
+     "t": "dim",
+     "a": [
+      12.8,
+      15.0
+     ],
+     "b": [
+      26.5,
+      15.0
+     ],
+     "off": 1.3,
+     "text": "13,70"
+    },
+    {
+     "t": "dim",
+     "a": [
+      42.5,
+      8.45
+     ],
+     "b": [
+      42.5,
+      14.6
+     ],
+     "text": "6,15"
+    },
+    {
+     "t": "dim",
+     "a": [
+      43.3,
+      15.0
+     ],
+     "b": [
+      49.6,
+      15.0
+     ],
+     "off": 1.3,
+     "text": "6,30"
+    }
+   ],
+   "note": "Wymiary w metrach. Drzwi wewnętrzne 0,90 m, jeżeli nie opisano inaczej. Hydranty 25 z wężem 20 m. PWP – przeciwpożarowy wyłącznik prądu przy wejściu głównym."
+  },
+  {
+   "id": "R3",
+   "title": "Rzut kondygnacji +1 (kondygnacja +2 analogiczna)",
+   "scale": "1:100",
+   "kind": "rzut",
+   "size": [
+    50,
+    15
+   ],
+   "pad": [
+    3,
+    2.8,
+    1.5,
+    3.8
+   ],
+   "font": 0.42,
+   "items": [
+    {
+     "t": "wall",
+     "pts": [
+      [
+       0.2,
+       0.2
+      ],
+      [
+       49.8,
+       0.2
+      ],
+      [
+       49.8,
+       14.8
+      ],
+      [
+       0.2,
+       14.8
+      ]
+     ],
+     "k": "ext",
+     "w": 0.4,
+     "close": true
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       0.4,
+       6.65
+      ],
+      [
+       49.6,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       0.4,
+       8.35
+      ],
+      [
+       49.6,
+       8.35
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       4.6,
+       0.4
+      ],
+      [
+       4.6,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       8.8,
+       0.4
+      ],
+      [
+       8.8,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       12.2,
+       0.4
+      ],
+      [
+       12.2,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       14.6,
+       0.4
+      ],
+      [
+       14.6,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       18.8,
+       0.4
+      ],
+      [
+       18.8,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       23.0,
+       0.4
+      ],
+      [
+       23.0,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       27.2,
+       0.4
+      ],
+      [
+       27.2,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       31.4,
+       0.4
+      ],
+      [
+       31.4,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       34.8,
+       0.4
+      ],
+      [
+       34.8,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       39.0,
+       0.4
+      ],
+      [
+       39.0,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       43.2,
+       0.4
+      ],
+      [
+       43.2,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       45.6,
+       0.4
+      ],
+      [
+       45.6,
+       6.65
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       4.5,
+       8.35
+      ],
+      [
+       4.5,
+       14.6
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       8.6,
+       8.35
+      ],
+      [
+       8.6,
+       14.6
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       12.7,
+       8.35
+      ],
+      [
+       12.7,
+       14.6
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       16.8,
+       8.35
+      ],
+      [
+       16.8,
+       14.6
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       20.9,
+       8.35
+      ],
+      [
+       20.9,
+       14.6
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       25.0,
+       8.35
+      ],
+      [
+       25.0,
+       14.6
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       29.1,
+       8.35
+      ],
+      [
+       29.1,
+       14.6
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       33.2,
+       8.35
+      ],
+      [
+       33.2,
+       14.6
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       37.3,
+       8.35
+      ],
+      [
+       37.3,
+       14.6
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       41.4,
+       8.35
+      ],
+      [
+       41.4,
+       14.6
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       45.5,
+       8.35
+      ],
+      [
+       45.5,
+       14.6
+      ]
+     ]
+    },
+    {
+     "t": "window",
+     "at": [
+      2.5,
+      0.2
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      6.7,
+      0.2
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      10.5,
+      0.2
+     ],
+     "w": 1.2
+    },
+    {
+     "t": "window",
+     "at": [
+      13.4,
+      0.2
+     ],
+     "w": 1.2
+    },
+    {
+     "t": "window",
+     "at": [
+      16.7,
+      0.2
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      20.9,
+      0.2
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      25.1,
+      0.2
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      29.3,
+      0.2
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      33.1,
+      0.2
+     ],
+     "w": 1.2
+    },
+    {
+     "t": "window",
+     "at": [
+      36.9,
+      0.2
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      41.1,
+      0.2
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      44.4,
+      0.2
+     ],
+     "w": 1.2
+    },
+    {
+     "t": "window",
+     "at": [
+      47.6,
+      0.2
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      2.45,
+      14.8
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      6.55,
+      14.8
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      10.65,
+      14.8
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      14.75,
+      14.8
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      18.85,
+      14.8
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      22.95,
+      14.8
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      27.05,
+      14.8
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      31.15,
+      14.8
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      35.25,
+      14.8
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      39.35,
+      14.8
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      43.45,
+      14.8
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "window",
+     "at": [
+      47.55,
+      14.8
+     ],
+     "w": 1.5
+    },
+    {
+     "t": "door",
+     "at": [
+      3.75,
+      6.65
+     ],
+     "w": 0.9,
+     "open": "n",
+     "hinge": "b"
+    },
+    {
+     "t": "door",
+     "at": [
+      5.45,
+      6.65
+     ],
+     "w": 0.9,
+     "open": "n",
+     "hinge": "a"
+    },
+    {
+     "t": "door",
+     "at": [
+      11.55,
+      6.65
+     ],
+     "w": 1.0,
+     "open": "n",
+     "hinge": "b",
+     "cls": "EI 30",
+     "lo": [
+      -1.25,
+      -0.5
+     ]
+    },
+    {
+     "t": "door",
+     "at": [
+      14.0,
+      6.65
+     ],
+     "w": 0.9,
+     "open": "n",
+     "hinge": "b"
+    },
+    {
+     "t": "door",
+     "at": [
+      18.05,
+      6.65
+     ],
+     "w": 0.9,
+     "open": "n",
+     "hinge": "b"
+    },
+    {
+     "t": "door",
+     "at": [
+      19.55,
+      6.65
+     ],
+     "w": 0.9,
+     "open": "n",
+     "hinge": "a"
+    },
+    {
+     "t": "door",
+     "at": [
+      26.45,
+      6.65
+     ],
+     "w": 0.9,
+     "open": "n",
+     "hinge": "b"
+    },
+    {
+     "t": "door",
+     "at": [
+      27.95,
+      6.65
+     ],
+     "w": 0.9,
+     "open": "n",
+     "hinge": "a"
+    },
+    {
+     "t": "door",
+     "at": [
+      34.15,
+      6.65
+     ],
+     "w": 1.0,
+     "open": "n",
+     "hinge": "b",
+     "cls": "EI 30",
+     "lo": [
+      -1.25,
+      -0.5
+     ]
+    },
+    {
+     "t": "door",
+     "at": [
+      38.25,
+      6.65
+     ],
+     "w": 0.9,
+     "open": "n",
+     "hinge": "b"
+    },
+    {
+     "t": "door",
+     "at": [
+      39.75,
+      6.65
+     ],
+     "w": 0.9,
+     "open": "n",
+     "hinge": "a"
+    },
+    {
+     "t": "door",
+     "at": [
+      44.4,
+      6.65
+     ],
+     "w": 0.9,
+     "open": "n",
+     "hinge": "a"
+    },
+    {
+     "t": "door",
+     "at": [
+      46.25,
+      6.65
+     ],
+     "w": 0.9,
+     "open": "n",
+     "hinge": "a"
+    },
+    {
+     "t": "door",
+     "at": [
+      3.65,
+      8.35
+     ],
+     "w": 0.9,
+     "open": "s",
+     "hinge": "b"
+    },
+    {
+     "t": "door",
+     "at": [
+      5.35,
+      8.35
+     ],
+     "w": 0.9,
+     "open": "s",
+     "hinge": "a"
+    },
+    {
+     "t": "door",
+     "at": [
+      11.95,
+      8.35
+     ],
+     "w": 0.9,
+     "open": "s",
+     "hinge": "b"
+    },
+    {
+     "t": "door",
+     "at": [
+      13.45,
+      8.35
+     ],
+     "w": 0.9,
+     "open": "s",
+     "hinge": "a"
+    },
+    {
+     "t": "door",
+     "at": [
+      20.15,
+      8.35
+     ],
+     "w": 0.9,
+     "open": "s",
+     "hinge": "b"
+    },
+    {
+     "t": "door",
+     "at": [
+      21.65,
+      8.35
+     ],
+     "w": 0.9,
+     "open": "s",
+     "hinge": "a"
+    },
+    {
+     "t": "door",
+     "at": [
+      28.35,
+      8.35
+     ],
+     "w": 0.9,
+     "open": "s",
+     "hinge": "b"
+    },
+    {
+     "t": "door",
+     "at": [
+      29.85,
+      8.35
+     ],
+     "w": 0.9,
+     "open": "s",
+     "hinge": "a"
+    },
+    {
+     "t": "door",
+     "at": [
+      36.55,
+      8.35
+     ],
+     "w": 0.9,
+     "open": "s",
+     "hinge": "b"
+    },
+    {
+     "t": "door",
+     "at": [
+      38.05,
+      8.35
+     ],
+     "w": 0.9,
+     "open": "s",
+     "hinge": "a"
+    },
+    {
+     "t": "door",
+     "at": [
+      44.75,
+      8.35
+     ],
+     "w": 0.9,
+     "open": "s",
+     "hinge": "b"
+    },
+    {
+     "t": "door",
+     "at": [
+      46.25,
+      8.35
+     ],
+     "w": 0.9,
+     "open": "s",
+     "hinge": "a"
+    },
+    {
+     "t": "room",
+     "rect": [
+      0.4,
+      0.4,
+      4.1,
+      6.15
+     ],
+     "no": "1.01",
+     "name": "Pokój",
+     "area": 25.2,
+     "note": "2 os.",
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      4.7,
+      0.4,
+      4.0,
+      6.15
+     ],
+     "no": "1.02",
+     "name": "Pokój",
+     "area": 24.6,
+     "note": "2 os.",
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      8.9,
+      0.4,
+      3.2,
+      6.15
+     ],
+     "no": "K1",
+     "lo": [
+      0,
+      -2.35
+     ],
+     "fill": "evac"
+    },
+    {
+     "t": "stair",
+     "rect": [
+      9.1,
+      1.9,
+      1.2,
+      3.15
+     ],
+     "n": 10,
+     "axis": "y"
+    },
+    {
+     "t": "stair",
+     "rect": [
+      10.7,
+      1.9,
+      1.2,
+      3.15
+     ],
+     "n": 10,
+     "axis": "y"
+    },
+    {
+     "t": "room",
+     "rect": [
+      12.3,
+      0.4,
+      2.2,
+      6.15
+     ],
+     "no": "1.03",
+     "name": "Pom. porządkowe",
+     "area": 13.5,
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      14.7,
+      0.4,
+      4.0,
+      6.15
+     ],
+     "no": "1.04",
+     "name": "Pokój",
+     "area": 24.6,
+     "note": "2 os.",
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      18.9,
+      0.4,
+      4.0,
+      6.15
+     ],
+     "no": "1.05",
+     "name": "Pokój",
+     "area": 24.6,
+     "note": "2 os.",
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      23.1,
+      0.4,
+      4.0,
+      6.15
+     ],
+     "no": "1.06",
+     "name": "Pokój",
+     "area": 24.6,
+     "note": "2 os.",
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      27.3,
+      0.4,
+      4.0,
+      6.15
+     ],
+     "no": "1.07",
+     "name": "Pokój",
+     "area": 24.6,
+     "note": "2 os.",
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      31.5,
+      0.4,
+      3.2,
+      6.15
+     ],
+     "no": "K2",
+     "lo": [
+      0,
+      -2.35
+     ],
+     "fill": "evac"
+    },
+    {
+     "t": "stair",
+     "rect": [
+      31.7,
+      1.9,
+      1.2,
+      3.15
+     ],
+     "n": 10,
+     "axis": "y"
+    },
+    {
+     "t": "stair",
+     "rect": [
+      33.3,
+      1.9,
+      1.2,
+      3.15
+     ],
+     "n": 10,
+     "axis": "y"
+    },
+    {
+     "t": "room",
+     "rect": [
+      34.9,
+      0.4,
+      4.0,
+      6.15
+     ],
+     "no": "1.08",
+     "name": "Pokój",
+     "area": 24.6,
+     "note": "2 os.",
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      39.1,
+      0.4,
+      4.0,
+      6.15
+     ],
+     "no": "1.09",
+     "name": "Pokój",
+     "area": 24.6,
+     "note": "2 os.",
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      43.3,
+      0.4,
+      2.2,
+      6.15
+     ],
+     "no": "1.10",
+     "name": "Magazyn bielizny",
+     "area": 13.5,
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      45.7,
+      0.4,
+      3.9,
+      6.15
+     ],
+     "no": "1.11",
+     "name": "Pokój",
+     "area": 24.0,
+     "note": "1 os.",
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      0.4,
+      8.45,
+      4.0,
+      6.15
+     ],
+     "no": "1.12",
+     "name": "Pokój",
+     "area": 24.6,
+     "note": "2 os.",
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      4.6,
+      8.45,
+      3.9,
+      6.15
+     ],
+     "no": "1.13",
+     "name": "Pokój",
+     "area": 24.0,
+     "note": "2 os.",
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      8.7,
+      8.45,
+      3.9,
+      6.15
+     ],
+     "no": "1.14",
+     "name": "Pokój",
+     "area": 24.0,
+     "note": "2 os.",
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      12.8,
+      8.45,
+      3.9,
+      6.15
+     ],
+     "no": "1.15",
+     "name": "Pokój",
+     "area": 24.0,
+     "note": "2 os.",
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      16.9,
+      8.45,
+      3.9,
+      6.15
+     ],
+     "no": "1.16",
+     "name": "Pokój",
+     "area": 24.0,
+     "note": "2 os.",
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      21.0,
+      8.45,
+      3.9,
+      6.15
+     ],
+     "no": "1.17",
+     "name": "Pokój",
+     "area": 24.0,
+     "note": "2 os.",
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      25.1,
+      8.45,
+      3.9,
+      6.15
+     ],
+     "no": "1.18",
+     "name": "Pokój",
+     "area": 24.0,
+     "note": "2 os.",
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      29.2,
+      8.45,
+      3.9,
+      6.15
+     ],
+     "no": "1.19",
+     "name": "Pokój",
+     "area": 24.0,
+     "note": "2 os.",
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      33.3,
+      8.45,
+      3.9,
+      6.15
+     ],
+     "no": "1.20",
+     "name": "Pokój",
+     "area": 24.0,
+     "note": "2 os.",
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      37.4,
+      8.45,
+      3.9,
+      6.15
+     ],
+     "no": "1.21",
+     "name": "Pokój",
+     "area": 24.0,
+     "note": "2 os.",
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      41.5,
+      8.45,
+      3.9,
+      6.15
+     ],
+     "no": "1.22",
+     "name": "Pokój",
+     "area": 24.0,
+     "note": "2 os.",
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      45.6,
+      8.45,
+      4.0,
+      6.15
+     ],
+     "no": "1.23",
+     "name": "Pokój",
+     "area": 24.6,
+     "note": "1 os.",
+     "size": 0.9
+    },
+    {
+     "t": "room",
+     "rect": [
+      0.4,
+      6.75,
+      49.2,
+      1.5
+     ],
+     "no": "1.24",
+     "name": "Korytarz – 73,8 m², bez okien",
+     "lo": [
+      2.0,
+      0
+     ],
+     "size": 0.8,
+     "flat": true
+    },
+    {
+     "t": "sym",
+     "k": "H25",
+     "at": [
+      12.75,
+      7.05
+     ],
+     "label": " "
+    },
+    {
+     "t": "sym",
+     "k": "H25",
+     "at": [
+      35.3,
+      7.05
+     ],
+     "label": " "
+    },
+    {
+     "t": "sym",
+     "k": "G",
+     "at": [
+      6.5,
+      7.97
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "G",
+     "at": [
+      24.0,
+      7.97
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "G",
+     "at": [
+      36.2,
+      7.97
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "G",
+     "at": [
+      44.0,
+      7.97
+     ]
+    },
+    {
+     "t": "path",
+     "pts": [
+      [
+       3.65,
+       8.35
+      ],
+      [
+       3.65,
+       7.5
+      ],
+      [
+       11.55,
+       7.5
+      ],
+      [
+       11.55,
+       6.65
+      ]
+     ],
+     "label": "dojście 9,6 m"
+    },
+    {
+     "t": "path",
+     "pts": [
+      [
+       21.65,
+       8.35
+      ],
+      [
+       21.65,
+       7.5
+      ],
+      [
+       11.55,
+       7.5
+      ],
+      [
+       11.55,
+       6.65
+      ]
+     ],
+     "label": "dojście 11,8 m"
+    },
+    {
+     "t": "path",
+     "pts": [
+      [
+       46.25,
+       8.35
+      ],
+      [
+       46.25,
+       7.5
+      ],
+      [
+       34.15,
+       7.5
+      ],
+      [
+       34.15,
+       6.65
+      ]
+     ],
+     "label": "dojście 9,4 m"
+    },
+    {
+     "t": "dim",
+     "a": [
+      0.0,
+      0.0
+     ],
+     "b": [
+      50.0,
+      0.0
+     ],
+     "off": -1.5,
+     "text": "50,00"
+    },
+    {
+     "t": "dim",
+     "a": [
+      0.0,
+      0.0
+     ],
+     "b": [
+      0.0,
+      15.0
+     ],
+     "off": 1.5,
+     "text": "15,00"
+    },
+    {
+     "t": "dim",
+     "a": [
+      32.8,
+      6.75
+     ],
+     "b": [
+      32.8,
+      8.25
+     ],
+     "text": "1,50"
+    },
+    {
+     "t": "dim",
+     "a": [
+      0.95,
+      0.4
+     ],
+     "b": [
+      0.95,
+      6.55
+     ],
+     "text": "6,15"
+    },
+    {
+     "t": "dim",
+     "a": [
+      0.4,
+      15.0
+     ],
+     "b": [
+      8.8,
+      15.0
+     ],
+     "off": 1.2,
+     "text": "8,40"
+    },
+    {
+     "t": "dim",
+     "a": [
+      8.8,
+      15.0
+     ],
+     "b": [
+      12.2,
+      15.0
+     ],
+     "off": 1.2,
+     "text": "3,40"
+    },
+    {
+     "t": "dim",
+     "a": [
+      31.4,
+      15.0
+     ],
+     "b": [
+      34.8,
+      15.0
+     ],
+     "off": 1.2,
+     "text": "3,40"
+    },
+    {
+     "t": "dim",
+     "a": [
+      34.8,
+      15.0
+     ],
+     "b": [
+      49.6,
+      15.0
+     ],
+     "off": 1.2,
+     "text": "14,80"
+    },
+    {
+     "t": "dim",
+     "a": [
+      0.4,
+      15.0
+     ],
+     "b": [
+      49.6,
+      15.0
+     ],
+     "off": 2.6,
+     "text": "49,20 (długość korytarza)"
+    },
+    {
+     "t": "dim",
+     "a": [
+      45.5,
+      13.6
+     ],
+     "b": [
+      49.6,
+      13.6
+     ],
+     "text": "4,10"
+    }
+   ],
+   "note": "Wymiary w metrach. Drzwi do pokoi 0,90 m, otwierane do pokoi; przy klatkach hydranty 25 z wężem 20 m. Klatki K1 i K2: obudowa R E I 60, biegi 1,20 m, spoczniki 1,50 m, klapa dymowa w stropodachu. Na kondygnacji 40 gości i 2 osoby personelu."
+  }
+ ],
+ "questions": [
+  {
+   "id": "q1",
+   "kind": "ocena",
+   "q": "Do jakiej grupy wysokości i kategorii zagrożenia ludzi należy budynek? Czy restauracja zmienia kwalifikację i co z tego wynika dla strefy pożarowej?",
+   "points": [
+    {
+     "t": "Wysokość 10,60 m: budynek niski (do 12 m włącznie).",
+     "basis": "§ 8 pkt 1 WT"
+    },
+    {
+     "t": "Hotel to budynek zamieszkania zbiorowego, czyli ZL V.",
+     "basis": "§ 3 pkt 5 WT; § 209 ust. 2 pkt 5 WT"
+    },
+    {
+     "t": "W sali restauracyjnej jednocześnie może przebywać 48 gości przy stolikach i 8 przy barze, razem 56 osób niebędących stałymi użytkownikami (personelu się nie wlicza). To ponad 50, więc strefa należy także do ZL I. Argument, że goście przy barze czekają na stolik, nie zmniejsza liczby osób w sali.",
+     "basis": "§ 209 ust. 2 pkt 1 WT"
+    },
+    {
+     "t": "Wskaźnik 1 m² na osobę (sale konferencyjne, lokale gastronomiczno-rozrywkowe, hole) służy do ustalania szerokości i liczby wyjść, gdy maksymalna liczba użytkowników nie wynika jednoznacznie z przeznaczenia i zagospodarowania pomieszczeń; tu wynika z liczby miejsc (56).",
+     "basis": "§ 236 ust. 6 pkt 1 WT"
+    },
+    {
+     "t": "Strefa zaliczona do ZL I i ZL V musi spełniać wymagania obu kategorii: klasa odporności jak dla ZL I, droga pożarowa jak dla budynku ze strefą ZL I.",
+     "basis": "§ 209 ust. 5 WT"
+    },
+    {
+     "t": "Jedna strefa 2 095,9 m² mieści się w limicie 8 000 m² dla ZL I i ZL V w budynku niskim.",
+     "basis": "§ 227 ust. 1 WT"
+    }
+   ]
+  },
+  {
+   "id": "q2",
+   "kind": "ocena",
+   "q": "Jaka klasa odporności pożarowej jest wymagana i jakie klasy elementów z niej wynikają? Czy można ją obniżyć?",
+   "points": [
+    {
+     "t": "Budynek niski: ZL V – klasa „C”, ZL I – klasa „B”. Przy strefie w obu kategoriach wymagana jest klasa „B”.",
+     "basis": "§ 212 ust. 2 WT; § 209 ust. 5 WT"
+    },
+    {
+     "t": "Obniżenie dla ZL I do „C” dotyczy budynków o dwóch kondygnacjach nadziemnych (do „D” – o jednej); hotel ma trzy.",
+     "basis": "§ 212 ust. 3 WT"
+    },
+    {
+     "t": "Klasa „B”: konstrukcja nośna R 120, konstrukcja dachu R 30, stropy R E I 60, ściany zewnętrzne E I 60 (o↔i), ściany wewnętrzne E I 30, przekrycie dachu R E 30.",
+     "basis": "§ 216 ust. 1 WT"
+    },
+    {
+     "t": "Poprawne w opisie: ściany pokoi od korytarzy i od siebie E I 30, obudowa klatek R E I 60, biegi i spoczniki R 60 z materiałów niepalnych.",
+     "basis": "§ 217 ust. 1 pkt 1 lit. a WT; § 249 ust. 1 i 3 WT"
+    },
+    {
+     "t": "Obniżenie o jedną klasę (do „C”) dopuszczają stałe samoczynne urządzenia gaśnicze wodne; elementy oddzielenia przeciwpożarowego zachowują klasę pierwotną.",
+     "basis": "§ 214 pkt 1 WT; § 215 ust. 2 WT"
+    },
+    {
+     "t": "Inne drogi: ograniczyć salę do 50 osób łącznie z barem albo wydzielić restaurację jako odrębną strefę pożarową; wtedy kondygnacje należą do różnych kategorii i klasę ustala się dla nich odrębnie (parter „B”, kondygnacje +1 i +2 „C”), przy czym część niższa nie może mieć klasy niższej niż część nad nią.",
+     "basis": "§ 212 ust. 6 i 7 WT"
+    }
+   ]
+  },
+  {
+   "id": "q3",
+   "kind": "ocena",
+   "q": "Proszę ocenić warunki ewakuacji z kondygnacji +1: klatki schodowe, dojścia przy jednym i dwóch kierunkach ewakuacji, korytarz i drzwi do pokoi.",
+   "points": [
+    {
+     "t": "Klatki obudowane, zamykane drzwiami E I 30, z urządzeniami do usuwania dymu: wyjście do klatki kończy dojście. Wymagania § 245 (drzwi dymoszczelne, uruchamianie przez system wykrywania dymu) dla ZL I i ZL V dotyczą budynków średniowysokich.",
+     "basis": "§ 256 ust. 2 WT; § 245 pkt 2 WT"
+    },
+    {
+     "t": "ZL I, ZL II i ZL V: przy jednym dojściu 10 m, przy dwóch 40 m (dla krótszego). Najdłuższe dojście między klatkami 11,8 m – zgodne.",
+     "basis": "§ 256 ust. 3 WT"
+    },
+    {
+     "t": "Pokoje za klatką mają jedno dojście, bo wspólny przebieg dojść może mieć najwyżej 2 m. Zachód: 9,6 m – zgodne. Wschód: z pokoi 1.11 i 1.23 13,8 m, z pokoju 1.22 12,3 m – niezgodne i sprzeczne z 9,4 m podanymi w opisie.",
+     "basis": "§ 256 ust. 3 WT"
+    },
+    {
+     "t": "Możliwe powiększenie dojścia o 50% przy stałych urządzeniach gaśniczych wodnych w strefie albo samoczynnym oddymianiu drogi ewakuacyjnej (15 m przy jednym dojściu).",
+     "basis": "§ 256 ust. 4 WT"
+    },
+    {
+     "t": "Korytarz 1,50 m dla 42 osób – zgodny (co najmniej 1,4 m); długość 49,2 m nie wymaga podziału na odcinki.",
+     "basis": "§ 242 ust. 1 WT; § 243 ust. 1 WT"
+    },
+    {
+     "t": "Drzwi do pokoi bez klasy odporności ogniowej – dopuszczalne w budynku niskim; E I 30 wymaga się od budynku średniowysokiego. Biegi 1,20 m i spoczniki 1,50 m – zgodne.",
+     "basis": "§ 246 ust. 6 WT; § 68 ust. 1 WT"
+    }
+   ]
+  },
+  {
+   "id": "q4",
+   "kind": "ocena",
+   "q": "Jakie wymagania dotyczą restauracji i wyjść z parteru? Co na rzucie parteru jest niezgodne?",
+   "points": [
+    {
+     "t": "Pomieszczenie dla ponad 50 osób: co najmniej dwa wyjścia oddalone o co najmniej 5 m – spełnione (ok. 13 m).",
+     "basis": "§ 238 pkt 1 WT"
+    },
+    {
+     "t": "Drzwi ewakuacyjne z takiego pomieszczenia otwierają się na zewnątrz pomieszczenia; drzwi do holu otwierają się do sali.",
+     "basis": "§ 239 ust. 2 pkt 3 WT"
+    },
+    {
+     "t": "Drzwi dwuskrzydłowe 1,40 m ze skrzydłami 2 × 0,70 m: wymagane nieblokowane skrzydło o szerokości co najmniej 0,9 m.",
+     "basis": "§ 240 ust. 1 WT; § 62 ust. 1 WT"
+    },
+    {
+     "t": "Szerokość drzwi z sali: 0,6 m na 100 osób, nie mniej niż 0,9 m – spełnione.",
+     "basis": "§ 239 ust. 1 WT"
+    },
+    {
+     "t": "Budynek dla ponad 50 osób: drzwi wyjściowe otwierane na zewnątrz – spełnione. Drzwi wyjściowe z budynku i z klatek na zewnątrz nie węższe niż bieg (1,20 m): wyjście z K2 ma 0,90 m.",
+     "basis": "§ 236 ust. 4 WT; § 239 ust. 4 WT"
+    },
+    {
+     "t": "W sali dla ponad 50 osób zabronione są łatwo zapalne przegrody, wystrój i wykładziny. Awaryjne oświetlenie ewakuacyjne samej sali nie jest wymagane: restauracja na 56 osób i 101 m² nie należy do pomieszczeń wymienionych w § 181 ust. 3 pkt 1.",
+     "basis": "§ 260 ust. 1 WT; § 181 ust. 3 pkt 1 WT"
+    }
+   ]
+  },
+  {
+   "id": "q5",
+   "kind": "ocena",
+   "q": "Które urządzenia przeciwpożarowe, instalacje i gaśnice są w tym hotelu wymagane, a które nie?",
+   "points": [
+    {
+     "t": "SSP: hotel z pobytem do 3 dób podlega pkt 12 – obowiązek powyżej 50 miejsc noclegowych (jest 80). Pkt 11 (powyżej 200) dotyczy budynków, w których okres pobytu tych samych osób przekracza trzy doby.",
+     "basis": "§ 28 ust. 1 pkt 11 i 12 rozp. MSWiA z 7.06.2010"
+    },
+    {
+     "t": "Autonomiczne czujki dymu w pokojach nie zastępują SSP; przy pokojach chronionych przez SSP nie są wymagane. SSP trzeba połączyć z obiektem komendy PSP lub wskazanym przez komendanta powiatowego.",
+     "basis": "§ 28a ust. 1 i 2 rozp. MSWiA z 7.06.2010; art. 5 ustawy o ochronie ppoż.; § 31 rozp. MSWiA z 7.06.2010"
+    },
+    {
+     "t": "DSO: niewymagany – budynek niski i nie więcej niż 200 miejsc noclegowych.",
+     "basis": "§ 29 ust. 1 pkt 6 rozp. MSWiA z 7.06.2010"
+    },
+    {
+     "t": "Hydranty 25 na każdej kondygnacji (strefa ZL I i ZL V ponad 200 m² w budynku niskim). Zasięg: wąż 20 m plus 3 m, cała powierzchnia strefy – na parterze kuchnia, zmywalnia, szatnia i wschodnia część restauracji są poza zasięgiem. Strefa ponad 500 m²: jednoczesny pobór z dwóch sąsiednich hydrantów.",
+     "basis": "§ 19 ust. 1 pkt 2 lit. a rozp. MSWiA z 7.06.2010; § 20 ust. 3 rozp. MSWiA z 7.06.2010; § 23 pkt 2 rozp. MSWiA z 7.06.2010"
+    },
+    {
+     "t": "Awaryjne oświetlenie ewakuacyjne na drogach oświetlonych wyłącznie światłem sztucznym – niezależnie od wysokości budynku; lit. d to odrębny przypadek.",
+     "basis": "§ 181 ust. 3 pkt 2 lit. b i d WT"
+    },
+    {
+     "t": "Przeciwpożarowy wyłącznik prądu: strefa ponad 1000 m³, przy głównym wejściu – zgodnie.",
+     "basis": "§ 183 ust. 2 i 3 WT"
+    },
+    {
+     "t": "Gaśnice: 2 kg na 100 m², czyli 42 kg – 48 kg wystarcza; w kuchni z frytownicami gaśnica do grupy F.",
+     "basis": "§ 32 ust. 2 i ust. 3 pkt 1 lit. a rozp. MSWiA z 7.06.2010"
+    }
+   ]
+  },
+  {
+   "id": "q6",
+   "kind": "ocena",
+   "q": "Proszę ocenić drogę pożarową i zaopatrzenie w wodę do zewnętrznego gaszenia pożaru.",
+   "points": [
+    {
+     "t": "Droga pożarowa jest wymagana z dwóch powodów: budynek ze strefą ZL I oraz budynek niski ZL V z ponad 50 miejscami noclegowymi.",
+     "basis": "§ 12 ust. 1 pkt 1 i pkt 5 lit. b rozp. MSWiA z 24.07.2009"
+    },
+    {
+     "t": "Dla budynku ze strefą ZL I stosuje się ust. 2: droga wzdłuż dłuższego boku na całej długości, bliższa krawędź 5–15 m od ściany. Ulica jest 38 m od budynku.",
+     "basis": "§ 12 ust. 2 rozp. MSWiA z 24.07.2009"
+    },
+    {
+     "t": "Zwolnienie z ust. 2 dla budynku do 3 kondygnacji i 12 m wymaga dojścia od wyjść do drogi nie dłuższego niż 30 m; tu 38 m. Projektant zastosował tylko ust. 4 (dojście do 50 m), właściwy dla budynku z pkt 5 lit. b.",
+     "basis": "§ 12 ust. 4 i 7 rozp. MSWiA z 24.07.2009"
+    },
+    {
+     "t": "Droga pożarowa: szerokość co najmniej 4 m, w mieście nacisk osi 100 kN, przejazd bez cofania albo plac manewrowy 20 × 20 m; ślepy odcinek do 15 m.",
+     "basis": "§ 13 ust. 1 i 2 rozp. MSWiA z 24.07.2009; § 12 ust. 9 i 10 rozp. MSWiA z 24.07.2009"
+    },
+    {
+     "t": "Woda: kubatura 7 950 m³ i powierzchnia 2 095,9 m² przekraczają progi 5 000 m³ i 1 000 m² – 20 dm³/s z co najmniej dwóch hydrantów DN 80 albo 200 m³ w zbiorniku.",
+     "basis": "§ 5 ust. 1 pkt 2 rozp. MSWiA z 24.07.2009"
+    },
+    {
+     "t": "Sieć daje 15 dm³/s; wydajność nominalna hydrantów jej nie zwiększa. Brakujące 5 dm³/s: zbiornik 10 m³ na każdy brakujący 1 dm³/s, nie mniej niż 50 m³, czyli 50 m³.",
+     "basis": "§ 5 ust. 2 rozp. MSWiA z 24.07.2009"
+    },
+    {
+     "t": "Usytuowanie hydrantów zgodne: najbliższy do 75 m od budynku (37 m), kolejny do 150 m (ok. 84 m), między hydrantami do 150 m (110 m), co najmniej 5 m od ściany, do 15 m od jezdni.",
+     "basis": "§ 10 ust. 6 rozp. MSWiA z 24.07.2009"
+    }
+   ]
+  },
+  {
+   "id": "q7",
+   "kind": "procedura",
+   "q": "Czy projekt wymaga uzgodnienia z rzeczoznawcą? Czy w tej postaci można go uzgodnić i jak przebiega uzgodnienie?",
+   "points": [
+    {
+     "t": "Tak: budynek zawiera strefę ZL I i ZL V; po wprowadzeniu SSP także jako obiekt objęty obowiązkiem jego stosowania.",
+     "basis": "art. 6b ustawy o ochronie ppoż.; § 3 ust. 1 pkt 1 i 7 rozp. MSWiA z 5.08.2023"
+    },
+    {
+     "t": "Rzeczoznawca może uzgodnić projekt bez uwag albo z uwagami, ale rozwiązania inne niż wynikające z przepisów uzgodni tylko z dołączoną zgodą na odstępstwo albo na rozwiązania zamienne. Przy błędnej kwalifikacji, zaniżonej klasie i braku SSP projekt wraca do projektanta.",
+     "basis": "art. 6d ust. 1 ustawy o ochronie ppoż.; art. 6c ustawy o ochronie ppoż."
+    },
+    {
+     "t": "Uzgodnienia dokonuje się w toku współpracy z projektantem: konsultacja rozwiązań, wymiana uwag, a dla obiektu z SSP i urządzeniami oddymiającymi – opracowanie scenariusza pożarowego.",
+     "basis": "§ 5 pkt 1–3 rozp. MSWiA z 5.08.2023"
+    },
+    {
+     "t": "Projekt papierowy: pieczęć i podpis na rysunku zagospodarowania terenu i na rzucie pierwszej kondygnacji nadziemnej (rys. 2). Projekt elektroniczny: kwalifikowany podpis elektroniczny i karta uzgodnienia.",
+     "basis": "art. 6d ust. 1 ustawy o ochronie ppoż.; § 6 ust. 1 pkt 1 i 2 rozp. MSWiA z 5.08.2023; § 7 ust. 1 rozp. MSWiA z 5.08.2023"
+    },
+    {
+     "t": "Zawiadomienie o uzgodnieniu do komendanta wojewódzkiego PSP w ciągu 14 dni, w formie dokumentu elektronicznego (PDF) przez elektroniczną skrzynkę podawczą.",
+     "basis": "art. 6d ust. 2 ustawy o ochronie ppoż.; § 9 ust. 1 i 5 rozp. MSWiA z 5.08.2023"
+    },
+    {
+     "t": "Po zakończeniu budowy inwestor zawiadamia PSP, która zajmuje stanowisko co do zgodności wykonania z projektem.",
+     "basis": "art. 56 ust. 1 pkt 2 Prawa budowlanego; art. 6 ust. 6 ustawy o ochronie ppoż."
+    }
+   ]
+  },
+  {
+   "id": "q8",
+   "kind": "zamienne",
+   "q": "Inwestor nie chce przesuwać budynku ani budować drogi pożarowej przy elewacji. Jak można rozwiązać odległość 3,0 m od granicy działki i dojście 38 m, kto o tym rozstrzyga i co musi wykazać ekspertyza?",
+   "points": [
+    {
+     "t": "Najpierw rozwiązania z samych przepisów: ściana zachodnia jako ściana oddzielenia przeciwpożarowego (dla klasy „B” R E I 120) albo stałe urządzenia gaśnicze wodne (8 m × 0,75 = 6 m, od granicy 3 m); dla drogi – dojście skrócone do 30 m.",
+     "basis": "§ 272 ust. 1 WT; § 271 ust. 7 WT; § 232 ust. 4 WT; § 12 ust. 7 rozp. MSWiA z 24.07.2009"
+    },
+    {
+     "t": "Odległość od granicy wynika z warunków technicznych: potrzebna zgoda na odstępstwo organu administracji architektoniczno-budowlanej po upoważnieniu ministra, przed pozwoleniem na budowę. Wniosek organu do ministra o upoważnienie zawiera przy odstępstwie od przepisów o bezpieczeństwie pożarowym ekspertyzę rzeczoznawcy i postanowienie komendanta wojewódzkiego PSP o zgodzie na rozwiązania zamienne.",
+     "basis": "art. 9 ust. 1–3 Prawa budowlanego (ust. 3 pkt 5); art. 6a ust. 3 ustawy o ochronie ppoż."
+    },
+    {
+     "t": "Droga pożarowa wynika z rozporządzenia MSWiA: rozwiązania zamienne zapewniające niepogorszenie warunków ochrony, uzgodnione z komendantem wojewódzkim PSP.",
+     "basis": "§ 13 ust. 4 rozp. MSWiA z 24.07.2009"
+    },
+    {
+     "t": "Tryb: wniosek inwestora uzasadniony ekspertyzą techniczną; komendant wojewódzki PSP postanowieniem, na które służy zażalenie, wyraża zgodę, zgodę pod warunkami albo odmawia.",
+     "basis": "art. 6a ust. 2 ustawy o ochronie ppoż."
+    },
+    {
+     "t": "Ekspertyza wykazuje, że rozwiązania ograniczają możliwość powstania pożaru, a w razie pożaru zapewniają nośność konstrukcji, ograniczenie rozprzestrzeniania ognia i dymu w obiekcie i na obiekty sąsiednie, ewakuację ludzi i bezpieczeństwo ekip ratowniczych.",
+     "basis": "art. 6a ust. 1 ustawy o ochronie ppoż."
+    },
+    {
+     "t": "Rzeczoznawca uzgadnia projekt z takim rozwiązaniem dopiero po dołączeniu zgody.",
+     "basis": "art. 6c ustawy o ochronie ppoż."
+    }
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "id": "u1",
+   "kind": "błąd",
+   "weight": 3,
+   "act": "wt_2002",
+   "where": "opis, pkt 3; rys. 2 – restauracja 0.15",
+   "marker": {
+    "d": "R2",
+    "at": [
+     38.2,
+     9.6
+    ]
+   },
+   "title": "Pominięta kategoria ZL I – restauracja dla 56 osób",
+   "is": "Restauracja ma 48 miejsc przy stolikach i 8 przy barze. Projektant liczy tylko miejsca przy stolikach i kwalifikuje budynek wyłącznie do ZL V.",
+   "should": "O zaliczeniu do ZL I decyduje pomieszczenie przeznaczone do jednoczesnego przebywania ponad 50 osób niebędących stałymi użytkownikami. Goście przy barze przebywają w sali jednocześnie z gośćmi przy stolikach, więc sala jest przeznaczona dla 56 osób (personelu się nie wlicza). Strefa należy do ZL I i ZL V i musi spełniać wymagania obu kategorii.",
+   "basis": "§ 209 ust. 2 pkt 1 WT; § 209 ust. 5 WT",
+   "quote": "zawierające pomieszczenia przeznaczone do jednoczesnego przebywania ponad 50 osób",
+   "fix": "Przyjąć ZL I i ZL V i poprawić rozwiązania zależne od kwalifikacji (klasa odporności, droga pożarowa, drzwi restauracji). Alternatywnie ograniczyć salę do 50 miejsc łącznie z barem i zapisać tę liczbę w projekcie."
+  },
+  {
+   "id": "u2",
+   "kind": "błąd",
+   "weight": 3,
+   "act": "wt_2002",
+   "where": "opis, pkt 5",
+   "title": "Zaniżona klasa odporności pożarowej",
+   "is": "Klasa „C” jak dla niskiego budynku ZL V: konstrukcja nośna R 60, konstrukcja dachu R 15, ściany zewnętrzne E I 30, ściany wewnętrzne E I 15, przekrycie dachu R E 15.",
+   "should": "Strefa należy także do ZL I, a niski budynek ZL I wymaga klasy „B”. Obniżenie z § 212 ust. 3 dotyczy budynków o jednej i dwóch kondygnacjach nadziemnych, a hotel ma trzy. Klasa „B”: konstrukcja nośna R 120, konstrukcja dachu R 30, stropy R E I 60, ściany zewnętrzne E I 60 (o↔i), ściany wewnętrzne E I 30, przekrycie dachu R E 30.",
+   "basis": "§ 212 ust. 2 i 3 WT; § 209 ust. 5 WT; § 216 ust. 1 WT",
+   "quote": "powinny spełniać wymagania określone dla każdej z tych kategorii",
+   "fix": "Przyjąć klasę „B” i poprawić klasy elementów. Klasa „C” jest możliwa przy stałych samoczynnych urządzeniach gaśniczych wodnych (§ 214 pkt 1; elementy oddzielenia bez obniżenia – § 215 ust. 2), po ograniczeniu sali do 50 osób albo, przy wydzieleniu restauracji jako odrębnej strefy, dla kondygnacji +1 i +2 (§ 212 ust. 6 i 7: parter „B”)."
+  },
+  {
+   "id": "u3",
+   "kind": "brak",
+   "weight": 3,
+   "act": "rozp_ppoz_2010",
+   "where": "opis, pkt 2 i 7",
+   "title": "Brak systemu sygnalizacji pożarowej w hotelu na 80 miejsc",
+   "is": "Projektant przyjął próg 200 miejsc noclegowych (§ 28 ust. 1 pkt 11) i przewidział tylko autonomiczne czujki dymu w pokojach. Okres pobytu gości: od 1 do 3 dób.",
+   "should": "Pkt 11 dotyczy budynków zamieszkania zbiorowego, w których okres pobytu tych samych osób przekracza trzy doby. Hotel z pobytem do 3 dób podlega pkt 12: SSP jest wymagany powyżej 50 miejsc noclegowych, a hotel ma 80. Autonomiczne czujki dymu nie zastępują SSP.",
+   "basis": "§ 28 ust. 1 pkt 11 i 12 rozp. MSWiA z 7.06.2010; § 28a ust. 1 i 2 rozp. MSWiA z 7.06.2010",
+   "quote": "budynkach zamieszkania zbiorowego niewymienionych w pkt 11, o liczbie miejsc noclegowych powyżej 50",
+   "fix": "Zaprojektować SSP z połączeniem z obiektem komendy PSP lub obiektem wskazanym przez komendanta powiatowego (art. 5 ustawy o ochronie ppoż.; § 31 rozp. MSWiA z 7.06.2010). Przy pokojach chronionych przez SSP autonomiczne czujki dymu nie są wymagane."
+  },
+  {
+   "id": "u4",
+   "kind": "błąd",
+   "weight": 2,
+   "act": "wt_2002",
+   "where": "rys. 2 – drzwi z restauracji do holu",
+   "marker": {
+    "d": "R2",
+    "at": [
+     28.4,
+     10.7
+    ]
+   },
+   "title": "Drzwi z restauracji do holu otwierane do sali",
+   "is": "Drzwi 0,90 m z restauracji (56 osób) do holu otwierają się do wnętrza sali.",
+   "should": "Drzwi stanowiące wyjście ewakuacyjne z pomieszczenia przeznaczonego dla ponad 50 osób otwierają się na zewnątrz pomieszczenia, czyli do holu. Szerokość 0,90 m jest wystarczająca (0,6 m na 100 osób, nie mniej niż 0,9 m).",
+   "basis": "§ 239 ust. 2 pkt 3 WT; § 239 ust. 1 WT",
+   "quote": "Drzwi stanowiące wyjście ewakuacyjne powinny otwierać się na zewnątrz pomieszczeń",
+   "fix": "Zmienić kierunek otwierania drzwi na stronę holu."
+  },
+  {
+   "id": "u5",
+   "kind": "błąd",
+   "weight": 1,
+   "act": "wt_2002",
+   "where": "rys. 2 – wyjście z restauracji na zewnątrz",
+   "marker": {
+    "d": "R2",
+    "at": [
+     41.4,
+     13.4
+    ]
+   },
+   "title": "Drzwi zewnętrzne restauracji bez skrzydła 0,9 m",
+   "is": "Wyjście z restauracji na zewnątrz: drzwi dwuskrzydłowe 1,40 m ze skrzydłami 2 × 0,70 m.",
+   "should": "Drzwi wieloskrzydłowe w wyjściu ewakuacyjnym powinny mieć co najmniej jedno nieblokowane skrzydło o szerokości co najmniej 0,9 m; w zewnętrznych drzwiach dwuskrzydłowych skrzydło główne nie może być węższe niż 0,9 m. Łączna szerokość 1,40 m i otwieranie na zewnątrz są poprawne.",
+   "basis": "§ 240 ust. 1 WT; § 62 ust. 1 WT",
+   "quote": "powinny mieć co najmniej jedno, nieblokowane skrzydło drzwiowe o szerokości nie mniejszej niż 0,9 m",
+   "fix": "Skrzydła 0,90 + 0,50 m albo 2 × 0,90 m."
+  },
+  {
+   "id": "u6",
+   "kind": "niespójność",
+   "weight": 2,
+   "act": "wt_2002",
+   "where": "opis, pkt 6; rys. 2 – wyjście z klatki K2",
+   "marker": {
+    "d": "R2",
+    "at": [
+     34.6,
+     1.3
+    ]
+   },
+   "title": "Za wąskie wyjście z klatki K2 na zewnątrz",
+   "is": "Opis podaje drzwi 1,20 m z obu klatek; na rzucie parteru wyjście z klatki K2 na zewnątrz ma 0,90 m.",
+   "should": "Drzwi na drodze ewakuacyjnej z klatki schodowej prowadzące na zewnątrz budynku, tak jak drzwi wyjściowe z budynku, nie mogą być węższe niż bieg klatki schodowej – tu 1,20 m.",
+   "basis": "§ 239 ust. 4 WT; § 68 ust. 1 WT",
+   "quote": "nie mniejsza niż szerokość biegu klatki schodowej, określona zgodnie z § 68 ust. 1 i 2",
+   "fix": "Drzwi 1,20 m w świetle ościeżnicy i zgodność rysunku z opisem."
+  },
+  {
+   "id": "u7",
+   "kind": "niespójność",
+   "weight": 2,
+   "act": "wt_2002",
+   "where": "opis, pkt 6; rys. 3 – korytarz za klatką K2",
+   "marker": {
+    "d": "R3",
+    "at": [
+     48.4,
+     7.5
+    ]
+   },
+   "title": "Za długie dojście w ślepym odcinku korytarza za klatką K2",
+   "is": "Opis i linia na rzucie podają 9,4 m z pokoju 1.23 do klatki K2. Z wymiarów rzutu wynika 13,8 m (0,85 + 12,10 + 0,85); z pokoju 1.11 również 13,8 m, z pokoju 1.22 – 12,3 m.",
+   "should": "W strefie ZL I i ZL V dojście przy jednym kierunku ewakuacji nie może przekraczać 10 m. Pokoje za klatką K2 mają jedno dojście: droga w stronę K1 pokrywałaby się z nim na odcinku dłuższym niż 2 m.",
+   "basis": "§ 256 ust. 1 i 3 WT",
+   "quote": "dopuszcza się ich wspólny początkowy przebieg na długości nie większej niż 2 m",
+   "fix": "Przesunąć klatkę K2 na wschód albo dodać wyjście ewakuacyjne we wschodniej części korytarza. Powiększenie o 50% (do 15 m) dopuszczają stałe urządzenia gaśnicze wodne w strefie albo samoczynne oddymianie korytarza uruchamiane przez system wykrywania dymu (§ 256 ust. 4)."
+  },
+  {
+   "id": "u8",
+   "kind": "brak",
+   "weight": 2,
+   "act": "rozp_ppoz_2010",
+   "where": "rys. 2 – wschodnia część parteru",
+   "marker": {
+    "d": "R2",
+    "at": [
+     46.4,
+     3.0
+    ]
+   },
+   "title": "Zasięg hydrantów 25 nie obejmuje wschodniej części parteru",
+   "is": "Na parterze hydranty 25 z wężem 20 m są tylko przy klatce K1 i w holu przy wejściu głównym.",
+   "should": "Zasięg hydrantów (wąż plus 3 m rzutu w strefie ZL w budynku o więcej niż jednej kondygnacji, tu 23 m) obejmuje całą powierzchnię strefy. Licząc wzdłuż drogi węża, poza zasięgiem są m.in. kuchnia 0.10 (ok. 38 m), szatnia 0.09 (ok. 33 m), zmywalnia 0.08 (ok. 31 m) i wschodnia część restauracji (ok. 27 m), a także klatka K2 (ok. 27 m) i wschodni koniec korytarza zaplecza.",
+   "basis": "§ 20 ust. 3 pkt 1 i pkt 2 lit. a rozp. MSWiA z 7.06.2010; § 19 ust. 1 pkt 2 lit. a rozp. MSWiA z 7.06.2010",
+   "quote": "Zasięg hydrantów wewnętrznych w poziomie obejmuje całą powierzchnię chronionego budynku, strefy pożarowej",
+   "fix": "Dodać hydrant 25 na parterze przy klatce K2, jak na piętrach: kuchnia ok. 18 m, zmywalnia ok. 11 m, szatnia ok. 12 m, wschodnia część restauracji przez kuchnię i drzwi wahadłowe ok. 16 m."
+  },
+  {
+   "id": "u9",
+   "kind": "błąd",
+   "weight": 1,
+   "act": "rozp_ppoz_2010",
+   "where": "opis, pkt 7",
+   "title": "Instalacja hydrantowa na pobór wody z jednego hydrantu",
+   "is": "Instalację wymiarowano na jednoczesny pobór z jednego hydrantu 25, bo budynek jest niski.",
+   "should": "Pobór z jednego hydrantu wystarcza w budynku niskim lub średniowysokim tylko przy strefie do 500 m². Strefa ma 2 095,9 m², więc instalacja musi zapewnić jednoczesny pobór z dwóch sąsiednich hydrantów (każdy 1,0 dm³/s przy ciśnieniu co najmniej 0,2 MPa).",
+   "basis": "§ 23 pkt 1 i 2 rozp. MSWiA z 7.06.2010; § 22 ust. 1 i 2 rozp. MSWiA z 7.06.2010",
+   "quote": "dwóch sąsiednich hydrantów wewnętrznych lub dwóch sąsiednich zaworów 52",
+   "fix": "Przeliczyć instalację i przyłącze na jednoczesny pobór z dwóch sąsiednich hydrantów 25."
+  },
+  {
+   "id": "u10",
+   "kind": "błąd",
+   "weight": 2,
+   "act": "wt_2002",
+   "where": "opis, pkt 6 i 7; rys. 3 – korytarz 1.24",
+   "marker": {
+    "d": "R3",
+    "at": [
+     31.2,
+     7.5
+    ]
+   },
+   "title": "Brak awaryjnego oświetlenia ewakuacyjnego korytarzy",
+   "is": "Korytarze bez okien, oświetlone wyłącznie światłem sztucznym, nie mają oświetlenia ewakuacyjnego; projektant powołuje się na § 181 ust. 3 pkt 2 lit. d WT (budynki wysokie i wysokościowe).",
+   "should": "Litery a–d to odrębne przypadki. Awaryjne oświetlenie ewakuacyjne stosuje się na drogach ewakuacyjnych oświetlonych wyłącznie światłem sztucznym, niezależnie od wysokości budynku; ma działać co najmniej 1 h.",
+   "basis": "§ 181 ust. 3 pkt 2 lit. b WT; § 181 ust. 5 WT",
+   "quote": "oświetlonych wyłącznie światłem sztucznym",
+   "fix": "Zaprojektować awaryjne oświetlenie ewakuacyjne korytarzy na wszystkich kondygnacjach, także korytarza zaplecza."
+  },
+  {
+   "id": "u11",
+   "kind": "błąd",
+   "weight": 1,
+   "act": "rozp_ppoz_2010",
+   "where": "opis, pkt 2 i 8",
+   "title": "Gaśnica w kuchni nieprzystosowana do pożarów tłuszczów",
+   "is": "W kuchni z frytownicami przewidziano wyłącznie gaśnicę proszkową ABC (przy wyjściu na zewnątrz).",
+   "should": "Rodzaj gaśnic dobiera się do grup pożarów, które mogą wystąpić w obiekcie. Przy frytownicach może wystąpić pożar grupy F (tłuszcze i oleje w urządzeniach kuchennych), a gaśnica ABC służy do grup A, B i C. Łączna masa środka (48 kg przy wymaganych 42 kg) jest poprawna.",
+   "basis": "§ 32 ust. 2 pkt 5 rozp. MSWiA z 7.06.2010; § 32 ust. 3 pkt 1 lit. a rozp. MSWiA z 7.06.2010",
+   "quote": "Rodzaj gaśnic powinien być dostosowany do gaszenia tych grup pożarów, które mogą wystąpić w obiekcie",
+   "fix": "Dodać w kuchni gaśnicę do pożarów grupy F."
+  },
+  {
+   "id": "u12",
+   "kind": "błąd",
+   "weight": 2,
+   "act": "woda_drogi_2009",
+   "where": "opis, pkt 9; rys. 1 – wymiar 38,00",
+   "marker": {
+    "d": "R1",
+    "at": [
+     31.0,
+     46.0
+    ]
+   },
+   "title": "Droga pożarowa niespełniająca wymagań dla budynku ze strefą ZL I",
+   "is": "Drogą pożarową jest ulica 38 m od budynku, połączona z wejściem głównym dojściem 38,0 m. Projektant stosuje tylko § 12 ust. 1 pkt 5 lit. b i ust. 4 (dojście do 50 m).",
+   "should": "Budynek ze strefą ZL I podlega § 12 ust. 1 pkt 1, a więc ust. 2: droga wzdłuż dłuższego boku na całej długości, bliższa krawędź 5–15 m od ściany. Zwolnienie z ust. 7 (do 3 kondygnacji i 12 m) wymaga połączenia wyjść z drogą pożarową utwardzonym dojściem nie dłuższym niż 30 m, zapewniającym dotarcie do każdej strefy pożarowej; od wejścia głównego, przez które jest dotarcie do jedynej strefy, jest 38 m. Projektant zastosował tylko przepisy właściwe dla budynku z § 12 ust. 1 pkt 5 lit. b.",
+   "basis": "§ 12 ust. 1 pkt 1 rozp. MSWiA z 24.07.2009; § 12 ust. 2 i 7 rozp. MSWiA z 24.07.2009",
+   "quote": "minimalnej 1,5 m i długości nie większej niż 30 m",
+   "fix": "Drogę pożarową (min. 4 m, nacisk osi 100 kN) poprowadzić wzdłuż elewacji południowej 5–15 m od ściany, z przejazdem bez cofania albo placem 20 × 20 m, np. jako jezdnię parkingu; albo zbliżyć ją do wejścia tak, aby dojście nie przekraczało 30 m (§ 12 ust. 9 i 10; § 13 ust. 1 i 2 rozp. MSWiA z 24.07.2009)."
+  },
+  {
+   "id": "u13",
+   "kind": "błąd",
+   "weight": 2,
+   "act": "woda_drogi_2009",
+   "where": "opis, pkt 9",
+   "title": "Sieć wodociągowa nie zapewnia 20 dm³/s",
+   "is": "Wymagane 20 dm³/s ma dać sieć o wydajności 15 dm³/s; projektant sumuje wydajności nominalne dwóch hydrantów (2 × 10 dm³/s).",
+   "should": "Budynek o kubaturze 7 950 m³ i powierzchni wewnętrznej 2 095,9 m² nie mieści się w progach 5 000 m³ i 1 000 m², więc wymaga 20 dm³/s z co najmniej dwóch hydrantów DN 80 albo 200 m³ wody w zbiorniku. Wydajność nominalna hydrantów nie zwiększa wydajności sieci. Brakuje 5 dm³/s: uzupełniający przeciwpożarowy zbiornik wodny – 10 m³ na 1 dm³/s brakującej wydajności, nie mniej niż 50 m³, czyli 50 m³.",
+   "basis": "§ 5 ust. 1 pkt 2 rozp. MSWiA z 24.07.2009; § 5 ust. 2 rozp. MSWiA z 24.07.2009",
+   "quote": "na 1 dm3/s brakującej wydajności wodociągu",
+   "fix": "Przewidzieć zbiornik przeciwpożarowy 50 m³ ze stanowiskiem czerpania wody i dojazdem albo uzyskać potwierdzenie wydajności sieci 20 dm³/s. Usytuowanie HZ1 i HZ2 jest zgodne z § 10 ust. 6."
+  },
+  {
+   "id": "u14",
+   "kind": "błąd",
+   "weight": 2,
+   "act": "wt_2002",
+   "where": "rys. 1 – wymiar 3,00",
+   "marker": {
+    "d": "R1",
+    "at": [
+     13.5,
+     24.5
+    ]
+   },
+   "title": "Za mała odległość od granicy z niezabudowaną działką",
+   "is": "Zachodnia ściana hotelu jest 3,0 m od granicy niezabudowanej działki nr 45/3, przeznaczonej w planie miejscowym pod zabudowę usługową.",
+   "should": "Odległość od granicy niezabudowanej działki budowlanej wynosi co najmniej połowę odległości z § 271 ust. 1–7, przyjmując na niej budynek o przeznaczeniu z planu (usługowy, czyli ZL). Między budynkami ZL wymagane jest 8 m, więc od granicy co najmniej 4,0 m. Brak otworów w ścianie tego nie zmienia, bo nie jest to ściana oddzielenia przeciwpożarowego.",
+   "basis": "§ 272 ust. 1 WT; § 271 ust. 1 WT",
+   "quote": "powinna wynosić co najmniej połowę odległości określonej w § 271 ust. 1–7",
+   "fix": "Przesunąć budynek o 1,0 m na wschód (zostanie 8,0 m do granicy wschodniej i 12,0 m do budynku sąsiedniego) albo wykonać ścianę zachodnią jako ścianę oddzielenia przeciwpożarowego (dla klasy „B” R E I 120 – § 232 ust. 4), albo zastosować stałe urządzenia gaśnicze wodne w strefie przy tej ścianie (§ 271 ust. 7: 6 m, od granicy 3 m)."
+  },
+  {
+   "id": "p1",
+   "kind": "poprawne",
+   "weight": 1,
+   "act": "rozp_ppoz_2010",
+   "where": "opis, pkt 7",
+   "title": "Brak dźwiękowego systemu ostrzegawczego",
+   "is": "Nie przewiduje się dźwiękowego systemu ostrzegawczego.",
+   "should": "W budynkach zamieszkania zbiorowego DSO jest wymagany w budynkach wysokich i wysokościowych albo przy ponad 200 miejscach noclegowych. Hotel niski na 80 miejsc tych warunków nie spełnia; restauracja nie podpada pod inne punkty § 29 ust. 1.",
+   "basis": "§ 29 ust. 1 pkt 6 rozp. MSWiA z 7.06.2010",
+   "fix": "Próg dla DSO (200 miejsc) różni się od progu dla SSP (50 miejsc) – to częsta pomyłka w obie strony."
+  },
+  {
+   "id": "p2",
+   "kind": "poprawne",
+   "weight": 1,
+   "act": "wt_2002",
+   "where": "opis, pkt 5 i 6",
+   "title": "Drzwi do pokoi hotelowych bez klasy odporności ogniowej",
+   "is": "Drzwi do pokoi 0,90 m bez klasy odporności ogniowej; ściany pokoi od korytarza i między pokojami E I 30.",
+   "should": "Klasy E I 30 dla drzwi z pomieszczeń strefy ZL V na drogi komunikacji ogólnej wymaga się w budynkach średniowysokich i wyższych. W budynku niskim wystarczy, że ściany oddzielające pokoje od korytarza i od siebie mają E I 30 – tak jest w projekcie.",
+   "basis": "§ 246 ust. 6 WT; § 217 ust. 1 pkt 1 lit. a WT",
+   "fix": ""
+  },
+  {
+   "id": "p3",
+   "kind": "poprawne",
+   "weight": 1,
+   "act": "wt_2002",
+   "where": "opis, pkt 6; rys. 3 – korytarz za klatką K1",
+   "marker": {
+    "d": "R3",
+    "at": [
+     1.6,
+     7.5
+    ]
+   },
+   "title": "Ślepy odcinek korytarza za klatką K1",
+   "is": "Dojście z pokoju 1.12 do klatki K1: 9,6 m (0,85 + 7,90 + 0,85); z pokoju 1.01: 9,5 m.",
+   "should": "Przy jednym kierunku ewakuacji w strefie ZL I i ZL V dopuszcza się 10 m. Dojście kończy się na drzwiach klatki, bo klatka jest obudowana, zamykana drzwiami E I 30 i ma urządzenia do usuwania dymu.",
+   "basis": "§ 256 ust. 2 i 3 WT",
+   "fix": "Wartość jest tuż przy progu: przesunięcie klatki K1 albo drzwi pokoi wymaga ponownego sprawdzenia."
+  }
+ ],
+ "summary": "Projekt wymaga uzgodnienia, ale w przedstawionej postaci nie spełnia wymagań ochrony przeciwpożarowej. Przesądza o tym przede wszystkim kwalifikacja: sala z 48 miejscami przy stolikach i 8 przy barze jest przeznaczona dla 56 osób, więc strefa należy do ZL I i ZL V. Wynika z tego klasa „B” zamiast „C” i obowiązek drogi pożarowej wzdłuż elewacji albo dojścia nie dłuższego niż 30 m. Niezależnie od restauracji hotel na 80 miejsc noclegowych musi mieć system sygnalizacji pożarowej.\nPozostałe uwagi: ślepy odcinek korytarza za klatką K2 (13,8 m, a nie 9,4 m), drzwi restauracji (kierunek otwierania, skrzydła 0,70 m), wyjście z K2 o szerokości 0,90 m, zasięg i jednoczesny pobór z hydrantów 25, oświetlenie ewakuacyjne korytarzy, gaśnica do grupy F, niedobór wody w sieci (zbiornik 50 m³) i odległość 3,0 m od granicy działki. Wszystkie da się usunąć zmianami projektu.\nZgodne, choć wyglądają podejrzanie: brak dźwiękowego systemu ostrzegawczego, drzwi do pokoi bez klasy odporności ogniowej i dojście 9,6 m w zachodnim ślepym odcinku korytarza.",
+ "review": {
+  "date": "2026-11-25",
+  "solverFound": 14,
+  "issues": 14,
+  "note": "Klucz potwierdzony w przepisach; doprecyzowano opis (kubatura, hol, biegi i klapy, sieć obwodowa i ciśnienie, otwory ścian od strony budynku sąsiedniego), przeniesiono gaśnicę w kuchni spod frytownic do wyjścia, poprawiono podstawę u8, sformułowanie u12 i odpowiedzi do q1 i q8."
+ }
+}

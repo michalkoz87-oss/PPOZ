@@ -18,7 +18,7 @@
   "H2",
   "P2"
  ],
- "legal": "Wymagania budowlane podano według warunków technicznych z 2002 r. Rozporządzenie utraciło moc 21.09.2026, ale art. 102a–102c Prawa budowlanego pozwalają w okresie przejściowym sporządzać projekty według dotychczasowych przepisów. Nowe warunki techniczne są podpisane i czekają na ogłoszenie; po ogłoszeniu klucz zostanie sprawdzony ponownie. Pozostałe podstawy (rozporządzenia MSWiA z 2009, 2010 i 2023 r., ustawa o ochronie przeciwpożarowej) obowiązują.",
+ "legal": "Wymagania budowlane podano według warunków technicznych z 2002 r. (tekst jednolity z 2022 r. ze zmianami z 2023 i 2024 r.). Rozporządzenie utraciło moc 21.09.2026, ale art. 102a Prawa budowlanego pozwala przez 18 miesięcy od 20.09.2026 sporządzić projekt według przepisów obowiązujących do 19.09.2026 po złożeniu oświadczenia inwestora. Do dnia sporządzenia kazusu nowych warunków technicznych nie ogłoszono; po ich ogłoszeniu klucz zostanie sprawdzony ponownie. Pozostałe podstawy (rozporządzenia MSWiA z 2009, 2010 i 2023 r., ustawa o ochronie przeciwpożarowej, Prawo budowlane) obowiązują. Największą długość węża hydrantu 25 przyjęto według PN-EN 671-1:2012, p. 4.4.3.",
  "problem": "Projektant przekazał do uzgodnienia projekt zagospodarowania terenu i projekt architektoniczno-budowlany budynku biurowego. Na podstawie wyciągu z opisu i dwóch rysunków proszę ocenić zgodność rozwiązań z wymaganiami ochrony przeciwpożarowej.\nProszę wskazać niezgodności i braki wraz z podstawą prawną i wartością wymaganą, powiedzieć, czy projekt można uzgodnić, oraz zaproponować sposób doprowadzenia go do zgodności.",
  "doc": {
   "title": "Budynek biurowy przy ul. Projektowanej – warunki ochrony przeciwpożarowej",
@@ -29,11 +29,15 @@
    ],
    [
     "Adres",
-    "ul. Projektowana, dz. nr 112/4"
+    "ul. Projektowana, dz. nr 112/4 (teren miasta)"
    ],
    [
     "Stadium",
     "Projekt zagospodarowania terenu i projekt architektoniczno-budowlany"
+   ],
+   [
+    "Przepisy techniczno-budowlane",
+    "Warunki techniczne z 12.04.2002 r.; inwestor złoży oświadczenie, o którym mowa w art. 102a ust. 1 Prawa budowlanego"
    ],
    [
     "Zakres wyciągu",
@@ -49,7 +53,7 @@
    {
     "no": "2",
     "h": "Charakterystyka zagrożenia pożarowego i kategoria zagrożenia ludzi",
-    "text": "Budynek użyteczności publicznej o funkcji biurowej, zakwalifikowany do kategorii zagrożenia ludzi ZL III.\nNa parterze znajduje się sala szkoleniowa o powierzchni 48,0 m² z 40 miejscami. Pozostałe pomieszczenia to biura, pomieszczenia socjalne i archiwa podręczne.\nPrzewidywana liczba osób: parter – 62, kondygnacje +1, +2 i +3 – po 45, razem 197 osób. W budynku nie ma pomieszczeń przeznaczonych dla ponad 50 osób ani pomieszczeń dla osób o ograniczonej zdolności poruszania się.\nMateriały niebezpieczne pożarowo nie występują. Zagrożenie wybuchem nie występuje."
+    "text": "Budynek użyteczności publicznej o funkcji biurowej, zakwalifikowany do kategorii zagrożenia ludzi ZL III.\nNa parterze znajduje się sala szkoleniowa o powierzchni 48,0 m² z 40 miejscami. Pozostałe pomieszczenia to biura, pomieszczenia socjalne i archiwa podręczne.\nPrzewidywana liczba osób: parter – 62, kondygnacje +1, +2 i +3 – po 45, razem 197 osób. Sala narad na każdej kondygnacji powtarzalnej (12 miejsc) służy pracownikom tej kondygnacji i nie zwiększa liczby osób. W budynku nie ma pomieszczeń przeznaczonych dla ponad 50 osób ani pomieszczeń dla osób o ograniczonej zdolności poruszania się.\nMateriały niebezpieczne pożarowo nie występują. Zagrożenie wybuchem nie występuje."
    },
    {
     "no": "3",
@@ -59,7 +63,7 @@
    {
     "no": "4",
     "h": "Klasa odporności pożarowej i odporność ogniowa elementów",
-    "text": "Dla budynku ZL III przyjęto klasę „C” odporności pożarowej. Wszystkie elementy budynku nierozprzestrzeniające ognia.",
+    "text": "Dla budynku ZL III przyjęto klasę „C” odporności pożarowej. Wszystkie elementy budynku nierozprzestrzeniające ognia. Dach płaski o stalowej konstrukcji z przekryciem z blachy fałdowej i wełny mineralnej; nad najwyższą kondygnacją nie ma odrębnego stropu.",
     "table": {
      "head": [
       "Element budynku",
@@ -104,12 +108,12 @@
    {
     "no": "5",
     "h": "Warunki ewakuacji",
-    "text": "- Ewakuacja z kondygnacji +1, +2 i +3 odbywa się korytarzem o szerokości 1,20 m do jednej klatki schodowej K1.\n- Klatka schodowa K1 jest obudowana ścianami o klasie R E I 60 i zamykana drzwiami o klasie E I 30. Urządzeń zapobiegających zadymieniu ani służących do usuwania dymu nie przewiduje się, ponieważ budynek nie jest wysoki.\n- Szerokość biegów wynosi 1,20 m, spoczników 1,50 m. Drzwi z klatki schodowej na zewnątrz budynku mają szerokość 1,20 m i otwierają się na zewnątrz.\n- Długość przejść ewakuacyjnych w pomieszczeniach nie przekracza 10 m (dopuszczalna: 40 m).\n- Długość dojścia ewakuacyjnego z najdalszego pomieszczenia (1.14) do drzwi klatki schodowej wynosi 29,5 m i nie przekracza 30 m dopuszczalnych w strefie ZL III przy jednym dojściu.\n- Drzwi z pomieszczeń mają szerokość 0,90 m w świetle ościeżnicy. Sala szkoleniowa na parterze ma jedne drzwi o szerokości 0,90 m, otwierane do wewnątrz.\n- Korytarze nie mają okien i są oświetlone wyłącznie światłem sztucznym."
+    "text": "- Ewakuacja z kondygnacji +1, +2 i +3 odbywa się korytarzem o szerokości 1,20 m do jednej klatki schodowej K1.\n- Klatka schodowa K1 jest obudowana ścianami o klasie R E I 60 i zamykana drzwiami o klasie E I 30. Urządzeń zapobiegających zadymieniu ani służących do usuwania dymu nie przewiduje się, ponieważ budynek nie jest wysoki.\n- Szerokość biegów wynosi 1,20 m, spoczników 1,50 m. Na parterze klatka K1 ma wyjście bezpośrednio na zewnątrz w ścianie zachodniej; drzwi mają szerokość 1,20 m i otwierają się na zewnątrz.\n- Długość przejść ewakuacyjnych w pomieszczeniach nie przekracza 10 m (dopuszczalna: 40 m).\n- Długość dojścia ewakuacyjnego z najdalszego pomieszczenia (1.14) do drzwi klatki schodowej wynosi 29,5 m i nie przekracza 30 m dopuszczalnych w strefie ZL III przy jednym dojściu.\n- Drzwi z pomieszczeń mają szerokość 0,90 m w świetle ościeżnicy. Sala szkoleniowa na parterze ma jedne drzwi o szerokości 0,90 m, otwierane do wewnątrz.\n- Korytarze nie mają okien i są oświetlone wyłącznie światłem sztucznym."
    },
    {
     "no": "6",
     "h": "Urządzenia przeciwpożarowe i instalacje",
-    "text": "- Hydranty wewnętrzne 25 z wężem półsztywnym o długości 20 m: po jednym na każdej kondygnacji, przy klatce schodowej K1. Wydajność 1,0 dm³/s, ciśnienie na zaworze odcinającym nie mniejsze niż 0,2 MPa.\n- Systemu sygnalizacji pożarowej nie przewiduje się.\n- Dźwiękowego systemu ostrzegawczego nie przewiduje się.\n- Awaryjnego oświetlenia ewakuacyjnego nie przewiduje się, ponieważ budynek nie jest wysoki.\n- Instalacja odgromowa zgodna z Polską Normą."
+    "text": "- Hydranty wewnętrzne 25 z wężem półsztywnym o długości 20 m: po jednym na każdej kondygnacji, przy klatce schodowej K1. Wydajność 1,0 dm³/s, ciśnienie na zaworze odcinającym nie mniejsze niż 0,2 MPa. Instalacja zapewnia jednoczesny pobór wody z dwóch sąsiednich hydrantów.\n- Systemu sygnalizacji pożarowej nie przewiduje się.\n- Dźwiękowego systemu ostrzegawczego nie przewiduje się.\n- Awaryjnego oświetlenia ewakuacyjnego nie przewiduje się, ponieważ budynek nie jest wysoki.\n- Instalacja odgromowa zgodna z Polską Normą."
    },
    {
     "no": "7",
@@ -119,12 +123,12 @@
    {
     "no": "8",
     "h": "Przygotowanie do działań ratowniczych",
-    "text": "- Droga pożarowa: droga wewnętrzna o nawierzchni utwardzonej, szerokości 4,0 m i dopuszczalnym nacisku osi 100 kN, poprowadzona wzdłuż dłuższego boku budynku w odległości 18,0 m od ściany. Wjazd z ul. Projektowanej.\n- Wejście główne jest połączone z drogą pożarową utwardzonym dojściem o szerokości 2,0 m i długości 18 m.\n- Woda do zewnętrznego gaszenia pożaru: 10 dm³/s z hydrantu nadziemnego DN 80 (HZ1) na sieci wodociągowej w ul. Projektowanej, w odległości 29 m od budynku.\n- Dźwig dla ekip ratowniczych nie jest wymagany."
+    "text": "- Droga pożarowa: droga wewnętrzna o nawierzchni utwardzonej, szerokości 4,0 m, spadku podłużnym do 2% i dopuszczalnym nacisku osi 100 kN, poprowadzona wzdłuż dłuższego boku budynku w odległości 18,0 m od ściany. Wjazd z ul. Projektowanej łukiem o promieniu zewnętrznym 11 m.\n- Wejście główne jest połączone z drogą pożarową utwardzonym dojściem o szerokości 2,0 m i długości 18 m, a wyjście z klatki schodowej K1 – dojściem o szerokości 1,5 m i długości 32 m.\n- Woda do zewnętrznego gaszenia pożaru: 10 dm³/s z hydrantu nadziemnego DN 80 (HZ1) na miejskiej sieci wodociągowej obwodowej DN 150 w ul. Projektowanej, w odległości 30 m od budynku.\n- Dźwig dla ekip ratowniczych nie jest wymagany."
    },
    {
     "no": "9",
     "h": "Usytuowanie z uwagi na bezpieczeństwo pożarowe",
-    "text": "Odległość od budynku mieszkalnego wielorodzinnego na działce nr 112/5 wynosi 6,5 m. Ściany zewnętrzne obu budynków mają otwory okienne i są nierozprzestrzeniające ognia; przekrycia dachów są nierozprzestrzeniające ognia. Odległość od granicy działki wynosi 4,0 m."
+    "text": "Odległość od budynku mieszkalnego wielorodzinnego niskiego (4 kondygnacje nadziemne) na działce nr 112/5 wynosi 6,5 m. Ściany zewnętrzne obu budynków mają otwory okienne i są nierozprzestrzeniające ognia; przekrycia dachów są nierozprzestrzeniające ognia. Okna zajmują 16% powierzchni ściany wschodniej budynku biurowego (na każdej kondygnacji 3 okna 2,0 × 1,5 m) i 20% powierzchni ściany zachodniej budynku mieszkalnego, której pozostała część ma klasę odporności ogniowej E I 30. Odległość od wschodniej granicy działki wynosi 4,0 m, od północnej 6,0 m."
    }
   ]
  },
@@ -650,12 +654,12 @@
     {
      "t": "stair",
      "rect": [
-      0.8,
-      0.9,
-      5.0,
+      1.9,
+      0.5,
+      2.8,
       2.6
      ],
-     "n": 12,
+     "n": 10,
      "axis": "x",
      "label": "biegi 1,20 m, spoczniki 1,50 m"
     },
@@ -721,7 +725,8 @@
      ],
      "no": "1.05",
      "name": "Sala narad",
-     "area": 26.5
+     "area": 26.5,
+     "note": "12 miejsc"
     },
     {
      "t": "room",
@@ -1079,34 +1084,74 @@
      "k": "fireroad",
      "pts": [
       [
-       14,
+       7,
        43
       ],
       [
-       60,
-       43
+       49.0,
+       43.0
       ],
       [
-       60,
-       54
+       51.85,
+       43.37
       ],
       [
-       56,
-       54
+       54.5,
+       44.47
       ],
       [
-       56,
-       47
+       56.78,
+       46.22
       ],
       [
-       14,
+       58.53,
+       48.5
+      ],
+      [
+       59.63,
+       51.15
+      ],
+      [
+       60.0,
+       54.0
+      ],
+      [
+       56.0,
+       54.0
+      ],
+      [
+       55.76,
+       52.19
+      ],
+      [
+       55.06,
+       50.5
+      ],
+      [
+       53.95,
+       49.05
+      ],
+      [
+       52.5,
+       47.94
+      ],
+      [
+       50.81,
+       47.24
+      ],
+      [
+       49.0,
+       47.0
+      ],
+      [
+       7,
        47
       ]
      ],
      "label": "droga pożarowa (wewnętrzna), szer. 4,0 m",
      "lo": [
-      -8,
-      -2.6
+      -20.59,
+      -2.64
      ]
     },
     {
@@ -1139,6 +1184,36 @@
       25,
       2,
       18
+     ]
+    },
+    {
+     "t": "poly",
+     "k": "paved",
+     "pts": [
+      [
+       16.5,
+       12.75
+      ],
+      [
+       20,
+       12.75
+      ],
+      [
+       20,
+       14.25
+      ],
+      [
+       18,
+       14.25
+      ],
+      [
+       18,
+       43
+      ],
+      [
+       16.5,
+       43
+      ]
      ]
     },
     {
@@ -1180,6 +1255,32 @@
       0.4,
       0.4
      ]
+    },
+    {
+     "t": "leader",
+     "a": [
+      15.4,
+      7.4
+     ],
+     "b": [
+      19.6,
+      13.1
+     ],
+     "text": "wyjście z klatki K1",
+     "anchor": "end"
+    },
+    {
+     "t": "leader",
+     "a": [
+      65,
+      47.8
+     ],
+     "b": [
+      57.2,
+      45.8
+     ],
+     "text": "łuk, R zewn. = 11 m",
+     "anchor": "start"
     },
     {
      "t": "sym",
@@ -1285,11 +1386,11 @@
     {
      "t": "dim",
      "a": [
-      14,
+      7,
       47
      ],
      "b": [
-      56,
+      49,
       47
      ],
      "off": 2.0,
@@ -1298,11 +1399,11 @@
     {
      "t": "dim",
      "a": [
-      16.5,
+      10,
       43
      ],
      "b": [
-      16.5,
+      10,
       47
      ],
      "text": "4,00"
@@ -1324,7 +1425,7 @@
      "text": "dz. nr 112/5"
     }
    ],
-   "note": "Wymiary w metrach. Sieć wodociągowa z hydrantem HZ1 w ul. Projektowanej."
+   "note": "Wymiary w metrach. Hydrant HZ1 na miejskiej sieci wodociągowej obwodowej DN 150 w ul. Projektowanej."
   }
  ],
  "questions": [
@@ -1361,11 +1462,11 @@
      "basis": "§ 212 ust. 2 WT"
     },
     {
-     "t": "Obniżenie klasy z § 212 ust. 3 dotyczy budynków o jednej i dwóch kondygnacjach nadziemnych, więc tu nie ma zastosowania.",
-     "basis": "§ 212 ust. 3 WT"
+     "t": "Obniżenie klasy z § 212 ust. 3 dotyczy budynków o jednej i dwóch kondygnacjach nadziemnych, a obniżenie o jedną klasę z § 214 – budynków ze stałymi samoczynnymi urządzeniami gaśniczymi wodnymi; żadne z nich nie ma tu zastosowania.",
+     "basis": "§ 212 ust. 3 WT; § 214 WT"
     },
     {
-     "t": "Klasa „B”: konstrukcja nośna R 120, konstrukcja dachu R 30, stropy R E I 60, ściany zewnętrzne E I 60 (o↔i), ściany wewnętrzne E I 30, przekrycie dachu R E 30.",
+     "t": "Klasa „B”: konstrukcja nośna R 120, konstrukcja dachu R 30, stropy R E I 60, ściany zewnętrzne E I 60 (o↔i), ściany wewnętrzne E I 30, przekrycie dachu R E 30 (nad najwyższą kondygnacją nie ma stropu, więc przypis 3 do tabeli nie zwalnia z tego wymagania).",
      "basis": "§ 216 ust. 1 WT"
     },
     {
@@ -1407,16 +1508,16 @@
    "q": "Które urządzenia przeciwpożarowe, instalacje i gaśnice są w tym budynku wymagane, a które nie?",
    "points": [
     {
-     "t": "Hydranty 25 na każdej kondygnacji: strefa ZL III ponad 200 m² w budynku średniowysokim. Zasięg: wąż plus 3 m, cała powierzchnia strefy.",
-     "basis": "§ 19 ust. 1 pkt 2 lit. b rozp. MSWiA z 7.06.2010; § 20 ust. 3 rozp. MSWiA z 7.06.2010"
+     "t": "Hydranty 25 na każdej kondygnacji: strefa ZL III ponad 200 m² w budynku średniowysokim. Zasięg: wąż plus 3 m, cała powierzchnia strefy. Strefa ma ponad 500 m², więc instalacja musi zapewnić jednoczesny pobór z dwóch sąsiednich hydrantów.",
+     "basis": "§ 19 ust. 1 pkt 2 lit. b rozp. MSWiA z 7.06.2010; § 20 ust. 3 rozp. MSWiA z 7.06.2010; § 23 pkt 2 rozp. MSWiA z 7.06.2010"
     },
     {
      "t": "System sygnalizacji pożarowej i DSO: niewymagane, bo budynek użyteczności publicznej nie jest wysoki ani wysokościowy.",
      "basis": "§ 28 ust. 1 pkt 10 rozp. MSWiA z 7.06.2010; § 29 ust. 1 pkt 5 rozp. MSWiA z 7.06.2010"
     },
     {
-     "t": "Awaryjne oświetlenie ewakuacyjne: wymagane na korytarzach oświetlonych wyłącznie światłem sztucznym.",
-     "basis": "§ 181 ust. 3 pkt 2 lit. b WT"
+     "t": "Awaryjne oświetlenie ewakuacyjne: wymagane na korytarzach oświetlonych wyłącznie światłem sztucznym, z czasem działania co najmniej 1 godziny.",
+     "basis": "§ 181 ust. 3 pkt 2 lit. b WT; § 181 ust. 5 WT"
     },
     {
      "t": "Przeciwpożarowy wyłącznik prądu: wymagany, strefa ma ponad 1000 m³.",
@@ -1427,7 +1528,7 @@
      "basis": "§ 32 ust. 3 pkt 1 lit. a rozp. MSWiA z 7.06.2010; § 33 ust. 2 rozp. MSWiA z 7.06.2010"
     },
     {
-     "t": "Dźwig dla ekip ratowniczych: niewymagany poniżej 25 m.",
+     "t": "Dźwig dla ekip ratowniczych: niewymagany, bo żadna kondygnacja nie ma posadzki wyżej niż 25 m nad terenem.",
      "basis": "§ 253 ust. 1 WT"
     }
    ]
@@ -1450,11 +1551,11 @@
      "basis": "§ 12 ust. 9 i 10 rozp. MSWiA z 24.07.2009"
     },
     {
-     "t": "Poprawne: szerokość 4 m, nacisk osi 100 kN, dojście od wyjścia do drogi o szerokości co najmniej 1,5 m i długości do 50 m.",
-     "basis": "§ 13 ust. 1 i 2 rozp. MSWiA z 24.07.2009; § 12 ust. 4 rozp. MSWiA z 24.07.2009"
+     "t": "Poprawne: szerokość 4 m, nacisk osi 100 kN, spadek do 5%, łuk o promieniu zewnętrznym co najmniej 11 m; dojścia od wejścia głównego (2,0 m, 18 m) i od wyjścia z klatki K1 (1,5 m, 32 m) mają co najmniej 1,5 m szerokości i najwyżej 50 m długości.",
+     "basis": "§ 13 ust. 1 i 2 rozp. MSWiA z 24.07.2009; § 12 ust. 11 rozp. MSWiA z 24.07.2009; § 12 ust. 4 rozp. MSWiA z 24.07.2009"
     },
     {
-     "t": "Woda: kubatura ponad 5000 m³, więc 20 dm³/s łącznie z co najmniej dwóch hydrantów DN 80 albo 200 m³ w zbiorniku; w projekcie jest 10 dm³/s z jednego hydrantu.",
+     "t": "Woda: kubatura ponad 5000 m³ i powierzchnia wewnętrzna ponad 1000 m², więc 20 dm³/s łącznie z co najmniej dwóch hydrantów DN 80 albo 200 m³ w zbiorniku; w projekcie jest 10 dm³/s z jednego hydrantu.",
      "basis": "§ 5 ust. 1 pkt 2 rozp. MSWiA z 24.07.2009"
     },
     {
@@ -1469,20 +1570,20 @@
    "q": "Czy usytuowanie budynku względem zabudowy sąsiedniej jest prawidłowe? Jak można doprowadzić je do zgodności bez odstępstwa?",
    "points": [
     {
-     "t": "Między ścianami zewnętrznymi budynków ZL wymagane jest 8 m; 6,5 m to za mało.",
-     "basis": "§ 271 ust. 1 WT"
+     "t": "Między ścianami zewnętrznymi budynków ZL wymagane jest co najmniej 8 m, gdy ściany mają na ponad 65% powierzchni klasę E z kolumny 5 tabeli w § 216 ust. 1; 6,5 m to za mało. Ściana biurowca zaprojektowana jako E I 30 nie ma klasy E 60 wymaganej dla klasy „B”, więc w obecnym stanie odległość rośnie do 16 m.",
+     "basis": "§ 271 ust. 1 WT; § 271 ust. 5 WT"
     },
     {
-     "t": "Ściana wschodnia jako ściana oddzielenia przeciwpożarowego: dla klasy „B” R E I 120, zamknięcia otworów E I 60.",
-     "basis": "§ 271 ust. 10 WT; § 232 ust. 4 WT"
+     "t": "Ściana wschodnia jako ściana oddzielenia przeciwpożarowego spełniająca wymagania dla obu budynków: dla klasy „B” R E I 120, otwory najwyżej 15% powierzchni ściany, zamknięte E I 60 (obecne okna zajmują 16%).",
+     "basis": "§ 271 ust. 10 WT; § 232 ust. 2 i 4 WT"
     },
     {
      "t": "Stałe urządzenia gaśnicze wodne w strefach przylegających do ściany: zmniejszenie odległości o 25% (do 6,0 m), a przy zastosowaniu ich w obu budynkach o 50%.",
      "basis": "§ 271 ust. 6 i 7 WT"
     },
     {
-     "t": "Najprostsze rozwiązanie na etapie projektu: odsunięcie budynku o 1,5 m.",
-     "basis": ""
+     "t": "Najprostsze rozwiązanie na etapie projektu: odsunięcie budynku o 1,5 m na zachód, do 8 m od budynku mieszkalnego, przy ścianach spełniających wymagania klasy „B”.",
+     "basis": "§ 271 ust. 1 WT"
     }
    ]
   },
@@ -1492,8 +1593,8 @@
    "q": "Czy projekt wymaga uzgodnienia? Czy w przedstawionej postaci można go uzgodnić i jak rzeczoznawca dokumentuje uzgodnienie?",
    "points": [
     {
-     "t": "Tak: budynek średniowysoki zawierający strefę pożarową ZL III.",
-     "basis": "§ 3 ust. 1 pkt 2 rozp. MSWiA z 5.08.2023"
+     "t": "Tak: budynek średniowysoki zawierający strefę pożarową ZL III. Uzgodnienia wymaga także wewnętrzna droga pożarowa do tego budynku.",
+     "basis": "§ 3 ust. 1 pkt 2 i 13 rozp. MSWiA z 5.08.2023"
     },
     {
      "t": "Uzgodnienie potwierdza zgodność projektu z wymaganiami ochrony przeciwpożarowej. Przy tylu niezgodnościach projekt wraca do projektanta; poprawki wprowadza się w toku współpracy projektanta z rzeczoznawcą.",
@@ -1523,8 +1624,8 @@
      "basis": "§ 256 ust. 4 WT"
     },
     {
-     "t": "Budynek projektowany: odstępstwo od przepisów techniczno-budowlanych. Zgody udziela organ administracji architektoniczno-budowlanej po uzyskaniu upoważnienia ministra, przed wydaniem pozwolenia na budowę.",
-     "basis": "art. 9 ust. 1 i 2 Prawa budowlanego"
+     "t": "Budynek projektowany: odstępstwo od przepisów techniczno-budowlanych. Zgody udziela organ administracji architektoniczno-budowlanej po uzyskaniu upoważnienia ministra, przed wydaniem pozwolenia na budowę. Przy odstępstwie od przepisów o bezpieczeństwie pożarowym do wniosku o upoważnienie dołącza się ekspertyzę rzeczoznawcy i postanowienie komendanta wojewódzkiego PSP o zgodzie na rozwiązania zamienne.",
+     "basis": "art. 9 ust. 1 i 2 Prawa budowlanego; art. 9 ust. 3 pkt 5 Prawa budowlanego"
     },
     {
      "t": "Rozwiązania zamienne w stosunku do wymagań ochrony przeciwpożarowej: wniosek inwestora uzasadniony ekspertyzą techniczną, zgoda komendanta wojewódzkiego PSP w drodze postanowienia (zgoda, zgoda pod warunkami albo odmowa). Tryb ten stosuje się także w przypadkach z art. 9 Prawa budowlanego.",
@@ -1549,8 +1650,8 @@
    "act": "wt_2002",
    "where": "opis, pkt 4",
    "title": "Zaniżona klasa odporności pożarowej budynku",
-   "is": "Klasa „C” i odpowiadające jej klasy elementów: konstrukcja R 60, ściany zewnętrzne E I 30, ściany wewnętrzne E I 15, przekrycie R E 15.",
-   "should": "Budynek średniowysoki ZL III wymaga klasy „B”: główna konstrukcja nośna R 120, konstrukcja dachu R 30, stropy R E I 60, ściany zewnętrzne E I 60 (o↔i), ściany wewnętrzne E I 30, przekrycie dachu R E 30. Obniżenie z § 212 ust. 3 dotyczy tylko budynków o jednej i dwóch kondygnacjach.",
+   "is": "Klasa „C” i odpowiadające jej klasy elementów: konstrukcja nośna R 60, konstrukcja dachu R 15, ściany zewnętrzne E I 30, ściany wewnętrzne E I 15, przekrycie dachu R E 15.",
+   "should": "Budynek średniowysoki ZL III wymaga klasy „B”: główna konstrukcja nośna R 120, konstrukcja dachu R 30, stropy R E I 60, ściany zewnętrzne E I 60 (o↔i), ściany wewnętrzne E I 30 (także obudowa poziomych dróg ewakuacyjnych – § 241 ust. 1), przekrycie dachu R E 30 (nad najwyższą kondygnacją nie ma stropu, więc przypis 3 do tabeli nie zwalnia z tego wymagania). Obniżenie z § 212 ust. 3 dotyczy tylko budynków o jednej i dwóch kondygnacjach, a obniżenie o jedną klasę z § 214 wymaga stałych samoczynnych urządzeń gaśniczych wodnych, których nie przewidziano.",
    "basis": "§ 212 ust. 2 WT; § 216 ust. 1 WT",
    "fix": "Przyjąć klasę „B” i poprawić klasy odporności ogniowej wszystkich elementów w opisie oraz w projekcie konstrukcji."
   },
@@ -1563,8 +1664,8 @@
    "marker": {
     "d": "R1",
     "at": [
-     5.3,
-     1.35
+     5.45,
+     1.5
     ]
    },
    "title": "Klatka schodowa bez drzwi dymoszczelnych i bez ochrony przed zadymieniem",
@@ -1629,10 +1730,10 @@
    },
    "title": "Zasięg hydrantu 25 nie obejmuje całej kondygnacji",
    "is": "Jeden hydrant 25 z wężem 20 m przy klatce schodowej na zachodnim końcu korytarza o długości 33,4 m.",
-   "should": "Zasięg hydrantów musi obejmować całą powierzchnię strefy: długość węża plus 3 m efektywnego zasięgu rzutu w strefach ZL w budynkach o więcej niż jednej kondygnacji nadziemnej, czyli 23 m. Już drzwi pomieszczenia 1.04 są 23,65 m od hydrantu, więc cała wschodnia część kondygnacji leży poza zasięgiem.",
+   "should": "Zasięg hydrantów musi obejmować całą powierzchnię strefy: długość węża plus 3 m efektywnego zasięgu rzutu w strefach ZL w budynkach o więcej niż jednej kondygnacji nadziemnej, czyli 23 m. Już drzwi pomieszczenia 1.04 są 23,65 m od hydrantu (wzdłuż korytarza). Poza zasięgiem są pomieszczenia 1.04–1.07 i 1.14, wschodnia część korytarza oraz dalsze części pomieszczeń 1.03 i 1.08.",
    "basis": "§ 20 ust. 3 rozp. MSWiA z 7.06.2010; § 19 ust. 1 pkt 2 lit. b rozp. MSWiA z 7.06.2010",
    "quote": "Zasięg hydrantów wewnętrznych w poziomie obejmuje całą powierzchnię chronionego budynku, strefy pożarowej lub pomieszczenia",
-   "fix": "Drugi hydrant 25 we wschodniej części każdej kondygnacji. Sam wąż 30 m (największa długość według PN-EN 671-1) daje 33 m i nie wystarcza do pomieszczenia 1.14. Instalacja powinna zapewnić jednoczesny pobór z dwóch sąsiednich hydrantów (§ 23 pkt 2)."
+   "fix": "Drugi hydrant 25 we wschodniej części każdej kondygnacji, z zachowaniem jednoczesnego poboru wody z dwóch sąsiednich hydrantów (§ 23 pkt 2). Sam wąż 30 m (największa długość według PN-EN 671-1:2012, p. 4.4.3) daje 33 m i nie wystarcza do pomieszczenia 1.14, którego najdalszy narożnik leży około 42 m od hydrantu."
   },
   {
    "id": "u6",
@@ -1662,8 +1763,8 @@
    },
    "title": "Brak awaryjnego oświetlenia ewakuacyjnego na korytarzach bez okien",
    "is": "Awaryjnego oświetlenia ewakuacyjnego nie przewiduje się, bo budynek nie jest wysoki; jednocześnie korytarze są oświetlone wyłącznie światłem sztucznym.",
-   "should": "Awaryjne oświetlenie ewakuacyjne stosuje się na drogach ewakuacyjnych oświetlonych wyłącznie światłem sztucznym, niezależnie od wysokości budynku.",
-   "basis": "§ 181 ust. 3 pkt 2 lit. b WT",
+   "should": "Awaryjne oświetlenie ewakuacyjne stosuje się na drogach ewakuacyjnych oświetlonych wyłącznie światłem sztucznym, niezależnie od wysokości budynku. Powinno działać co najmniej 1 godzinę.",
+   "basis": "§ 181 ust. 3 pkt 2 lit. b WT; § 181 ust. 5 WT",
    "quote": "na drogach ewakuacyjnych: […] oświetlonych wyłącznie światłem sztucznym",
    "fix": "Zaprojektować awaryjne oświetlenie ewakuacyjne korytarzy."
   },
@@ -1695,7 +1796,7 @@
    },
    "title": "Za mała ilość wody do zewnętrznego gaszenia i tylko jeden hydrant",
    "is": "10 dm³/s z jednego hydrantu DN 80.",
-   "should": "Budynek użyteczności publicznej o kubaturze brutto ponad 5000 m³ (tu 8 760 m³) wymaga 20 dm³/s łącznie z co najmniej dwóch hydrantów DN 80 albo 200 m³ zapasu wody w zbiorniku. Najbliższy hydrant do 75 m od budynku, kolejne do 150 m.",
+   "should": "Wartość 10 dm³/s z jednego hydrantu wystarcza tylko dla budynku o kubaturze brutto do 5000 m³ i powierzchni wewnętrznej do 1000 m². Tu kubatura wynosi 8 760 m³, a powierzchnia 2 226,6 m², więc potrzeba 20 dm³/s łącznie z co najmniej dwóch hydrantów DN 80 albo 200 m³ zapasu wody w zbiorniku. Najbliższy hydrant do 75 m od budynku (HZ1 jest w odległości 30 m), kolejne do 150 m.",
    "basis": "§ 5 ust. 1 pkt 2 rozp. MSWiA z 24.07.2009; § 10 ust. 6 pkt 3 i 4 rozp. MSWiA z 24.07.2009",
    "quote": "20 dm3/s łącznie z co najmniej dwóch hydrantów o średnicy 80 mm lub 200 m3 zapasu wody",
    "fix": "Wskazać drugi hydrant DN 80 w odległości do 150 m i potwierdzić wydajność sieci, a przy jej braku uzupełnić zapas zbiornikiem (§ 5 ust. 2)."
@@ -1714,8 +1815,8 @@
     ]
    },
    "title": "Droga pożarowa za daleko od budynku",
-   "is": "Bliższa krawędź drogi pożarowej jest oddalona od ściany budynku o 18,0 m.",
-   "should": "Do budynku średniowysokiego ZL III droga pożarowa jest wymagana. Jej bliższa krawędź musi być oddalona od ściany o 5–15 m (obiekty ZL) i przebiegać wzdłuż dłuższego boku na całej długości.",
+   "is": "Bliższa krawędź drogi pożarowej jest oddalona od ściany budynku o 18,0 m, a przy wschodnim końcu budynku, na łuku wjazdu, jeszcze dalej.",
+   "should": "Do budynku średniowysokiego ZL III droga pożarowa jest wymagana. Powinna przebiegać wzdłuż dłuższego boku na całej jego długości, a jej bliższa krawędź musi być oddalona od ściany o 5–15 m (obiekty ZL). Zwolnienia z § 12 ust. 6 i 7 nie zachodzą: budynek ma 4 kondygnacje i 14,60 m wysokości, a klatka K1 nie ma okna dla ekip ratowniczych z drogą pożarową w odległości 5–10 m.",
    "basis": "§ 12 ust. 1 pkt 2 rozp. MSWiA z 24.07.2009; § 12 ust. 2 rozp. MSWiA z 24.07.2009",
    "quote": "bliższa krawędź drogi pożarowej musi być oddalona od ściany budynku o 5—15 m dla obiektów zaliczanych do kategorii zagrożenia ludzi",
    "fix": "Przesunąć drogę tak, aby jej krawędź była 5–15 m od ściany, na przykład zamienić ją miejscami z parkingiem."
@@ -1729,16 +1830,16 @@
    "marker": {
     "d": "R2",
     "at": [
-     16.3,
-     50.3
+     5.4,
+     45.0
     ]
    },
    "title": "Ślepy odcinek drogi pożarowej bez możliwości zawrócenia",
-   "is": "Droga pożarowa kończy się ślepo 42 m za zjazdem; nie ma placu manewrowego ani objazdu.",
+   "is": "Od wjazdu z ulicy droga biegnie łukiem (około 14 m po osi), potem odcinkiem prostym 42 m i kończy się ślepo; nie ma placu manewrowego ani objazdu.",
    "should": "Droga pożarowa powinna zapewniać przejazd bez cofania albo kończyć się placem manewrowym 20 × 20 m lub innym rozwiązaniem umożliwiającym zawrócenie. Bez tego dopuszcza się odcinek nie dłuższy niż 15 m.",
    "basis": "§ 12 ust. 9 i 10 rozp. MSWiA z 24.07.2009",
    "quote": "powinna być zakończona placem manewrowym o wymiarach 20 m x 20 m",
-   "fix": "Plac manewrowy 20 × 20 m na końcu drogi albo drugi zjazd zapewniający przejazd."
+   "fix": "Plac manewrowy 20 × 20 m na końcu drogi albo drugi wjazd zapewniający przejazd bez cofania."
   },
   {
    "id": "u12",
@@ -1755,10 +1856,10 @@
    },
    "title": "Za mała odległość od budynku sąsiedniego",
    "is": "Odległość 6,5 m między ścianami z oknami budynku biurowego (ZL) i mieszkalnego (ZL).",
-   "should": "Odległość między ścianami zewnętrznymi budynków ZL niebędącymi ścianami oddzielenia przeciwpożarowego: co najmniej 8 m.",
-   "basis": "§ 271 ust. 1 WT; § 271 ust. 10 WT; § 232 ust. 4 WT",
+   "should": "Odległość między ścianami zewnętrznymi budynków ZL, które nie są ścianami oddzielenia przeciwpożarowego, wynosi co najmniej 8 m, jeżeli ściany mają na ponad 65% powierzchni klasę E z kolumny 5 tabeli w § 216 ust. 1. Tak będzie po przyjęciu klasy „B”: ściana wschodnia E I 60 poza oknami (okna 16%), ściana budynku mieszkalnego E I 30 poza oknami (okna 20%). Ściana zaprojektowana jako E I 30 nie ma klasy E 60 wymaganej dla klasy „B”, więc w obecnym stanie wymagana odległość rośnie o 100%, do 16 m. W pasie tej szerokości ściana budynku biurowego musiałaby spełniać wymagania dla ściany oddzielenia przeciwpożarowego obu budynków.",
+   "basis": "§ 271 ust. 1 WT; § 271 ust. 5 WT; § 271 ust. 10 WT; § 232 ust. 4 WT",
    "quote": "nie powinna, z zastrzeżeniem ust. 2 i 3, być mniejsza niż odległość w metrach określona w poniższej tabeli",
-   "fix": "Odsunąć budynek na 8 m albo wykonać ścianę wschodnią jako ścianę oddzielenia przeciwpożarowego (dla klasy „B”: R E I 120, zamknięcia otworów E I 60), albo zastosować stałe urządzenia gaśnicze wodne w strefach przylegających do tej ściany: zmniejszenie o 25% daje 6,0 m (§ 271 ust. 7)."
+   "fix": "Odsunąć budynek na co najmniej 8 m albo wykonać ścianę wschodnią jako ścianę oddzielenia przeciwpożarowego (dla klasy „B”: R E I 120, otwory najwyżej 15% powierzchni ściany, zamknięte E I 60 – § 232 ust. 2 i 4; obecne okna zajmują 16%), albo zastosować stałe urządzenia gaśnicze wodne we wszystkich strefach przylegających do tej ściany: zmniejszenie o 25% daje 6,0 m (§ 271 ust. 7)."
   },
   {
    "id": "p1",
@@ -1797,5 +1898,11 @@
    "fix": ""
   }
  ],
- "summary": "Projekt wymaga uzgodnienia, ale w przedstawionej postaci nie spełnia wymagań ochrony przeciwpożarowej. Przesądzają o tym cztery sprawy: zaniżona klasa odporności pożarowej, klatka schodowa bez ochrony przed zadymieniem, za długie dojście przy jednej klatce i za mała odległość od budynku sąsiedniego.\nPozostałe uwagi dotyczą korytarza, zasięgu hydrantów, gaśnic, oświetlenia awaryjnego, wyłącznika prądu, drogi pożarowej i ilości wody. Wszystkie da się usunąć zmianami projektu, bez odstępstwa.\nOdstępstwo albo zgoda na rozwiązania zamienne byłyby potrzebne tylko wtedy, gdyby inwestor nie chciał spełnić wymagań wprost, na przykład zrezygnował z drugiej klatki schodowej."
+ "summary": "Projekt wymaga uzgodnienia, ale w przedstawionej postaci nie spełnia wymagań ochrony przeciwpożarowej. Przesądzają o tym cztery sprawy: zaniżona klasa odporności pożarowej, klatka schodowa bez ochrony przed zadymieniem, za długie dojście przy jednej klatce i za mała odległość od budynku sąsiedniego.\nPozostałe uwagi dotyczą korytarza, zasięgu hydrantów, gaśnic, oświetlenia awaryjnego, wyłącznika prądu, drogi pożarowej i ilości wody. Wszystkie da się usunąć zmianami projektu, bez odstępstwa.\nOdstępstwo albo zgoda na rozwiązania zamienne byłyby potrzebne tylko wtedy, gdyby inwestor nie chciał spełnić wymagań wprost, na przykład zrezygnował z drugiej klatki schodowej.",
+ "review": {
+  "date": "2026-11-25",
+  "solverFound": 12,
+  "issues": 12,
+  "note": "Poprawiono rysunek klatki K1 (spoczniki 1,50 m), dorysowano łuk drogi pożarowej R 11 m i dojście od wyjścia z K1, uzupełniono opis o dane potrzebne do rozstrzygnięć (pobór z dwóch hydrantów, udział okien, dach, sieć wodociągowa, oświadczenie inwestora) i doprecyzowano pozycje 5, 10, 11 i 12 klucza."
+ }
 }

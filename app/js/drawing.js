@@ -109,7 +109,7 @@
         var sub = [it.area != null ? fmt(it.area, 1) + ' m²' : null, it.note].filter(Boolean).join(' · ');
         var narrow = r[2] < r[3] * 0.45 && !it.flat, t;
         if (it.stack && sub) { lines.push(sub); sub = ''; }
-        t = text(layers.text, cx, cy - (sub ? F * 0.25 : -F * 0.3), lines.join('\n'), 'dw-t-room', { rot: narrow ? -90 : 0, size: it.size || 1 });
+        if (lines.length) t = text(layers.text, cx, cy - (sub ? F * 0.25 : -F * 0.3), lines.join('\n'), 'dw-t-room', { rot: narrow ? -90 : 0, size: it.size || 1 });
         if (sub) text(layers.text, narrow ? cx + F * 1.25 : cx, narrow ? cy : cy + F * 1.05, sub, 'dw-t-2', { size: 0.82 * (it.size || 1), rot: narrow ? -90 : 0 });
         return t;
       },
@@ -157,7 +157,7 @@
         else if (s.shape === 'cross') { rectEl(g, [x - r, y - r, 2 * r, 2 * r], 'dw-sym-box'); el('path', { d: 'M' + X(x - r) + ' ' + X(y - r) + 'L' + X(x + r) + ' ' + X(y + r) + 'M' + X(x + r) + ' ' + X(y - r) + 'L' + X(x - r) + ' ' + X(y + r), 'class': 'dw-thin' }, g); }
         else rectEl(g, s.shape === 'wide' ? [x - r * 1.7, y - r * 0.8, r * 3.4, r * 1.6] : [x - r, y - r, 2 * r, 2 * r], s.shape === 'box' && s.sub ? 'dw-sym-fill' : 'dw-sym-box');
         if (s.text) text(g, x, y + F * 0.3, s.text, 'dw-t-sym' + (s.shape === 'dot' || s.shape === 'ring' || (s.shape === 'box' && s.sub) ? ' inv' : ''), { size: s.shape === 'wide' ? 0.75 : 0.85 });
-        var lab = it.label || (s.sub ? s.text + s.sub : '');
+        var lab = (it.label || '').trim() || (it.label ? '' : (s.sub ? s.text + s.sub : ''));
         if (lab) { var lo = it.lo || [0, r + F * 0.9]; text(layers.text, x + lo[0], y + lo[1], lab, 'dw-t-' + (s.cls === 'ink' ? '2' : s.cls), { size: 0.8 }); }
       },
       rect: function (it) { draw.poly({ k: it.k, label: it.label, lo: it.lo, size: it.size, pts: [[it.rect[0], it.rect[1]], [it.rect[0] + it.rect[2], it.rect[1]], [it.rect[0] + it.rect[2], it.rect[1] + it.rect[3]], [it.rect[0], it.rect[1] + it.rect[3]]] }); },

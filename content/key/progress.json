@@ -1,32 +1,47 @@
 {
- "order": [
-  "R",
-  "K",
-  "K2",
-  "H",
-  "P",
-  "D1",
-  "D2",
-  "D3",
-  "E1",
-  "E2",
-  "W1",
-  "W2",
-  "Z"
- ],
- "done": {
-  "R": {
-   "date": "2026-11-25",
-   "questions": 60,
-   "confirmed": 56,
-   "skipped": 4,
-   "disputed": 2,
-   "changedVsOldKey": 15,
-   "lessons": [
-    "T08"
-   ],
-   "flashcards": 40,
-   "tokens": 2018506
+  "order": [
+    "R",
+    "K",
+    "K2",
+    "H",
+    "P",
+    "D1",
+    "D2",
+    "D3",
+    "E1",
+    "E2",
+    "W1",
+    "W2",
+    "Z"
+  ],
+  "done": {
+    "R": {
+      "date": "2026-11-25",
+      "questions": 60,
+      "confirmed": 56,
+      "skipped": 4,
+      "disputed": 2,
+      "changedVsOldKey": 15,
+      "lessons": [
+        "T08"
+      ],
+      "flashcards": 40,
+      "tokens": 2018506
+    },
+    "K": {
+      "date": "2026-11-25",
+      "cases": [
+        "K01",
+        "K02",
+        "K03"
+      ],
+      "issues": 38,
+      "solverFound": 38,
+      "keyFixed": 9,
+      "keyRemoved": 1,
+      "unintendedFixed": 11,
+      "note": "K01 tylko kontrola; K02 drzewa przeniesione do pozycji poprawnych (§ 12 ust. 7 rozp. z 2009 r.); K03 gaśnica przy frytownicach (wskazana przez zdającego) przeniesiona w dokumentacji",
+      "tokens": 3501444
+    }
   }
- }
 }

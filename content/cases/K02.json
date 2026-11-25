@@ -1,0 +1,2557 @@
+{
+ "id": "K02",
+ "title": "Hala magazynowa z częścią socjalno-biurową",
+ "level": 3,
+ "lead": "Projekt przed uzgodnieniem: jednokondygnacyjna hala magazynowa o dużej gęstości obciążenia ogniowego z dobudowaną dwukondygnacyjną częścią socjalno-biurową.",
+ "tags": [
+  "PM",
+  "ZL III",
+  "hala magazynowa",
+  "ocena projektu",
+  "uzgodnienie"
+ ],
+ "topics": [
+  "W1",
+  "W2",
+  "W3",
+  "R1",
+  "R2",
+  "H1",
+  "H2",
+  "P2"
+ ],
+ "legal": "Wymagania budowlane podano według warunków technicznych z 2002 r. (tekst jednolity z 2022 r. ze zmianami z 2023 i 2024 r.). Rozporządzenie utraciło moc 21.09.2026, ale art. 102a Prawa budowlanego pozwala przez 18 miesięcy od 20.09.2026 sporządzić projekt według przepisów obowiązujących do 19.09.2026 po złożeniu oświadczenia inwestora. Do dnia sporządzenia kazusu nowych warunków technicznych nie ogłoszono; po ich ogłoszeniu klucz zostanie sprawdzony ponownie. Pozostałe podstawy (rozporządzenia MSWiA z 2009, 2010 i 2023 r., ustawa o ochronie przeciwpożarowej, Prawo budowlane) obowiązują. Długość węża hydrantu 52 przyjęto według PN-EN 671-2:2012, p. 4.4.3.",
+ "problem": "Projektant przekazał do uzgodnienia projekt zagospodarowania terenu i projekt architektoniczno-budowlany hali magazynowej z dobudowaną częścią socjalno-biurową. Na podstawie wyciągu z opisu warunków ochrony przeciwpożarowej i dwóch rysunków proszę ocenić zgodność rozwiązań z wymaganiami ochrony przeciwpożarowej.\nProszę wskazać niezgodności i braki wraz z podstawą prawną i wartością wymaganą, powiedzieć, czy projekt można uzgodnić, oraz zaproponować sposób doprowadzenia go do zgodności.",
+ "doc": {
+  "title": "Hala magazynowa z częścią socjalno-biurową przy ul. Składowej – warunki ochrony przeciwpożarowej",
+  "meta": [
+   [
+    "Inwestycja",
+    "Budowa hali magazynowej z częścią socjalno-biurową wraz z zagospodarowaniem terenu (dane fikcyjne)"
+   ],
+   [
+    "Adres",
+    "ul. Składowa, dz. nr 45/7"
+   ],
+   [
+    "Stadium",
+    "Projekt zagospodarowania terenu i projekt architektoniczno-budowlany"
+   ],
+   [
+    "Przepisy techniczno-budowlane",
+    "Warunki techniczne z 12.04.2002 r.; inwestor złoży oświadczenie, o którym mowa w art. 102a ust. 1 Prawa budowlanego"
+   ],
+   [
+    "Zakres wyciągu",
+    "Opis warunków ochrony przeciwpożarowej; rys. 1 – rzut parteru; rys. 2 – plan zagospodarowania terenu"
+   ]
+  ],
+  "sections": [
+   {
+    "no": "1",
+    "h": "Powierzchnia, kubatura, wysokość i liczba kondygnacji",
+    "text": "- Hala magazynowa: wymiary zewnętrzne 72,0 × 60,0 m, powierzchnia zabudowy 4 320,0 m², powierzchnia wewnętrzna 4 241,2 m² (71,4 × 59,4 m), wysokość 10,50 m, kubatura brutto 45 360 m³. Jedna kondygnacja nadziemna; wysokość w świetle do spodu konstrukcji dachu 9,0 m.\n- Część socjalno-biurowa, dobudowana do ściany zachodniej hali: wymiary zewnętrzne 12,0 × 24,0 m, powierzchnia zabudowy 288,0 m², powierzchnia wewnętrzna 538,2 m² (2 × 269,1 m²), wysokość 7,80 m, kubatura brutto 2 246,4 m³. Dwie kondygnacje nadziemne; strop nad parterem na poziomie +3,60 m.\n- Budynek niepodpiwniczony. Grupa wysokości: budynek niski (N)."
+   },
+   {
+    "no": "2",
+    "h": "Charakterystyka zagrożenia pożarowego",
+    "text": "Hala służy do składowania artykułów wyposażenia wnętrz (meble tapicerowane, tekstylia, wyroby z tworzyw sztucznych) w opakowaniach kartonowych, na regałach wysokiego składowania do wysokości 7,5 m. Wzdłuż ściany północnej znajduje się pas przyjęć i wydań towaru obsługiwany przez sześć ramp dokowych.\nMaksymalna gęstość obciążenia ogniowego strefy PM, obliczona dla składowania na pełnej wysokości regałów i towaru odkładanego czasowo w pasie przyjęć i wydań, w odniesieniu do całej powierzchni wewnętrznej hali (4 241,2 m²): Q = 2 400 MJ/m².\nMateriały niebezpieczne pożarowo nie występują. Zagrożenie wybuchem nie występuje; w budynku nie ma pomieszczeń zagrożonych wybuchem.\nW części socjalno-biurowej znajdują się szatnie, jadalnia, pomieszczenia biurowe i sanitarne."
+   },
+   {
+    "no": "3",
+    "h": "Klasyfikacja pożarowa, kategoria zagrożenia ludzi i liczba osób",
+    "text": "- Hala: strefa pożarowa produkcyjna i magazynowa (PM).\n- Część socjalno-biurowa: budynek użyteczności publicznej o funkcji biurowej i socjalnej, kategoria zagrożenia ludzi ZL III.\n- Przewidywana liczba osób przebywających jednocześnie: hala – 55 (magazynierzy, operatorzy wózków, kontrola jakości), parter części socjalno-biurowej – 18, piętro – 24. W części socjalno-biurowej nie ma pomieszczeń przeznaczonych dla ponad 50 osób."
+   },
+   {
+    "no": "4",
+    "h": "Podział na strefy pożarowe i oddzielenia przeciwpożarowe",
+    "text": "- Strefa I – PM (hala). Do powierzchni strefy przyjęto część składową hali: 3 527,2 m² (71,4 × 49,4 m). Pas przyjęć i wydań wzdłuż doków (71,4 × 10,0 m, 714,0 m²) jest wydzielony z części składowej i nie służy składowaniu, dlatego nie wlicza się go do powierzchni strefy.\n- Dopuszczalna powierzchnia strefy PM o gęstości obciążenia ogniowego od 2 000 do 4 000 MJ/m² w budynku o jednej kondygnacji nadziemnej wynosi 4 000 m² (§ 228 ust. 1 WT); strefa nie wymaga powiększenia.\n- Strefa II – ZL III (część socjalno-biurowa): 538,2 m², dopuszczalna 8 000 m² (§ 227 ust. 1 WT).\n- Strefy oddziela żelbetowa ściana oddzielenia przeciwpożarowego o klasie REI 60, na własnym fundamencie, doprowadzona do przekrycia dachu hali, bez otworów powyżej dachu części socjalno-biurowej. Na styku ze ścianami zewnętrznymi wykonano pionowe pasy z materiałów niepalnych o szerokości 2 m i klasie EI 60. Klasa ściany i drzwi odpowiada klasie „E” odporności pożarowej hali (§ 232 ust. 4 WT).\n- Jedyny otwór w ścianie oddzielenia przeciwpożarowego: drzwi W5 o klasie EI 30, samozamykające. Przepusty instalacyjne o klasie odporności ogniowej ściany; przewodów wentylacyjnych przez ścianę nie prowadzi się.\n- Hala i część socjalno-biurowa, wydzielone ścianą oddzielenia przeciwpożarowego od fundamentu do przekrycia dachu, traktowane są jako odrębne budynki (§ 210 WT)."
+   },
+   {
+    "no": "5",
+    "h": "Klasa odporności pożarowej i odporność ogniowa elementów",
+    "text": "Hala: dla budynku PM o jednej kondygnacji nadziemnej i Q = 2 400 MJ/m² wymagana jest klasa „B” (§ 212 ust. 4 WT). Przyjęto klasę „E” na podstawie § 215 ust. 1 WT, ponieważ wszystkie elementy budynku są nierozprzestrzeniające ognia. Samoczynnych urządzeń oddymiających nie przewiduje się, bo strefa pożarowa nie przekracza 4 000 m² i nie korzysta z powiększenia powierzchni.\nCzęść socjalno-biurowa: budynek ZL III o dwóch kondygnacjach nadziemnych, strop nad pierwszą kondygnacją na wysokości 3,60 m nad terenem – przyjęto klasę „D” (§ 212 ust. 3 WT).\nWszystkie elementy budynku są nierozprzestrzeniające ognia. Przekrycie dachu hali (blacha trapezowa, wełna mineralna, membrana) jest nierozprzestrzeniające ognia.",
+    "table": {
+     "head": [
+      "Element budynku",
+      "Hala – klasa „E”",
+      "Część socjalno-biurowa – klasa „D”"
+     ],
+     "rows": [
+      [
+       "Główna konstrukcja nośna",
+       "stal, bez wymagań (–)",
+       "R 30"
+      ],
+      [
+       "Konstrukcja dachu",
+       "stal, bez wymagań (–)",
+       "bez wymagań (–)"
+      ],
+      [
+       "Strop",
+       "nie występuje",
+       "R E I 30"
+      ],
+      [
+       "Ściana zewnętrzna",
+       "płyty warstwowe z rdzeniem z wełny mineralnej, bez wymagań (–)",
+       "E I 30 (o↔i)"
+      ],
+      [
+       "Ściana wewnętrzna",
+       "bez wymagań (–)",
+       "bez wymagań (–)"
+      ],
+      [
+       "Przekrycie dachu",
+       "bez wymagań (–)",
+       "bez wymagań (–)"
+      ],
+      [
+       "Biegi i spoczniki schodów",
+       "nie występują",
+       "R 30, materiały niepalne"
+      ]
+     ]
+    }
+   },
+   {
+    "no": "6",
+    "h": "Warunki ewakuacji",
+    "text": "- Hala: wyjścia ewakuacyjne W1, W2 i W3 w ścianie południowej oraz W4 w ścianie wschodniej prowadzą bezpośrednio na zewnątrz; szerokość drzwi 1,20 m w świetle ościeżnicy. Wyjście W5 o szerokości 1,00 m prowadzi do strefy ZL III i dalej przez wejście główne na zewnątrz. Bramy dokowe nie są wyjściami ewakuacyjnymi.\n- Najdłuższe przejście ewakuacyjne w hali, z północnej części pasa przyjęć do wyjścia W2, wynosi 62,3 m (rys. 1); dopuszczalne 100 m (§ 237 ust. 1 pkt 3 WT). Szerokość przejść między regałami 3,20 m.\n- Część socjalno-biurowa: jedna klatka schodowa, nieobudowana, dwubiegowa, w holu wejściowym, ze spocznikiem międzypiętrowym od strony północnej; biegi 1,20 m, spoczniki 1,50 m, wysokość stopni 0,17 m. Korytarze o szerokości 1,50 m. Najdłuższe dojście ewakuacyjne, z najdalszego pomieszczenia na piętrze do wyjścia z budynku, wynosi 23,0 m (9,0 m korytarzem na piętrze, 6,0 m po schodach, 8,0 m przez hol parteru), w tym 17,0 m na poziomych drogach ewakuacyjnych (dopuszczalne 30 m, w tym 20 m – § 256 ust. 3 WT). Drzwi wejściowe o szerokości 1,20 m otwierane na zewnątrz, drzwi z pomieszczeń 0,90 m.\n- Awaryjne oświetlenie ewakuacyjne w hali (pomieszczenie o powierzchni ponad 2 000 m²) i na drogach ewakuacyjnych części socjalno-biurowej; czas działania 1 h."
+   },
+   {
+    "no": "7",
+    "h": "Urządzenia przeciwpożarowe i instalacje",
+    "text": "- Hydranty 52 w hali: 6 sztuk z wężem płasko składanym o długości 20 m, przy wyjściach i w przejściach komunikacyjnych (rys. 1). Zasięg (20 m węża i 10 m rzutu prądu) obejmuje całą powierzchnię hali. Wydajność hydrantu 2,5 dm³/s, ciśnienie na zaworze odcinającym od 0,2 do 0,7 MPa, zawory na wysokości 1,35 m.\n- Instalacja wodociągowa przeciwpożarowa z rur stalowych: przewód rozprowadzający obwodowy DN 80 zasilany z dwóch stron, z zasuwami sekcyjnymi, odejścia do hydrantów DN 50; zasilanie z miejskiej sieci wodociągowej przez co najmniej 1 h. Instalacja zapewnia jednoczesny pobór wody z dwóch sąsiednich hydrantów 52 (§ 23 pkt 2 rozp. MSWiA z 7.06.2010). Hala ogrzewana do +12 °C.\n- W części socjalno-biurowej hydrantów wewnętrznych nie przewiduje się (budynek niski, strefa ZL III poniżej 1 000 m²).\n- Systemu sygnalizacji pożarowej, dźwiękowego systemu ostrzegawczego ani stałych urządzeń gaśniczych nie przewiduje się; nie są wymagane.\n- Urządzeń oddymiających nie przewiduje się (pkt 5). W dachu hali świetliki pasmowe nieotwierane, co najmniej 6 m od ściany oddzielenia przeciwpożarowego.\n- Przeciwpożarowy wyłącznik prądu przy wejściu głównym (rys. 1), odcinający dopływ prądu do obu stref pożarowych.\n- Instalacja odgromowa zgodnie z Polską Normą."
+   },
+   {
+    "no": "8",
+    "h": "Gaśnice",
+    "text": "Hala: 1 jednostka masy środka gaśniczego 2 kg na każde 300 m² powierzchni strefy (§ 32 ust. 3 pkt 2 rozp. MSWiA z 7.06.2010), czyli dla 3 527,2 m² – 12 jednostek, 24 kg. Przewidziano 8 gaśnic proszkowych ABC 6 kg (48 kg).\nCzęść socjalno-biurowa: 1 jednostka na 100 m², czyli dla 538,2 m² – 6 jednostek, 12 kg. Przewidziano 4 gaśnice proszkowe 4 kg (16 kg), po dwie na kondygnacji.\nGaśnice rozmieszczono przy wyjściach i w przejściach (rys. 1); odległość dojścia do najbliższej gaśnicy nie przekracza 30 m, dostęp ma szerokość co najmniej 1 m."
+   },
+   {
+    "no": "9",
+    "h": "Przygotowanie do działań ratowniczych",
+    "text": "- Droga pożarowa wzdłuż ściany południowej (dłuższego boku hali) na całej długości budynku; bliższa krawędź w odległości 10,0 m od ściany. Szerokość jezdni 4,0 m, nawierzchnia z płyt ażurowych o dopuszczalnym nacisku osi 50 kN – inwestycja leży poza granicami miasta (§ 13 ust. 3 rozp. MSWiA z 24.07.2009). Droga ma dwa włączenia do ul. Składowej (przejazd bez cofania), łuki o promieniu zewnętrznym 12 m, spadek podłużny do 2%.\n- Krótszy bok budynku ma 60,0 m, dlatego droga pożarowa z jednej strony jest wystarczająca.\n- Wyjścia W1–W3 i wejście główne połączone z drogą pożarową utwardzonymi dojściami o szerokości 2,0 m i długości 10 m, wyjście W4 – utwardzonym chodnikiem o szerokości 1,8 m wzdłuż ściany wschodniej, o długości 30 m.\n- Woda do zewnętrznego gaszenia pożaru: 20 dm³/s z dwóch hydrantów nadziemnych DN 80, jak dla budynku o kubaturze ponad 5 000 m³ (§ 5 ust. 1 pkt 2 rozp. MSWiA z 24.07.2009). HZ1 na sieci w ul. Składowej, 22 m od budynku; HZ2 na projektowanej na działce sieci obwodowej DN 150, na placu manewrowym przy północno-wschodnim narożniku hali, 6,0 m od ściany hali. Sieć zapewnia 10 dm³/s z każdego hydrantu przy ciśnieniu 0,2 MPa."
+   },
+   {
+    "no": "10",
+    "h": "Usytuowanie z uwagi na bezpieczeństwo pożarowe",
+    "text": "- Od wschodu: istniejący budynek magazynowy na dz. nr 45/8 (PM, Q ≤ 500 MJ/m², ściany murowane, przekrycie dachu nierozprzestrzeniające ognia) w odległości 12,0 m od hali. Wymagana odległość od budynku PM o Q ≤ 1 000 MJ/m² wynosi 8 m (§ 271 ust. 1 WT).\n- Od zachodu: dz. nr 45/6, niezabudowana, w miejscowym planie przeznaczona pod zabudowę produkcyjną, składy i usługi (P/U). Odległości od granic działki według rys. 2; ściany z oknami i drzwiami co najmniej 4 m od granic (§ 12 WT).\n- Od północy i południa: drogi publiczne – ul. Logistyczna i ul. Składowa.\n- Ściany zewnętrzne i przekrycia dachów projektowanego budynku są nierozprzestrzeniające ognia. Ściany zewnętrzne części socjalno-biurowej mają klasę E I 30 na ponad 65% powierzchni; okna zajmują mniej niż 10% powierzchni ściany zachodniej. W sąsiedztwie nie ma budynków mieszkalnych ani zamieszkania zbiorowego."
+   },
+   {
+    "no": "11",
+    "h": "Rozwiązania zamienne",
+    "text": "Nie przewiduje się. Nie występowano o zgodę na odstępstwo ani o zgodę na rozwiązania zamienne."
+   }
+  ]
+ },
+ "drawings": [
+  {
+   "id": "R1",
+   "title": "Rzut parteru – hala magazynowa i parter części socjalno-biurowej",
+   "scale": "1:200",
+   "kind": "rzut",
+   "size": [
+    84,
+    60
+   ],
+   "pad": [
+    4.2,
+    4.2,
+    3.2,
+    5.6
+   ],
+   "font": 0.85,
+   "note": "Wymiary w metrach. Liczba osób w hali według projektanta: 55. Rzut piętra części socjalno-biurowej nie jest częścią wyciągu.",
+   "items": [
+    {
+     "t": "wall",
+     "k": "ext",
+     "w": 0.3,
+     "pts": [
+      [
+       12.15,
+       36.0
+      ],
+      [
+       12.15,
+       0.15
+      ],
+      [
+       83.85,
+       0.15
+      ],
+      [
+       83.85,
+       59.85
+      ],
+      [
+       12.15,
+       59.85
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "k": "fire",
+     "w": 0.3,
+     "pts": [
+      [
+       12.15,
+       36.0
+      ],
+      [
+       12.15,
+       60.0
+      ]
+     ],
+     "label": "REI 60",
+     "lo": [
+      2.55,
+      -9.4
+     ]
+    },
+    {
+     "t": "wall",
+     "k": "ext",
+     "w": 0.4,
+     "pts": [
+      [
+       12.0,
+       36.2
+      ],
+      [
+       0.2,
+       36.2
+      ],
+      [
+       0.2,
+       59.8
+      ],
+      [
+       12.0,
+       59.8
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       0.4,
+       43.1
+      ],
+      [
+       12.0,
+       43.1
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       6.2,
+       36.4
+      ],
+      [
+       6.2,
+       43.0
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       0.4,
+       44.8
+      ],
+      [
+       6.6,
+       44.8
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       6.5,
+       44.8
+      ],
+      [
+       6.5,
+       59.6
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       0.4,
+       52.1
+      ],
+      [
+       6.4,
+       52.1
+      ]
+     ]
+    },
+    {
+     "t": "wall",
+     "pts": [
+      [
+       0.4,
+       55.7
+      ],
+      [
+       6.4,
+       55.7
+      ]
+     ]
+    },
+    {
+     "t": "window",
+     "at": [
+      0.2,
+      39.7
+     ],
+     "w": 1.5,
+     "dir": "v",
+     "th": 0.4
+    },
+    {
+     "t": "window",
+     "at": [
+      0.2,
+      48.4
+     ],
+     "w": 1.5,
+     "dir": "v",
+     "th": 0.4
+    },
+    {
+     "t": "window",
+     "at": [
+      0.2,
+      57.7
+     ],
+     "w": 1.5,
+     "dir": "v",
+     "th": 0.4
+    },
+    {
+     "t": "window",
+     "at": [
+      3.2,
+      36.2
+     ],
+     "w": 1.5,
+     "th": 0.4
+    },
+    {
+     "t": "window",
+     "at": [
+      9.1,
+      36.2
+     ],
+     "w": 1.5,
+     "th": 0.4
+    },
+    {
+     "t": "window",
+     "at": [
+      3.4,
+      59.8
+     ],
+     "w": 1.5,
+     "th": 0.4
+    },
+    {
+     "t": "window",
+     "at": [
+      32,
+      0.15
+     ],
+     "w": 3.0,
+     "th": 0.3
+    },
+    {
+     "t": "window",
+     "at": [
+      41,
+      0.15
+     ],
+     "w": 3.0,
+     "th": 0.3
+    },
+    {
+     "t": "window",
+     "at": [
+      50,
+      0.15
+     ],
+     "w": 3.0,
+     "th": 0.3
+    },
+    {
+     "t": "window",
+     "at": [
+      59,
+      0.15
+     ],
+     "w": 3.0,
+     "th": 0.3
+    },
+    {
+     "t": "window",
+     "at": [
+      68,
+      0.15
+     ],
+     "w": 3.0,
+     "th": 0.3
+    },
+    {
+     "t": "window",
+     "at": [
+      77,
+      0.15
+     ],
+     "w": 3.0,
+     "th": 0.3
+    },
+    {
+     "t": "door",
+     "at": [
+      22.0,
+      59.85
+     ],
+     "w": 1.2,
+     "open": "s",
+     "th": 0.3,
+     "label": "W1",
+     "lo": [
+      -1.6,
+      -0.75
+     ]
+    },
+    {
+     "t": "door",
+     "at": [
+      52.0,
+      59.85
+     ],
+     "w": 1.2,
+     "open": "s",
+     "th": 0.3,
+     "label": "W2",
+     "lo": [
+      -2.0,
+      -0.75
+     ]
+    },
+    {
+     "t": "door",
+     "at": [
+      78.0,
+      59.85
+     ],
+     "w": 1.2,
+     "open": "s",
+     "th": 0.3,
+     "label": "W3",
+     "lo": [
+      -1.6,
+      -0.75
+     ]
+    },
+    {
+     "t": "door",
+     "at": [
+      83.85,
+      40.0
+     ],
+     "w": 1.2,
+     "dir": "v",
+     "open": "w",
+     "th": 0.3,
+     "label": "W4",
+     "lo": [
+      1.45,
+      0
+     ]
+    },
+    {
+     "t": "door",
+     "at": [
+      12.15,
+      43.95
+     ],
+     "w": 1.0,
+     "dir": "v",
+     "open": "w",
+     "th": 0.3,
+     "cls": "EI 30",
+     "label": "W5",
+     "lo": [
+      -2.85,
+      0
+     ]
+    },
+    {
+     "t": "door",
+     "at": [
+      3.2,
+      43.1
+     ],
+     "w": 0.9,
+     "open": "n"
+    },
+    {
+     "t": "door",
+     "at": [
+      9.1,
+      43.1
+     ],
+     "w": 0.9,
+     "open": "n"
+    },
+    {
+     "t": "door",
+     "at": [
+      6.5,
+      48.4
+     ],
+     "w": 0.9,
+     "dir": "v",
+     "open": "w"
+    },
+    {
+     "t": "door",
+     "at": [
+      6.5,
+      53.9
+     ],
+     "w": 0.9,
+     "dir": "v",
+     "open": "w"
+    },
+    {
+     "t": "door",
+     "at": [
+      6.5,
+      57.6
+     ],
+     "w": 0.9,
+     "dir": "v",
+     "open": "w"
+    },
+    {
+     "t": "door",
+     "at": [
+      9.3,
+      59.8
+     ],
+     "w": 1.2,
+     "open": "s",
+     "th": 0.4
+    },
+    {
+     "t": "room",
+     "rect": [
+      17.7,
+      12.3,
+      2.6,
+      19.0
+     ],
+     "fill": "tech"
+    },
+    {
+     "t": "room",
+     "rect": [
+      17.7,
+      35.3,
+      2.6,
+      19.0
+     ],
+     "fill": "tech"
+    },
+    {
+     "t": "room",
+     "rect": [
+      23.5,
+      12.3,
+      2.6,
+      19.0
+     ],
+     "fill": "tech"
+    },
+    {
+     "t": "room",
+     "rect": [
+      23.5,
+      35.3,
+      2.6,
+      19.0
+     ],
+     "fill": "tech"
+    },
+    {
+     "t": "room",
+     "rect": [
+      29.3,
+      12.3,
+      2.6,
+      19.0
+     ],
+     "fill": "tech"
+    },
+    {
+     "t": "room",
+     "rect": [
+      29.3,
+      35.3,
+      2.6,
+      19.0
+     ],
+     "fill": "tech"
+    },
+    {
+     "t": "room",
+     "rect": [
+      35.1,
+      12.3,
+      2.6,
+      19.0
+     ],
+     "fill": "tech"
+    },
+    {
+     "t": "room",
+     "rect": [
+      35.1,
+      35.3,
+      2.6,
+      19.0
+     ],
+     "fill": "tech"
+    },
+    {
+     "t": "room",
+     "rect": [
+      40.9,
+      12.3,
+      2.6,
+      19.0
+     ],
+     "fill": "tech"
+    },
+    {
+     "t": "room",
+     "rect": [
+      40.9,
+      35.3,
+      2.6,
+      19.0
+     ],
+     "fill": "tech"
+    },
+    {
+     "t": "room",
+     "rect": [
+      46.7,
+      12.3,
+      2.6,
+      19.0
+     ],
+     "fill": "tech"
+    },
+    {
+     "t": "room",
+     "rect": [
+      46.7,
+      35.3,
+      2.6,
+      19.0
+     ],
+     "fill": "tech"
+    },
+    {
+     "t": "room",
+     "rect": [
+      52.5,
+      12.3,
+      2.6,
+      19.0
+     ],
+     "fill": "tech"
+    },
+    {
+     "t": "room",
+     "rect": [
+      52.5,
+      35.3,
+      2.6,
+      19.0
+     ],
+     "fill": "tech"
+    },
+    {
+     "t": "room",
+     "rect": [
+      58.3,
+      12.3,
+      2.6,
+      19.0
+     ],
+     "fill": "tech"
+    },
+    {
+     "t": "room",
+     "rect": [
+      58.3,
+      35.3,
+      2.6,
+      19.0
+     ],
+     "fill": "tech"
+    },
+    {
+     "t": "room",
+     "rect": [
+      64.1,
+      12.3,
+      2.6,
+      19.0
+     ],
+     "fill": "tech"
+    },
+    {
+     "t": "room",
+     "rect": [
+      64.1,
+      35.3,
+      2.6,
+      19.0
+     ],
+     "fill": "tech"
+    },
+    {
+     "t": "room",
+     "rect": [
+      69.9,
+      12.3,
+      2.6,
+      19.0
+     ],
+     "fill": "tech"
+    },
+    {
+     "t": "room",
+     "rect": [
+      69.9,
+      35.3,
+      2.6,
+      19.0
+     ],
+     "fill": "tech"
+    },
+    {
+     "t": "room",
+     "rect": [
+      75.7,
+      12.3,
+      2.6,
+      19.0
+     ],
+     "fill": "tech"
+    },
+    {
+     "t": "room",
+     "rect": [
+      75.7,
+      35.3,
+      2.6,
+      19.0
+     ],
+     "fill": "tech"
+    },
+    {
+     "t": "line",
+     "a": [
+      12.3,
+      10.3
+     ],
+     "b": [
+      83.7,
+      10.3
+     ],
+     "k": "thin"
+    },
+    {
+     "t": "text",
+     "at": [
+      64.0,
+      9.6
+     ],
+     "text": "granica pasa przyjęć i wydań – oznakowanie poziome na posadzce",
+     "size": 0.8
+    },
+    {
+     "t": "text",
+     "at": [
+      48.0,
+      -0.75
+     ],
+     "text": "6 bram dokowych 3,0 × 3,2 m (nie są wyjściami ewakuacyjnymi)",
+     "size": 0.8
+    },
+    {
+     "t": "room",
+     "rect": [
+      12.3,
+      0.3,
+      71.4,
+      59.4
+     ],
+     "no": "1.01",
+     "name": "Hala magazynowa",
+     "area": 4241.2,
+     "note": "55 os.",
+     "lo": [
+      -14.0,
+      -23.2
+     ]
+    },
+    {
+     "t": "room",
+     "rect": [
+      0.4,
+      36.4,
+      5.7,
+      6.6
+     ],
+     "no": "0.01",
+     "name": "Szatnia",
+     "area": 37.6,
+     "size": 0.85
+    },
+    {
+     "t": "room",
+     "rect": [
+      6.3,
+      36.4,
+      5.7,
+      6.6
+     ],
+     "no": "0.02",
+     "name": "Szatnia",
+     "area": 37.6,
+     "size": 0.85
+    },
+    {
+     "t": "room",
+     "rect": [
+      0.4,
+      43.2,
+      11.6,
+      1.5
+     ],
+     "no": "0.03",
+     "name": "Korytarz",
+     "lo": [
+      -2.7,
+      0
+     ],
+     "size": 0.8,
+     "flat": true
+    },
+    {
+     "t": "room",
+     "rect": [
+      0.4,
+      44.9,
+      6.0,
+      7.1
+     ],
+     "no": "0.04",
+     "name": "Jadalnia",
+     "area": 42.6,
+     "note": "16 m.",
+     "size": 0.85
+    },
+    {
+     "t": "room",
+     "rect": [
+      0.4,
+      52.2,
+      6.0,
+      3.4
+     ],
+     "no": "0.05",
+     "name": "WC",
+     "area": 20.4,
+     "size": 0.85
+    },
+    {
+     "t": "room",
+     "rect": [
+      0.4,
+      55.8,
+      6.0,
+      3.8
+     ],
+     "no": "0.07",
+     "name": "Biuro",
+     "area": 22.8,
+     "size": 0.85
+    },
+    {
+     "t": "room",
+     "rect": [
+      6.6,
+      44.7,
+      5.4,
+      14.9
+     ],
+     "no": "0.06",
+     "name": "Hol",
+     "area": 80.5,
+     "lo": [
+      -0.6,
+      2.5
+     ],
+     "size": 0.85,
+     "flat": true
+    },
+    {
+     "t": "stair",
+     "rect": [
+      9.4,
+      48.9,
+      2.4,
+      3.0
+     ],
+     "n": 10,
+     "axis": "y",
+     "label": "schody"
+    },
+    {
+     "t": "line",
+     "a": [
+      9.4,
+      47.4
+     ],
+     "b": [
+      11.8,
+      47.4
+     ],
+     "k": "thin"
+    },
+    {
+     "t": "line",
+     "a": [
+      9.4,
+      47.4
+     ],
+     "b": [
+      9.4,
+      48.9
+     ],
+     "k": "thin"
+    },
+    {
+     "t": "line",
+     "a": [
+      11.8,
+      47.4
+     ],
+     "b": [
+      11.8,
+      48.9
+     ],
+     "k": "thin"
+    },
+    {
+     "t": "sym",
+     "k": "H52",
+     "at": [
+      30.0,
+      0.95
+     ],
+     "lo": [
+      -1.95,
+      0.3
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "H52",
+     "at": [
+      23.5,
+      59.05
+     ],
+     "lo": [
+      0,
+      -1.1
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "H52",
+     "at": [
+      53.5,
+      59.05
+     ],
+     "lo": [
+      0,
+      -1.1
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "H52",
+     "at": [
+      83.05,
+      37.4
+     ],
+     "lo": [
+      0,
+      -1.1
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "H52",
+     "at": [
+      12.95,
+      46.0
+     ],
+     "lo": [
+      0,
+      1.6
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "H52",
+     "at": [
+      56.0,
+      33.3
+     ],
+     "lo": [
+      1.95,
+      0.3
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "G",
+     "at": [
+      25.0,
+      1.0
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "G",
+     "at": [
+      62.0,
+      1.0
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "G",
+     "at": [
+      20.0,
+      33.3
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "G",
+     "at": [
+      47.5,
+      33.3
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "G",
+     "at": [
+      72.0,
+      33.3
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "G",
+     "at": [
+      36.0,
+      59.0
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "G",
+     "at": [
+      66.0,
+      59.0
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "G",
+     "at": [
+      83.0,
+      43.6
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "G",
+     "at": [
+      7.4,
+      45.9
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "G",
+     "at": [
+      11.3,
+      56.4
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "PWP",
+     "at": [
+      7.75,
+      58.4
+     ]
+    },
+    {
+     "t": "path",
+     "pts": [
+      [
+       44.7,
+       0.6
+      ],
+      [
+       45.1,
+       12.3
+      ],
+      [
+       45.1,
+       54.3
+      ],
+      [
+       52.0,
+       59.4
+      ]
+     ],
+     "label": "przejście 62,3 m"
+    },
+    {
+     "t": "path",
+     "k": "hose",
+     "pts": [
+      [
+       30.0,
+       1.7
+      ],
+      [
+       30.0,
+       2.5
+      ],
+      [
+       59.2,
+       2.5
+      ]
+     ],
+     "label": "zasięg H52 wg projektanta 30 m",
+     "lo": [
+      8.8,
+      1.05
+     ]
+    },
+    {
+     "t": "path",
+     "k": "hose",
+     "pts": [
+      [
+       82.3,
+       37.4
+      ],
+      [
+       81.0,
+       37.4
+      ],
+      [
+       81.0,
+       8.7
+      ]
+     ],
+     "label": "zasięg 30 m"
+    },
+    {
+     "t": "leader",
+     "a": [
+      32.5,
+      33.95
+     ],
+     "b": [
+      35.0,
+      30.6
+     ],
+     "text": "regały, składowanie do 7,5 m",
+     "anchor": "end",
+     "lo": [
+      0,
+      0.3
+     ]
+    },
+    {
+     "t": "dim",
+     "a": [
+      12,
+      0
+     ],
+     "b": [
+      84,
+      0
+     ],
+     "off": -2.0,
+     "text": "72,00"
+    },
+    {
+     "t": "dim",
+     "a": [
+      0,
+      60
+     ],
+     "b": [
+      12,
+      60
+     ],
+     "off": 2.0,
+     "text": "12,00"
+    },
+    {
+     "t": "dim",
+     "a": [
+      12,
+      60
+     ],
+     "b": [
+      84,
+      60
+     ],
+     "off": 2.0,
+     "text": "72,00"
+    },
+    {
+     "t": "dim",
+     "a": [
+      0,
+      60
+     ],
+     "b": [
+      84,
+      60
+     ],
+     "off": 3.9,
+     "text": "84,00"
+    },
+    {
+     "t": "dim",
+     "a": [
+      0,
+      36
+     ],
+     "b": [
+      0,
+      60
+     ],
+     "off": 2.0,
+     "text": "24,00"
+    },
+    {
+     "t": "dim",
+     "a": [
+      84,
+      0
+     ],
+     "b": [
+      84,
+      60
+     ],
+     "off": -2.6,
+     "text": "60,00"
+    },
+    {
+     "t": "dim",
+     "a": [
+      12.3,
+      56.5
+     ],
+     "b": [
+      83.7,
+      56.5
+     ],
+     "text": "71,40",
+     "tlo": [
+      -17.0,
+      0
+     ]
+    },
+    {
+     "t": "dim",
+     "a": [
+      16.9,
+      0.3
+     ],
+     "b": [
+      16.9,
+      59.7
+     ],
+     "text": "59,40",
+     "tlo": [
+      0,
+      -7.0
+     ]
+    },
+    {
+     "t": "dim",
+     "a": [
+      14.3,
+      0.3
+     ],
+     "b": [
+      14.3,
+      10.3
+     ],
+     "text": "10,00"
+    },
+    {
+     "t": "dim",
+     "a": [
+      26.1,
+      22.0
+     ],
+     "b": [
+      29.3,
+      22.0
+     ],
+     "text": "3,20"
+    }
+   ]
+  },
+  {
+   "id": "R2",
+   "title": "Plan zagospodarowania terenu",
+   "scale": "1:500",
+   "kind": "plan",
+   "size": [
+    136,
+    130
+   ],
+   "pad": [
+    2,
+    2,
+    2,
+    2
+   ],
+   "font": 1.5,
+   "north": [
+    8,
+    94
+   ],
+   "note": "Wymiary w metrach. Hydrant HZ1 na miejskiej sieci wodociągowej w ul. Składowej; HZ2 na sieci projektowanej na działce.",
+   "items": [
+    {
+     "t": "rect",
+     "k": "road",
+     "rect": [
+      0,
+      0,
+      136,
+      7
+     ],
+     "label": "ul. Logistyczna – droga publiczna",
+     "lo": [
+      -34,
+      0
+     ]
+    },
+    {
+     "t": "rect",
+     "k": "road",
+     "rect": [
+      0,
+      123,
+      136,
+      7
+     ],
+     "label": "ul. Składowa – droga publiczna",
+     "lo": [
+      -38,
+      0
+     ]
+    },
+    {
+     "t": "poly",
+     "k": "plot",
+     "pts": [
+      [
+       16,
+       9
+      ],
+      [
+       112,
+       9
+      ],
+      [
+       112,
+       121
+      ],
+      [
+       16,
+       121
+      ]
+     ]
+    },
+    {
+     "t": "poly",
+     "k": "plot",
+     "pts": [
+      [
+       0,
+       9
+      ],
+      [
+       16,
+       9
+      ],
+      [
+       16,
+       121
+      ],
+      [
+       0,
+       121
+      ]
+     ]
+    },
+    {
+     "t": "poly",
+     "k": "plot",
+     "pts": [
+      [
+       112,
+       9
+      ],
+      [
+       136,
+       9
+      ],
+      [
+       136,
+       121
+      ],
+      [
+       112,
+       121
+      ]
+     ]
+    },
+    {
+     "t": "poly",
+     "k": "paved",
+     "pts": [
+      [
+       30,
+       7
+      ],
+      [
+       110,
+       7
+      ],
+      [
+       110,
+       40
+      ],
+      [
+       30,
+       40
+      ]
+     ],
+     "label": "plac manewrowy przy rampach dokowych",
+     "lo": [
+      8,
+      -4.5
+     ]
+    },
+    {
+     "t": "rect",
+     "k": "green",
+     "rect": [
+      22,
+      100.25,
+      86,
+      9.75
+     ]
+    },
+    {
+     "t": "poly",
+     "k": "fireroad",
+     "pts": [
+      [
+       20,
+       110
+      ],
+      [
+       108,
+       110
+      ],
+      [
+       108,
+       123
+      ],
+      [
+       104,
+       123
+      ],
+      [
+       104.0,
+       122.0
+      ],
+      [
+       103.73,
+       119.93
+      ],
+      [
+       102.93,
+       118.0
+      ],
+      [
+       101.66,
+       116.34
+      ],
+      [
+       100.0,
+       115.07
+      ],
+      [
+       98.07,
+       114.27
+      ],
+      [
+       96.0,
+       114.0
+      ],
+      [
+       32.0,
+       114.0
+      ],
+      [
+       29.93,
+       114.27
+      ],
+      [
+       28.0,
+       115.07
+      ],
+      [
+       26.34,
+       116.34
+      ],
+      [
+       25.07,
+       118.0
+      ],
+      [
+       24.27,
+       119.93
+      ],
+      [
+       24.0,
+       122.0
+      ],
+      [
+       24,
+       123
+      ],
+      [
+       20,
+       123
+      ]
+     ],
+     "label": "droga pożarowa, szer. 4,0 m",
+     "lo": [
+      -26.0,
+      -5.76
+     ]
+    },
+    {
+     "t": "rect",
+     "k": "parking",
+     "rect": [
+      30,
+      115,
+      68,
+      5
+     ],
+     "label": "parking – 27 miejsc",
+     "lo": [
+      0,
+      -0.4
+     ]
+    },
+    {
+     "t": "rect",
+     "k": "paved",
+     "rect": [
+      43,
+      100.25,
+      2,
+      9.75
+     ]
+    },
+    {
+     "t": "rect",
+     "k": "paved",
+     "rect": [
+      73,
+      100.25,
+      2,
+      9.75
+     ]
+    },
+    {
+     "t": "rect",
+     "k": "paved",
+     "rect": [
+      99,
+      100.25,
+      2,
+      9.75
+     ]
+    },
+    {
+     "t": "rect",
+     "k": "paved",
+     "rect": [
+      30.3,
+      100.25,
+      2,
+      9.75
+     ]
+    },
+    {
+     "t": "rect",
+     "k": "paved",
+     "rect": [
+      106.2,
+      40,
+      1.8,
+      70
+     ]
+    },
+    {
+     "t": "rect",
+     "k": "building",
+     "rect": [
+      34,
+      40,
+      72,
+      60
+     ],
+     "label": "HALA MAGAZYNOWA (PM, Q = 2400 MJ/m²)\n1 kondygnacja nadziemna, wysokość 10,50 m",
+     "lo": [
+      0,
+      -6
+     ]
+    },
+    {
+     "t": "rect",
+     "k": "building",
+     "rect": [
+      22,
+      76,
+      12,
+      24
+     ],
+     "label": "część\nsocjalno-\nbiurowa\nZL III\n2 kond.\n7,80 m",
+     "size": 0.75,
+     "lo": [
+      0,
+      -2.5
+     ]
+    },
+    {
+     "t": "wall",
+     "k": "fire",
+     "w": 0.6,
+     "pts": [
+      [
+       34,
+       76
+      ],
+      [
+       34,
+       100
+      ]
+     ]
+    },
+    {
+     "t": "rect",
+     "k": "neighbor",
+     "rect": [
+      118,
+      46,
+      12,
+      46
+     ],
+     "label": "istniejący\nbudynek\nmagazynowy\nPM,\nQ ≤ 500 MJ/m²,\nściany\nmurowane",
+     "size": 0.72
+    },
+    {
+     "t": "sym",
+     "k": "TREE",
+     "at": [
+      55,
+      105
+     ],
+     "r": 2.2
+    },
+    {
+     "t": "sym",
+     "k": "TREE",
+     "at": [
+      65,
+      105
+     ],
+     "r": 2.2
+    },
+    {
+     "t": "sym",
+     "k": "TREE",
+     "at": [
+      88,
+      105
+     ],
+     "r": 2.2
+    },
+    {
+     "t": "sym",
+     "k": "HZ",
+     "at": [
+      64,
+      122
+     ],
+     "label": "HZ1 – DN 80",
+     "lo": [
+      0,
+      3.6
+     ]
+    },
+    {
+     "t": "sym",
+     "k": "HZ",
+     "at": [
+      100,
+      37
+     ],
+     "label": "HZ2 – DN 80",
+     "lo": [
+      -6.2,
+      0.4
+     ]
+    },
+    {
+     "t": "dim",
+     "a": [
+      34,
+      45
+     ],
+     "b": [
+      106,
+      45
+     ],
+     "text": "72,00"
+    },
+    {
+     "t": "dim",
+     "a": [
+      101,
+      40
+     ],
+     "b": [
+      101,
+      100
+     ],
+     "text": "60,00"
+    },
+    {
+     "t": "dim",
+     "a": [
+      22,
+      97
+     ],
+     "b": [
+      34,
+      97
+     ],
+     "text": "12,00"
+    },
+    {
+     "t": "dim",
+     "a": [
+      24.2,
+      76
+     ],
+     "b": [
+      24.2,
+      100
+     ],
+     "text": "24,00",
+     "tlo": [
+      0,
+      6
+     ]
+    },
+    {
+     "t": "dim",
+     "a": [
+      80,
+      100
+     ],
+     "b": [
+      80,
+      110
+     ],
+     "text": "10,00"
+    },
+    {
+     "t": "dim",
+     "a": [
+      93,
+      110
+     ],
+     "b": [
+      93,
+      114
+     ],
+     "text": "4,00"
+    },
+    {
+     "t": "dim",
+     "a": [
+      106,
+      70
+     ],
+     "b": [
+      118,
+      70
+     ],
+     "text": "12,00",
+     "tlo": [
+      3.0,
+      0
+     ]
+    },
+    {
+     "t": "dim",
+     "a": [
+      16,
+      90
+     ],
+     "b": [
+      22,
+      90
+     ],
+     "text": "6,00"
+    },
+    {
+     "t": "dim",
+     "a": [
+      103.5,
+      37
+     ],
+     "b": [
+      103.5,
+      40
+     ],
+     "text": "3,00",
+     "tlo": [
+      2.3,
+      -0.9
+     ]
+    },
+    {
+     "t": "line",
+     "a": [
+      100,
+      37
+     ],
+     "b": [
+      104.3,
+      37
+     ],
+     "k": "thin"
+    },
+    {
+     "t": "text",
+     "at": [
+      54,
+      19
+     ],
+     "text": "dz. nr 45/7"
+    },
+    {
+     "t": "text",
+     "at": [
+      124,
+      22
+     ],
+     "text": "dz. nr 45/8"
+    },
+    {
+     "t": "text",
+     "at": [
+      8,
+      52
+     ],
+     "text": "dz. nr 45/6\nniezabudowana\nMPZP: teren P/U\n(produkcja,\nskłady,\nusługi)",
+     "size": 0.8
+    },
+    {
+     "t": "text",
+     "at": [
+      41.2,
+      103.2
+     ],
+     "text": "W1",
+     "size": 0.8
+    },
+    {
+     "t": "text",
+     "at": [
+      71.2,
+      103.2
+     ],
+     "text": "W2",
+     "size": 0.8
+    },
+    {
+     "t": "text",
+     "at": [
+      97.2,
+      103.2
+     ],
+     "text": "W3",
+     "size": 0.8
+    },
+    {
+     "t": "text",
+     "at": [
+      110.0,
+      80.4
+     ],
+     "text": "W4",
+     "size": 0.8
+    },
+    {
+     "t": "leader",
+     "a": [
+      114.5,
+      117.6
+     ],
+     "b": [
+      102.6,
+      115.2
+     ],
+     "text": "łuk, R zewn. = 12 m",
+     "anchor": "start"
+    },
+    {
+     "t": "leader",
+     "a": [
+      9,
+      113
+     ],
+     "b": [
+      31.2,
+      100.6
+     ],
+     "text": "wejście główne",
+     "anchor": "middle",
+     "lo": [
+      0,
+      1.6
+     ]
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "q1",
+   "kind": "ocena",
+   "q": "Jak należy zakwalifikować obiekt i jakiej klasy odporności pożarowej wymagają hala i część socjalno-biurowa? Na jakich warunkach można obniżyć klasę hali?",
+   "points": [
+    {
+     "t": "Hala to strefa PM o Q = 2 400 MJ/m²; część socjalno-biurowa (budynek biurowy i socjalny jest budynkiem użyteczności publicznej) to ZL III. Wysokość do 12 m: budynek niski.",
+     "basis": "§ 209 ust. 1 i ust. 2 pkt 3 WT; § 3 pkt 6 WT; § 8 pkt 1 WT"
+    },
+    {
+     "t": "Części wydzielone ścianami oddzielenia przeciwpożarowego w pionie, od fundamentu do przekrycia dachu, można traktować jako odrębne budynki. Hala jest wtedy budynkiem jednokondygnacyjnym, a część socjalno-biurowa dwukondygnacyjnym.",
+     "basis": "§ 210 WT"
+    },
+    {
+     "t": "Budynek PM o jednej kondygnacji nadziemnej i 2 000 < Q ≤ 4 000 MJ/m²: klasa „B”.",
+     "basis": "§ 212 ust. 4 WT"
+    },
+    {
+     "t": "Obniżenie do „E”: wszystkie elementy nierozprzestrzeniające ognia oraz samoczynne urządzenia oddymiające w strefach ponad 1 000 m². Inna droga: stałe samoczynne urządzenia gaśnicze wodne – obniżenie o jedną klasę albo „E” dla budynku jednokondygnacyjnego. Projekt nie ma ani oddymiania, ani tryskaczy, więc klasa „E” jest nieuzasadniona.",
+     "basis": "§ 215 ust. 1 WT; § 214 WT"
+    },
+    {
+     "t": "Część ZL III w budynku niskim: klasa „C”, a przy dwóch kondygnacjach nadziemnych i stropie nad parterem do 9 m nad terenem dopuszcza się „D” – przyjęta klasa „D” jest zgodna.",
+     "basis": "§ 212 ust. 2 i 3 WT"
+    },
+    {
+     "t": "Elementy budynku nierozprzestrzeniające ognia; przekrycie dachu o powierzchni ponad 1 000 m² nierozprzestrzeniające ognia, a palna izolacja oddzielona przegrodą R E 15 – tu izolacja z wełny mineralnej.",
+     "basis": "§ 216 ust. 2 WT; § 219 ust. 1 WT"
+    }
+   ]
+  },
+  {
+   "id": "q2",
+   "kind": "ocena",
+   "q": "Proszę ocenić powierzchnię strefy pożarowej PM i oddzielenie części ZL III. Jak można powiększyć strefę?",
+   "points": [
+    {
+     "t": "Powierzchnia strefy to powierzchnia wewnętrzna hali: 71,4 × 59,4 m = 4 241,2 m². Pasa przyjęć nie wolno odliczać; na rysunku nie jest on nawet wydzielony przegrodą.",
+     "basis": "§ 226 ust. 3 WT; § 3 pkt 23 WT"
+    },
+    {
+     "t": "Dopuszczalna powierzchnia strefy PM (strefy pozostałe, 2 000 < Q ≤ 4 000 MJ/m²): 4 000 m² w budynku jednokondygnacyjnym, 2 000 m² w budynku wielokondygnacyjnym niskim. Strefa 4 241,2 m² przekracza 4 000 m².",
+     "basis": "§ 228 ust. 1 WT"
+    },
+    {
+     "t": "Powiększenie: stałe samoczynne urządzenia gaśnicze wodne – o 100%, samoczynne urządzenia oddymiające – o 50%, oba – o 150%. W budynku jednokondygnacyjnym bez pomieszczeń zagrożonych wybuchem, z elementów nierozprzestrzeniających ognia i z samoczynnym oddymianiem – o 100%; przy tryskaczach i oddymianiu – bez ograniczenia.",
+     "basis": "§ 229 WT; § 230 ust. 1 i 2 WT"
+    },
+    {
+     "t": "Ściana oddzielająca: obniżenie klasy budynku nie zwalnia z pierwotnie wymaganej klasy elementów oddzielenia. Dla klasy „B”: ściana R E I 120, drzwi E I 60 – projekt ma REI 60 i EI 30.",
+     "basis": "§ 215 ust. 2 WT; § 232 ust. 4 WT"
+    },
+    {
+     "t": "Ściana z materiałów niepalnych, na własnym fundamencie, wysunięta 0,3 m poza lico ściany zewnętrznej albo z pionowymi pasami 2 m E I 60; otwory do 15% powierzchni ściany, drzwi samozamykające; przepusty instalacyjne o klasie ściany; świetliki i klapy bliżej niż 5 m – ściana wyprowadzona 0,3 m ponad ich krawędź.",
+     "basis": "§ 232 ust. 1 i 2 WT; § 235 ust. 1, 2 i 4 WT; § 240 ust. 6 WT; § 234 ust. 1 WT"
+    }
+   ]
+  },
+  {
+   "id": "q3",
+   "kind": "ocena",
+   "q": "Proszę ocenić warunki ewakuacji z hali: długość przejść, liczbę i rodzaj wyjść oraz oświetlenie awaryjne.",
+   "points": [
+    {
+     "t": "Przejście w strefie PM w budynku jednokondygnacyjnym: do 100 m bez względu na gęstość obciążenia ogniowego – 62,3 m jest zgodne. W budynku wielokondygnacyjnym dla Q > 500 MJ/m² byłoby 75 m; powiększenia o 25% w pomieszczeniu wyższym niż 5 m oraz o 50% przy tryskaczach i przy oddymianiu uruchamianym przez system wykrywania dymu.",
+     "basis": "§ 237 ust. 1 pkt 2 i 3 WT; § 237 ust. 5–7 WT"
+    },
+    {
+     "t": "Hala ma ponad 300 m², Q ponad 500 MJ/m² i 55 osób: co najmniej dwa wyjścia oddalone o co najmniej 5 m – spełnione (W1–W5).",
+     "basis": "§ 238 pkt 1 i 3 WT"
+    },
+    {
+     "t": "Drzwi z pomieszczenia dla ponad 50 osób oraz drzwi wyjściowe z budynku dla ponad 50 osób otwierają się na zewnątrz – drzwi W4 otwierają się do hali.",
+     "basis": "§ 239 ust. 2 pkt 3 WT; § 236 ust. 4 WT"
+    },
+    {
+     "t": "Szerokość drzwi: 0,6 m na 100 osób, nie mniej niż 0,9 m; drzwi wyjściowe z budynku nie węższe niż bieg schodów według § 68 (1,2 m) – 1,20 m jest zgodne.",
+     "basis": "§ 239 ust. 1 i 4 WT; § 68 ust. 1 WT"
+    },
+    {
+     "t": "Bramy dokowe nie są wyjściami; gdyby bramy leżały na drodze ewakuacyjnej, potrzebne byłyby w nich drzwi otwierane ręcznie albo oznakowane drzwi obok.",
+     "basis": "§ 240 ust. 5 WT"
+    },
+    {
+     "t": "Awaryjne oświetlenie ewakuacyjne jest wymagane w pomieszczeniu o powierzchni netto ponad 2 000 m² w budynku magazynowym, z czasem działania co najmniej 1 h – przewidziane.",
+     "basis": "§ 181 ust. 3 pkt 1 lit. e WT; § 181 ust. 5 WT"
+    }
+   ]
+  },
+  {
+   "id": "q4",
+   "kind": "ocena",
+   "q": "Jakie hydranty wewnętrzne i gaśnice są wymagane w hali? Proszę ocenić rozmieszczenie i zasięg hydrantów 52.",
+   "points": [
+    {
+     "t": "Hydranty 52 są obowiązkowe w strefie PM o Q ponad 500 MJ/m² i powierzchni ponad 200 m². Hydrantów 33 nie można zastosować, bo Q przekracza 1 000 MJ/m².",
+     "basis": "§ 19 ust. 3 pkt 1 i ust. 4 rozp. MSWiA z 7.06.2010"
+    },
+    {
+     "t": "Zasięg obejmuje całą powierzchnię strefy: długość węża (dla hydrantu 52 do 20 m) plus 10 m rzutu (3 m tylko w strefach ZL budynków wielokondygnacyjnych). Północno-wschodnia część pasa przyjęć jest ok. 39 m od najbliższego hydrantu. W strefie PM dla miejsc, z których do najbliższego wyjścia ewakuacyjnego lub innego wyjścia na przestrzeń otwartą jest ponad 30 m, dopuszcza się dodatkowy wąż przy hydrancie 52.",
+     "basis": "§ 20 ust. 3 i 4 rozp. MSWiA z 7.06.2010; PN-EN 671-2:2012, p. 4.4.3"
+    },
+    {
+     "t": "Jednoczesny pobór wody z czterech sąsiednich hydrantów (PM, Q ponad 500 MJ/m², strefa ponad 3 000 m²), a nie z dwóch; wydajność 2,5 dm³/s, ciśnienie od 0,2 do 0,7 MPa, zawory na 1,35 ± 0,1 m, zasilanie przez co najmniej 1 h.",
+     "basis": "§ 23 pkt 3 lit. b rozp. MSWiA z 7.06.2010; § 22 ust. 1, 2 i 4 rozp. MSWiA z 7.06.2010; § 21 ust. 1 rozp. MSWiA z 7.06.2010; § 18 ust. 4 rozp. MSWiA z 7.06.2010"
+    },
+    {
+     "t": "Przy więcej niż 5 hydrantach na przewodach rozprowadzających przewód obwodowy z zasuwami; średnica przewodów zasilających hydranty 52 co najmniej DN 50 – w projekcie zgodne.",
+     "basis": "§ 25 ust. 4 pkt 2, ust. 6 pkt 2 i ust. 7 rozp. MSWiA z 7.06.2010"
+    },
+    {
+     "t": "Gaśnice: 2 kg środka na każde 100 m² strefy PM o Q ponad 500 MJ/m², czyli 43 jednostki, 86 kg; dojście do gaśnicy do 30 m, dostęp 1 m. Część ZL III: 12 kg, przewidziano 16 kg.",
+     "basis": "§ 32 ust. 3 pkt 1 rozp. MSWiA z 7.06.2010; § 33 ust. 2 rozp. MSWiA z 7.06.2010"
+    },
+    {
+     "t": "Nie są wymagane: hydranty 25 w części ZL III (budynek niski, strefa do 1 000 m²), system sygnalizacji pożarowej, DSO, stałe urządzenia gaśnicze. Przeciwpożarowy wyłącznik prądu jest wymagany (strefy ponad 1 000 m³) i przewidziany przy wejściu głównym.",
+     "basis": "§ 19 ust. 1 pkt 2 lit. b rozp. MSWiA z 7.06.2010; § 27 ust. 2, § 28 ust. 1 i § 29 ust. 1 rozp. MSWiA z 7.06.2010; § 183 ust. 2 i 3 WT"
+    }
+   ]
+  },
+  {
+   "id": "q5",
+   "kind": "ocena",
+   "q": "Proszę ocenić drogę pożarową i zaopatrzenie w wodę do zewnętrznego gaszenia pożaru.",
+   "points": [
+    {
+     "t": "Droga pożarowa jest wymagana: budynek ze strefą PM o Q ponad 500 MJ/m² i powierzchni ponad 1 000 m².",
+     "basis": "§ 12 ust. 1 pkt 3 rozp. MSWiA z 24.07.2009"
+    },
+    {
+     "t": "Budynek ma nie więcej niż 3 kondygnacje nadziemne i wysokość do 12 m, a wyjścia mają utwardzone dojścia do drogi pożarowej (co najmniej 1,5 m szerokości, do 30 m długości), zapewniające dotarcie do każdej strefy pożarowej. Dlatego wymagań § 12 ust. 2 i 3 (droga wzdłuż dłuższego boku, odległość 5–15 m lub 5–25 m od ściany, droga z dwóch stron przy krótszym boku ponad 60 m, zakaz drzew i krzewów ponad 3 m między drogą a ścianą) nie stosuje się – drzewa przed ścianą południową nie są niezgodnością.",
+     "basis": "§ 12 ust. 7 rozp. MSWiA z 24.07.2009; § 12 ust. 2 rozp. MSWiA z 24.07.2009"
+    },
+    {
+     "t": "Szerokość co najmniej 4 m i spadek do 5% w miejscach z § 12 ust. 2 i 3, w innych miejscach co najmniej 3,5 m – droga ma 4,0 m. Nacisk osi co najmniej 100 kN na działce obiektu z § 12 ust. 1 pkt 3, bez względu na położenie w mieście – 50 kN jest niezgodne. Przejazd bez cofania albo plac 20 × 20 m, łuk zewnętrzny co najmniej 11 m – spełnione (R 12 m).",
+     "basis": "§ 13 ust. 1 i 2 rozp. MSWiA z 24.07.2009; § 12 ust. 9 i 11 rozp. MSWiA z 24.07.2009"
+    },
+    {
+     "t": "Dojścia od wyjść do drogi pożarowej: szerokość co najmniej 1,5 m, długość do 50 m – spełnione.",
+     "basis": "§ 12 ust. 4 rozp. MSWiA z 24.07.2009"
+    },
+    {
+     "t": "Woda: dla obiektu PM z tabeli nr 2 dla strefy, dla której jest największa (Q od 2 000 do 4 000 MJ/m², powierzchnia od 4 000 do 5 000 m²) – 40 dm³/s, a nie 20 dm³/s z § 5. Przy ponad 30 dm³/s hydranty nadziemne DN 100.",
+     "basis": "§ 6 ust. 3 rozp. MSWiA z 24.07.2009; § 10 ust. 3 rozp. MSWiA z 24.07.2009"
+    },
+    {
+     "t": "Rozmieszczenie hydrantów: najbliższy do 75 m od obiektu, pozostałe do 150 m, do 15 m od krawędzi jezdni, co najmniej 5 m od ściany budynku – HZ2 na rysunku 3,0 m.",
+     "basis": "§ 10 ust. 6 rozp. MSWiA z 24.07.2009"
+    },
+    {
+     "t": "Gdy spełnienie wymagań jest niemożliwe ze względu na lokalne uwarunkowania, właściciel może wnioskować o rozwiązania zamienne w zakresie wody i dróg pożarowych, uzgadniane z komendantem wojewódzkim PSP.",
+     "basis": "§ 8 ust. 3 rozp. MSWiA z 24.07.2009; § 13 ust. 4 rozp. MSWiA z 24.07.2009"
+    }
+   ]
+  },
+  {
+   "id": "q6",
+   "kind": "ocena",
+   "q": "Czy usytuowanie budynku względem sąsiedniej zabudowy i granic działki jest prawidłowe? Od czego zależy wymagana odległość?",
+   "points": [
+    {
+     "t": "Odległość odczytuje się z tabeli dla obu budynków; dla budynków PM decyduje gęstość obciążenia ogniowego. Hala (1 000 < Q ≤ 4 000) i budynek PM o Q ≤ 1 000 MJ/m²: 15 m. 12 m to za mało; 8 m dotyczy tylko pary budynków PM o Q do 1 000 MJ/m².",
+     "basis": "§ 271 ust. 1 WT"
+    },
+    {
+     "t": "Zwiększenia: o 50% albo 100% przy ścianach lub przekryciach rozprzestrzeniających ogień, 20 m przy pomieszczeniu zagrożonym wybuchem. Zmniejszenia: o 25% przy stałych urządzeniach gaśniczych wodnych w strefach jednego budynku przy tej ścianie, o 50% przy takich urządzeniach w obu budynkach.",
+     "basis": "§ 271 ust. 2, 3, 6 i 7 WT"
+    },
+    {
+     "t": "Zamiast odległości ściana oddzielenia przeciwpożarowego: dla hali R E I 120 z zamknięciami E I 60, bo obowiązuje pierwotna klasa „B”.",
+     "basis": "§ 271 ust. 1 WT; § 232 ust. 4 WT; § 215 ust. 2 WT"
+    },
+    {
+     "t": "Od granicy niezabudowanej działki: połowa odległości z § 271, przy założeniu budynku przewidzianego w planie miejscowym, a dla PM o Q od 1 000 do 4 000 MJ/m². Dla części ZL III: 15 m / 2 = 7,5 m; na rysunku 6,0 m.",
+     "basis": "§ 272 ust. 1 WT"
+    },
+    {
+     "t": "Budynek magazynowy o powierzchni zabudowy ponad 1 000 m² sytuuje się co najmniej 30 m od budynku mieszkalnego lub zamieszkania zbiorowego na innej działce – takich budynków w sąsiedztwie nie ma.",
+     "basis": "§ 12 ust. 11 WT (w brzmieniu od 1.08.2024)"
+    }
+   ]
+  },
+  {
+   "id": "q7",
+   "kind": "procedura",
+   "q": "Czy projekt wymaga uzgodnienia z rzeczoznawcą? Czy w przedstawionej postaci można go uzgodnić i jak rzeczoznawca dokumentuje uzgodnienie?",
+   "points": [
+    {
+     "t": "Tak: obiekt ze strefą PM o powierzchni ponad 1 000 m² i Q ponad 500 MJ/m². Uzgodnienia wymagają też droga pożarowa niebędąca drogą publiczną i projektowana na działce sieć z hydrantem zewnętrznym.",
+     "basis": "art. 6b ustawy o ochronie ppoż.; § 3 ust. 1 pkt 5 lit. a, pkt 9 i pkt 13 rozp. MSWiA z 5.08.2023"
+    },
+    {
+     "t": "Podstawą uzgodnienia są dane z § 4, w tym podział na strefy, maksymalna gęstość obciążenia ogniowego stref PM z warunkami jej ustalenia, klasa odporności pożarowej, warunki ewakuacji, dobór urządzeń, droga pożarowa i woda do gaszenia.",
+     "basis": "§ 4 ust. 1 pkt 1 i 2 rozp. MSWiA z 5.08.2023"
+    },
+    {
+     "t": "Uzgodnienie, bez uwag albo z uwagami, potwierdza zgodność projektu z wymaganiami. Przy niezgodnościach, które przesądzają o ocenie, projekt wraca do projektanta; poprawki wprowadza się w toku współpracy projektanta z rzeczoznawcą.",
+     "basis": "art. 6d ust. 1 ustawy o ochronie ppoż.; § 5 rozp. MSWiA z 5.08.2023"
+    },
+    {
+     "t": "Rozwiązania inne niż wynikające z przepisów rzeczoznawca może uzgodnić tylko wtedy, gdy do projektu dołączono zgodę na odstępstwo albo zgodę na rozwiązania zamienne.",
+     "basis": "art. 6c ustawy o ochronie ppoż."
+    },
+    {
+     "t": "Projekt papierowy: pieczęć i podpis na rysunku zagospodarowania terenu i na rzucie pierwszej kondygnacji nadziemnej. Projekt elektroniczny: kwalifikowany podpis elektroniczny i karta uzgodnienia.",
+     "basis": "art. 6d ust. 1 ustawy o ochronie ppoż.; § 6 ust. 1 pkt 1 i 2 rozp. MSWiA z 5.08.2023; § 7 ust. 1 rozp. MSWiA z 5.08.2023"
+    },
+    {
+     "t": "Zawiadomienie o uzgodnieniu do komendanta wojewódzkiego PSP w ciągu 14 dni, jako plik PDF (tu ZoUZG_PZT-PAB_…), przez elektroniczną skrzynkę podawczą.",
+     "basis": "art. 6d ust. 2 ustawy o ochronie ppoż.; § 9 ust. 1, 4 i 5 rozp. MSWiA z 5.08.2023"
+    },
+    {
+     "t": "Do dnia uzyskania pozwolenia na użytkowanie komendant wojewódzki PSP unieważnia, w drodze postanowienia, na które przysługuje zażalenie, uzgodnienie projektu z rozwiązaniami niezgodnymi z wymaganiami, mającymi istotny wpływ na bezpieczeństwo pożarowe. Po zakończeniu budowy inwestor zawiadamia komendanta powiatowego (miejskiego) PSP, który zajmuje stanowisko w sprawie zgodności wykonania obiektu z projektem w zakresie ochrony przeciwpożarowej.",
+     "basis": "art. 6e ust. 1 i 2 ustawy o ochronie ppoż.; art. 6 ust. 6 ustawy o ochronie ppoż.; art. 56 ust. 1 pkt 2 Prawa budowlanego"
+    }
+   ]
+  },
+  {
+   "id": "q8",
+   "kind": "zamienne",
+   "q": "Inwestor nie chce zmieniać usytuowania hali ani stosować w niej tryskaczy. Czy odległość 12 m od magazynu na działce nr 45/8 można zalegalizować rozwiązaniami zamiennymi? Jaki jest tryb i co musi wykazać ekspertyza?",
+   "points": [
+    {
+     "t": "Najpierw rozwiązania z samych przepisów: ściana wschodnia hali jako ściana oddzielenia przeciwpożarowego R E I 120 z zamknięciami E I 60 albo stałe urządzenia gaśnicze wodne w hali (zmniejszenie o 25% do 11,25 m).",
+     "basis": "§ 271 ust. 1 i 7 WT; § 232 ust. 4 WT"
+    },
+    {
+     "t": "Budynek projektowany: odstępstwo od przepisów techniczno-budowlanych. Zgody udziela organ administracji architektoniczno-budowlanej po upoważnieniu ministra, przed decyzją o pozwoleniu na budowę; odstępstwo nie może powodować zagrożenia życia ludzi ani bezpieczeństwa mienia.",
+     "basis": "art. 9 ust. 1 i 2 Prawa budowlanego"
+    },
+    {
+     "t": "Przy odstępstwie od przepisów o bezpieczeństwie pożarowym obiektu wymagającego uzgodnienia wniosek o upoważnienie zawiera ekspertyzę rzeczoznawcy do spraw zabezpieczeń przeciwpożarowych i postanowienie komendanta wojewódzkiego PSP o zgodzie na rozwiązania zamienne.",
+     "basis": "art. 9 ust. 3 pkt 5 Prawa budowlanego"
+    },
+    {
+     "t": "Postanowienie wydaje komendant wojewódzki PSP na uzasadniony ekspertyzą techniczną wniosek inwestora: zgoda, zgoda pod warunkami albo odmowa; służy na nie zażalenie. Tryb ten stosuje się także w przypadkach z art. 9 Prawa budowlanego.",
+     "basis": "art. 6a ust. 2 i 3 ustawy o ochronie ppoż."
+    },
+    {
+     "t": "Ekspertyza wykazuje, że rozwiązanie zamienne ogranicza możliwość powstania pożaru, a w razie pożaru zapewnia nośność konstrukcji przez określony czas, ograniczenie rozprzestrzeniania ognia i dymu w obiekcie oraz pożaru na obiekty sąsiednie (tu kluczowe – magazyn na działce nr 45/8), możliwość ewakuacji i bezpieczeństwo ekip ratowniczych.",
+     "basis": "art. 6a ust. 1 ustawy o ochronie ppoż."
+    },
+    {
+     "t": "Rzeczoznawca uzgadnia projekt dopiero po dołączeniu zgody; opis podaje zastosowane rozwiązania zamienne, a karta uzgodnienia zawiera adnotację o ich uwzględnieniu.",
+     "basis": "art. 6c ustawy o ochronie ppoż.; § 4 ust. 1 pkt 2 lit. m rozp. MSWiA z 5.08.2023; § 7 ust. 2 rozp. MSWiA z 5.08.2023"
+    }
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "id": "u1",
+   "kind": "błąd",
+   "weight": 3,
+   "act": "wt_2002",
+   "where": "opis, pkt 5 i 7",
+   "title": "Klasa „E” hali bez samoczynnych urządzeń oddymiających",
+   "is": "Klasa „E” przyjęta na podstawie § 215 ust. 1, a urządzeń oddymiających nie ma; projektant uzasadnia to tym, że strefa nie korzysta z powiększenia powierzchni.",
+   "should": "Jednokondygnacyjny budynek PM o Q = 2 400 MJ/m² wymaga klasy „B”. Klasę „E” z § 215 ust. 1 można przyjąć tylko przy łącznym spełnieniu dwóch warunków: wszystkie elementy nierozprzestrzeniające ognia oraz samoczynne urządzenia oddymiające w strefach o powierzchni ponad 1 000 m². Warunek oddymiania nie zależy od powiększania strefy; strefa ma 4 241,2 m². Bez oddymiania pozostaje klasa „B” (główna konstrukcja nośna R 120, konstrukcja dachu R 30, ściany zewnętrzne E I 60, przekrycie dachu R E 30) albo obniżenie dzięki stałym samoczynnym urządzeniom gaśniczym wodnym z § 214.",
+   "basis": "§ 212 ust. 4 WT; § 215 ust. 1 WT; § 216 ust. 1 WT; § 214 WT",
+   "quote": "samoczynnych urządzeń oddymiających w strefach pożarowych o powierzchni przekraczającej 1000 m2",
+   "fix": "Zaprojektować w hali samoczynne urządzenia oddymiające; to samo rozwiązanie pozwala powiększyć strefę (u2). Klapy w odległości poziomej mniejszej niż 5 m od ściany oddzielenia przeciwpożarowego wymagałyby wyprowadzenia tej ściany 0,3 m ponad ich górną krawędź (§ 235 ust. 4)."
+  },
+  {
+   "id": "u2",
+   "kind": "niespójność",
+   "weight": 3,
+   "act": "wt_2002",
+   "where": "opis, pkt 4; rys. 1 – pas przyjęć i wydań",
+   "marker": {
+    "d": "R1",
+    "at": [
+     21.0,
+     9.4
+    ]
+   },
+   "title": "Zaniżona powierzchnia strefy PM – pas przyjęć nie jest wydzielony",
+   "is": "Opis: do strefy wliczono tylko część składową (3 527,2 m²), a pas przyjęć i wydań (714,0 m²) ma być „wydzielony”. Na rysunku pas jest oznaczony tylko na posadzce, bez żadnej przegrody. Na tej podstawie projektant uznał, że strefa mieści się w 4 000 m² bez powiększenia.",
+   "should": "Powierzchnię strefy oblicza się jako powierzchnię wewnętrzną budynku lub jego części; przeznaczenie fragmentu hali jej nie zmniejsza. Strefa ma 4 241,2 m² (71,4 × 59,4 m) i przekracza 4 000 m² dopuszczalne dla PM o Q od 2 000 do 4 000 MJ/m² w budynku jednokondygnacyjnym. Powiększenie daje § 230 ust. 1 (o 100% przy elementach nierozprzestrzeniających ognia, bez pomieszczeń zagrożonych wybuchem i z samoczynnymi urządzeniami oddymiającymi) albo § 229 ust. 1 (tryskacze – o 100%, samoczynne oddymianie – o 50%). Projekt nie ma żadnego z tych urządzeń.",
+   "basis": "§ 226 ust. 3 WT; § 228 ust. 1 WT; § 229 ust. 1 WT; § 230 ust. 1 WT",
+   "quote": "Powierzchnia strefy pożarowej jest obliczana jako powierzchnia wewnętrzna budynku lub jego części",
+   "fix": "Poprawić powierzchnię strefy w opisie i oprzeć jej dopuszczalność na § 230 ust. 1 (samoczynne oddymianie jak w u1) albo na § 229; ewentualnie podzielić halę ścianą oddzielenia przeciwpożarowego."
+  },
+  {
+   "id": "u3",
+   "kind": "błąd",
+   "weight": 3,
+   "act": "wt_2002",
+   "where": "opis, pkt 4; rys. 1 – ściana REI 60 i drzwi W5",
+   "marker": {
+    "d": "R1",
+    "at": [
+     14.2,
+     52.6
+    ]
+   },
+   "title": "Za niska klasa ściany oddzielającej część ZL III i drzwi W5",
+   "is": "Ściana oddzielenia przeciwpożarowego REI 60 i drzwi EI 30, dobrane do klasy „E” przyjętej dla hali.",
+   "should": "Obniżenie klasy odporności pożarowej budynku na podstawie § 215 ust. 1 albo § 214 nie zwalnia z pierwotnie wymaganej klasy odporności ogniowej elementów oddzielenia przeciwpożarowego. Pierwotnie wymagana klasa hali to „B”, a dla niej ściany oddzielenia przeciwpożarowego mają R E I 120, a drzwi przeciwpożarowe E I 60. Od prawidłowego oddzielenia zależy też traktowanie hali jako odrębnego budynku jednokondygnacyjnego (§ 210) oraz zwolnienie narożnika wklęsłego między ścianą północną części socjalno-biurowej a ścianą zachodnią hali z wymagań § 271 ust. 10 (§ 271 ust. 12 pkt 1).",
+   "basis": "§ 215 ust. 2 WT; § 232 ust. 4 WT; § 210 WT; § 271 ust. 12 pkt 1 WT",
+   "quote": "z zachowania wymaganej pierwotnie klasy odporności ogniowej elementów oddzielenia przeciwpożarowego",
+   "fix": "Ściana R E I 120, drzwi W5 E I 60 samozamykające, przepusty instalacyjne o klasie E I 120 (§ 234 ust. 1)."
+  },
+  {
+   "id": "u4",
+   "kind": "błąd",
+   "weight": 2,
+   "act": "wt_2002",
+   "where": "rys. 1 – drzwi W4",
+   "marker": {
+    "d": "R1",
+    "at": [
+     80.6,
+     40.0
+    ]
+   },
+   "title": "Drzwi ewakuacyjne W4 otwierane do wnętrza hali",
+   "is": "Na rysunku skrzydło drzwi W4 w ścianie wschodniej otwiera się do hali, w której przebywa jednocześnie 55 osób.",
+   "should": "Drzwi stanowiące wyjście ewakuacyjne z pomieszczenia przeznaczonego do jednoczesnego przebywania ponad 50 osób otwierają się na zewnątrz pomieszczenia; tak samo drzwi wyjściowe z budynku przeznaczonego dla więcej niż 50 osób.",
+   "basis": "§ 239 ust. 2 pkt 3 WT; § 236 ust. 4 WT",
+   "quote": "Drzwi stanowiące wyjście ewakuacyjne powinny otwierać się na zewnątrz pomieszczeń",
+   "fix": "Zmienić kierunek otwierania drzwi W4 na zewnątrz budynku."
+  },
+  {
+   "id": "u5",
+   "kind": "błąd",
+   "weight": 2,
+   "act": "rozp_ppoz_2010",
+   "where": "rys. 1 – północno-wschodnia część pasa przyjęć",
+   "marker": {
+    "d": "R1",
+    "at": [
+     74.5,
+     5.6
+    ]
+   },
+   "title": "Zasięg hydrantów 52 nie obejmuje północno-wschodniej części hali",
+   "is": "Najbliżej wschodniej części pasa przyjęć są hydrant przy ścianie północnej (zasięg według projektanta kończy się ok. 24 m przed ścianą wschodnią) i hydrant przy wyjściu W4 (zasięg kończy się ok. 8 m przed ścianą północną). Najdalsze miejsca przy rampach wschodnich są ok. 39 m drogi od najbliższego hydrantu (w linii prostej ok. 38 m).",
+   "should": "Zasięg hydrantów wewnętrznych w poziomie ma obejmować całą powierzchnię strefy. Liczy się długość węża (dla hydrantu 52 do 20 m według PN-EN 671-2, p. 4.4.3) i efektywny zasięg rzutu prądu 10 m (3 m przyjmuje się tylko w strefach ZL w budynkach o więcej niż jednej kondygnacji nadziemnej), czyli 30 m od hydrantu po przejściach.",
+   "basis": "§ 20 ust. 3 rozp. MSWiA z 7.06.2010; § 19 ust. 3 pkt 1 rozp. MSWiA z 7.06.2010; PN-EN 671-2:2012, p. 4.4.3",
+   "quote": "Zasięg hydrantów wewnętrznych w poziomie obejmuje całą powierzchnię chronionego budynku, strefy pożarowej",
+   "fix": "Dodać hydrant 52 we wschodniej części pasa przyjęć. Dodatkowy wąż przy hydrancie 52 § 20 ust. 4 dopuszcza tylko dla miejsc, z których do najbliższego wyjścia ewakuacyjnego lub innego wyjścia na przestrzeń otwartą jest ponad 30 m."
+  },
+  {
+   "id": "u6",
+   "kind": "błąd",
+   "weight": 2,
+   "act": "rozp_ppoz_2010",
+   "where": "opis, pkt 7",
+   "title": "Jednoczesny pobór wody tylko z dwóch hydrantów 52",
+   "is": "Instalację zaprojektowano na jednoczesny pobór wody z dwóch sąsiednich hydrantów 52 (§ 23 pkt 2), czyli 5 dm³/s.",
+   "should": "W strefie PM o gęstości obciążenia ogniowego ponad 500 MJ/m² i powierzchni ponad 3 000 m² instalacja ma zapewnić jednoczesny pobór wody z czterech sąsiednich hydrantów wewnętrznych, przy wydajności hydrantu 52 co najmniej 2,5 dm³/s (łącznie 10 dm³/s) i ciśnieniu na zaworze co najmniej 0,2 MPa. Próg 3 000 m² jest przekroczony nawet przy zaniżonej przez projektanta powierzchni 3 527,2 m².",
+   "basis": "§ 23 pkt 3 lit. b rozp. MSWiA z 7.06.2010; § 22 ust. 1 pkt 3 i ust. 2 rozp. MSWiA z 7.06.2010",
+   "quote": "czterech sąsiednich hydrantów wewnętrznych lub zaworów 52",
+   "fix": "Przeliczyć instalację i przyłącze na jednoczesny pobór z czterech hydrantów 52."
+  },
+  {
+   "id": "u7",
+   "kind": "błąd",
+   "weight": 1,
+   "act": "rozp_ppoz_2010",
+   "where": "opis, pkt 8",
+   "title": "Za mało środka gaśniczego w gaśnicach w hali",
+   "is": "Przyjęto 1 jednostkę (2 kg) na 300 m² powierzchni części składowej (3 527,2 m²) i 8 gaśnic 6 kg, razem 48 kg.",
+   "should": "W strefie PM o gęstości obciążenia ogniowego ponad 500 MJ/m², niechronionej stałym urządzeniem gaśniczym, 1 jednostka masy środka (2 kg) przypada na każde 100 m² powierzchni strefy; wskaźnik 300 m² dotyczy tylko stref niewymienionych w pkt 1. Strefa ma 4 241,2 m², więc potrzeba 43 jednostek, czyli co najmniej 86 kg środka.",
+   "basis": "§ 32 ust. 3 pkt 1 lit. b rozp. MSWiA z 7.06.2010; § 32 ust. 3 pkt 2 rozp. MSWiA z 7.06.2010",
+   "quote": "na każde 100 m2 powierzchni strefy pożarowej w budynku, niechronionej stałym urządzeniem gaśniczym",
+   "fix": "Na przykład 15 gaśnic 6 kg (90 kg), rozmieszczonych tak, aby dojście do najbliższej nie przekraczało 30 m (§ 33 ust. 2)."
+  },
+  {
+   "id": "u8",
+   "kind": "błąd",
+   "weight": 2,
+   "act": "woda_drogi_2009",
+   "where": "opis, pkt 9",
+   "marker": {
+    "d": "R2",
+    "at": [
+     86,
+     112
+    ]
+   },
+   "title": "Za mały dopuszczalny nacisk osi na drodze pożarowej",
+   "is": "Droga pożarowa z płyt ażurowych o nośności 50 kN na oś, uzasadnionej położeniem inwestycji poza granicami miasta (§ 13 ust. 3).",
+   "should": "Na terenie działki, na której jest obiekt wymieniony w § 12 ust. 1 pkt 3 (strefa PM o gęstości obciążenia ogniowego ponad 500 MJ/m² i powierzchni ponad 1 000 m²), droga pożarowa musi umożliwiać przejazd pojazdów o nacisku osi co najmniej 100 kN – bez względu na to, czy teren leży w mieście. § 13 ust. 3 dotyczy innych terenów.",
+   "basis": "§ 13 ust. 2 rozp. MSWiA z 24.07.2009; § 12 ust. 1 pkt 3 rozp. MSWiA z 24.07.2009",
+   "quote": "jezdni co najmniej 100 kN (kiloniutonów)",
+   "fix": "Zaprojektować nawierzchnię drogi pożarowej na nacisk osi co najmniej 100 kN."
+  },
+  {
+   "id": "u9",
+   "kind": "błąd",
+   "weight": 2,
+   "act": "woda_drogi_2009",
+   "where": "opis, pkt 9; rys. 2 – hydranty HZ1 i HZ2",
+   "marker": {
+    "d": "R2",
+    "at": [
+     58.5,
+     120.6
+    ]
+   },
+   "title": "Za mała ilość wody do zewnętrznego gaszenia i za małe hydranty",
+   "is": "20 dm³/s z dwóch hydrantów DN 80, ustalone według § 5 ust. 1 pkt 2 jak dla budynku użyteczności publicznej o kubaturze ponad 5 000 m³.",
+   "should": "Dla obiektu produkcyjnego i magazynowego ilość wody ustala się z tabeli nr 2 dla strefy, dla której jest największa: Q od 2 000 do 4 000 MJ/m² i powierzchnia strefy od 4 000 do 5 000 m² – 40 dm³/s (przy zaniżonej przez projektanta powierzchni 3 527,2 m² również 40 dm³/s). Gdy wymagana ilość wody dla obiektu PM przekracza 30 dm³/s, instaluje się hydranty nadziemne DN 100 o wydajności nominalnej co najmniej 15 dm³/s.",
+   "basis": "§ 6 ust. 3 rozp. MSWiA z 24.07.2009 i tabela nr 2 załącznika; § 10 ust. 3 i ust. 8 pkt 2 rozp. MSWiA z 24.07.2009",
+   "quote": "dla której jest ona największa, zgodnie z tabelą nr 2",
+   "fix": "Zapewnić 40 dm³/s z hydrantów nadziemnych DN 100, na przykład z trzech po 15 dm³/s, albo uzupełnić brakującą wydajność zapasem wody w zbiorniku (§ 6 ust. 10 pkt 1). Sieć dla ponad 30 dm³/s zasila się w dwóch punktach (§ 9 ust. 5) i projektuje tak, aby można było pobierać wodę z dwóch sąsiednich hydrantów jednocześnie (§ 9 ust. 6)."
+  },
+  {
+   "id": "u10",
+   "kind": "niespójność",
+   "weight": 1,
+   "act": "woda_drogi_2009",
+   "where": "opis, pkt 9; rys. 2 – hydrant HZ2",
+   "marker": {
+    "d": "R2",
+    "at": [
+     100.0,
+     33.3
+    ]
+   },
+   "title": "Hydrant HZ2 za blisko ściany hali",
+   "is": "Opis: HZ2 6,0 m od ściany hali. Rysunek: 3,0 m od ściany północnej.",
+   "should": "Hydrant zewnętrzny umieszcza się co najmniej 5 m od ściany chronionego budynku. Wymiar z rysunku nie spełnia tego warunku, a opis jest z rysunkiem sprzeczny.",
+   "basis": "§ 10 ust. 6 pkt 5 rozp. MSWiA z 24.07.2009",
+   "quote": "od ściany chronionego budynku — co najmniej",
+   "fix": "Przesunąć HZ2 na co najmniej 5 m od ściany, poza miejsca manewrowania samochodów przy rampach, i ujednolicić opis z rysunkiem; przy zmianie na DN 100 (u9) rozmieszczenie ustalić od nowa."
+  },
+  {
+   "id": "u11",
+   "kind": "błąd",
+   "weight": 3,
+   "act": "wt_2002",
+   "where": "opis, pkt 10; rys. 2 – wymiar 12,00 od budynku na dz. nr 45/8",
+   "marker": {
+    "d": "R2",
+    "at": [
+     112,
+     66.5
+    ]
+   },
+   "title": "Za mała odległość od budynku magazynowego na działce nr 45/8",
+   "is": "Odległość 12,0 m; projektant przyjął wymaganie 8 m na podstawie gęstości obciążenia ogniowego budynku sąsiedniego (Q ≤ 500 MJ/m²).",
+   "should": "Odległość odczytuje się z tabeli dla obu budynków: hala PM o Q = 2 400 MJ/m² (wiersz 1 000 < Q ≤ 4 000) i budynek PM o Q ≤ 1 000 MJ/m² – 15 m. Ściany i przekrycia obu budynków są nierozprzestrzeniające ognia, więc zwiększenia z ust. 2 nie ma; zmniejszeń z ust. 6 i 7 projekt nie przewiduje.",
+   "basis": "§ 271 ust. 1 WT",
+   "quote": "nie powinna, z zastrzeżeniem ust. 2 i 3, być mniejsza niż odległość w metrach określona w poniższej tabeli",
+   "fix": "Wykonać ścianę wschodnią hali jako ścianę oddzielenia przeciwpożarowego R E I 120 z zamknięciami otworów E I 60 (pierwotna klasa „B”, § 215 ust. 2, § 232 ust. 4) albo zastosować w hali stałe urządzenia gaśnicze wodne: zmniejszenie o 25% daje 11,25 m (§ 271 ust. 7). Przesunięcie budynku na zachód nie wchodzi w grę bez zmiany części socjalno-biurowej (u12)."
+  },
+  {
+   "id": "u12",
+   "kind": "błąd",
+   "weight": 2,
+   "act": "wt_2002",
+   "where": "rys. 2 – wymiar 6,00 od granicy z dz. nr 45/6",
+   "marker": {
+    "d": "R2",
+    "at": [
+     19,
+     86.5
+    ]
+   },
+   "title": "Za mała odległość od granicy niezabudowanej działki nr 45/6",
+   "is": "Ściana zachodnia części socjalno-biurowej (ZL III) jest 6,0 m od granicy niezabudowanej działki, przeznaczonej w planie miejscowym pod zabudowę produkcyjną, składy i usługi. Projektant sprawdził tylko odległość 4 m z § 12.",
+   "should": "Odległość ściany wznoszonego budynku od granicy sąsiedniej niezabudowanej działki budowlanej wynosi co najmniej połowę odległości z § 271 ust. 1–7, przy założeniu budynku o przeznaczeniu z planu miejscowego. Plan dopuszcza na działce nr 45/6 zabudowę produkcyjną i składy, a dla budynku PM przyjmuje się Q ponad 1 000 i nie więcej niż 4 000 MJ/m²; od ściany budynku ZL wymagane jest wtedy 15 m, a więc od granicy co najmniej 7,5 m.",
+   "basis": "§ 272 ust. 1 WT; § 271 ust. 1 WT",
+   "quote": "powinna wynosić co najmniej połowę odległości określonej w § 271 ust. 1–7",
+   "fix": "Odsunąć ścianę zachodnią części socjalno-biurowej na co najmniej 7,5 m od granicy (na przykład zwężając tę część o 1,5 m) albo zmienić jej usytuowanie."
+  },
+  {
+   "id": "p1",
+   "kind": "poprawne",
+   "weight": 1,
+   "act": "wt_2002",
+   "where": "opis, pkt 5",
+   "title": "Klasa „D” części socjalno-biurowej",
+   "is": "Dla części ZL III o dwóch kondygnacjach nadziemnych przyjęto klasę „D”, niższą niż „C” z podstawowej tabeli dla budynku niskiego ZL III.",
+   "should": "Dla budynku ZL III o dwóch kondygnacjach nadziemnych dopuszcza się obniżenie wymaganej klasy do „D”, gdy strop nad pierwszą kondygnacją nadziemną jest nie wyżej niż 9 m nad terenem (tu 3,60 m). Klasy elementów w tabeli (R 30, R E I 30, E I 30, biegi i spoczniki R 30) odpowiadają klasie „D”.",
+   "basis": "§ 212 ust. 2 i 3 WT; § 216 ust. 1 WT; § 249 ust. 3 pkt 2 WT",
+   "quote": "Gdy poziom stropu nad pierwszą kondygnacją nadziemną jest na wysokości nie większej niż 9 m",
+   "fix": "Obniżenie klasy części ZL III nie zmienia klasy ściany oddzielającej ją od hali (u3)."
+  },
+  {
+   "id": "p2",
+   "kind": "poprawne",
+   "weight": 1,
+   "act": "woda_drogi_2009",
+   "where": "opis, pkt 9; rys. 2 – droga pożarowa i wymiar 60,00",
+   "marker": {
+    "d": "R2",
+    "at": [
+     30.5,
+     58
+    ]
+   },
+   "title": "Droga pożarowa tylko wzdłuż jednej ściany",
+   "is": "Droga pożarowa biegnie tylko wzdłuż ściany południowej; krótszy bok budynku ma 60,0 m.",
+   "should": "Wymagań § 12 ust. 2 i 3 (droga wzdłuż dłuższego boku, odległość od ściany, droga z dwóch stron) nie stosuje się do budynku o nie więcej niż 3 kondygnacjach nadziemnych i wysokości do 12 m, jeżeli wyjścia mają połączenie z drogą pożarową utwardzonym dojściem o szerokości co najmniej 1,5 m i długości do 30 m, zapewniającym dotarcie do każdej strefy pożarowej (§ 12 ust. 7) – tak jest tutaj. Nawet według ust. 2 drogę z dwóch stron prowadzi się dopiero wtedy, gdy krótszy bok budynku ma więcej niż 60 m, a bliższa krawędź 10,0 m od ściany mieści się w 5–15 m (obiekty ZL) i w 5–25 m (pozostałe).",
+   "basis": "§ 12 ust. 7 rozp. MSWiA z 24.07.2009; § 12 ust. 2 rozp. MSWiA z 24.07.2009",
+   "quote": "krótszy bok budynku ma więcej niż 60 m — z jego",
+   "fix": "Wydłużenie krótszego boku ponad 60 m (na przykład przy rozbudowie) wymagałoby drogi pożarowej także od strony północnej."
+  },
+  {
+   "id": "p3",
+   "kind": "poprawne",
+   "weight": 1,
+   "act": "wt_2002",
+   "where": "opis, pkt 6; rys. 1 – przejście 62,3 m",
+   "marker": {
+    "d": "R1",
+    "at": [
+     47.9,
+     6.6
+    ]
+   },
+   "title": "Przejście ewakuacyjne w hali o długości 62,3 m",
+   "is": "Najdłuższe przejście, od północnej części pasa przyjęć do wyjścia W2, wynosi 62,3 m.",
+   "should": "W strefie PM w budynku o jednej kondygnacji nadziemnej dopuszczalne przejście wynosi 100 m bez względu na gęstość obciążenia ogniowego. Nawet gdyby hali nie traktować jako odrębnego budynku jednokondygnacyjnego, limit 75 m dla PM o Q ponad 500 MJ/m² też byłby zachowany. Wartości 30 m i 60 m z § 256 ust. 3 dotyczą dojść, a nie przejść. Długość podana przez projektanta jest z zapasem: najkrótsza droga przejściami od najdalszego miejsca pasa przyjęć do najbliższego wyjścia wynosi ok. 60 m.",
+   "basis": "§ 237 ust. 1 pkt 2 i 3 WT; § 256 ust. 3 WT",
+   "quote": "w strefach pożarowych PM w budynku o jednej kondygnacji nadziemnej bez względu",
+   "fix": ""
+  },
+  {
+   "id": "p4",
+   "kind": "poprawne",
+   "weight": 1,
+   "act": "woda_drogi_2009",
+   "where": "rys. 2 – pas zieleni między ścianą południową hali a drogą pożarową; opis, pkt 9",
+   "title": "Drzewa między drogą pożarową a ścianą hali",
+   "is": "Na pasie zieleni między ścianą południową hali a drogą pożarową rosną trzy drzewa o wysokości ponad 3 m (oznaczenie z legendy rysunku). Wyjścia W1–W3 i wejście główne mają dojścia do drogi pożarowej o szerokości 2,0 m i długości 10 m, a W4 – chodnik 1,8 m o długości 30 m.",
+   "should": "Zakaz drzew i krzewów o wysokości ponad 3 m między drogą pożarową a ścianą wynika z § 12 ust. 2, a tego przepisu nie stosuje się do budynku o nie więcej niż 3 kondygnacjach nadziemnych i wysokości do 12 m, jeżeli wyjścia mają połączenie z drogą pożarową utwardzonym dojściem o szerokości co najmniej 1,5 m i długości do 30 m, zapewniającym dotarcie do każdej strefy pożarowej. Hala ma 1 kondygnację i 10,50 m, część socjalno-biurowa 2 kondygnacje i 7,80 m, a dojścia spełniają te warunki; drzewa ich nie zasłaniają.",
+   "basis": "§ 12 ust. 7 rozp. MSWiA z 24.07.2009; § 12 ust. 2 rozp. MSWiA z 24.07.2009",
+   "quote": "Wymagania, o których mowa w ust. 2 i 3, nie dotyczą budynku o nie więcej niż 3 kondygnacjach nadziemnych i wysokości nie większej niż 12 m",
+   "fix": "Zakaz z § 12 ust. 2 obowiązywałby, gdyby budynek był wyższy niż 12 m albo miał więcej niż 3 kondygnacje nadziemne lub gdyby dojścia od wyjść do drogi pożarowej były dłuższe niż 30 m.",
+   "marker": {
+    "d": "R2",
+    "at": [
+     60,
+     105
+    ]
+   }
+  }
+ ],
+ "summary": "Projekt wymaga uzgodnienia (strefa PM ponad 1 000 m² o Q ponad 500 MJ/m², droga pożarowa i sieć z hydrantem na działce), ale w przedstawionej postaci nie spełnia wymagań ochrony przeciwpożarowej. Przesądzają o tym cztery sprawy: klasa „E” hali przyjęta bez samoczynnych urządzeń oddymiających, zaniżona powierzchnia strefy PM (4 241,2 m², a nie 3 527,2 m²) bez podstaw do jej powiększenia, za słaba ściana oddzielająca część ZL III (REI 60 zamiast R E I 120) i za mała odległość od magazynu na działce nr 45/8 (12 m zamiast 15 m).\nPozostałe uwagi dotyczą drzwi W4, zasięgu i jednoczesnej pracy hydrantów 52, gaśnic, nacisku osi na drodze pożarowej, ilości wody i hydrantów zewnętrznych oraz odległości od zachodniej granicy. Wszystkie da się usunąć zmianą projektu; samoczynne oddymianie hali jednocześnie uzasadnia klasę „E” i powiększenie strefy (§ 230 ust. 1).\nOdstępstwo z art. 9 Prawa budowlanego i zgoda na rozwiązania zamienne byłyby potrzebne tylko wtedy, gdyby inwestor nie chciał spełnić wymagań odległości żadnym ze sposobów przewidzianych w § 271.",
+ "review": {
+  "date": "2026-11-25",
+  "solverFound": 12,
+  "issues": 12,
+  "note": "Usunięto z usterek drzewa przed ścianą hali i przeniesiono je do pozycji „poprawne” (§ 12 ust. 7 rozporządzenia z 2009 r. wyłącza § 12 ust. 2 dla tego budynku), poprawiono zasięg hydrantów (ok. 39 m), unieważnienie uzgodnienia (art. 6e) i uzasadnienie drogi pożarowej, a w dokumentacji dorysowano łuki drogi pożarowej i spocznik schodów oraz dopisano warunki ustalenia Q, sieć HZ2, dojście od W4, udział okien i oświadczenie inwestora."
+ }
+}
