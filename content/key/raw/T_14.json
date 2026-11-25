@@ -1,0 +1,216 @@
+[
+ {
+  "id": 338,
+  "ans": "c",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "H1",
+  "basis": "§ 6 ust. 3, § 7 ust. 1 pkt 3 i tabela nr 2 załącznika do rozp. MSWiA z 24.07.2009",
+  "src": "akty/woda_drogi_2009.txt",
+  "quote": "przy zastosowaniu urządzeń gaśniczych pianowych — sumie ilości wody do zasilania tych urządzeń i zmniejszonej o 75 % ilości wody do zewnętrznego gaszenia pożaru, z tym że wymagana ilość wody powinna być nie mniejsza niż ilość wody do zewnętrznego gaszenia pożaru.",
+  "expl": "Tabela nr 2: Q > 4000 MJ/m2 i strefa ponad 5000 m2 → 60 dm3/s. Przy urządzeniu pianowym: woda dla urządzenia (1200 dm3/min = 20 dm3/s) + 25% z 60 dm3/s (15 dm3/s) = 35 dm3/s, ale łączna ilość nie może być mniejsza niż do zewnętrznego gaszenia (60 dm3/s); skoro 20 dm3/s daje własny zbiornik urządzenia, sieć hydrantowa musi zapewnić 40 dm3/s.",
+  "norms": []
+ },
+ {
+  "id": 425,
+  "ans": "c",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie cytuje wydanie PN-EN 15004-1:2019-06 (wycofane); aktualne wydanie to PN-EN 15004-1:2025-05. Odpowiedź ustalono wg wydania cytowanego w pytaniu – regułę należy sprawdzić w aktualnym wydaniu.",
+  "topic": "U5",
+  "basis": "PN-EN 15004-1 (cyt. wyd. :2019-06), rozdz. 5 – bezpieczeństwo, tablica minimalnych środków ostrożności",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "W pomieszczeniach, w których przebywają ludzie, norma stopniuje zabezpieczenia: do NOAEL – opóźnienie wyładowania; powyżej NOAEL do LOAEL – dodatkowo przełącznik automatyczne/ręczne; powyżej LOAEL – dodatkowo urządzenie blokujące (lock-off). Stężenie powyżej NOAEL, a nawet LOAEL, jest więc dopuszczalne pod warunkiem tych zabezpieczeń.",
+  "norms": [
+   "PN-EN 15004-1"
+  ]
+ },
+ {
+  "id": 446,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie cytuje wydanie PN-EN 15004-1:2019-06 (wycofane); aktualne wydanie to PN-EN 15004-1:2025-05. Odpowiedź ustalono wg wydania cytowanego w pytaniu – regułę należy sprawdzić w aktualnym wydaniu.",
+  "topic": "U5",
+  "basis": "PN-EN 15004-1 (cyt. wyd. :2019-06), pkt dot. czasu utrzymania stężenia (retencji)",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Czas utrzymania stężenia kończy się, gdy stężenie spadnie poniżej 85% stężenia projektowego; przy ciągłym mieszaniu (klimatyzacja w obiegu zamkniętym) kryterium odnosi się do całej kubatury. Urządzenia recyrkulacyjne w obiegu zamkniętym nie muszą być wyłączane – stąd błędna odpowiedź c.",
+  "norms": [
+   "PN-EN 15004-1"
+  ]
+ },
+ {
+  "id": 516,
+  "ans": "c",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "U5",
+  "basis": "PN-EN 15004-1:2025-05, rozdz. 6 – urządzenia sterujące (urządzenie zatrzymujące / hold)",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Urządzenie zatrzymujące (wstrzymujące wyładowanie) ma służyć osobie znajdującej się w chronionym pomieszczeniu, dlatego lokalizuje się je wewnątrz pomieszczenia, przy wyjściu ewakuacyjnym. Przycisk na zewnątrz przy wejściu to miejsce ręcznego uruchomienia („Start”).",
+  "norms": [
+   "PN-EN 15004-1"
+  ]
+ },
+ {
+  "id": 40,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "Pytanie cytuje wydanie PKN-CEN/TS 54-14:2006 (wycofane); aktualne wydanie to PKN-CEN/TS 54-14:2020-09. Według wiedzy autora klucza ta reguła została zachowana w wydaniu 2020-09 (bez weryfikacji w tekście normy).",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2006, zał. A – sygnalizacja akustyczna (poziom dźwięku dla osób śpiących)",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Gdy alarm ma budzić osoby śpiące (np. pokoje hotelowe), wymagany poziom 75 dB(A) powinien być zapewniony u wezgłowia łóżka, a nie w miejscu montażu sygnalizatora.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ]
+ },
+ {
+  "id": 49,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "Pytanie cytuje wydanie PKN-CEN/TS 54-14:2006 (wycofane); aktualne wydanie to PKN-CEN/TS 54-14:2020-09. Według wiedzy autora klucza ta reguła została zachowana w wydaniu 2020-09 (bez weryfikacji w tekście normy).",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2006, zał. A A.6.5.1 – rozmieszczenie czujek punktowych",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Pod każdą czujką należy zachować wolną przestrzeń co najmniej 0,5 m we wszystkich kierunkach; również od ścian i przegród czujki powinny być oddalone o co najmniej 0,5 m.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ]
+ },
+ {
+  "id": 58,
+  "ans": "c",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "R2",
+  "basis": "§ 28 ust. 1 pkt 10 rozp. MSWiA z 7.06.2010",
+  "src": "akty/rozp_ppoz_2010.txt",
+  "quote": "budynkach użyteczności publicznej wysokich i wysokościowych;",
+  "expl": "Dla ogółu budynków użyteczności publicznej (bez względu na funkcję) obowiązek SSP zależy od wysokości: wymagany jest w budynkach wysokich i wysokościowych. Powierzchnia strefy czy liczba miejsc to kryteria tylko dla wybranych rodzajów obiektów (handlowe, kina, teatry itd.).",
+  "norms": []
+ },
+ {
+  "id": 89,
+  "ans": "b",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "R2",
+  "basis": "§ 27 ust. 2 pkt 1 lit. b, § 28 ust. 1 pkt 1 lit. b i pkt 3, § 29 ust. 1 pkt 3 rozp. MSWiA z 7.06.2010",
+  "src": "akty/rozp_ppoz_2010.txt",
+  "quote": "kinach i teatrach o liczbie miejsc powyżej 600;",
+  "expl": "Kino ma łącznie 800 miejsc (4 × 200) – ponad 600, więc wymagane są SSP (§ 28) i DSO (§ 29). SUG wodne w budynku handlowym wielokondygnacyjnym są wymagane dopiero dla strefy ZL I powyżej 5000 m2, a tu strefa ma do 5000 m2.",
+  "norms": []
+ },
+ {
+  "id": 104,
+  "ans": "b",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "R2",
+  "basis": "§ 28 ust. 1 pkt 17 rozp. MSWiA z 7.06.2010",
+  "src": "akty/rozp_ppoz_2010.txt",
+  "quote": "garażach podziemnych, w których strefa pożarowa przekracza 1500 m2 lub obejmujących więcej niż jedną kondygnację podziemną;",
+  "expl": "SSP jest wymagany w garażach podziemnych, gdy strefa pożarowa przekracza 1500 m2 lub obejmuje więcej niż jedną kondygnację podziemną. Tu strefa nie przekracza 1500 m2 i obejmuje tylko jedną kondygnację podziemną (–1) oraz poziom 0, więc obowiązku nie ma.",
+  "norms": []
+ },
+ {
+  "id": 108,
+  "ans": "c",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "Pytanie cytuje wydanie PKN-CEN/TS 54-14:2006 (wycofane); aktualne wydanie to PKN-CEN/TS 54-14:2020-09. Według wiedzy autora klucza ta reguła została zachowana w wydaniu 2020-09 (bez weryfikacji w tekście normy).",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2006, zał. A A.6.2 – strefy dozorowe",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Powierzchnia podłogi jednej strefy dozorowej nie powinna przekraczać 1600 m2 – niezależnie od rodzaju linii i adresowalności czujek.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ]
+ },
+ {
+  "id": 124,
+  "ans": "a",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie cytuje wydanie PKN-CEN/TS 54-14:2006 (wycofane); aktualne wydanie to PKN-CEN/TS 54-14:2020-09. Odpowiedź ustalono wg wydania cytowanego w pytaniu – wartość/regułę należy sprawdzić w aktualnym wydaniu.",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2006, zał. A A.6.5.1 – wpływ wentylacji i klimatyzacji",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Przy nawiewie przez sufit perforowany perforację należy zaślepić w promieniu co najmniej 0,6 m wokół każdej czujki.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ]
+ },
+ {
+  "id": 129,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie cytuje wydanie PKN-CEN/TS 54-14:2006 (wycofane); aktualne wydanie to PKN-CEN/TS 54-14:2020-09. Odpowiedź ustalono wg wydania cytowanego w pytaniu – wartość/regułę należy sprawdzić w aktualnym wydaniu. W wydaniu 2020-09 położenie czujek względem stropu może być określone odległościami w mm (por. pytania egzaminacyjne z nowszych arkuszy).",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2006, zał. A A.6.5.1 – stropy płaskie",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Wg wydania z 2006 r. pod stropami płaskimi czujki sytuuje się tak, aby ich elementy detekcyjne znajdowały się w górnych 5% wysokości pomieszczenia.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ]
+ },
+ {
+  "id": 146,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "c",
+  "stan": "zmienione",
+  "stanNote": "Pytanie nie podaje wydania; w dacie egzaminu obowiązywała PKN-CEN/TS 54-14:2006 (promień działania czujki dymu 7,5 m). Wg aktualnej PKN-CEN/TS 54-14:2020-09 promień działania punktowej czujki dymu wynosi 6,2 m, co na sali 24 m × 6 m daje co najmniej 3 czujki – do potwierdzenia w tekście normy.",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2006 (obowiązująca w dacie egzaminu), zał. A – promień działania czujki dymu 7,5 m, belki do 5% wysokości pomieszczenia pomija się",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Belki 0,2 m są niższe niż 5% wysokości pomieszczenia (0,225 m), więc strop traktuje się jak płaski. Przy promieniu działania 7,5 m i szerokości 6 m jedna czujka w osi sali obejmuje ok. 13,7 m długości, zatem na 24 m potrzeba 2 czujek.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ]
+ },
+ {
+  "id": 167,
+  "ans": "a",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "R2",
+  "basis": "§ 27 ust. 2 pkt 1 lit. a, § 28 ust. 1 pkt 1 lit. a, § 29 ust. 1 pkt 1 lit. a i § 30 rozp. MSWiA z 7.06.2010",
+  "src": "akty/rozp_ppoz_2010.txt",
+  "quote": "Przepis ust. 1 nie dotyczy obiektów, w których system sygnalizacji pożarowej jest niezbędny do uruchamiania urządzeń przewidzianych do funkcjonowania podczas pożaru.",
+  "expl": "Jednokondygnacyjny budynek handlowy ze strefą ZL I 9500 m2 przekracza progi: 5000 m2 (SSP) oraz 8000 m2 (SUG wodne i DSO). Zwolnienie z SSP dla obiektów z SUG nie działa, gdy SSP jest niezbędny do uruchamiania urządzeń działających podczas pożaru – a DSO nadaje komunikaty automatycznie po sygnale z SSP.",
+  "norms": []
+ }
+]

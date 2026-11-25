@@ -35,6 +35,7 @@ ACTS=[
  ('budowle_rolnicze_2023','DU/2023/297'),('budowle_rolnicze_1997_uchylone','DU/1997/877'),
  ('egzamin_rzeczoznawcy_2015','DU/2015/2083'),('szkolenia_rzeczoznawcow_2015','DU/2015/1963'),('kontr_rozp_2005','DU/2005/1934'),
  ('wt_uzytkowania_bud_mieszk_1999_uchylone','DU/1999/836'),('bhp_ogolne_1997','DU/1997/844'),
+ ('budowle_ochronne_2025','DU/2025/1548'),('mds_2025','DU/2025/932'),('magazyny_mat_wybuchowych','DU/2025/1766'),
 ]
 index=[]
 ONLY=set(sys.argv[2:])

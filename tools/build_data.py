@@ -96,18 +96,21 @@ LEGACY_TOPIC = {'Klasyfikacja': 'W1', 'Ewakuacja': 'W3', 'Woda': 'H1', 'Instalac
 
 
 def build_flashcards():
-    cards = []
-    new = []
+    """Fiszki autorskie z content/flashcards/*.json; dla tematów, które ich jeszcze nie mają — dawne fiszki (niesprawdzone)."""
+    cards, seen = [], set()
     for fn in sorted(glob.glob(C('flashcards', '*.json'))):
-        new += load(fn, [])
-    if new:
-        for i, c in enumerate(new, 1):
-            cards.append(dict(id=c.get('id') or f'N{i:03d}', topic=c['topic'], front=c['front'], back=c['back'],
-                              ref=c.get('ref', ''), conf=c.get('conf', 'średnia'), week=c.get('week')))
-    else:
-        for i, (front, back, cat) in enumerate(load(C('flashcards_legacy.json'), []), 1):
-            cards.append(dict(id=f'F{i:03d}', topic=LEGACY_TOPIC.get(cat, 'Z9'), front=front, back=back, ref='',
-                              conf='niska', week=None))
+        for i, c in enumerate(load(fn, []) or [], 1):
+            cid = c.get('id') or '%s-%02d' % (os.path.basename(fn)[:-5], i)
+            if cid in seen:
+                continue
+            seen.add(cid)
+            cards.append(dict(id=cid, topic=c.get('topic', 'Z9'), front=c['front'], back=c['back'], ref=c.get('ref', ''),
+                              conf=c.get('conf', 'średnia'), week=c.get('week')))
+    covered = {c['topic'] for c in cards}
+    for i, (front, back, cat) in enumerate(load(C('flashcards_legacy.json'), []), 1):
+        topic = LEGACY_TOPIC.get(cat, 'Z9')
+        if topic not in covered:
+            cards.append(dict(id='F%03d' % i, topic=topic, front=front, back=back, ref='', conf='niska', week=None))
     return cards
 
 
@@ -192,7 +195,7 @@ ACT_NOTE = {
     'budowle_ochronne_2025': 'Nowy akt. Pytania z niego pojawiły się w arkuszu egzaminacyjnym z 2026 r.',
     'mds_2025': 'Nowy akt. Pytanie z niego pojawiło się w arkuszu egzaminacyjnym z 2026 r.',
     'magazyny_mat_wybuchowych': 'Pytania z tego aktu pojawiły się w arkuszu egzaminacyjnym z 2026 r.',
-    'wt_2002': 'Utraciło moc 21.09.2026 (upływ terminu z art. 66 ustawy o zapewnianiu dostępności). Do 24.11.2026 nie ogłoszono nowego rozporządzenia. Prawo budowlane, art. 102a–102c: przez 18 miesięcy od 20.09.2026 (do 20.03.2028) projekt można sporządzić według przepisów obowiązujących do 19.09.2026 po złożeniu oświadczenia inwestora. Ucz się ostatniego brzmienia i śledź publikację nowych WT.',
+    'wt_2002': 'Utraciło moc 21.09.2026 (upływ terminu z art. 66 ustawy o zapewnianiu dostępności). Nowe rozporządzenie jest podpisane, ale do 25.11.2026 nie zostało ogłoszone w Dzienniku Ustaw. Prawo budowlane, art. 102a–102c: przez 18 miesięcy od 20.09.2026 (do 20.03.2028) projekt można sporządzić według przepisów obowiązujących do 19.09.2026 po złożeniu oświadczenia inwestora. Ucz się ostatniego brzmienia i śledź publikację nowych WT.',
     'sieci_gazowe_2013_uchylone': 'Utraciło moc 21.09.2026 z tego samego powodu co WT; pytania egzaminacyjne odwołują się do jego treści.',
     'wt_uzytkowania_bud_mieszk_1999_uchylone': 'Utraciło moc 21.09.2026; art. 102c Prawa budowlanego dopuszcza użytkowanie budynków mieszkalnych według dotychczasowych przepisów przez 18 miesięcy.',
     'uzgadnianie_2021_uchylone': 'Zastąpione rozporządzeniem z 5.08.2023.', 'uzgadnianie_2015_uchylone': 'Zastąpione rozporządzeniem z 2021 r., a następnie z 5.08.2023.',

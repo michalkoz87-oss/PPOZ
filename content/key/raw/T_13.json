@@ -1,0 +1,226 @@
+[
+ {
+  "id": 458,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie cytuje wydanie PN-EN 12845+A1:2020-05 (wycofane); aktualne wydanie to PN-EN 12845+A2:2026-09. Odpowiedź ustalono wg wydania cytowanego w pytaniu – wartość/regułę należy sprawdzić w aktualnym wydaniu.",
+  "topic": "U4",
+  "basis": "PN-EN 12845 (cyt. wyd. +A1:2020-05), rozdz. 9 – kombinowane źródła zasilania wodą",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Kombinowane źródła zasilania (wspólne dla więcej niż jednego stałego urządzenia gaśniczego) muszą być źródłami pojedynczymi o zwiększonej niezawodności albo podwójnymi. Zwykłe pojedyncze źródło nie wystarcza.",
+  "norms": [
+   "PN-EN 12845"
+  ]
+ },
+ {
+  "id": 467,
+  "ans": "c",
+  "conf": "niska",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie cytuje wydanie PN-EN 12845+A1:2020-05 (wycofane); aktualne wydanie to PN-EN 12845+A2:2026-09. Odpowiedź ustalono wg wydania cytowanego w pytaniu – wartość/regułę należy sprawdzić w aktualnym wydaniu. Aktualnie tryskacze ESFR i CMSA reguluje też PN-EN 12845-2:2025-05.",
+  "topic": "U4",
+  "basis": "PN-EN 12845 (cyt. wyd. +A1:2020-05), załącznik dot. tryskaczy ESFR – wymagania dla dachu/sufitu",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "W przestrzeni chronionej tryskaczami ESFR świetliki powinny leżeć w płaszczyźnie sufitu i wytrzymywać temperaturę 300 °C przez co najmniej 5 min, aby nie zaburzały pracy tryskaczy. Odpowiedź z pamięci – szczegół do potwierdzenia w tekście normy.",
+  "norms": [
+   "PN-EN 12845",
+   "PN-EN 12845-2"
+  ]
+ },
+ {
+  "id": 507,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie cytuje wydanie PN-EN 12845+A1:2020-05 (wycofane); aktualne wydanie to PN-EN 12845+A2:2026-09. Odpowiedź ustalono wg wydania cytowanego w pytaniu – wartość/regułę należy sprawdzić w aktualnym wydaniu.",
+  "topic": "U4",
+  "basis": "PN-EN 12845 (cyt. wyd. +A1:2020-05), rozdz. 9 – zbiorniki ciśnieniowe (hydrofory), napełnianie powietrzem i wodą",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Hydrofor będący pojedynczym zasilaniem musi mieć automatyczne utrzymywanie ciśnienia powietrza i poziomu wody, a urządzenia te muszą całkowicie napełnić zbiornik i wytworzyć wymagane ciśnienie w czasie nie dłuższym niż 8 godzin.",
+  "norms": [
+   "PN-EN 12845"
+  ]
+ },
+ {
+  "id": 511,
+  "ans": "c",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "U6",
+  "basis": "PN-EN 12101-13:2022-09, klasy systemów różnicowania ciśnień (klasa 1 i 2)",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Norma zna dwie klasy SRC: klasa 1 – co najmniej 30 Pa i 1 m/s w otwartych drzwiach, klasa 2 – co najmniej 30 Pa i 2 m/s. Budynek chroniony tryskaczami szybkiego reagowania (RTI < 50, 68 °C) kwalifikuje się do klasy 1; 50 Pa pochodzi ze starej PN-EN 12101-6.",
+  "norms": [
+   "PN-EN 12101-13"
+  ]
+ },
+ {
+  "id": 514,
+  "ans": "b",
+  "conf": "niska",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie cytuje wydanie PN-EN 12845+A1:2020-05 (wycofane); aktualne wydanie to PN-EN 12845+A2:2026-09. Odpowiedź ustalono wg wydania cytowanego w pytaniu – wartość/regułę należy sprawdzić w aktualnym wydaniu.",
+  "topic": "U4",
+  "basis": "PN-EN 12845 (cyt. wyd. +A1:2020-05), wymagania dot. przyłączania tryskaczy do przewodów",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Wg normy tryskaczy nie przyłącza się bezpośrednio do przewodów o średnicy większej niż 65 mm – stosuje się odgałęzienia. Odpowiedź z pamięci; wariant „50 mm dla przewodów z izolacją” wymaga sprawdzenia w tekście normy.",
+  "norms": [
+   "PN-EN 12845"
+  ]
+ },
+ {
+  "id": 515,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie cytuje wydanie PN-EN 12845+A1:2020-05 (wycofane); aktualne wydanie to PN-EN 12845+A2:2026-09. Odpowiedź ustalono wg wydania cytowanego w pytaniu – wartość/regułę należy sprawdzić w aktualnym wydaniu.",
+  "topic": "U4",
+  "basis": "PN-EN 12845 (cyt. wyd. +A1:2020-05), rozdz. 9 – zbiorniki zapasu wody, czas uzupełniania",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Źródło wody musi być w stanie ponownie napełnić zbiornik pełnej pojemności w czasie nie dłuższym niż 36 godzin. Nie jest to 24 h ani częściowe napełnienie w 48 h.",
+  "norms": [
+   "PN-EN 12845"
+  ]
+ },
+ {
+  "id": 524,
+  "ans": "a",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie cytuje wydanie PN-EN 12845+A1:2020-05 (wycofane); aktualne wydanie to PN-EN 12845+A2:2026-09. Odpowiedź ustalono wg wydania cytowanego w pytaniu – wartość/regułę należy sprawdzić w aktualnym wydaniu.",
+  "topic": "U4",
+  "basis": "PN-EN 12845 (cyt. wyd. +A1:2020-05), rozdz. 11 – tryskacze w regałach a stanowisko kontrolno-alarmowe",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Kryterium jest liczba tryskaczy w poziomach pośrednich: gdy przekracza 50, wymagają one własnego stanowiska kontrolno-alarmowego, odrębnego od tryskaczy stropowych. Liczba poziomów ani intensywność zraszania nie mają tu znaczenia.",
+  "norms": [
+   "PN-EN 12845"
+  ]
+ },
+ {
+  "id": 541,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie cytuje wydanie PN-EN 12845+A1:2020-05 (wycofane); aktualne wydanie to PN-EN 12845+A2:2026-09. Odpowiedź ustalono wg wydania cytowanego w pytaniu – wartość/regułę należy sprawdzić w aktualnym wydaniu.",
+  "topic": "U4",
+  "basis": "PN-EN 12845 (cyt. wyd. +A1:2020-05), rozdz. 12 – tryskacze przyścienne",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Tryskacze przyścienne instaluje się tylko pod płaskimi sufitami; nie wolno ich stosować w sekcjach HH, w obszarach magazynowania OH ani powyżej sufitów podwieszonych.",
+  "norms": [
+   "PN-EN 12845"
+  ]
+ },
+ {
+  "id": 545,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "U6",
+  "basis": "PN-EN 12101-13:2022-09, klasy systemów różnicowania ciśnień (klasa 1 i 2)",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Klasa 1 (30 Pa, 1 m/s) jest przewidziana m.in. dla budynków z tryskaczami szybkiego reagowania; przy tryskaczach o RTI > 50 stosuje się klasę 2 (30 Pa, 2 m/s). Klasy 3 norma PN-EN 12101-13 nie przewiduje.",
+  "norms": [
+   "PN-EN 12101-13"
+  ]
+ },
+ {
+  "id": 553,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie cytuje wydanie PN-EN 12845+A1:2020-05 (wycofane); aktualne wydanie to PN-EN 12845+A2:2026-09. Odpowiedź ustalono wg wydania cytowanego w pytaniu – wartość/regułę należy sprawdzić w aktualnym wydaniu. (W pytaniu numer normy podano omyłkowo jako „PN-EN 12845-1+A1:2020”.)",
+  "topic": "U4",
+  "basis": "PN-EN 12845 (cyt. wyd. +A1:2020-05), rozdz. 12 – temperatura znamionowa zadziałania tryskaczy",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Dobiera się tryskacze o temperaturze zadziałania bliskiej najwyższej spodziewanej temperaturze otoczenia, ale wyższej od niej o co najmniej 30 °C (np. typowe 68 °C przy otoczeniu do ok. 38 °C).",
+  "norms": [
+   "PN-EN 12845"
+  ]
+ },
+ {
+  "id": 10,
+  "ans": "a",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "U5",
+  "basis": "PN-EN 15004-1 – wymagania dot. czasu utrzymania stężenia (retencji)",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Wg PN-EN 15004-1 czas retencji (utrzymania stężenia gaszącego) powinien wynosić nie mniej niż 10 minut, chyba że właściwa władza określi inaczej. Odpowiedź c opisuje sposób obliczania spadku stężenia, a nie wymaganie normy.",
+  "norms": [
+   "PN-EN 15004-1"
+  ]
+ },
+ {
+  "id": 90,
+  "ans": "b",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "W3",
+  "basis": "§ 237 ust. 1 pkt 1 i ust. 5 WT (w dacie egzaminu ust. 4)",
+  "src": "akty/wt_2002.txt",
+  "quote": "W pomieszczeniach o wysokości przekraczającej 5 m długość przejść, o których mowa w ust. 1 i 2, może być powiększona o 25%.",
+  "expl": "ZL: 40 m, a wysokość pomieszczenia ponad 5 m pozwala powiększyć przejście o 25% – do 50 m. Urządzenie gaśnicze gazowe nie jest „stałym samoczynnym urządzeniem gaśniczym wodnym”, więc nie daje dodatkowych 50%.",
+  "norms": []
+ },
+ {
+  "id": 162,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "Cytowane wydanie PN-EN 15004-1:2008 jest wycofane (aktualne: PN-EN 15004-1:2025-05); współczynnik bezpieczeństwa 1,3 dla pożarów powierzchniowych klasy A utrzymano w kolejnych wydaniach – warto potwierdzić w tekście wyd. 2025.",
+  "topic": "U5",
+  "basis": "PN-EN 15004-1 (cyt. wyd. :2008), pkt dot. stężenia projektowego – współczynnik bezpieczeństwa 1,3",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Stężenie projektowe dla pożarów powierzchniowych klasy A to stężenie gaszące z badań pomnożone przez współczynnik bezpieczeństwa 1,3, czyli większe o co najmniej 30%.",
+  "norms": [
+   "PN-EN 15004-1"
+  ]
+ },
+ {
+  "id": 315,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "U5",
+  "basis": "PN-EN 15004-1 (definicje gazów gaśniczych) i PN-EN 15004-2 (FK-5-1-12)",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "FK-5-1-12 (fluoroketon, C6F12O) jest w PN-EN 15004 zaliczany do gazów gaśniczych będących chlorowcopochodnymi węglowodorów (zamienników halonów), podobnie jak HFC-227ea. Gazy obojętne to IG-01, IG-100, IG-55 i IG-541.",
+  "norms": [
+   "PN-EN 15004-1",
+   "PN-EN 15004-2"
+  ]
+ }
+]

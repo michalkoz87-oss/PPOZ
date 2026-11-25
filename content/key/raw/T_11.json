@@ -1,0 +1,208 @@
+[
+ {
+  "id": 226,
+  "ans": "c",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "W2",
+  "basis": "§ 227 ust. 4 WT",
+  "src": "akty/wt_2002.txt",
+  "quote": "Dopuszcza się powiększenie powierzchni stref pożarowych, o których mowa w ust. 1, z wyjątkiem stref pożarowych w wielokondygnacyjnych budynkach wysokich (W) i wysokościowych (WW), pod warunkiem zastosowania:",
+  "expl": "Powiększenie stref ZL (o 100% za SUG wodne, o 100% za oddymianie uruchamiane wykrywaniem dymu) nie dotyczy stref w wielokondygnacyjnych budynkach wysokich (W) i wysokościowych (WW). Urządzenia mgłowe są SUG wodnymi, ale w takim budynku powiększenie i tak nie przysługuje.",
+  "norms": []
+ },
+ {
+  "id": 236,
+  "ans": "c",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "W2",
+  "basis": "§ 230 ust. 2 WT",
+  "src": "akty/wt_2002.txt",
+  "quote": "W budynku jednokondygnacyjnym wielkości stref pożarowych PM, z wyjątkiem garażu, nie ogranicza się, pod warunkiem zastosowania stałych samoczynnych urządzeń gaśniczych wodnych i samoczynnych urządzeń oddymiających.",
+  "expl": "W budynku jednokondygnacyjnym wielkości stref pożarowych PM (poza garażem) nie ogranicza się przy jednoczesnym zastosowaniu stałych samoczynnych urządzeń gaśniczych wodnych i samoczynnych urządzeń oddymiających – niezależnie od Q. Pułapka: 150% z § 229 ust. 2 to reguła ogólna, m.in. dla budynków wielokondygnacyjnych.",
+  "norms": []
+ },
+ {
+  "id": 238,
+  "ans": "b",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "W5",
+  "basis": "§ 278 ust. 2 pkt 1 i ust. 3 WT w zw. z § 237 ust. 6 pkt 1",
+  "src": "akty/wt_2002.txt",
+  "quote": "W przypadku zastosowania instalacji wentylacji oddymiającej strumieniowej nie stosuje się § 237 ust. 6 pkt 2.",
+  "expl": "Garaż zamknięty: 40 m, a stałe samoczynne urządzenia gaśnicze wodne dają +50%, czyli 60 m. Przy wentylacji oddymiającej strumieniowej nie stosuje się powiększenia o 50% za samoczynne urządzenia oddymiające (§ 278 ust. 3 zd. 2), dlatego 80 m jest błędne.",
+  "norms": []
+ },
+ {
+  "id": 241,
+  "ans": "c",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "W1",
+  "basis": "§ 214 pkt 2 WT (w zw. z § 212 ust. 3)",
+  "src": "akty/wt_2002.txt",
+  "quote": "przyjęcie klasy „E” odporności pożarowej dla budynku jednokondygnacyjnego.",
+  "expl": "Z tabeli § 212 dla jednokondygnacyjnego budynku PM przy 2000 < Q ≤ 4000 MJ/m2 wynika klasa „B”, ale ochrona SUG wodnymi pozwala przyjąć klasę „E” dla budynku jednokondygnacyjnego. Wyłączenie w § 214 obejmuje tylko budynki ZL II oraz WIELOkondygnacyjne wysokie i wysokościowe – jednokondygnacyjny budynek wysoki z niego korzysta.",
+  "norms": []
+ },
+ {
+  "id": 259,
+  "ans": "c",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "W2",
+  "basis": "§ 271 ust. 1–3 i 7 WT",
+  "src": "akty/wt_2002.txt",
+  "quote": "Odległość od ściany zewnętrznej budynku lub jej części do ściany zewnętrznej drugiego budynku może być zmniejszona o 25%, w stosunku do określonej w ust. 1–5, jeżeli we wszystkich strefach pożarowych budynku, przylegających odpowiednio do tej ściany lub jej części, są stosowane stałe urządzenia gaśnicze wodne.",
+  "expl": "Tabela: ZL – PM (1000 < Q ≤ 4000) = 15 m; ściany rozprzestrzeniające ogień jednego budynku +50% = 22,5 m (spełnia też min. 20 m przy pomieszczeniu zagrożonym wybuchem). SUG wodne (dowolne, nie tylko tryskaczowe) tylko w jednym budynku dają zmniejszenie o 25%: 22,5 × 0,75 = 16,875 m; 70% > 65% powierzchni w klasie (E), więc bez zwiększeń z ust. 4–5.",
+  "norms": []
+ },
+ {
+  "id": 263,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "U4",
+  "basis": "PN-EN 12845, rozdz. 5 – ochrona przestrzeni ukrytych przy dachu i podłodze",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Przestrzenie ukryte wymagające ochrony projektuje się jak LH, gdy główna klasa zagrożenia to LH, a we wszystkich pozostałych przypadkach jak OH1. Dla budynku OH2 jest to więc OH1, a nie klasa samego budynku.",
+  "norms": [
+   "PN-EN 12845"
+  ]
+ },
+ {
+  "id": 264,
+  "ans": "a",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "U4",
+  "basis": "PN-EN 12845, rozdz. 3 (definicja przyspieszacza) i rozdz. 11 (sekcje powietrzne)",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Przyspieszacz reaguje na początkowy spadek ciśnienia powietrza po otwarciu tryskacza i skraca opóźnienie zadziałania zaworu kontrolno-alarmowego powietrznego, a w konsekwencji alarmu i dopływu wody. Nie ma wpływu na czas otwarcia tryskaczy ani na pracę pomp.",
+  "norms": [
+   "PN-EN 12845"
+  ]
+ },
+ {
+  "id": 266,
+  "ans": "a",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "W3",
+  "basis": "§ 237 ust. 1 pkt 3 oraz ust. 5–7 WT",
+  "src": "akty/wt_2002.txt",
+  "quote": "w strefach pożarowych PM, o obciążeniu ogniowym nieprzekraczającym 500 MJ/m2, w budynku o więcej niż jednej kondygnacji nadziemnej oraz w strefach pożarowych PM w budynku o jednej kondygnacji nadziemnej bez względu na wielkość obciążenia ogniowego – 100 m.",
+  "expl": "Strefa PM o Q ≤ 500 MJ/m2 w budynku wielokondygnacyjnym: 100 m; SUG wodne +50% = 150 m. Klapy otwierane termicznie nie są „uruchamiane za pomocą systemu wykrywania dymu”, więc nie dają kolejnych 50%, a wysokość do 5 m nie daje 25%.",
+  "norms": []
+ },
+ {
+  "id": 295,
+  "ans": "c",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "W3",
+  "basis": "§ 256 ust. 3 (tabela, odnośnik 1) i ust. 4 pkt 1 WT",
+  "src": "akty/wt_2002.txt",
+  "quote": "Dla dojścia najkrótszego, przy czym dopuszcza się dla drugiego dojścia długość większą o 100% od najkrótszego.",
+  "expl": "ZL II przy co najmniej dwóch dojściach: 40 m dla dojścia najkrótszego; SUG wodne +50% = 60 m; drugie dojście może być dłuższe o 100% od najkrótszego, czyli 120 m. Pułapka: 60 m to limit dojścia najkrótszego, a 80 m to drugie dojście bez tryskaczy.",
+  "norms": []
+ },
+ {
+  "id": 312,
+  "ans": "a",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie cytuje wydanie PN-EN 12845+A1:2020-05 (wycofane); aktualne wydanie to PN-EN 12845+A2:2026-09. Odpowiedź ustalono wg wydania cytowanego w pytaniu – wartość/regułę należy sprawdzić w aktualnym wydaniu.",
+  "topic": "U4",
+  "basis": "PN-EN 12845 (cyt. wyd. +A1:2020-05), rozdz. 11 – sekcje powietrzne",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Sekcje powietrzne stosuje się tylko tam, gdzie możliwe są uszkodzenia spowodowane mrozem albo gdzie temperatura przekracza 70 °C (np. suszarnie). Pułapka: odpowiedź b pomija przypadek wysokiej temperatury.",
+  "norms": [
+   "PN-EN 12845"
+  ]
+ },
+ {
+  "id": 313,
+  "ans": "a",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "U4",
+  "basis": "PN-EN 12845, rozdz. 7 – kryteria projektowania hydraulicznego",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Od klasy zagrożenia pożarowego zależą oba parametry: projektowa intensywność zraszania i powierzchnia działania (np. LH 2,25 mm/min i 84 m2; OH1 5 mm/min i 72 m2; OH3 5 mm/min i 216 m2).",
+  "norms": [
+   "PN-EN 12845"
+  ]
+ },
+ {
+  "id": 314,
+  "ans": "a",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie cytuje wydanie PN-EN 12845+A1:2020-05 (wycofane); aktualne wydanie to PN-EN 12845+A2:2026-09. Odpowiedź ustalono wg wydania cytowanego w pytaniu – wartość/regułę należy sprawdzić w aktualnym wydaniu.",
+  "topic": "U4",
+  "basis": "PN-EN 12845 (cyt. wyd. +A1:2020-05), rozdz. 12 – położenie tryskaczy względem stropu",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Tryskacze instaluje się nie niżej niż 0,3 m pod spodem stropów palnych oraz nie niżej niż 0,45 m pod stropami lub dachami niepalnymi (klasy A1/A2). Pułapka: 0,45 m dotyczy stropów niepalnych.",
+  "norms": [
+   "PN-EN 12845"
+  ]
+ },
+ {
+  "id": 323,
+  "ans": "c",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "W1",
+  "basis": "§ 214 pkt 2 WT (w zw. z § 212 ust. 3)",
+  "src": "akty/wt_2002.txt",
+  "quote": "przyjęcie klasy „E” odporności pożarowej dla budynku jednokondygnacyjnego.",
+  "expl": "Jednokondygnacyjny budynek PM przy Q > 4000 MJ/m2 wymagałby klasy „A”, ale w budynku jednokondygnacyjnym chronionym SUG wodnymi dopuszcza się klasę „E” – bez względu na wysokość (18 m) i gęstość obciążenia ogniowego. Wyłączenie dotyczy tylko ZL II i wielokondygnacyjnych W/WW.",
+  "norms": []
+ },
+ {
+  "id": 324,
+  "ans": "a",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "W2",
+  "basis": "§ 228 ust. 1 (tabela) i § 229 ust. 1 pkt 1 WT",
+  "src": "akty/wt_2002.txt",
+  "quote": "Dopuszcza się powiększenie powierzchni stref pożarowych, o których mowa w § 228, pod warunkiem ich ochrony:",
+  "expl": "Strefa PM „pozostała” przy 1000 < Q ≤ 2000 MJ/m2 w budynku wielokondygnacyjnym W/WW: 1000 m2 (Q = 2000 należy do tego przedziału). Samoczynne urządzenie zraszaczowe jest SUG wodnym, więc strefę można powiększyć o 100% – do 2000 m2; § 229 (inaczej niż § 227 ust. 4 dla ZL) nie wyłącza budynków wysokich i wysokościowych.",
+  "norms": []
+ }
+]

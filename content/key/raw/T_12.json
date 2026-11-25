@@ -1,0 +1,219 @@
+[
+ {
+  "id": 326,
+  "ans": "b",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "W1",
+  "basis": "§ 216 ust. 2 pkt 1 WT",
+  "src": "akty/wt_2002.txt",
+  "quote": "elementów budynku o jednej kondygnacji nadziemnej ZL IV oraz PM, o maksymalnej gęstości obciążenia ogniowego strefy pożarowej do 500 MJ/m2;",
+  "expl": "Elementy budynku co do zasady muszą być nierozprzestrzeniające ognia, ale w budynku PM o jednej kondygnacji nadziemnej i Q do 500 MJ/m2 dopuszcza się elementy słabo rozprzestrzeniające ogień. Wysokość 15 m i tryskacze to dane mylące – wyjątek z pkt 1 nie zależy od wysokości (inaczej niż pkt 2 dla budynku PM niskiego do 1000 MJ/m2).",
+  "norms": []
+ },
+ {
+  "id": 330,
+  "ans": "b",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "W3",
+  "basis": "§ 237 ust. 1 pkt 1, ust. 5, ust. 6 pkt 1 i ust. 7 WT",
+  "src": "akty/wt_2002.txt",
+  "quote": "Powiększenia, o których mowa w ust. 5 i 6 pkt 1 i 2, podlegają sumowaniu.",
+  "expl": "ZL: 40 m; wysokość pomieszczenia ponad 5 m +25% (10 m), SUG wodne +50% (20 m); powiększenia się sumuje: 40 + 10 + 20 = 70 m. Sam system sygnalizacji pożarowej nie daje żadnego powiększenia.",
+  "norms": []
+ },
+ {
+  "id": 336,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "U4",
+  "basis": "PN-EN 12845 / PN-EN 12259-1 – klasy czułości termicznej tryskaczy (RTI, C)",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Szybkie reagowanie: RTI ≤ 50 i C ≤ 1,0; specjalne: 50 < RTI ≤ 80 i C ≤ 1,0; standardowe A: 80 < RTI ≤ 200 i C ≤ 2,0. RTI = 60 przy C = 0,5 to grupa specjalnego reagowania.",
+  "norms": [
+   "PN-EN 12845",
+   "PN-EN 12259-1"
+  ]
+ },
+ {
+  "id": 344,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie cytuje wydanie PN-EN 12845+A1:2020-05 (wycofane); aktualne wydanie to PN-EN 12845+A2:2026-09. Odpowiedź ustalono wg wydania cytowanego w pytaniu – wartość/regułę należy sprawdzić w aktualnym wydaniu.",
+  "topic": "U4",
+  "basis": "PN-EN 12845 (cyt. wyd. +A1:2020-05), rozdz. 11 – wielkość sekcji wodnych",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Maksymalna powierzchnia chroniona przez jedną sekcję wodną (jedno stanowisko kontrolno-alarmowe): LH – 10 000 m2, OH – 12 000 m2, HH – 9 000 m2.",
+  "norms": [
+   "PN-EN 12845"
+  ]
+ },
+ {
+  "id": 354,
+  "ans": "a",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "Cytowane wydanie +A1:2020-05 jest wycofane (aktualne: PN-EN 12845+A2:2026-09); jednostka intensywności zraszania (mm/min) jest pojęciem podstawowym i nie zależy od wydania.",
+  "topic": "U4",
+  "basis": "PN-EN 12845 (cyt. wyd. +A1:2020-05), definicja intensywności zraszania",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Intensywność zraszania to objętość wody na jednostkę powierzchni w jednostce czasu: dm3/(m2·min), czyli mm/min. dm3/min to jednostka natężenia przepływu, a dm3/m2 nie zawiera czasu.",
+  "norms": [
+   "PN-EN 12845"
+  ]
+ },
+ {
+  "id": 370,
+  "ans": "c",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "W2",
+  "basis": "§ 228 ust. 1 WT (tabela, kol. 5) – nie stosuje się § 229",
+  "src": "akty/wt_2002.txt",
+  "quote": "Nie dopuszcza się takich przypadków.",
+  "expl": "Dla stref PM o 2000 < Q ≤ 4000 MJ/m2 w budynku wielokondygnacyjnym wysokim lub wysokościowym tabela zawiera gwiazdkę: takich przypadków nie dopuszcza się. Skoro nie ma dopuszczalnej powierzchni, nie ma czego powiększać o 100% czy 150%.",
+  "norms": []
+ },
+ {
+  "id": 371,
+  "ans": "a",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "H1",
+  "basis": "§ 6 ust. 3 i 10 pkt 1, § 7 ust. 1 pkt 2 oraz tabela nr 2 załącznika do rozp. MSWiA z 24.07.2009; czas trwania pożaru wg PN-B-02852",
+  "src": "akty/woda_drogi_2009.txt",
+  "quote": "przy zastosowaniu urządzeń gaśniczych tryskaczowych, zraszaczowych i mgłowych oraz sieci stałych działek gaśniczych — sumie ilości wody do zasilania tych urządzeń i zmniejszonej o 50 % ilości wody do zewnętrznego gaszenia pożaru",
+  "expl": "Tabela nr 2: Q > 4000 MJ/m2 i strefa ponad 5000 m2 → 60 dm3/s, co przy 4 h czasu trwania pożaru daje 864 m3. Przy urządzeniu tryskaczowym wymagana ilość to woda dla tryskaczy (720 m3 – tu w odrębnym zbiorniku) plus ilość do zewnętrznego gaszenia zmniejszona o 50%, czyli 432 m3 w zbiorniku ppoż. (łącznie 1152 m3 ≥ 864 m3).",
+  "norms": [
+   "PN-B-02852"
+  ]
+ },
+ {
+  "id": 373,
+  "ans": "c",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "W3",
+  "basis": "§ 256 ust. 3 (tabela, odnośnik 1) i ust. 4 pkt 1 WT",
+  "src": "akty/wt_2002.txt",
+  "quote": "strefy pożarowej stałymi samoczynnymi urządzeniami gaśniczymi wodnymi – o 50%;",
+  "expl": "Pomieszczenie dla ponad 50 osób niebędących stałymi użytkownikami to ZL I: 40 m dla dojścia najkrótszego przy dwóch dojściach; SUG wodne (mgłowe też) +50% = 60 m; drugie dojście może być o 100% dłuższe – 120 m.",
+  "norms": []
+ },
+ {
+  "id": 378,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie cytuje wydanie PN-EN 12845+A1:2020-05 (wycofane); aktualne wydanie to PN-EN 12845+A2:2026-09. Odpowiedź ustalono wg wydania cytowanego w pytaniu – wartość/regułę należy sprawdzić w aktualnym wydaniu.",
+  "topic": "U4",
+  "basis": "PN-EN 12845 (cyt. wyd. +A1:2020-05), rozdz. 5 – przestrzenie ukryte przy dachu i podłodze",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Przestrzenie ukryte przy dachu lub podłodze wyższe niż 0,8 m chroni się tryskaczami zawsze; przy wysokości do 0,8 m – tylko gdy zawierają materiały palne lub są wykonane z materiałów palnych.",
+  "norms": [
+   "PN-EN 12845"
+  ]
+ },
+ {
+  "id": 382,
+  "ans": "a",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie cytuje wydanie PN-EN 12845+A1:2020-05 (wycofane); aktualne wydanie to PN-EN 12845+A2:2026-09. Odpowiedź ustalono wg wydania cytowanego w pytaniu – wartość/regułę należy sprawdzić w aktualnym wydaniu.",
+  "topic": "U4",
+  "basis": "PN-EN 12845 (cyt. wyd. +A1:2020-05), rozdz. 11 – tryskacze w regałach a stanowisko kontrolno-alarmowe",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Jeżeli w sekcji jest więcej niż 50 tryskaczy w poziomach pośrednich (w regałach), nie powinny one być zasilane z tego samego stanowiska kontrolno-alarmowego co tryskacze przy dachu lub stropie. Graniczna liczba to 50.",
+  "norms": [
+   "PN-EN 12845"
+  ]
+ },
+ {
+  "id": 388,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie cytuje wydanie PN-EN 12845+A1:2020-05 (wycofane); aktualne wydanie to PN-EN 12845+A2:2026-09. Odpowiedź ustalono wg wydania cytowanego w pytaniu – wartość/regułę należy sprawdzić w aktualnym wydaniu.",
+  "topic": "U4",
+  "basis": "PN-EN 12845 (cyt. wyd. +A1:2020-05), rozdz. 8 – zasilanie wodą, minimalny czas działania",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Minimalny czas działania zasilania wodą: LH – 30 min, OH – 60 min, HHP i HHS – 90 min. Czas nie jest wyznaczany z obliczeniowego czasu trwania pożaru.",
+  "norms": [
+   "PN-EN 12845"
+  ]
+ },
+ {
+  "id": 415,
+  "ans": "a",
+  "conf": "niska",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie cytuje wydanie PN-EN 12845+A1:2020-05 (wycofane); aktualne wydanie to PN-EN 12845+A2:2026-09. Odpowiedź ustalono wg wydania cytowanego w pytaniu – wartość/regułę należy sprawdzić w aktualnym wydaniu.",
+  "topic": "U4",
+  "basis": "PN-EN 12845 (cyt. wyd. +A1:2020-05), rozdz. 11 – sekcje powietrzne i sekcje tandemowe (czas do wypływu wody)",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Norma wiąże wielkość sekcji powietrznych (w tym tandemowych) z maksymalnym czasem od otwarcia tryskacza do wypływu wody; z pamięci jest to 60 s. Wartość dla klasy LH należy potwierdzić w tekście normy – odpowiedź niepewna.",
+  "norms": [
+   "PN-EN 12845"
+  ]
+ },
+ {
+  "id": 428,
+  "ans": "c",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie cytuje wydanie PN-EN 12845+A1:2020-05 (wycofane); aktualne wydanie to PN-EN 12845+A2:2026-09. Odpowiedź ustalono wg wydania cytowanego w pytaniu – wartość/regułę należy sprawdzić w aktualnym wydaniu.",
+  "topic": "U4",
+  "basis": "PN-EN 12845 (cyt. wyd. +A1:2020-05), rozdz. 10 – pompy z silnikiem wysokoprężnym, zbiornik paliwa",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Zapas paliwa ma wystarczać na pracę silnika przy pełnym obciążeniu przez: 3 h dla LH, 4 h dla OH i 6 h dla HHP oraz HHS.",
+  "norms": [
+   "PN-EN 12845"
+  ]
+ },
+ {
+  "id": 433,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie cytuje wydanie PN-EN 12845+A1:2020-05 (wycofane); aktualne wydanie to PN-EN 12845+A2:2026-09. Odpowiedź ustalono wg wydania cytowanego w pytaniu – wartość/regułę należy sprawdzić w aktualnym wydaniu.",
+  "topic": "U4",
+  "basis": "PN-EN 12845 (cyt. wyd. +A1:2020-05), rozdz. 9 – zbiorniki ciśnieniowe (hydrofory)",
+  "src": "wiedza",
+  "quote": "",
+  "expl": "Minimalna ilość wody w hydroforze stanowiącym pojedyncze zasilanie wynosi 15 m3 dla LH i 23 m3 dla OH1. 23 m3 to wartość dla OH1, a nie dla LH.",
+  "norms": [
+   "PN-EN 12845"
+  ]
+ }
+]
