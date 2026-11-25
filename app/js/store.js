@@ -10,7 +10,7 @@
     plan: function () { return { tasks: {}, reads: {}, lessons: {}, sheets: {} }; },
     srs: function () { return { q: {}, f: {} }; },
     log: function () { return { days: {}, sessions: [], calib: { sure: [0, 0], unsure: [0, 0] } }; },
-    notes: function () { return { over: {}, flags: {}, qnotes: {}, customQ: [], customF: [], doubts: [] }; }
+    notes: function () { return { over: {}, flags: {}, qnotes: {}, customQ: [], customF: [], doubts: [], cases: {} }; }
   };
   var mem = {}, listeners = [], cloud = null, state = { mode: 'local', pending: 0, lastSync: 0, error: '' };
   var timers = {}, inflight = {}, dirty = {};
@@ -47,7 +47,7 @@
       function best(x, y) { x = x || [0, 0]; y = y || [0, 0]; return y[1] > x[1] ? y : x; }
       return { u: Math.max(a.u || 0, b.u || 0), days: days, sessions: mergeList(a.sessions, b.sessions, 400), calib: { sure: best(ca.sure, cb.sure), unsure: best(ca.unsure, cb.unsure) } };
     },
-    notes: function (a, b) { return { u: Math.max(a.u || 0, b.u || 0), over: mergeMap(a.over, b.over), flags: mergeMap(a.flags, b.flags), qnotes: mergeMap(a.qnotes, b.qnotes), customQ: mergeList(a.customQ, b.customQ), customF: mergeList(a.customF, b.customF), doubts: mergeList(a.doubts, b.doubts) }; }
+    notes: function (a, b) { return { u: Math.max(a.u || 0, b.u || 0), over: mergeMap(a.over, b.over), flags: mergeMap(a.flags, b.flags), qnotes: mergeMap(a.qnotes, b.qnotes), customQ: mergeList(a.customQ, b.customQ), customF: mergeList(a.customF, b.customF), doubts: mergeList(a.doubts, b.doubts), cases: mergeMap(a.cases, b.cases) }; }
   };
 
   /* --- chmura (artefakt Claude) --- */

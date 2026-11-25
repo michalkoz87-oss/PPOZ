@@ -4,7 +4,7 @@
   var P = window.PPOZ, h = P.h, ui = P.ui;
   var NAV = [
     { id: 'dzis', label: 'Dziś' }, { id: 'plan', label: 'Plan' }, { id: 'nauka', label: 'Nauka' }, { id: 'pytania', label: 'Pytania' },
-    { id: 'fiszki', label: 'Fiszki' }, { id: 'egzamin', label: 'Egzamin próbny' }, { sep: true },
+    { id: 'fiszki', label: 'Fiszki' }, { id: 'egzamin', label: 'Egzamin próbny' }, { id: 'ustna', label: 'Część ustna' }, { sep: true },
     { id: 'zrodla', label: 'Przepisy i normy' }, { id: 'statystyki', label: 'Statystyki' }, { id: 'metoda', label: 'Jak się uczyć' }, { id: 'ustawienia', label: 'Ustawienia' }
   ];
   var TABS = ['dzis', 'plan', 'nauka', 'pytania'];

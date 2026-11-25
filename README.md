@@ -32,6 +32,7 @@ i komputera.
 | Pytania | sesje z wyjaśnieniem i podstawą prawną, pula błędów, poprawianie klucza, własne pytania |
 | Fiszki | powtórki w rosnących odstępach: 1, 3, 7, 16, 35, 75, 150 dni |
 | Egzamin próbny | 14 rzeczywistych arkuszy i egzamin losowy; 40 pytań, 40 minut, +1 / −1 / 0, próg 21 pkt |
+| Część ustna | dokumentacja do oceny: fikcyjny opis i rysunki z celowymi błędami, pytania komisji, klucz z podstawą prawną, zegar 20 minut |
 | Przepisy i normy | status 40 aktów prawnych i aktualne wydania 162 norm |
 | Statystyki | gotowość do egzaminu, wyniki według tematów, kalibracja pewności |
 
@@ -44,6 +45,8 @@ i komputera.
 - **Warunki techniczne budynków z 2002 r. utraciły moc 21 września 2026 r.**, a nowego rozporządzenia
   do 24 listopada 2026 r. nie ogłoszono. Prawo budowlane (art. 102a–102c) pozwala przez 18 miesięcy
   projektować według dotychczasowych przepisów. Aplikacja uczy ostatniego brzmienia.
+- **Dokumentacja do części ustnej jest fikcyjna.** Kazusy (`content/cases/`) ułożono do ćwiczeń; klucz opiera się na
+  tekstach przepisów, a wymagania budowlane na warunkach technicznych z 2002 r. Format opisuje `content/cases/README.md`.
 - **Normy.** Rejestr podaje aktualne wydania według wyszukiwarki PKN. Starsze pytania cytują wydania
   wycofane, więc wartości mogły się zmienić. Aplikacja nie zawiera tekstów norm.
 - Fiszki pochodzą z wcześniejszego opracowania i nie zostały jeszcze sprawdzone w źródłach.

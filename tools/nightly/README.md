@@ -4,7 +4,8 @@ Cel: po jednym bloku tematycznym na noc sprawdzić klucz odpowiedzi w tekstach �
 i fiszki do lekcji bloku, a potem zbudować i opublikować aplikację. Ciężką pracę (agenci) wolno
 uruchamiać tylko po 23:00 czasu polskiego. Jeden blok na noc.
 
-Kolejność bloków (`blocks.json`): R → H → P → D1 → D2 → D3 → E1 → E2 → W1 → W2 → Z.
+Kolejność bloków: R → K → K2 → H → P → D1 → D2 → D3 → E1 → E2 → W1 → W2 → Z (`content/key/progress.json`, pole `order`).
+Bloki R–Z z `blocks.json` to weryfikacja klucza pytań testowych; K i K2 to kazusy części ustnej (opis niżej).
 Warunki techniczne (W1, W2) są na końcu, bo nowe rozporządzenie jest podpisane, ale nieogłoszone.
 Stan postępu: `content/key/progress.json` (`done`: bloki ukończone).
 
@@ -64,8 +65,9 @@ Stan postępu: `content/key/progress.json` (`done`: bloki ukończone).
 
    Test w przeglądarce: serwer `python3 -m http.server 8200 --directory app`, potem
    `node tools/smoke.js <katalog na zrzuty>`; ma być `ERRORS 0`.
+   Uruchom też `node tools/smoke_ustna.js <katalog na zrzuty>` (moduł części ustnej).
    Dopisz blok do `content/key/progress.json` (data, liczba pytań, liczba spornych), zrób commit i push,
-   opublikuj `dist/artifact.html` z plikami `dist/data/*.json` pod adresem
+   opublikuj `dist/artifact.html` z plikami `dist/data/*.json` (także `cases.json`) pod adresem
    `https://claude.ai/artifact/AYFFkjMbuJvG6gfe7YbMSC`.
 
 6. **Limit użycia.** Jeśli limit przerwie przebieg, nic nie ginie: wyniki są w plikach. Wykonaj krok 5
@@ -74,6 +76,32 @@ Stan postępu: `content/key/progress.json` (`done`: bloki ukończone).
 
 7. **Koniec.** Po bloku Z wyłącz zadanie cykliczne i napisz użytkownikowi podsumowanie: ile pytań ma
    odpowiedź potwierdzoną cytatem, ile zostało spornych lub niepewnych i dlaczego.
+
+## Bloki K i K2: kazusy części ustnej
+
+Kazus to fikcyjna dokumentacja z celowymi błędami, rysunkami, pytaniami komisji i kluczem (`content/cases/K??.json`,
+format w `content/cases/README.md`). Lista tematów: `tools/nightly/cases.json`. Jeden przebieg obejmuje trzy kazusy:
+autor pisze kazus z tekstu przepisów, niezależny „zdający” ocenia dokumentację bez klucza, kontroler sprawdza klucz
+i uwagi zdającego w źródłach, ogląda rysunki i dopisuje pole `review`. Kazus napisany wcześniej ręcznie (K01)
+przechodzi tylko dwa ostatnie kroki.
+
+1. Przygotuj `.work/corpus/akty` jak w kroku 1. Przed przebiegiem sprawdź, czy ogłoszono nowe warunki techniczne (krok 2).
+2. Argumenty przebiegu:
+
+   ```bash
+   python3 tools/nightly/select_cases.py 3
+   ```
+
+3. `Workflow` ze `scriptPath: tools/nightly/cases.js` i wypisanymi argumentami. Bez innych przebiegów równolegle.
+4. Po przebiegu sprawdź każdy nowy plik (`python3 tools/validate_case.py content/cases/K0?.json`), zbuduj dane
+   i wersje do publikacji, uruchom oba testy w przeglądarce (`node tools/smoke.js <katalog>` oraz
+   `node tools/smoke_ustna.js <katalog>`; oba mają dać `ERRORS 0`) i obejrzyj zrzuty rysunków nowych kazusów.
+   Kazus bez pola `review` nie przeszedł kontroli: nie publikuj go (przenieś plik do `.work/`) i powtórz następnej nocy.
+5. Wpisz blok do `progress.json`, zrób commit i push, opublikuj artefakt (z plikiem `dist/data/cases.json`).
+6. W sprawozdaniu podaj dla każdego kazusu: ile usterek ma klucz, ile z nich wskazał niezależny zdający, ile pozycji
+   kontroler poprawił, usunął albo dopisał i co uznał za niepewne.
+
+Blok K2 to ten sam przebieg dla kolejnych trzech tematów z listy.
 
 ## Zasady
 

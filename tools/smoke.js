@@ -1,7 +1,7 @@
 const { chromium } = require('playwright');
 const fs = require('fs');
 const base = 'http://localhost:8200/index.html', shots = process.argv[2];
-const ROUTES = ['dzis', 'plan', 'metoda', 'nauka', 'lekcja-T03', 'pytania', 'egzamin', 'fiszki', 'zrodla', 'zrodla-normy', 'statystyki', 'ustawienia'];
+const ROUTES = ['dzis', 'plan', 'metoda', 'nauka', 'lekcja-T03', 'pytania', 'egzamin', 'fiszki', 'zrodla', 'zrodla-normy', 'statystyki', 'ustawienia', 'ustna', 'ustna-K01'];
 (async () => {
   const b = await chromium.launch(); const errs = [];
   for (const [w, hh, scheme] of [[1280, 800, 'light'], [390, 844, 'dark']]) {

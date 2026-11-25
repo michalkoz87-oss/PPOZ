@@ -2,7 +2,7 @@
 (function () {
   'use strict';
   var P = window.PPOZ, U = P.util;
-  var FILES = ['meta', 'topics', 'plan', 'questions', 'flashcards', 'lessons', 'norms', 'legal'];
+  var FILES = ['meta', 'topics', 'plan', 'questions', 'flashcards', 'lessons', 'norms', 'legal', 'cases'];
   var D = P.data = {};
 
   function loadAll() {
@@ -16,7 +16,7 @@
     FILES.forEach(function (f) { D[f] = o[f]; });
     D.qById = byKey(D.questions, 'id'); D.topicByCode = byKey(D.topics, 'code'); D.lessonById = byKey(D.lessons, 'id');
     D.cardById = byKey(D.flashcards, 'id'); D.normByBase = byKey(D.norms.norms, 'base'); D.actById = byKey(D.legal, 'id');
-    D.weekByN = byKey(D.plan.weeks, 'n'); D.blockById = byKey(D.plan.blocks, 'id');
+    D.caseById = byKey(D.cases || [], 'id'); D.weekByN = byKey(D.plan.weeks, 'n'); D.blockById = byKey(D.plan.blocks, 'id');
     return D;
   });
 

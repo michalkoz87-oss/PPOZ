@@ -11,7 +11,7 @@ import json, os, re, shutil
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 APP = os.path.join(ROOT, 'app')
 DIST = os.path.join(ROOT, 'dist')
-DATA = ['meta', 'topics', 'plan', 'questions', 'flashcards', 'lessons', 'norms', 'legal']
+DATA = ['meta', 'topics', 'plan', 'questions', 'flashcards', 'lessons', 'norms', 'legal', 'cases']
 
 
 def read(*p):

@@ -1,0 +1,31 @@
+{
+ "sources": [
+  {"file": "INDEX.md", "read": "CAŁY plik: opis korpusu i stanu prawnego"},
+  {"file": "akty/wt_2002.txt", "read": "dział VI „Bezpieczeństwo pożarowe” w całości (grep -n 'DZIAŁ VI'; ok. 1300 linii) oraz § 2, § 3, § 8, § 68, § 181, § 183 (grep); zmiany z 2023–2024 r. na końcu pliku"},
+  {"file": "akty/rozp_ppoz_2010.txt", "read": "CAŁY plik (tekst jednolity z 2023 r.; na końcu pliku zmiany z 21.11.2024 i 28.09.2026, nieuwzględnione w tekście jednolitym)"},
+  {"file": "akty/woda_drogi_2009.txt", "read": "CAŁY plik (polskie znaki są zapisane nietypowo: ˝=ż, ∏=ł, à=ą, ´=ę, Ê=ś, ƒ=ń, ç=ć; układ dwukolumnowy; liczby są poprawne; tabele na końcu pliku)"},
+  {"file": "akty/uzgadnianie_2023.txt", "read": "CAŁY plik"},
+  {"file": "akty/ustawa_ppoz.txt", "read": "art. 4, art. 6a–6g (grep -n 'Art. 6')"},
+  {"file": "akty/prawo_budowlane.txt", "read": "grep: art. 5, art. 9, art. 56, art. 71"}
+ ],
+ "cases": [
+  {"id": "K01", "title": "Budynek biurowy średniowysoki", "existing": true,
+   "task": "ocena zgodności projektu przed uzgodnieniem (§ 16 ust. 1 pkt 2 lit. a)",
+   "brief": "Kazus wzorcowy, napisany ręcznie. W nocnym przebiegu przechodzi tylko niezależne rozwiązanie i kontrolę."},
+  {"id": "K02", "title": "Hala magazynowa z częścią socjalno-biurową",
+   "task": "ocena zgodności projektu przed uzgodnieniem (§ 16 ust. 1 pkt 2 lit. a)",
+   "brief": "Jednokondygnacyjna hala magazynowa (strefa PM o gęstości obciążenia ogniowego podanej w opisie, powyżej 1000 MJ/m2) z dobudowaną dwukondygnacyjną częścią socjalno-biurową (ZL III). Do oceny między innymi: klasa odporności pożarowej budynku PM i warunki jej obniżenia, dopuszczalna powierzchnia strefy pożarowej PM i warunki jej powiększenia, oddzielenie części ZL III, długość przejść i liczba wyjść z hali, hydranty 52 i ich zasięg, gaśnice, obowiązek drogi pożarowej i jej parametry, ilość wody do zewnętrznego gaszenia dla obiektu PM, odległości od sąsiedniej zabudowy zależne od gęstości obciążenia ogniowego, obowiązek uzgodnienia."},
+  {"id": "K03", "title": "Hotel na 80 miejsc noclegowych",
+   "task": "ocena zgodności projektu przed uzgodnieniem (§ 16 ust. 1 pkt 2 lit. a)",
+   "brief": "Niski, trzykondygnacyjny budynek zamieszkania zbiorowego (ZL V) z restauracją na parterze; liczba miejsc w restauracji dobrana tak, aby kwalifikacja do ZL I była sprawą do rozstrzygnięcia przez zdającego. Do oceny między innymi: kategorie zagrożenia ludzi i wymagania dla strefy zaliczonej do więcej niż jednej kategorii, klasa odporności pożarowej, długości dojść przy jednym i dwóch kierunkach, klatki schodowe, drzwi i wyjścia z pomieszczeń dla ponad 50 osób, hydranty 25, obowiązek systemu sygnalizacji pożarowej i dźwiękowego systemu ostrzegawczego w hotelu, oświetlenie awaryjne, droga pożarowa do budynku ZL V, woda do zewnętrznego gaszenia."},
+  {"id": "K04", "title": "Zmiana sposobu użytkowania kamienicy: rozwiązania zamienne",
+   "task": "określenie rozwiązań zamiennych i zakresu ekspertyzy technicznej dla budynku istniejącego (§ 16 ust. 1 pkt 2 lit. b i c)",
+   "brief": "Istniejąca średniowysoka kamienica w zabudowie pierzejowej: zmiana sposobu użytkowania dwóch kondygnacji z mieszkań na biura oraz adaptacja poddasza. Dokumentacja to inwentaryzacja z opisem stanu istniejącego i zamierzenia. Części wymagań nie da się spełnić wprost (na przykład szerokość biegów, zabezpieczenie klatki schodowej przed zadymieniem, długość dojść, dostęp z drogi pożarowej w zabudowie pierzejowej). Zdający ma wskazać niezgodności, rozróżnić te, które trzeba usunąć, od tych, które wymagają rozwiązań zamiennych, zaproponować rozwiązania zamienne i podać, co ma wykazać ekspertyza oraz jaki jest tryb (§ 2 warunków technicznych dla przebudowy i zmiany sposobu użytkowania, art. 6a ustawy o ochronie przeciwpożarowej, przesłanki zagrożenia życia ludzi z rozporządzenia z 2010 r.). Klucz ma zawierać także ocenę, czy proponowane w opisie rozwiązania zamienne projektanta są wystarczające."},
+  {"id": "K05", "title": "Przedszkole jednokondygnacyjne",
+   "task": "ocena zgodności projektu przed uzgodnieniem (§ 16 ust. 1 pkt 2 lit. a)",
+   "brief": "Parterowy budynek przedszkola na 100 dzieci (ZL II). Do oceny między innymi: klasa odporności pożarowej i jej obniżenie w budynku jednokondygnacyjnym, powierzchnia strefy, wyjścia z sal dla ponad 30 osób w ZL II, kierunek otwierania drzwi przy osobach o ograniczonej zdolności poruszania się, długości dojść w ZL II, hydranty 25, oświetlenie awaryjne, droga pożarowa do budynku ZL II, woda do zewnętrznego gaszenia, odległość od granicy lasu albo sąsiedniej zabudowy."},
+  {"id": "K06", "title": "Budynek mieszkalny wielorodzinny z garażem podziemnym",
+   "task": "ocena zgodności projektu przed uzgodnieniem (§ 16 ust. 1 pkt 2 lit. a)",
+   "brief": "Średniowysoki budynek mieszkalny wielorodzinny (ZL IV) z jednokondygnacyjnym garażem podziemnym. Do oceny między innymi: klasa odporności pożarowej z uwzględnieniem części podziemnej, wydzielenie garażu jako odrębnej strefy pożarowej i jej dopuszczalna powierzchnia, wymagania dla garażu zamkniętego (oddymianie, wyjścia ewakuacyjne i długość przejść, hydranty 33, detekcja), klatki schodowe i dojścia w części mieszkalnej, piwnice i połączenie garażu z klatkami schodowymi, droga pożarowa, woda do zewnętrznego gaszenia, obowiązek uzgodnienia garażu."}
+ ]
+}

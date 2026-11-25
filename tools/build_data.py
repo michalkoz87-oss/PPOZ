@@ -224,6 +224,19 @@ def build_legal():
     return out
 
 
+def build_cases():
+    """Kazusy części ustnej: content/cases/K*.json (dokumentacja do oceny, rysunki, pytania komisji, klucz)."""
+    from validate_case import check
+    out = []
+    for fn in sorted(glob.glob(C('cases', 'K*.json'))):
+        c = load(fn)
+        errs = check(c)
+        if errs:
+            raise SystemExit('Błędy w %s:\n  ' % os.path.basename(fn) + '\n  '.join(errs))
+        out.append(c)
+    return out
+
+
 def main():
     questions = build_questions()
     cards = build_flashcards()
@@ -236,11 +249,13 @@ def main():
     sizes['legal.json'] = dump('legal.json', build_legal())
     sizes['topics.json'] = dump('topics.json', load(C('topics.json')))
     sizes['plan.json'] = dump('plan.json', load(C('plan.json')))
+    cases = build_cases()
+    sizes['cases.json'] = dump('cases.json', cases)
     verif = collections.Counter(q['verif'] for q in questions)
     conf = collections.Counter(q['conf'] for q in questions)
     meta = dict(built=datetime.date.today().isoformat(), legalDate=LEGAL_DATE,
                 exam=dict(questions=40, minutes=40, pass_=21, ok=1, bad=-1, none=0, sheets=14),
-                counts=dict(questions=len(questions), flashcards=len(cards), lessons=len(lessons)),
+                counts=dict(questions=len(questions), flashcards=len(cards), lessons=len(lessons), cases=len(cases)),
                 key=dict(verif=dict(verif), conf=dict(conf)))
     sizes['meta.json'] = dump('meta.json', meta)
     print(json.dumps(sizes), dict(verif), dict(conf))

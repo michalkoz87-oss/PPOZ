@@ -73,7 +73,7 @@
     dzis: 'M4 11.5 12 4l8 7.5V20h-5v-5H9v5H4z', plan: 'M5 5h14v15H5zM5 9h14M9 3v4M15 3v4', nauka: 'M4 5h7a3 3 0 0 1 1 2 3 3 0 0 1 1-2h7v14h-7a2 2 0 0 0-1 1 2 2 0 0 0-1-1H4zM12 7v13',
     pytania: 'M5 4h14v12H9l-4 4zM9 8h6M9 12h4', fiszki: 'M7 7h12v12H7zM4 16V4h12', egzamin: 'M12 7v5l3 2M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18z',
     zrodla: 'M6 3h9l3 3v15H6zM14 3v4h4M9 11h6M9 15h6', statystyki: 'M4 20V10M10 20V4M16 20v-8M21 20H3', ustawienia: 'M4 7h10M18 7h2M4 17h4M12 17h8M14 4v6M8 14v6',
-    metoda: 'M12 3a6 6 0 0 0-3 11v3h6v-3a6 6 0 0 0-3-11zM9 21h6', wiecej: 'M5 12h.01M12 12h.01M19 12h.01', ok: 'M5 12.5 10 17 19 7', x: 'M6 6l12 12M18 6 6 18',
+    metoda: 'M12 3a6 6 0 0 0-3 11v3h6v-3a6 6 0 0 0-3-11zM9 21h6', ustna: 'M4 20V7l8-4 8 4v13M2 20h20M9 20v-5h6v5M8 10h2M14 10h2', wiecej: 'M5 12h.01M12 12h.01M19 12h.01', ok: 'M5 12.5 10 17 19 7', x: 'M6 6l12 12M18 6 6 18',
     flag: 'M6 21V4h11l-2 4 2 4H6', link: 'M10 14 20 4M14 4h6v6M18 14v6H4V6h6', sync: 'M4 12a8 8 0 0 1 14-5l2 2M20 4v5h-5M20 12a8 8 0 0 1-14 5l-2-2M4 20v-5h5', warn: 'M12 4 2 20h20zM12 10v5M12 17.5v.01'
   };
   P.icon = function (name) {

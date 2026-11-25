@@ -1,0 +1,113 @@
+/* Część ustna: kazusy z dokumentacją do oceny oraz rysunki techniczne (svg.dw rysowane przez js/drawing.js).
+   Grubości linii rysunku zależą od --dw-f (wysokość pisma rysunku w jednostkach SVG), żeby rzut 1:100 i plan 1:500 wyglądały podobnie. */
+.case-card { gap: 10px; }
+.case-card h3 { font-size: 1.1rem; }
+.case-meta { display: flex; flex-wrap: wrap; gap: 4px 14px; color: var(--ink-2); font-size: .875rem; }
+.case-top { position: sticky; top: 0; z-index: 5; background: var(--bg); padding: 8px 0; display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; justify-content: space-between; border-bottom: 1px solid var(--line); }
+.case-timer { display: flex; align-items: center; gap: 8px; }
+.case-clock { font: 600 1.25rem/1 var(--f-mono); font-variant-numeric: tabular-nums; padding: 6px 10px; border: 1px solid var(--line); border-radius: var(--r-sm); background: var(--surface); min-width: 5.2ch; text-align: center; }
+.case-clock.over { color: var(--bad); border-color: var(--bad); }
+.case-doc { gap: 16px; }
+.case-doc h3 { font-size: 1rem; display: flex; gap: 10px; align-items: baseline; }
+.case-doc h3 .num { color: var(--ink-3); font-size: .9rem; }
+.case-doc .doc-sec { display: flex; flex-direction: column; gap: 8px; padding-top: 12px; border-top: 1px solid var(--line); }
+.case-stamp { font: 500 .78rem/1.4 var(--f-mono); color: var(--ink-2); border: 1px dashed var(--line); border-radius: var(--r-sm); padding: 8px 10px; }
+.case-q { display: flex; gap: 12px; align-items: flex-start; }
+.case-q > .n { flex: none; width: 28px; height: 28px; border-radius: 50%; display: grid; place-items: center; font: 600 .85rem var(--f-mono); background: var(--accent-soft); color: var(--accent); }
+.case-q > .n.bad { background: var(--bad-soft); color: var(--bad); } .case-q > .n.ok { background: var(--ok-soft); color: var(--ok); }
+.case-q > div { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 8px; }
+.case-find { padding: 14px 0; border-top: 1px solid var(--line); }
+.case-find:first-child { border-top: 0; padding-top: 0; }
+.case-find h4 { font-size: 1rem; }
+.case-find dl { margin: 0; display: grid; grid-template-columns: max-content 1fr; gap: 4px 12px; font-size: .95rem; }
+.case-find dt { color: var(--ink-3); font-size: .82rem; padding-top: 2px; }
+.case-find dd { margin: 0; min-width: 0; }
+.case-points { margin: 0; padding-left: 20px; display: flex; flex-direction: column; gap: 6px; }
+.case-points .ref { margin-left: 6px; }
+.case-notes { min-height: 220px; resize: vertical; font: 400 1rem/1.5 var(--f-body); }
+.case-steps { margin: 0; padding-left: 22px; display: flex; flex-direction: column; gap: 6px; }
+
+.dwg { border: 1px solid var(--line); border-radius: var(--r); background: var(--surface); overflow: hidden; }
+.dwg-bar { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 14px; padding: 8px 10px; border-bottom: 1px solid var(--line); background: var(--surface-2); }
+.dwg-bar .btn[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.dwg-scroll { overflow: auto; max-height: min(76vh, 860px); background: var(--surface); -webkit-overflow-scrolling: touch; }
+.dwg-scroll.measuring svg { cursor: crosshair; }
+.dwg-read { font-size: .875rem; color: var(--accent); font-weight: 600; }
+.dwg-legend { list-style: none; margin: 0; padding: 10px 12px; display: flex; flex-wrap: wrap; gap: 6px 18px; border-top: 1px solid var(--line); font-size: .82rem; color: var(--ink-2); }
+.dwg-legend li { display: flex; align-items: center; gap: 7px; }
+.dwg-key { flex: none; width: 22px; height: 12px; border: 1.5px solid var(--ink); }
+.dwg-key.k-wall { background: var(--ink); height: 6px; } .dwg-key.k-firewall { background: var(--bad); border-color: var(--bad); height: 6px; }
+.dwg-key.k-firedoor { border: 0; border-top: 3px solid var(--bad); height: 3px; }
+.dwg-key.k-evac { border: 0; border-top: 3px dashed var(--ok); height: 3px; } .dwg-key.k-hose { border: 0; border-top: 3px dashed var(--bad); height: 3px; }
+.dwg-key.k-zone { border: 1.5px dashed var(--accent); background: var(--accent-soft); }
+.dwg-key.k-sym { width: 14px; height: 14px; } .dwg-key.k-sym.k-fire { background: var(--bad); border-color: var(--bad); }
+.dwg-key.k-sym.k-evac { background: var(--ok); border-color: var(--ok); } .dwg-key.k-sym.k-green { background: var(--ok-soft); border-color: var(--ok); border-radius: 50%; }
+.dwg-key.k-area.k-building { border-width: 3px; background: repeating-linear-gradient(45deg, transparent 0 3px, var(--ink-3) 3px 4px); }
+.dwg-key.k-area.k-neighbor { border-color: var(--ink-2); background: repeating-linear-gradient(45deg, transparent 0 3px, var(--ink-3) 3px 4px); }
+.dwg-key.k-area.k-road, .dwg-key.k-area.k-paved { background: var(--surface-2); border-color: var(--ink-3); }
+.dwg-key.k-area.k-fireroad { background: var(--bad-soft); border: 1.5px dashed var(--bad); }
+.dwg-key.k-area.k-parking, .dwg-key.k-area.k-shed { border: 1.5px dashed var(--ink-3); }
+.dwg-key.k-area.k-green { background: var(--ok-soft); border-color: transparent; }
+.dwg-key.k-area.k-tank { background: var(--accent-soft); border-color: var(--accent); }
+.dwg-key.k-area.k-plot { border: 0; border-top: 2px dashed var(--ink); height: 2px; }
+
+svg.dw { display: block; width: 100%; height: auto; font-family: var(--f-body); }
+.dw-paper { fill: var(--surface); }
+.dw-wall { fill: none; stroke: var(--ink); stroke-linejoin: miter; stroke-linecap: square; }
+.dw-wall-int { stroke: var(--ink-2); }
+.dw-wall-fire { stroke: var(--bad); }
+.dw-gap { fill: var(--surface); stroke: none; }
+.dw-win { stroke: var(--ink-2); stroke-width: calc(var(--dw-f) * .05); }
+.dw-thin, .dw-stair, .dw-line { fill: none; stroke: var(--ink-2); stroke-width: calc(var(--dw-f) * .05); }
+.dw-line-boundary { stroke: var(--ink); stroke-width: calc(var(--dw-f) * .08); }
+.dw-leaf { stroke: var(--ink); stroke-width: calc(var(--dw-f) * .1); }
+.dw-leaf.dw-fire { stroke: var(--bad); stroke-width: calc(var(--dw-f) * .17); }
+.dw-swing { fill: none; stroke: var(--ink-3); stroke-width: calc(var(--dw-f) * .045); }
+.dw-dim { fill: none; stroke: var(--ink-2); stroke-width: calc(var(--dw-f) * .045); }
+.dw-tick { stroke: var(--ink); stroke-width: calc(var(--dw-f) * .1); }
+.dw-arrow { fill: var(--ink-2); }
+.dw-hatch { stroke: var(--ink-3); stroke-width: calc(var(--dw-f) * .1); }
+.dw-path { fill: none; stroke-width: calc(var(--dw-f) * .13); }
+.dw-path-evac { stroke: var(--ok); } .dw-path-hose { stroke: var(--bad); }
+.dw-fill { stroke: none; } .dw-fill-evac { fill: var(--ok-soft); } .dw-fill-fire { fill: var(--bad-soft); } .dw-fill-tech { fill: var(--surface-2); } .dw-fill-accent { fill: var(--accent-soft); }
+.dw-zone { fill: var(--accent-soft); fill-opacity: .45; stroke: var(--accent); stroke-width: calc(var(--dw-f) * .09); }
+
+.dw-area { fill: none; stroke: var(--ink); stroke-width: calc(var(--dw-f) * .07); }
+.dw-k-building { stroke-width: calc(var(--dw-f) * .22); }
+.dw-k-neighbor { stroke: var(--ink-2); stroke-width: calc(var(--dw-f) * .12); }
+.dw-k-road, .dw-k-paved { fill: var(--surface-2); stroke: var(--ink-3); }
+.dw-k-fireroad { fill: var(--bad-soft); stroke: var(--bad); stroke-width: calc(var(--dw-f) * .09); }
+.dw-k-parking, .dw-k-shed { stroke: var(--ink-3); }
+.dw-k-green { fill: var(--ok-soft); stroke: none; }
+.dw-k-tank { fill: var(--accent-soft); stroke: var(--accent); }
+.dw-k-plot { stroke: var(--ink); stroke-width: calc(var(--dw-f) * .1); }
+
+.dw-t { fill: var(--ink); paint-order: stroke; stroke: var(--surface); stroke-width: calc(var(--dw-f) * .3); stroke-linejoin: round; }
+.dw-t-room { font-weight: 600; }
+.dw-t-2, .dw-t-dim { fill: var(--ink-2); }
+.dw-t-dim { font-family: var(--f-mono); }
+.dw-t-fire, .dw-t-hose { fill: var(--bad); font-weight: 600; }
+.dw-t-evac { fill: var(--ok); font-weight: 600; }
+.dw-t-green { fill: var(--ok); }
+.dw-t-zone { fill: var(--accent); font-weight: 600; }
+.dw-sym-box { fill: var(--surface); stroke-width: calc(var(--dw-f) * .1); }
+.dw-sym-fire .dw-sym-box { stroke: var(--bad); } .dw-sym-fire .dw-sym-fill { fill: var(--bad); stroke: var(--bad); }
+.dw-sym-evac .dw-sym-box { fill: var(--ok); stroke: var(--ok); }
+.dw-sym-ink .dw-sym-box { stroke: var(--ink); }
+.dw-sym-green .dw-sym-tree { fill: var(--ok-soft); stroke: var(--ok); stroke-width: calc(var(--dw-f) * .08); }
+.dw-sym-green .dw-sym-fill { fill: var(--ok); }
+.dw-t-sym { stroke: none; font-weight: 700; fill: var(--bad); }
+.dw-t-sym.inv, .dw-sym-evac .dw-t-sym { fill: var(--surface); }
+.dw-sym-ink .dw-t-sym { fill: var(--ink); }
+.dw-bar-a { fill: var(--ink); } .dw-bar-b { fill: var(--surface); stroke: var(--ink); stroke-width: calc(var(--dw-f) * .04); }
+.dw-north .dw-arrow { fill: var(--ink); }
+.dw-marker circle { fill: var(--bad); stroke: var(--surface); stroke-width: calc(var(--dw-f) * .16); }
+.dw-marker-ok circle { fill: var(--ok); }
+.dw-marker text { fill: var(--surface); font-weight: 700; font-family: var(--f-mono); }
+.dw-measure { fill: none; stroke: var(--accent); stroke-width: calc(var(--dw-f) * .14); }
+.dw-measure-pt { fill: var(--accent); stroke: var(--surface); stroke-width: calc(var(--dw-f) * .06); }
+
+@media (max-width: 640px) {
+  .case-find dl { grid-template-columns: 1fr; gap: 2px; }
+  .case-find dt { padding-top: 8px; }
+}
