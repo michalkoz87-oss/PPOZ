@@ -16,9 +16,28 @@ Stan postępu: `content/key/progress.json` (`done`: bloki ukończone).
    mkdir -p .work/corpus/akty .work/corpus/normy && python3 tools/fetch_acts.py .work/corpus/akty && cp content/reference/*.md .work/corpus/
    ```
 
-   Normy przekazane przez użytkownika (PDF w `/root/.claude/uploads/…`) zamień na tekst poleceniem
-   `pdftotext -layout` do `.work/corpus/normy/` pod nazwami z `blocks.json`. Nie zapisuj ich w repozytorium.
-   Jeśli plików nie ma, pracuj bez nich.
+   **Teksty norm.** Normy są plikami użytkownika w jego Dropboxie (licencja PKN: tylko do użytku
+   wewnętrznego). Wykaz: `tools/nightly/norms.json` (identyfikator pliku, nazwa pliku roboczego, wydanie
+   aktualne czy wycofane, blok). Tekstów norm nie zapisuj w repozytorium ani nie przepisuj do aplikacji.
+
+   ```bash
+   python3 -I tools/nightly/norms_from_dropbox.py stan R
+   ```
+
+   Dla pozycji `BRAK` bieżącego bloku:
+   - `fetch` — wywołaj `mcp__Dropbox__fetch` z podanym `id` (pliki do 5 MiB z warstwą tekstową), potem
+     `python3 -I tools/nightly/norms_from_dropbox.py tekst`. Pobieraj tylko normy bieżącego bloku:
+     odpowiedzi średniej wielkości trafiają do kontekstu rozmowy.
+   - `pobranie`, `pobranie+OCR` — plik jest za duży dla `fetch` albo jest skanem. Wymaga bezpośredniego
+     pobrania (`mcp__Dropbox__download_link` + `curl`), a to działa tylko wtedy, gdy użytkownik dopisał
+     w ustawieniach środowiska domenę `*.dl.dropboxusercontent.com` (każdy link ma inny, losowy serwer;
+     pojedynczych adresów nie da się dopisać z góry). PDF zapisz w `.work/pdf/` pod nazwą z wykazu
+     (z końcówką `.pdf`) i uruchom `python3 -I tools/nightly/norms_from_dropbox.py pdf .work/pdf`.
+     OCR: `apt-get update && apt-get install -y --no-install-recommends tesseract-ocr tesseract-ocr-pol`.
+     Jeśli pobranie jest zablokowane, nie obchodź blokady: pracuj bez tej normy i napisz o tym w sprawozdaniu.
+
+   `select_block.py` sam dołącza do źródeł bloku te normy z wykazu, których tekst jest w
+   `.work/corpus/normy/`, i wypisuje brakujące.
 
 2. **Przed blokami W1 i W2** sprawdź w API Sejmu, czy ogłoszono nowe warunki techniczne budynków
    (`https://api.sejm.gov.pl/eli/acts/search?title=budynki i ich usytuowanie&dateFrom=2026-09-01`).
@@ -61,4 +80,7 @@ Stan postępu: `content/key/progress.json` (`done`: bloki ukończone).
 - Klucz ma być uczciwy: pewność „wysoka” tylko z cytatem; spory i braki źródeł widoczne w aplikacji.
 - Aplikacja opiera się na aktualnych wydaniach norm (rejestr z wyszukiwarki PKN). Tekstów norm,
   których nie dostarczył użytkownik, nie ma: wartości z nich mają pewność „niska” albo „średnia”.
+- Część norm użytkownika to wydania wycofane (stan w `norms.json` i w pierwszej linii pliku normy).
+  Odpowiedź sprawdzona tylko w wydaniu wycofanym dostaje stan „nieustalone” z opisem, które wydanie
+  jest aktualne. Z tekstu normy do aplikacji trafia najwyżej jednozdaniowy cytat z numerem punktu.
 - W sprawozdaniu dla użytkownika podaj liczby, nie ogólniki, i powiedz, czego nie udało się sprawdzić.

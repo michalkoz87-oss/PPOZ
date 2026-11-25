@@ -43,8 +43,21 @@ def main():
         with open(os.path.join(out, 'part_%s.json' % name), 'w', encoding='utf-8') as f:
             json.dump([{k: q[k] for k in ('id', 'sheet', 'q', 'a', 'b', 'c')} for q in chunk], f, ensure_ascii=False, indent=1)
         parts.append(name)
-    print(json.dumps(dict(root=ROOT, block=bid, name=b['name'], parts=parts, sources=b['sources'], lessons=b.get('lessons', [])), ensure_ascii=False))
-    print('pytań: %d | części: %d' % (len(sel), len(parts)), file=sys.stderr)
+    sources, missing = list(b['sources']), []
+    for n in json.load(open(os.path.join(ROOT, 'tools', 'nightly', 'norms.json'), encoding='utf-8')):
+        if bid != 'Z' and bid not in n['blocks']:
+            continue
+        p = os.path.join(ROOT, '.work', 'corpus', 'normy', n['file'])
+        if not os.path.exists(p):
+            if bid != 'Z':
+                missing.append(n)
+            continue
+        how = 'CAŁY plik' if os.path.getsize(p) < 45000 else 'grep po słowach z pytania, potem Read właściwego rozdziału'
+        sources.append(dict(file='normy/' + n['file'], read='%s; %s — %s; %s' % (how, n['norm'], n['stan'], n.get('uwagi', ''))))
+    print(json.dumps(dict(root=ROOT, block=bid, name=b['name'], parts=parts, sources=sources, lessons=b.get('lessons', [])), ensure_ascii=False))
+    print('pytań: %d | części: %d | norm w źródłach: %d' % (len(sel), len(parts), len(sources) - len(b['sources'])), file=sys.stderr)
+    for n in missing:
+        print('brak tekstu normy: %s (%s; %s) — patrz README, krok 1' % (n['norm'], n['via'], n['id']), file=sys.stderr)
 
 
 if __name__ == '__main__':

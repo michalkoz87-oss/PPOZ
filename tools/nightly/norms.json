@@ -1,0 +1,51 @@
+[
+ {"file": "PN-EN_671-1_2012.txt", "norm": "PN-EN 671-1:2012", "stan": "aktualna", "blocks": ["R"], "id": "id:TjAJuTjAO9cAAAAAAADxJQ", "via": "fetch",
+  "uwagi": "hydranty wewnętrzne z wężem półsztywnym"},
+ {"file": "PN-EN_671-2_2012.txt", "norm": "PN-EN 671-2:2012", "stan": "aktualna", "blocks": ["R"], "id": "id:TjAJuTjAO9cAAAAAAADxMw", "via": "fetch",
+  "uwagi": "hydranty wewnętrzne z wężem płasko składanym"},
+ {"file": "PN-EN_671-3_2009.txt", "norm": "PN-EN 671-3:2009", "stan": "aktualna", "blocks": ["R"], "id": "id:TjAJuTjAO9cAAAAAAADxVA", "via": "fetch",
+  "uwagi": "konserwacja hydrantów wewnętrznych"},
+
+ {"file": "PN-B-02857_2017-04.txt", "norm": "PN-B-02857:2017-04", "stan": "aktualna", "blocks": ["H"], "id": "id:TjAJuTjAO9cAAAAAAADxZw", "via": "pobranie+OCR",
+  "uwagi": "przeciwpożarowe zbiorniki wodne; skan bez warstwy tekstowej — fetch zwraca pusty tekst"},
+ {"file": "PN-B-02857_1982_WYCOFANA.txt", "norm": "PN-B-02857:1982", "stan": "wycofana (zastąpiona przez PN-B-02857:2017-04)", "blocks": ["H"], "id": "id:TjAJuTjAO9cAAAAAAADuzQ", "via": "fetch",
+  "uwagi": "plik .doc; do pytań sprzed 2017 r."},
+
+ {"file": "PN-EN_81-72_2020-12.txt", "norm": "PN-EN 81-72:2020-12", "stan": "aktualna", "blocks": ["D1"], "id": "id:TjAJuTjAO9cAAAAAAADxVw", "via": "fetch",
+  "uwagi": "dźwigi dla straży pożarnej"},
+ {"file": "PN-EN_81-73_2020-12.txt", "norm": "PN-EN 81-73:2020-12", "stan": "aktualna", "blocks": ["D1"], "id": "id:TjAJuTjAO9cAAAAAAADxRQ", "via": "fetch",
+  "uwagi": "funkcjonowanie dźwigów w przypadku pożaru"},
+ {"file": "PN-EN_1838_2013-11_WYCOFANA.txt", "norm": "PN-EN 1838:2013-11", "stan": "wycofana (aktualna: PN-EN 1838:2025-05)", "blocks": ["D1"], "id": "id:TjAJuTjAO9cAAAAAAADxKA", "via": "fetch",
+  "uwagi": "oświetlenie awaryjne; pytania z lat 2015–2025 pisano według tego wydania"},
+ {"file": "PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt", "norm": "PKN-CEN/TS 54-14:2006 (projekt do zatwierdzenia)", "stan": "wycofana (aktualna: PKN-CEN/TS 54-14:2020-09)", "blocks": ["D1"], "id": "id:TjAJuTjAO9cAAAAAAAISMg", "via": "fetch",
+  "uwagi": "wytyczne SSP; polskie znaki w tekście są rozbite spacjami (np. „Zast ę puje”), liczby są czytelne"},
+ {"file": "PN-EN-ISO_7010_2020-07.txt", "norm": "PN-EN ISO 7010:2020-07", "stan": "aktualna", "blocks": ["D1"], "id": "id:TjAJuTjAO9cAAAAAAADxQw", "via": "pobranie",
+  "uwagi": "znaki bezpieczeństwa; plik 31,6 MB — za duży dla fetch"},
+
+ {"file": "PN-EN_12845_A1_2020-05_WYCOFANA.txt", "norm": "PN-EN 12845+A1:2020-05", "stan": "wycofana (aktualna: PN-EN 12845+A2:2026-09)", "blocks": ["D2"], "id": "id:TjAJuTjAO9cAAAAAAADxPg", "via": "pobranie",
+  "uwagi": "urządzenia tryskaczowe; plik 11,3 MB — za duży dla fetch"},
+ {"file": "streszczenie_PN-EN_12845_2015.txt", "norm": "streszczenie PN-EN 12845:2015 (opracowanie, nie tekst normy)", "stan": "materiał pomocniczy", "blocks": ["D2"], "id": "id:TjAJuTjAO9cAAAAAAADz2w", "via": "fetch",
+  "uwagi": "wolno użyć jako wskazówki; pewność najwyżej „średnia”"},
+ {"file": "VdS_CEA_4001.txt", "norm": "VdS CEA 4001 (wytyczne, nie Polska Norma)", "stan": "materiał pomocniczy", "blocks": ["D2"], "id": "id:TjAJuTjAO9cAAAAAAADx_Q", "via": "fetch",
+  "uwagi": "wartości zbliżone do EN 12845, ale nie tożsame; pewność najwyżej „średnia”"},
+
+ {"file": "PN-B-02877-4_2001_WYCOFANA.txt", "norm": "PN-B-02877-4:2001", "stan": "wycofana (aktualna: PN-B-02877-4:2025-07)", "blocks": ["D3"], "id": "id:TjAJuTjAO9cAAAAAAAIRXg", "via": "fetch",
+  "uwagi": "oddymianie grawitacyjne; plik .docx z tekstem normy; pytania z lat 2015–2025 pisano według tego wydania"},
+ {"file": "PN-B-02877-4_2001_Az1_2006_WYCOFANA.txt", "norm": "PN-B-02877-4:2001/Az1:2006", "stan": "wycofana (aktualna: PN-B-02877-4:2025-07)", "blocks": ["D3"], "id": "id:TjAJuTjAO9cAAAAAAADxOw", "via": "fetch",
+  "uwagi": "zmiana Az1 do normy z 2001 r."},
+ {"file": "PN-EN_12101-6_2007_projekt_WYCOFANA.txt", "norm": "PN-EN 12101-6 (EN 12101-6:2005+AC:2006, projekt roboczy polskiego wydania)", "stan": "wycofana (aktualna: PN-EN 12101-6:2022-09 i PN-EN 12101-13:2022-09)", "blocks": ["D3"], "id": "id:TjAJuTjAO9cAAAAAAAIRnA", "via": "fetch",
+  "uwagi": "systemy różnicowania ciśnień; pytania z lat 2015–2022 pisano według tego wydania"},
+
+ {"file": "PN-EN_60079-10-2_2015-06.txt", "norm": "PN-EN 60079-10-2:2015-06", "stan": "aktualna", "blocks": ["E1"], "id": "id:TjAJuTjAO9cAAAAAAADxLA", "via": "fetch",
+  "uwagi": "klasyfikacja przestrzeni — pyłowe atmosfery wybuchowe"},
+ {"file": "PN-EN-IEC_60079-10-1_2021-09.txt", "norm": "PN-EN IEC 60079-10-1:2021-09", "stan": "aktualna", "blocks": ["E1"], "id": "id:TjAJuTjAO9cAAAAAAADxTQ", "via": "pobranie",
+  "uwagi": "klasyfikacja przestrzeni — gazowe atmosfery wybuchowe; plik 11 MB — za duży dla fetch"},
+ {"file": "PN-EN_1127-1_2019-10.txt", "norm": "PN-EN 1127-1:2019-10", "stan": "aktualna", "blocks": ["E1"], "id": "id:TjAJuTjAO9cAAAAAAAIyQw", "via": "fetch",
+  "uwagi": "zapobieganie wybuchowi — pojęcia i metodyka"},
+
+ {"file": "PN-B-02852_2001.txt", "norm": "PN-B-02852:2001", "stan": "aktualna", "blocks": ["E2"], "id": "id:TjAJuTjAO9cAAAAAAADxaQ", "via": "fetch",
+  "uwagi": "gęstość obciążenia ogniowego; plik .doc"},
+
+ {"file": "PN-B-02867_2013-06.txt", "norm": "PN-B-02867:2013-06", "stan": "aktualna", "blocks": ["W1"], "id": "id:TjAJuTjAO9cAAAAAAADxNg", "via": "fetch",
+  "uwagi": "stopień rozprzestrzeniania ognia przez ściany zewnętrzne (NRO, SRO, SIRO)"}
+]

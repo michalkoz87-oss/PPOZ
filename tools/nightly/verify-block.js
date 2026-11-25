@@ -11,6 +11,7 @@ export const meta = {
 }
 const ROOT = args.root, W = ROOT + '/.work', RAW = ROOT + '/content/key/raw', B = args.block
 const SRC = args.sources.map(s => `- ${W}/corpus/${s.file} — ${s.read}`).join('\n')
+const NORMS = `NORMY (pliki ${W}/corpus/normy/*.txt): pierwsza linia pliku podaje numer normy, wydanie i stan (aktualna albo wycofana, z numerem wydania aktualnego). Gdy masz tylko wydanie wycofane: "ans" ustal według niego (tak pytała komisja), a "stan" wpisz "nieustalone" ze "stanNote": które wydanie sprawdzono i które jest aktualne — chyba że przepis rozporządzenia rozstrzyga sprawę niezależnie od normy. Pliki opisane jako „materiał pomocniczy” (streszczenia, wytyczne VdS) nie są źródłem: wolno z nich skorzystać jako ze wskazówki, pewność najwyżej „średnia”. Teksty norm są licencjonowane do użytku wewnętrznego: jako cytat podawaj najwyżej jedno zdanie z numerem punktu normy; w ściągach i fiszkach podawaj wartości własnymi słowami z numerem punktu, bez przepisywania akapitów i tablic w całości.`
 const SUM = { type: 'object', properties: { ok: { type: 'boolean' },
   answers: { type: 'array', items: { type: 'object', properties: { id: { type: 'number' }, ans: { type: 'string', enum: ['a', 'b', 'c'] },
     conf: { type: 'string', enum: ['wysoka', 'średnia', 'niska'] }, ansNow: { type: 'string', enum: ['=', 'a', 'b', 'c', 'brak'] } }, required: ['id', 'ans', 'conf', 'ansNow'] } },
@@ -22,6 +23,7 @@ BLOK: ${args.name}
 ŹRÓDŁA BLOKU (tylko do odczytu; katalog ${W}/corpus):
 ${SRC}
 ZASADA PRACY: pliki oznaczone „CAŁY” przeczytaj w całości narzędziem Read ZANIM zaczniesz odpowiadać, tak aby odpowiadać z tekstu, a nie z pamięci. W pozostałych szukaj (grep -n -i, potem Read właściwego zakresu linii wraz z sąsiednimi ustępami i wyjątkami). Inne akty są w ${W}/corpus/akty (lista w INDEX.md). Pliku, którego nie ma, po prostu nie używaj. WebSearch wolno użyć oszczędnie (ToolSearch "select:WebSearch") tylko dla szczegółów norm, których tekstu nie ma.
+${NORMS}
 DLA KAŻDEGO PYTANIA, na które da się odpowiedzieć ze źródeł tego bloku:
 - "ans": odpowiedź poprawna wg aktu lub wydania normy, na które pytanie się powołuje albo które obowiązywały w czasie egzaminu (zamierzona przez komisję).
 - "stan" / "ansNow" wg stanu na dziś: "aktualne" + "=" gdy dziś odpowiedź jest ta sama; "zmienione" + "a|b|c|brak" gdy dziś poprawna byłaby inna opcja lub wartość; "uchylone" gdy akt uchylono i następca nie ma odpowiednika; "nieustalone" gdy pytanie cytuje wycofane wydanie normy, a treści aktualnego wydania nie da się sprawdzić. Dla stan ≠ "aktualne" obowiązkowe "stanNote": co się zmieniło, jaki akt lub wydanie obowiązuje i jaka jest dzisiejsza wartość. Dla aktów uchylonych z następcą zawsze odszukaj odpowiednik w następcy.
@@ -51,6 +53,7 @@ BLOK: ${args.name}
 ${SRC}
 Pliki „CAŁY” przeczytaj w całości; z pozostałych właściwe paragrafy. Zobacz też, o co pytano na egzaminach: pliki ${W}/blocks/${B}/part_*.json (treść pytań) — z nich wynika, które liczby i wyjątki są sprawdzane.
 ZASADA NADRZĘDNA: każda liczba, próg, klasa i wyjątek w ściądze i fiszkach musi pochodzić z przeczytanego tekstu źródła i mieć podaną jednostkę redakcyjną. Niczego nie dopisuj z pamięci. Jeśli lekcja obejmuje normę, której tekstu nie masz, napisz to wprost w "intro" i ogranicz się do tego, co wynika z przepisów oraz z treści pytań egzaminacyjnych (jako „o to pytano”), bez podawania wartości jako pewnych.
+${NORMS}
 PLIK 1: ${ROOT}/content/lessons/${id}.json — obiekt:
 {"intro": "2–4 zdania: co obejmuje lekcja, stan prawny, na co uważać",
  "sections": [{"h": "nagłówek", "text": "akapity; linie zaczynające się od '- ' tworzą listę", "table": {"head": ["…"], "rows": [["…"]]}}],   // 4–8 sekcji; table opcjonalne; tabele dla progów i zestawień
@@ -64,7 +67,7 @@ Zwróć: ok, files, note.`
 const checker = id => `Sprawdź merytorycznie ściągę i fiszki lekcji ${id}: pliki ${ROOT}/content/lessons/${id}.json i ${ROOT}/content/flashcards/${id}.json. Są przeznaczone do nauki do egzaminu zawodowego, więc błędna liczba to realna szkoda.
 ŹRÓDŁA (katalog ${W}/corpus):
 ${SRC}
-Dla KAŻDEJ pozycji keyValues, każdej tabeli, każdej pułapki, każdego punktu odpowiedzi ustnej i każdej fiszki odszukaj podstawę w tekście źródła (grep + Read) i porównaj wartość, próg („powyżej” a „co najmniej”), jednostkę oraz numer paragrafu. Popraw błędy bezpośrednio w plikach. Pozycję, której nie da się potwierdzić w źródłach, usuń albo — gdy dotyczy normy bez dostępnego tekstu — oznacz: w fiszce "conf": "niska", w ściądze dopisek „(do sprawdzenia w normie)”. Nie dopisuj nowych treści z pamięci. Zachowaj format plików i sprawdź JSON:
+Dla KAŻDEJ pozycji keyValues, każdej tabeli, każdej pułapki, każdego punktu odpowiedzi ustnej i każdej fiszki odszukaj podstawę w tekście źródła (grep + Read) i porównaj wartość, próg („powyżej” a „co najmniej”), jednostkę oraz numer paragrafu. Popraw błędy bezpośrednio w plikach. Pozycję, której nie da się potwierdzić w źródłach, usuń albo — gdy dotyczy normy bez dostępnego tekstu — oznacz: w fiszce "conf": "niska", w ściądze dopisek „(do sprawdzenia w normie)”. Nie dopisuj nowych treści z pamięci. Wartość wziętą z wycofanego wydania normy (pierwsza linia pliku normy podaje stan) zostaw, ale dopisz przy niej wydanie, z którego pochodzi, i numer wydania aktualnego; dłuższe dosłowne przepisanie tekstu normy zastąp omówieniem z numerem punktu. Zachowaj format plików i sprawdź JSON:
 python3 -c "import json;json.load(open('${ROOT}/content/lessons/${id}.json'));json.load(open('${ROOT}/content/flashcards/${id}.json'));print('ok')"
 Zwróć: ok, files, note (ile pozycji sprawdzono, poprawiono i usunięto).`
 
