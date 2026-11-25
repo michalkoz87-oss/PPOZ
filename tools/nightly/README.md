@@ -2,7 +2,7 @@
 
 Cel: po jednym bloku tematycznym na noc sprawdzić klucz odpowiedzi w tekstach źródeł, napisać ściągę
 i fiszki do lekcji bloku, a potem zbudować i opublikować aplikację. Ciężką pracę (agenci) wolno
-uruchamiać tylko po 23:00 czasu polskiego. Jeden blok na noc.
+uruchamiać tylko w nocy (zadanie cykliczne startuje o 23:30 czasu polskiego). Jeden blok na noc.
 
 Kolejność bloków: R → K → K2 → H → P → D1 → D2 → D3 → E1 → E2 → W1 → W2 → Z (`content/key/progress.json`, pole `order`).
 Bloki R–Z z `blocks.json` to weryfikacja klucza pytań testowych; K i K2 to kazusy części ustnej (opis niżej).
@@ -80,10 +80,19 @@ Stan postępu: `content/key/progress.json` (`done`: bloki ukończone).
 ## Bloki K i K2: kazusy części ustnej
 
 Kazus to fikcyjna dokumentacja z celowymi błędami, rysunkami, pytaniami komisji i kluczem (`content/cases/K??.json`,
-format w `content/cases/README.md`). Lista tematów: `tools/nightly/cases.json`. Jeden przebieg obejmuje trzy kazusy:
-autor pisze kazus z tekstu przepisów, niezależny „zdający” ocenia dokumentację bez klucza, kontroler sprawdza klucz
-i uwagi zdającego w źródłach, ogląda rysunki i dopisuje pole `review`. Kazus napisany wcześniej ręcznie (K01)
-przechodzi tylko dwa ostatnie kroki.
+format w `content/cases/README.md`). Lista tematów: `tools/nightly/cases.json`. Jeden przebieg obejmuje trzy kazusy,
+każdy przechodzi cztery etapy (5 agentów na kazus):
+
+1. **Autor** pisze kazus z tekstu przepisów.
+2. **Dwóch zdających** ocenia dokumentację bez klucza, niezależnie od siebie: A zaczyna od przepisów, B od rysunków
+   (mierzy geometrię skryptem i porównuje z opisem).
+3. **Kontrola przepisów** sprawdza w źródłach klucz, pozycje „poprawne”, odpowiedzi wzorcowe i ustalenia obu zdających.
+4. **Sceptyk** próbuje obalić klucz: szuka wyjątków i zwolnień, przelicza liczby z geometrii, szuka niezamierzonych
+   niezgodności, ogląda rysunki i dopiero wtedy dopisuje pole `review` (`solverFound`, `solverFoundA`, `solverFoundB`,
+   `issues`, `refuted`).
+
+Typowe błędy z wcześniejszych kazusów są wpisane do poleceń autora i sceptyka (stała `LESSONS` w `cases.js`);
+po każdym bloku dopisz tam nowe, jeśli kontrola je wykryła. Kazus napisany wcześniej ręcznie (K01) pomija autora.
 
 1. Przygotuj `.work/corpus/akty` jak w kroku 1. Przed przebiegiem sprawdź, czy ogłoszono nowe warunki techniczne (krok 2).
 2. Argumenty przebiegu:
@@ -98,8 +107,8 @@ przechodzi tylko dwa ostatnie kroki.
    `node tools/smoke_ustna.js <katalog>`; oba mają dać `ERRORS 0`) i obejrzyj zrzuty rysunków nowych kazusów.
    Kazus bez pola `review` nie przeszedł kontroli: nie publikuj go (przenieś plik do `.work/`) i powtórz następnej nocy.
 5. Wpisz blok do `progress.json`, zrób commit i push, opublikuj artefakt (z plikiem `dist/data/cases.json`).
-6. W sprawozdaniu podaj dla każdego kazusu: ile usterek ma klucz, ile z nich wskazał niezależny zdający, ile pozycji
-   kontroler poprawił, usunął albo dopisał i co uznał za niepewne.
+6. W sprawozdaniu podaj dla każdego kazusu: ile usterek ma klucz, ile wskazał zdający A, ile B, ile co najmniej jeden,
+   co poprawiła kontrola przepisów, co sceptyk obalił albo zmienił i co pozostaje niepewne.
 
 Blok K2 to ten sam przebieg dla kolejnych trzech tematów z listy.
 
