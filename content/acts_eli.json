@@ -1,0 +1,3028 @@
+[
+ {
+  "file": "rozp_ppoz_2010.txt",
+  "eli": "DU/2010/719",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2010 r. w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "t.j. DU/2023/822 + zmiany: DU/2024/1716, DU/2026/1276",
+  "chars": 117667,
+  "tj": "DU/2023/822",
+  "amend_all": [
+   [
+    "DU/2019/67",
+    "2019-01-29"
+   ],
+   [
+    "DU/2022/1620",
+    "2022-08-17"
+   ],
+   [
+    "DU/2024/1716",
+    "2024-12-23"
+   ],
+   [
+    "DU/2026/1276",
+    "2026-09-30"
+   ]
+  ]
+ },
+ {
+  "file": "wt_2002.txt",
+  "eli": "DU/2002/690",
+  "title": "Rozporządzenie Ministra Infrastruktury z dnia 12 kwietnia 2002 r. w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie.",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "repealDate": "2026-09-21",
+  "repealedBy": [
+   [
+    "DU/2019/1696",
+    "2026-09-21"
+   ]
+  ],
+  "composition": "t.j. DU/2022/1225 + zmiany: DU/2023/2442, DU/2024/474, DU/2024/726",
+  "chars": 537513,
+  "tj": "DU/2022/1225",
+  "amend_all": [
+   [
+    "DU/2003/270",
+    "2002-12-16"
+   ],
+   [
+    "DU/2004/1156",
+    "2004-05-27"
+   ],
+   [
+    "DU/2008/1238",
+    "2009-01-01"
+   ],
+   [
+    "DU/2008/1514",
+    "2009-01-01"
+   ],
+   [
+    "DU/2009/461",
+    "2009-07-08"
+   ],
+   [
+    "DU/2010/1597",
+    "2011-03-21"
+   ],
+   [
+    "DU/2012/1289",
+    "2013-02-23"
+   ],
+   [
+    "DU/2013/926",
+    "2014-01-01"
+   ],
+   [
+    "DU/2017/2285",
+    "2018-01-01"
+   ],
+   [
+    "DU/2020/1608",
+    "2020-09-19"
+   ],
+   [
+    "DU/2020/2351",
+    "2020-12-25"
+   ],
+   [
+    "DU/2022/248",
+    "2022-02-17"
+   ],
+   [
+    "DU/2023/2442",
+    "2024-08-01"
+   ],
+   [
+    "DU/2024/474",
+    "2024-04-01"
+   ],
+   [
+    "DU/2024/726",
+    "2024-08-15"
+   ]
+  ]
+ },
+ {
+  "file": "woda_drogi_2009.txt",
+  "eli": "DU/2009/1030",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 lipca 2009 r. w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "tekst pierwotny DU/2009/1030",
+  "chars": 53639,
+  "tj": null,
+  "amend_all": []
+ },
+ {
+  "file": "uzgadnianie_2023.txt",
+  "eli": "DU/2023/1563",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 5 sierpnia 2023 r. w sprawie uzgadniania projektu zagospodarowania działki lub terenu, projektu architektoniczno-budowlanego, projektu technicznego oraz projektu urządzenia przeciwpożarowego pod względem zgodności z wymaganiami ochrony przeciwpożarowej",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "tekst pierwotny DU/2023/1563",
+  "chars": 45525,
+  "tj": null,
+  "amend_all": []
+ },
+ {
+  "file": "uzgadnianie_2021_uchylone.txt",
+  "eli": "DU/2021/1722",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 września 2021 r. w sprawie uzgadniania projektu zagospodarowania działki lub terenu, projektu architektoniczno-budowlanego, projektu technicznego oraz projektu urządzenia przeciwpożarowego pod względem zgodności z wymaganiami ochrony przeciwpożarowej",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "repealDate": "2023-08-09",
+  "repealedBy": [
+   [
+    "DU/2023/1563",
+    "2023-08-09"
+   ]
+  ],
+  "composition": "tekst pierwotny DU/2021/1722",
+  "chars": 38361,
+  "tj": null,
+  "amend_all": []
+ },
+ {
+  "file": "uzgadnianie_2015_uchylone.txt",
+  "eli": "DU/2015/2117",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 2 grudnia 2015 r. w sprawie uzgadniania projektu budowlanego pod względem ochrony przeciwpożarowej",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "repealDate": "2021-09-19",
+  "repealedBy": [
+   [
+    "DU/2021/1722",
+    "2021-09-19"
+   ]
+  ],
+  "composition": "tekst pierwotny DU/2015/2117",
+  "chars": 22793,
+  "tj": null,
+  "amend_all": []
+ },
+ {
+  "file": "projekt_bud_2020.txt",
+  "eli": "DU/2020/1609",
+  "title": "Rozporządzenie Ministra Rozwoju z dnia 11 września 2020 r. w sprawie szczegółowego zakresu i formy projektu budowlanego",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "t.j. DU/2022/1679 + zmiany: DU/2023/2405, DU/2026/597",
+  "chars": 70198,
+  "tj": "DU/2022/1679",
+  "amend_all": [
+   [
+    "DU/2021/1169",
+    "2021-07-01"
+   ],
+   [
+    "DU/2021/2280",
+    "2021-12-25"
+   ],
+   [
+    "DU/2023/2405",
+    "2024-04-01"
+   ],
+   [
+    "DU/2026/597",
+    "2026-05-19"
+   ]
+  ]
+ },
+ {
+  "file": "bazy_paliw_2023.txt",
+  "eli": "DU/2023/1707",
+  "title": "Rozporządzenie Ministra Klimatu i Środowiska z dnia 24 lipca 2023 r. w sprawie warunków technicznych, jakim powinny odpowiadać bazy i stacje paliw płynnych, bazy i stacje gazu płynnego, rurociągi przesyłowe dalekosiężne służące do transportu ropy naftowej i produktów naftowych i ich usytuowanie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "tekst pierwotny DU/2023/1707",
+  "chars": 148055,
+  "tj": null,
+  "amend_all": []
+ },
+ {
+  "file": "bazy_paliw_2005_uchylone.txt",
+  "eli": "DU/2005/2063",
+  "title": "Rozporządzenie Ministra Gospodarki z dnia 21 listopada 2005 r. w sprawie warunków technicznych, jakim powinny odpowiadać bazy i stacje paliw płynnych, rurociągi przesyłowe dalekosiężne służące do transportu ropy naftowej i produktów naftowych i ich usytuowanie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "repealDate": "2023-09-09",
+  "repealedBy": [
+   [
+    "DU/2023/1707",
+    "2023-09-09"
+   ]
+  ],
+  "composition": "t.j. DU/2014/1853 + zmiany: DU/2017/282",
+  "chars": 170037,
+  "tj": "DU/2014/1853",
+  "amend_all": [
+   [
+    "DU/2007/1753",
+    "2007-12-24"
+   ],
+   [
+    "DU/2011/1633",
+    "2012-01-06"
+   ],
+   [
+    "DU/2012/1479",
+    "2012-12-28"
+   ],
+   [
+    "DU/2013/1018",
+    "2013-09-19"
+   ],
+   [
+    "DU/2017/282",
+    "2017-03-04"
+   ]
+  ]
+ },
+ {
+  "file": "wyroby_2007.txt",
+  "eli": "DU/2007/1002",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 20 czerwca 2007 r. w sprawie wykazu wyrobów służących zapewnieniu bezpieczeństwa publicznego lub ochronie zdrowia i życia oraz mienia, a także zasad wydawania dopuszczenia tych wyrobów do użytkowania",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "tekst pierwotny DU/2007/1002 + zmiany: DU/2010/553, DU/2018/984, DU/2022/2282, DU/2026/556",
+  "chars": 383211,
+  "tj": null,
+  "amend_all": [
+   [
+    "DU/2010/553",
+    "2010-06-03"
+   ],
+   [
+    "DU/2018/984",
+    "2018-06-07"
+   ],
+   [
+    "DU/2022/2282",
+    "2022-11-24"
+   ],
+   [
+    "DU/2026/556",
+    "2026-05-07"
+   ]
+  ]
+ },
+ {
+  "file": "seveso_2016.txt",
+  "eli": "DU/2016/138",
+  "title": "Rozporządzenie Ministra Rozwoju z dnia 29 stycznia 2016 r. w sprawie rodzajów i ilości znajdujących się w zakładzie substancji niebezpiecznych, decydujących o zaliczeniu zakładu do zakładu o zwiększonym lub dużym ryzyku wystąpienia poważnej awarii przemysłowej",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "tekst pierwotny DU/2016/138",
+  "chars": 41192,
+  "tj": null,
+  "amend_all": []
+ },
+ {
+  "file": "metro_2023.txt",
+  "eli": "DU/2023/1210",
+  "title": "Rozporządzenie Ministra Infrastruktury z dnia 16 maja 2023 r. w sprawie warunków technicznych, jakim powinny odpowiadać obiekty budowlane metra i ich usytuowanie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "tekst pierwotny DU/2023/1210",
+  "chars": 115998,
+  "tj": null,
+  "amend_all": []
+ },
+ {
+  "file": "metro_2011_uchylone.txt",
+  "eli": "DU/2011/859",
+  "title": "Rozporządzenie Ministra Infrastruktury z dnia 17 czerwca 2011 r. w sprawie warunków technicznych, jakim powinny odpowiadać obiekty budowlane metra i ich usytuowanie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "repealDate": "2023-12-28",
+  "repealedBy": [
+   [
+    "DU/2023/1210",
+    "2023-12-28"
+   ]
+  ],
+  "composition": "tekst pierwotny DU/2011/859",
+  "chars": 130764,
+  "tj": null,
+  "amend_all": []
+ },
+ {
+  "file": "drogi_2022.txt",
+  "eli": "DU/2022/1518",
+  "title": "Rozporządzenie Ministra Infrastruktury z dnia 24 czerwca 2022 r. w sprawie przepisów techniczno-budowlanych dotyczących dróg publicznych",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "tekst pierwotny DU/2022/1518 + zmiany: DU/2025/1352",
+  "chars": 188510,
+  "tj": null,
+  "amend_all": [
+   [
+    "DU/2025/1352",
+    "2025-10-22"
+   ]
+  ]
+ },
+ {
+  "file": "doi_2000_uchylone.txt",
+  "eli": "DU/2000/735",
+  "title": "Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 30 maja 2000 r. w sprawie warunków technicznych, jakim powinny odpowiadać drogowe obiekty inżynierskie i ich usytuowanie.",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "repealDate": "2022-09-21",
+  "repealedBy": [
+   [
+    "DU/2022/1518",
+    "2022-09-21"
+   ]
+  ],
+  "composition": "tekst pierwotny DU/2000/735 + zmiany: DU/2010/408, DU/2012/608, DU/2013/528, DU/2014/858, DU/2015/331, DU/2019/1642",
+  "chars": 454623,
+  "tj": null,
+  "amend_all": [
+   [
+    "DU/2010/408",
+    "2010-04-29"
+   ],
+   [
+    "DU/2012/608",
+    "2012-06-13"
+   ],
+   [
+    "DU/2013/528",
+    "2013-05-22"
+   ],
+   [
+    "DU/2014/858",
+    "2014-07-12"
+   ],
+   [
+    "DU/2015/331",
+    "2015-03-25"
+   ],
+   [
+    "DU/2019/1642",
+    "2019-09-13"
+   ]
+  ]
+ },
+ {
+  "file": "autostrady_2002_uchylone.txt",
+  "eli": "DU/2002/116",
+  "title": "Rozporządzenie Ministra Infrastruktury z dnia 16 stycznia 2002 r. w sprawie przepisów techniczno-budowlanych dotyczących autostrad płatnych.",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "repealDate": "2022-09-21",
+  "repealedBy": [
+   [
+    "DU/2022/1518",
+    "2022-09-21"
+   ]
+  ],
+  "composition": "tekst pierwotny DU/2002/116 + zmiany: DU/2010/409, DU/2014/857, DU/2019/1644",
+  "chars": 225543,
+  "tj": null,
+  "amend_all": [
+   [
+    "DU/2010/409",
+    "2010-04-29"
+   ],
+   [
+    "DU/2014/857",
+    "2014-07-12"
+   ],
+   [
+    "DU/2019/1644",
+    "2019-09-13"
+   ]
+  ]
+ },
+ {
+  "file": "odpady_ppoz_2020.txt",
+  "eli": "DU/2020/296",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 19 lutego 2020 r. w sprawie wymagań w zakresie ochrony przeciwpożarowej, jakie mają spełniać obiekty budowlane lub ich części oraz inne miejsca przeznaczone do zbierania, magazynowania lub przetwarzania odpadów",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "tekst pierwotny DU/2020/296",
+  "chars": 73939,
+  "tj": null,
+  "amend_all": []
+ },
+ {
+  "file": "atex_2016.txt",
+  "eli": "DU/2016/817",
+  "title": "Rozporządzenie Ministra Rozwoju z dnia 6 czerwca 2016 r. w sprawie wymagań dla urządzeń i systemów ochronnych przeznaczonych do użytku w atmosferze potencjalnie wybuchowej",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "tekst pierwotny DU/2016/817",
+  "chars": 102311,
+  "tj": null,
+  "amend_all": []
+ },
+ {
+  "file": "atex_bhp_2010.txt",
+  "eli": "DU/2010/931",
+  "title": "Rozporządzenie Ministra Gospodarki z dnia 8 lipca 2010 r. w sprawie minimalnych wymagań, dotyczących bezpieczeństwa i higieny pracy, związanych z możliwością wystąpienia w miejscu pracy atmosfery wybuchowej",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "tekst pierwotny DU/2010/931",
+  "chars": 28941,
+  "tj": null,
+  "amend_all": []
+ },
+ {
+  "file": "sieci_gazowe_2013_uchylone.txt",
+  "eli": "DU/2013/640",
+  "title": "Rozporządzenie Ministra Gospodarki z dnia 26 kwietnia 2013 r. w sprawie warunków technicznych, jakim powinny odpowiadać sieci gazowe i ich usytuowanie",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "repealDate": "2026-09-21",
+  "repealedBy": [
+   [
+    "DU/2019/1696",
+    "2026-09-21"
+   ]
+  ],
+  "composition": "tekst pierwotny DU/2013/640",
+  "chars": 141748,
+  "tj": null,
+  "amend_all": []
+ },
+ {
+  "file": "lasy_2006.txt",
+  "eli": "DU/2006/405",
+  "title": "Rozporządzenie Ministra Środowiska z dnia 22 marca 2006 r. w sprawie szczegółowych zasad zabezpieczenia przeciwpożarowego lasów",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "t.j. DU/2022/1065",
+  "chars": 39520,
+  "tj": "DU/2022/1065",
+  "amend_all": [
+   [
+    "DU/2010/923",
+    "2010-08-13"
+   ],
+   [
+    "DU/2015/1070",
+    "2015-08-14"
+   ]
+  ]
+ },
+ {
+  "file": "przedszkola_2017.txt",
+  "eli": "DU/2017/1642",
+  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 25 sierpnia 2017 r. w sprawie wymagań ochrony przeciwpożarowej, jakie musi spełniać lokal, w którym są prowadzone oddział przedszkolny lub oddziały przedszkolne zorganizowane w szkole podstawowej albo jest prowadzone przedszkole utworzone w wyniku przekształcenia oddziału przedszkolnego lub oddziałów przedszkolnych zorganizowanych w szkole podstawowej",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "t.j. DU/2020/1531",
+  "chars": 17692,
+  "tj": "DU/2020/1531",
+  "amend_all": [
+   [
+    "DU/2017/2445",
+    "2018-01-01"
+   ]
+  ]
+ },
+ {
+  "file": "zlobki_2014.txt",
+  "eli": "DU/2014/925",
+  "title": "Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 10 lipca 2014 r. w sprawie wymagań lokalowych i sanitarnych jakie musi spełniać lokal, w którym ma być prowadzony żłobek lub klub dziecięcy",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "t.j. DU/2019/72",
+  "chars": 18087,
+  "tj": "DU/2019/72",
+  "amend_all": [
+   [
+    "DU/2017/2379",
+    "2018-01-01"
+   ]
+  ]
+ },
+ {
+  "file": "budowle_rolnicze_2023.txt",
+  "eli": "DU/2023/297",
+  "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 13 stycznia 2023 r. w sprawie warunków technicznych, jakim powinny odpowiadać budowle rolnicze i ich usytuowanie",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "tekst pierwotny DU/2023/297",
+  "chars": 31258,
+  "tj": null,
+  "amend_all": []
+ },
+ {
+  "file": "budowle_rolnicze_1997_uchylone.txt",
+  "eli": "DU/1997/877",
+  "title": "Rozporządzenie Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 7 października 1997 r. w sprawie warunków technicznych, jakim powinny odpowiadać budowle rolnicze i ich usytuowanie.",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "repealDate": "2023-03-02",
+  "repealedBy": [
+   [
+    "DU/2023/297",
+    "2023-03-02"
+   ]
+  ],
+  "composition": "t.j. DU/2014/81",
+  "chars": 40487,
+  "tj": "DU/2014/81",
+  "amend_all": [
+   [
+    "DU/2009/907",
+    "2009-07-23"
+   ],
+   [
+    "DU/2013/472",
+    "2013-05-19"
+   ]
+  ]
+ },
+ {
+  "file": "egzamin_rzeczoznawcy_2015.txt",
+  "eli": "DU/2015/2083",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 2 grudnia 2015 r. w sprawie egzaminu dla osób ubiegających się o przyznanie prawa do wykonywania zawodu rzeczoznawcy do spraw zabezpieczeń przeciwpożarowych oraz sprawdzianu dla rzeczoznawców",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "tekst pierwotny DU/2015/2083",
+  "chars": 20905,
+  "tj": null,
+  "amend_all": []
+ },
+ {
+  "file": "szkolenia_rzeczoznawcow_2015.txt",
+  "eli": "DU/2015/1963",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 10 listopada 2015 r. w sprawie szkoleń dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "t.j. DU/2021/1871",
+  "chars": 12031,
+  "tj": "DU/2021/1871",
+  "amend_all": [
+   [
+    "DU/2020/142",
+    "2020-02-13"
+   ]
+  ]
+ },
+ {
+  "file": "kontr_rozp_2005.txt",
+  "eli": "DU/2005/1934",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 października 2005 r. w sprawie czynności kontrolno-rozpoznawczych przeprowadzanych przez Państwową Straż Pożarną",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "tekst pierwotny DU/2005/1934 + zmiany: DU/2023/1493",
+  "chars": 23798,
+  "tj": null,
+  "amend_all": [
+   [
+    "DU/2023/1493",
+    "2023-08-02"
+   ]
+  ]
+ },
+ {
+  "file": "wt_uzytkowania_bud_mieszk_1999_uchylone.txt",
+  "eli": "DU/1999/836",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 16 sierpnia 1999 r. w sprawie warunków technicznych użytkowania budynków mieszkalnych.",
+  "status": "uznany za uchylony",
+  "inForce": "NOT_IN_FORCE",
+  "repealDate": "2026-09-21",
+  "repealedBy": [
+   [
+    "DU/2019/1696",
+    "2026-09-21"
+   ]
+  ],
+  "composition": "tekst pierwotny DU/1999/836 + zmiany: DU/2009/1584",
+  "chars": 63380,
+  "tj": null,
+  "amend_all": [
+   [
+    "DU/2009/1584",
+    "2009-12-19"
+   ]
+  ]
+ },
+ {
+  "file": "bhp_ogolne_1997.txt",
+  "eli": "DU/1997/844",
+  "title": "Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 26 września 1997 r. w sprawie ogólnych przepisów bezpieczeństwa i higieny pracy.",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "t.j. DU/2003/1650 + zmiany: DU/2007/330, DU/2008/690, DU/2011/1034, DU/2021/2088, DU/2026/927",
+  "chars": 337743,
+  "tj": "DU/2003/1650",
+  "amend_all": [
+   [
+    "DU/2002/811",
+    "2003-06-29"
+   ],
+   [
+    "DU/2007/330",
+    "2007-06-20"
+   ],
+   [
+    "DU/2008/690",
+    "2008-07-09"
+   ],
+   [
+    "DU/2011/1034",
+    "2011-09-06"
+   ],
+   [
+    "DU/2021/2088",
+    "2021-11-20"
+   ],
+   [
+    "DU/2026/927",
+    "2027-01-11"
+   ]
+  ]
+ },
+ {
+  "file": "ustawa_ppoz.txt",
+  "eli": "DU/1991/351",
+  "title": "Ustawa z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej.",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "tekst ujednolicony (U)",
+  "chars": 107321,
+  "tj": "DU/2025/188",
+  "amend_all": [
+   [
+    "DU/1994/96",
+    "1994-09-01"
+   ],
+   [
+    "DU/1994/414",
+    "1995-01-01"
+   ],
+   [
+    "DU/1996/496",
+    "1996-10-01"
+   ],
+   [
+    "DU/1997/725",
+    "1997-10-08"
+   ],
+   [
+    "DU/1997/770",
+    "1997-10-22"
+   ],
+   [
+    "DU/1998/668",
+    "1999-01-01"
+   ],
+   [
+    "DU/1998/1126",
+    "1999-01-01"
+   ],
+   [
+    "DU/2000/1268",
+    "2001-03-30"
+   ],
+   [
+    "DU/2001/1207",
+    "2002-01-01"
+   ],
+   [
+    "DU/2002/558",
+    "2002-06-22"
+   ],
+   [
+    "DU/2002/984",
+    "2002-10-27"
+   ],
+   [
+    "DU/2003/452",
+    "2003-04-12"
+   ],
+   [
+    "DU/2004/959",
+    "2004-05-01"
+   ],
+   [
+    "DU/2005/835",
+    "2005-06-23"
+   ],
+   [
+    "DU/2005/836",
+    "2005-07-01"
+   ],
+   [
+    "DU/2006/1410",
+    "2007-01-01"
+   ],
+   [
+    "DU/2007/590",
+    "2007-08-22"
+   ],
+   [
+    "DU/2008/1015",
+    "2008-09-25"
+   ],
+   [
+    "DU/2009/59",
+    "2009-02-10"
+   ],
+   [
+    "DU/2010/353",
+    "2010-04-24"
+   ],
+   [
+    "DU/2012/908",
+    "2012-09-08"
+   ],
+   [
+    "DU/2013/1635",
+    "2014-01-01"
+   ],
+   [
+    "DU/2015/867",
+    "2016-01-01"
+   ],
+   [
+    "DU/2015/1505",
+    "2015-11-30"
+   ],
+   [
+    "DU/2016/904",
+    "2016-07-02"
+   ],
+   [
+    "DU/2016/2138",
+    "2017-01-01"
+   ],
+   [
+    "DU/2017/60",
+    "2017-09-01"
+   ],
+   [
+    "DU/2017/1169",
+    "2017-07-05"
+   ],
+   [
+    "DU/2018/1669",
+    "2018-10-01"
+   ],
+   [
+    "DU/2019/730",
+    "2019-05-04"
+   ],
+   [
+    "DU/2019/1518",
+    "2019-08-14"
+   ],
+   [
+    "DU/2019/1593",
+    "2020-01-01"
+   ],
+   [
+    "DU/2020/471",
+    "2020-09-19"
+   ],
+   [
+    "DU/2020/1610",
+    "2020-10-01"
+   ],
+   [
+    "DU/2021/2490",
+    "2022-01-01"
+   ],
+   [
+    "DU/2022/1557",
+    "2022-08-10"
+   ],
+   [
+    "DU/2023/1088",
+    "2023-08-01"
+   ],
+   [
+    "DU/2023/1560",
+    "2023-09-08"
+   ],
+   [
+    "DU/2024/1222",
+    "2024-11-10"
+   ],
+   [
+    "DU/2024/1692",
+    "2024-12-05"
+   ],
+   [
+    "DU/2024/1907",
+    "2025-01-01"
+   ],
+   [
+    "DU/2026/815",
+    "2026-07-04"
+   ]
+  ]
+ },
+ {
+  "file": "ustawa_psp.txt",
+  "eli": "DU/1991/400",
+  "title": "Ustawa z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej.",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "tekst ujednolicony (U)",
+  "chars": 367492,
+  "tj": "DU/2026/1473",
+  "amend_all": [
+   [
+    "DU/1992/83",
+    "1992-01-01"
+   ],
+   [
+    "DU/1992/86",
+    "1992-01-01"
+   ],
+   [
+    "DU/1992/254",
+    "1993-01-01"
+   ],
+   [
+    "DU/1994/214",
+    "1994-05-25"
+   ],
+   [
+    "DU/1995/17",
+    "1995-03-01"
+   ],
+   [
+    "DU/1995/163",
+    "1995-01-01"
+   ],
+   [
+    "DU/1996/496",
+    "1996-10-01"
+   ],
+   [
+    "DU/1996/723",
+    "1997-01-23"
+   ],
+   [
+    "DU/1997/153",
+    "1999-01-01"
+   ],
+   [
+    "DU/1997/554",
+    "1998-09-01"
+   ],
+   [
+    "DU/1997/680",
+    "1998-03-12"
+   ],
+   [
+    "DU/1998/668",
+    "1999-01-01"
+   ],
+   [
+    "DU/1999/436",
+    "1999-06-04"
+   ],
+   [
+    "DU/1999/1255",
+    "2000-01-01"
+   ],
+   [
+    "DU/2001/874",
+    "2001-09-07"
+   ],
+   [
+    "DU/2001/877",
+    "2001-11-08"
+   ],
+   [
+    "DU/2001/1189",
+    "2003-01-01"
+   ],
+   [
+    "DU/2002/676",
+    "2002-06-29"
+   ],
+   [
+    "DU/2002/984",
+    "2002-10-27"
+   ],
+   [
+    "DU/2002/1271",
+    "2004-01-01"
+   ],
+   [
+    "DU/2003/516",
+    "2003-05-09"
+   ],
+   [
+    "DU/2003/1609",
+    "2003-10-01"
+   ],
+   [
+    "DU/2004/2135",
+    "2004-10-01"
+   ],
+   [
+    "DU/2004/2703",
+    "2005-01-01"
+   ],
+   [
+    "DU/2005/836",
+    "2005-07-01"
+   ],
+   [
+    "DU/2005/1365",
+    "2005-09-01"
+   ],
+   [
+    "DU/2006/708",
+    "2006-07-24"
+   ],
+   [
+    "DU/2006/711",
+    "2006-10-01"
+   ],
+   [
+    "DU/2007/1291",
+    "2007-11-01"
+   ],
+   [
+    "DU/2008/521",
+    "2008-06-04"
+   ],
+   [
+    "DU/2008/1015",
+    "2008-09-25"
+   ],
+   [
+    "DU/2009/97",
+    "2009-03-07"
+   ],
+   [
+    "DU/2010/857",
+    "2010-10-16"
+   ],
+   [
+    "DU/2010/1228",
+    "2011-01-02"
+   ],
+   [
+    "DU/2010/1578",
+    "2011-03-01"
+   ],
+   [
+    "DU/2010/1589",
+    "2011-01-01"
+   ],
+   [
+    "DU/2011/677",
+    "2011-06-23"
+   ],
+   [
+    "DU/2011/1016",
+    "2012-01-01"
+   ],
+   [
+    "DU/2011/1230",
+    "2012-01-01"
+   ],
+   [
+    "DU/2012/664",
+    "2013-01-01"
+   ],
+   [
+    "DU/2013/675",
+    "2013-06-17"
+   ],
+   [
+    "DU/2013/1351",
+    "2013-12-05"
+   ],
+   [
+    "DU/2014/502",
+    "2014-06-01"
+   ],
+   [
+    "DU/2014/616",
+    "2014-07-01"
+   ],
+   [
+    "DU/2014/1822",
+    "2015-01-01"
+   ],
+   [
+    "DU/2015/881",
+    "2015-07-10"
+   ],
+   [
+    "DU/2015/1045",
+    "2016-01-01"
+   ],
+   [
+    "DU/2015/1066",
+    "2016-01-01"
+   ],
+   [
+    "DU/2015/1098",
+    "2015-08-19"
+   ],
+   [
+    "DU/2015/1217",
+    "2016-01-01"
+   ],
+   [
+    "DU/2015/1268",
+    "2016-01-02"
+   ],
+   [
+    "DU/2015/1434",
+    "2015-10-06"
+   ],
+   [
+    "DU/2015/1505",
+    "2015-11-30"
+   ],
+   [
+    "DU/2015/1890",
+    "2016-01-01"
+   ],
+   [
+    "DU/2016/960",
+    "2016-07-15"
+   ],
+   [
+    "DU/2017/60",
+    "2017-09-01"
+   ],
+   [
+    "DU/2017/1321",
+    "2018-01-01"
+   ],
+   [
+    "DU/2017/1567",
+    "2017-09-23"
+   ],
+   [
+    "DU/2018/106",
+    "2018-01-27"
+   ],
+   [
+    "DU/2018/138",
+    "2018-02-01"
+   ],
+   [
+    "DU/2018/650",
+    "2018-04-30"
+   ],
+   [
+    "DU/2018/730",
+    "2018-05-20"
+   ],
+   [
+    "DU/2018/1592",
+    "2018-09-05"
+   ],
+   [
+    "DU/2018/1669",
+    "2018-10-01"
+   ],
+   [
+    "DU/2019/730",
+    "2019-05-04"
+   ],
+   [
+    "DU/2019/1091",
+    "2019-06-27"
+   ],
+   [
+    "DU/2019/1635",
+    "2019-07-01"
+   ],
+   [
+    "DU/2019/1726",
+    "2019-10-11"
+   ],
+   [
+    "DU/2019/2020",
+    "2021-01-01"
+   ],
+   [
+    "DU/2020/1610",
+    "2020-10-01"
+   ],
+   [
+    "DU/2020/2112",
+    "2020-09-05"
+   ],
+   [
+    "DU/2021/464",
+    "2021-06-16"
+   ],
+   [
+    "DU/2021/1728",
+    "2021-12-21"
+   ],
+   [
+    "DU/2021/2490",
+    "2022-01-01"
+   ],
+   [
+    "DU/2022/1115",
+    "2022-06-10"
+   ],
+   [
+    "DU/2023/240",
+    "2023-02-21"
+   ],
+   [
+    "DU/2023/347",
+    "2023-03-01"
+   ],
+   [
+    "DU/2023/641",
+    "2023-04-26"
+   ],
+   [
+    "DU/2023/1088",
+    "2023-08-01"
+   ],
+   [
+    "DU/2023/1560",
+    "2023-09-08"
+   ],
+   [
+    "DU/2024/1089",
+    "2024-07-23"
+   ],
+   [
+    "DU/2024/1473",
+    "2024-10-05"
+   ],
+   [
+    "DU/2024/1717",
+    "2024-11-26"
+   ],
+   [
+    "DU/2024/1871",
+    "2025-03-19"
+   ],
+   [
+    "DU/2024/1907",
+    "2025-01-01"
+   ],
+   [
+    "DU/2025/718",
+    "2026-01-01"
+   ],
+   [
+    "DU/2025/1366",
+    "2025-07-01"
+   ],
+   [
+    "DU/2026/252",
+    "2026-04-03"
+   ],
+   [
+    "DU/2026/646",
+    "2026-06-01"
+   ],
+   [
+    "DU/2026/821",
+    "2026-06-23"
+   ],
+   [
+    "DU/2026/1123",
+    "2028-01-01"
+   ]
+  ]
+ },
+ {
+  "file": "prawo_budowlane.txt",
+  "eli": "DU/1994/414",
+  "title": "Ustawa z dnia 7 lipca 1994 r. - Prawo budowlane.",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "tekst ujednolicony (U)",
+  "chars": 403022,
+  "tj": "DU/2026/524",
+  "amend_all": [
+   [
+    "DU/1996/465",
+    "1996-08-14"
+   ],
+   [
+    "DU/1996/496",
+    "1997-01-01"
+   ],
+   [
+    "DU/1996/680",
+    "1996-12-28"
+   ],
+   [
+    "DU/1997/554",
+    "1998-09-01"
+   ],
+   [
+    "DU/1997/726",
+    "1997-12-24"
+   ],
+   [
+    "DU/1998/668",
+    "1999-01-01"
+   ],
+   [
+    "DU/1999/412",
+    "1999-05-25"
+   ],
+   [
+    "DU/1999/483",
+    "1999-07-01"
+   ],
+   [
+    "DU/1999/682",
+    "1999-08-07"
+   ],
+   [
+    "DU/2000/136",
+    "2000-02-23"
+   ],
+   [
+    "DU/2000/354",
+    "2000-05-03"
+   ],
+   [
+    "DU/2000/489",
+    "2001-01-01"
+   ],
+   [
+    "DU/2000/1157",
+    "2001-01-01"
+   ],
+   [
+    "DU/2000/1268",
+    "2001-03-30"
+   ],
+   [
+    "DU/2001/42",
+    "2002-01-25"
+   ],
+   [
+    "DU/2001/1085",
+    "2001-10-01"
+   ],
+   [
+    "DU/2001/1190",
+    "2002-01-01"
+   ],
+   [
+    "DU/2001/1229",
+    "2002-01-01"
+   ],
+   [
+    "DU/2001/1439",
+    "2002-02-13"
+   ],
+   [
+    "DU/2001/1800",
+    "2002-01-01"
+   ],
+   [
+    "DU/2002/676",
+    "2002-06-29"
+   ],
+   [
+    "DU/2003/718",
+    "2003-07-11"
+   ],
+   [
+    "DU/2004/41",
+    "2004-04-16"
+   ],
+   [
+    "DU/2004/881",
+    "2004-05-01"
+   ],
+   [
+    "DU/2004/888",
+    "2004-05-31"
+   ],
+   [
+    "DU/2004/959",
+    "2004-05-01"
+   ],
+   [
+    "DU/2005/954",
+    "2005-07-28"
+   ],
+   [
+    "DU/2005/1362",
+    "2005-09-01"
+   ],
+   [
+    "DU/2005/1364",
+    "2005-09-26"
+   ],
+   [
+    "DU/2005/1419",
+    "2005-09-21"
+   ],
+   [
+    "DU/2006/63",
+    "2006-02-09"
+   ],
+   [
+    "DU/2006/935",
+    "2006-08-05"
+   ],
+   [
+    "DU/2006/1217",
+    "2006-10-27"
+   ],
+   [
+    "DU/2006/1430",
+    "2006-10-25"
+   ],
+   [
+    "DU/2007/587",
+    "2007-08-19"
+   ],
+   [
+    "DU/2007/665",
+    "2007-06-20"
+   ],
+   [
+    "DU/2007/880",
+    "2007-09-18"
+   ],
+   [
+    "DU/2007/1373",
+    "2009-01-01"
+   ],
+   [
+    "DU/2007/1844",
+    "2007-12-29"
+   ],
+   [
+    "DU/2008/914",
+    "2008-08-23"
+   ],
+   [
+    "DU/2008/1227",
+    "2008-11-15"
+   ],
+   [
+    "DU/2008/1287",
+    "2008-12-06"
+   ],
+   [
+    "DU/2008/1321",
+    "2008-12-13"
+   ],
+   [
+    "DU/2008/1505",
+    "2009-03-24"
+   ],
+   [
+    "DU/2009/97",
+    "2009-03-07"
+   ],
+   [
+    "DU/2009/206",
+    "2009-04-01"
+   ],
+   [
+    "DU/2009/1276",
+    "2009-09-29"
+   ],
+   [
+    "DU/2009/1279",
+    "2009-10-15"
+   ],
+   [
+    "DU/2010/474",
+    "2010-06-05"
+   ],
+   [
+    "DU/2010/675",
+    "2010-07-17"
+   ],
+   [
+    "DU/2010/804",
+    "2010-07-20"
+   ],
+   [
+    "DU/2010/809",
+    "2010-08-06"
+   ],
+   [
+    "DU/2011/159",
+    "2011-03-18"
+   ],
+   [
+    "DU/2011/235",
+    "2011-04-04"
+   ],
+   [
+    "DU/2011/551",
+    "2012-07-01"
+   ],
+   [
+    "DU/2011/789",
+    "2011-07-01"
+   ],
+   [
+    "DU/2011/829",
+    "2011-08-08"
+   ],
+   [
+    "DU/2011/1092",
+    "2012-01-01"
+   ],
+   [
+    "DU/2011/1377",
+    "2012-04-29"
+   ],
+   [
+    "DU/2012/472",
+    "2012-05-31"
+   ],
+   [
+    "DU/2012/951",
+    "2013-01-01"
+   ],
+   [
+    "DU/2012/1256",
+    "2012-12-16"
+   ],
+   [
+    "DU/2013/984",
+    "2013-09-11"
+   ],
+   [
+    "DU/2014/40",
+    "2014-01-19"
+   ],
+   [
+    "DU/2014/768",
+    "2014-08-10"
+   ],
+   [
+    "DU/2014/822",
+    "2014-12-25"
+   ],
+   [
+    "DU/2014/1133",
+    "2015-01-01"
+   ],
+   [
+    "DU/2014/1200",
+    "2015-03-09"
+   ],
+   [
+    "DU/2015/200",
+    "2015-02-25"
+   ],
+   [
+    "DU/2015/443",
+    "2015-06-28"
+   ],
+   [
+    "DU/2015/528",
+    "2015-04-30"
+   ],
+   [
+    "DU/2015/774",
+    "2015-09-11"
+   ],
+   [
+    "DU/2015/1165",
+    "2016-01-01"
+   ],
+   [
+    "DU/2015/1265",
+    "2015-09-15"
+   ],
+   [
+    "DU/2015/1549",
+    "2016-01-07"
+   ],
+   [
+    "DU/2015/1642",
+    "2015-11-19"
+   ],
+   [
+    "DU/2015/1777",
+    "2015-11-18"
+   ],
+   [
+    "DU/2016/961",
+    "2016-07-16"
+   ],
+   [
+    "DU/2016/1165",
+    "2016-09-02"
+   ],
+   [
+    "DU/2016/1250",
+    "2016-08-31"
+   ],
+   [
+    "DU/2016/2255",
+    "2017-01-01"
+   ],
+   [
+    "DU/2017/1529",
+    "2017-09-11"
+   ],
+   [
+    "DU/2018/12",
+    "2018-01-04"
+   ],
+   [
+    "DU/2018/317",
+    "2018-02-22"
+   ],
+   [
+    "DU/2018/352",
+    "2019-02-13"
+   ],
+   [
+    "DU/2018/650",
+    "2018-04-30"
+   ],
+   [
+    "DU/2018/1276",
+    "2018-07-14"
+   ],
+   [
+    "DU/2018/1496",
+    "2018-08-22"
+   ],
+   [
+    "DU/2018/1669",
+    "2018-10-01"
+   ],
+   [
+    "DU/2018/2245",
+    "2019-09-01"
+   ],
+   [
+    "DU/2019/51",
+    "2019-02-11"
+   ],
+   [
+    "DU/2019/630",
+    "2019-04-18"
+   ],
+   [
+    "DU/2019/695",
+    "2019-04-30"
+   ],
+   [
+    "DU/2019/730",
+    "2019-05-04"
+   ],
+   [
+    "DU/2019/1309",
+    "2019-08-15"
+   ],
+   [
+    "DU/2019/1524",
+    "2019-08-29"
+   ],
+   [
+    "DU/2019/1696",
+    "2019-09-20"
+   ],
+   [
+    "DU/2019/1712",
+    "2019-09-24"
+   ],
+   [
+    "DU/2019/1815",
+    "2019-10-25"
+   ],
+   [
+    "DU/2019/2166",
+    "2020-01-01"
+   ],
+   [
+    "DU/2019/2170",
+    "2019-11-23"
+   ],
+   [
+    "DU/2020/148",
+    "2020-01-31"
+   ],
+   [
+    "DU/2020/471",
+    "2020-09-19"
+   ],
+   [
+    "DU/2020/695",
+    "2020-04-18"
+   ],
+   [
+    "DU/2020/782",
+    "2020-07-31"
+   ],
+   [
+    "DU/2020/1086",
+    "2020-06-24"
+   ],
+   [
+    "DU/2020/2127",
+    "2023-09-18"
+   ],
+   [
+    "DU/2020/2320",
+    "2021-10-05"
+   ],
+   [
+    "DU/2021/11",
+    "2021-01-19"
+   ],
+   [
+    "DU/2021/234",
+    "2021-02-18"
+   ],
+   [
+    "DU/2021/282",
+    "2021-02-12"
+   ],
+   [
+    "DU/2021/784",
+    "2021-05-13"
+   ],
+   [
+    "DU/2021/1986",
+    "2022-01-03"
+   ],
+   [
+    "DU/2022/88",
+    "2022-01-29"
+   ],
+   [
+    "DU/2022/1557",
+    "2022-08-10"
+   ],
+   [
+    "DU/2022/1768",
+    "2022-09-21"
+   ],
+   [
+    "DU/2022/1783",
+    "2022-09-09"
+   ],
+   [
+    "DU/2022/1846",
+    "2022-10-02"
+   ],
+   [
+    "DU/2022/2206",
+    "2023-04-28"
+   ],
+   [
+    "DU/2022/2687",
+    "2022-12-21"
+   ],
+   [
+    "DU/2023/553",
+    "2023-04-23"
+   ],
+   [
+    "DU/2023/967",
+    "2023-06-03"
+   ],
+   [
+    "DU/2023/1506",
+    "2023-09-03"
+   ],
+   [
+    "DU/2023/1597",
+    "2023-09-11"
+   ],
+   [
+    "DU/2023/1681",
+    "2023-09-07"
+   ],
+   [
+    "DU/2023/1688",
+    "2026-01-01"
+   ],
+   [
+    "DU/2023/1762",
+    "2023-10-01"
+   ],
+   [
+    "DU/2023/1890",
+    "2023-10-16"
+   ],
+   [
+    "DU/2023/1963",
+    "2023-10-07"
+   ],
+   [
+    "DU/2023/2029",
+    "2024-01-01"
+   ],
+   [
+    "DU/2024/834",
+    "2024-07-01"
+   ],
+   [
+    "DU/2024/1222",
+    "2024-11-10"
+   ],
+   [
+    "DU/2024/1847",
+    "2024-12-28"
+   ],
+   [
+    "DU/2024/1881",
+    "2025-01-20"
+   ],
+   [
+    "DU/2025/1080",
+    "2025-09-07"
+   ],
+   [
+    "DU/2025/1535",
+    "2026-01-01"
+   ],
+   [
+    "DU/2025/1673",
+    "2026-06-03"
+   ],
+   [
+    "DU/2025/1847",
+    "2026-01-07"
+   ],
+   [
+    "DU/2026/605",
+    "2026-05-21"
+   ],
+   [
+    "DU/2026/646",
+    "2026-05-29"
+   ],
+   [
+    "DU/2026/1161",
+    "2026-10-02"
+   ],
+   [
+    "DU/2026/1347",
+    "2026-10-17"
+   ]
+  ]
+ },
+ {
+  "file": "pos.txt",
+  "eli": "DU/2001/627",
+  "title": "Ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "tekst ujednolicony (U)",
+  "chars": 817577,
+  "tj": "DU/2026/1453",
+  "amend_all": [
+   [
+    "DU/2001/1229",
+    "2002-01-01"
+   ],
+   [
+    "DU/2002/676",
+    "2002-06-29"
+   ],
+   [
+    "DU/2002/984",
+    "2002-10-27"
+   ],
+   [
+    "DU/2002/1271",
+    "2004-01-01"
+   ],
+   [
+    "DU/2002/1957",
+    "2003-01-12"
+   ],
+   [
+    "DU/2003/392",
+    "2003-04-02"
+   ],
+   [
+    "DU/2003/717",
+    "2003-07-11"
+   ],
+   [
+    "DU/2003/721",
+    "2003-05-25"
+   ],
+   [
+    "DU/2003/1568",
+    "2003-11-17"
+   ],
+   [
+    "DU/2003/1693",
+    "2003-10-23"
+   ],
+   [
+    "DU/2003/1865",
+    "2003-12-08"
+   ],
+   [
+    "DU/2003/2124",
+    "2004-01-01"
+   ],
+   [
+    "DU/2004/177",
+    "2004-03-02"
+   ],
+   [
+    "DU/2004/464",
+    "2004-06-27"
+   ],
+   [
+    "DU/2004/631",
+    "2004-05-01"
+   ],
+   [
+    "DU/2004/875",
+    "2005-01-01"
+   ],
+   [
+    "DU/2004/880",
+    "2004-05-01"
+   ],
+   [
+    "DU/2004/959",
+    "2004-05-01"
+   ],
+   [
+    "DU/2004/1263",
+    "2004-06-15"
+   ],
+   [
+    "DU/2004/2703",
+    "2005-01-01"
+   ],
+   [
+    "DU/2004/2784",
+    "2005-01-01"
+   ],
+   [
+    "DU/2005/202",
+    "2005-03-14"
+   ],
+   [
+    "DU/2005/552",
+    "2005-10-01"
+   ],
+   [
+    "DU/2005/954",
+    "2005-07-28"
+   ],
+   [
+    "DU/2005/1087",
+    "2005-07-30"
+   ],
+   [
+    "DU/2005/1110",
+    "2005-08-19"
+   ],
+   [
+    "DU/2005/1362",
+    "2005-09-01"
+   ],
+   [
+    "DU/2005/1399",
+    "2005-10-02"
+   ],
+   [
+    "DU/2005/1420",
+    "2005-10-07"
+   ],
+   [
+    "DU/2005/1458",
+    "2005-10-13"
+   ],
+   [
+    "DU/2005/1462",
+    "2008-01-01"
+   ],
+   [
+    "DU/2005/1495",
+    "2008-01-01"
+   ],
+   [
+    "DU/2005/2104",
+    "2006-01-01"
+   ],
+   [
+    "DU/2006/360",
+    "2006-06-29"
+   ],
+   [
+    "DU/2006/1199",
+    "2007-01-01"
+   ],
+   [
+    "DU/2006/1217",
+    "2006-10-27"
+   ],
+   [
+    "DU/2006/1832",
+    "2006-12-29"
+   ],
+   [
+    "DU/2007/124",
+    "2007-02-24"
+   ],
+   [
+    "DU/2007/493",
+    "2007-04-30"
+   ],
+   [
+    "DU/2007/587",
+    "2007-08-19"
+   ],
+   [
+    "DU/2007/859",
+    "2007-07-12"
+   ],
+   [
+    "DU/2007/1033",
+    "2007-11-15"
+   ],
+   [
+    "DU/2007/1238",
+    "2007-10-10"
+   ],
+   [
+    "DU/2007/1286",
+    "2007-10-16"
+   ],
+   [
+    "DU/2007/1374",
+    "2007-11-02"
+   ],
+   [
+    "DU/2008/708",
+    "2008-06-27"
+   ],
+   [
+    "DU/2008/865",
+    "2008-08-15"
+   ],
+   [
+    "DU/2008/958",
+    "2008-09-10"
+   ],
+   [
+    "DU/2008/1056",
+    "2008-10-08"
+   ],
+   [
+    "DU/2008/1227",
+    "2008-11-15"
+   ],
+   [
+    "DU/2008/1464",
+    "2009-01-01"
+   ],
+   [
+    "DU/2008/1505",
+    "2009-03-24"
+   ],
+   [
+    "DU/2009/100",
+    "2009-02-27"
+   ],
+   [
+    "DU/2009/106",
+    "2009-06-01"
+   ],
+   [
+    "DU/2009/666",
+    "2009-06-12"
+   ],
+   [
+    "DU/2009/1070",
+    "2009-09-18"
+   ],
+   [
+    "DU/2009/1664",
+    "2010-01-01"
+   ],
+   [
+    "DU/2010/104",
+    "2010-03-11"
+   ],
+   [
+    "DU/2010/145",
+    "2010-03-12"
+   ],
+   [
+    "DU/2010/227",
+    "2012-01-01"
+   ],
+   [
+    "DU/2010/489",
+    "2010-06-07"
+   ],
+   [
+    "DU/2010/804",
+    "2010-07-20"
+   ],
+   [
+    "DU/2010/1018",
+    "2010-09-01"
+   ],
+   [
+    "DU/2010/1019",
+    "2010-09-20"
+   ],
+   [
+    "DU/2010/1228",
+    "2011-01-02"
+   ],
+   [
+    "DU/2010/1498",
+    "2010-12-21"
+   ],
+   [
+    "DU/2010/1657",
+    "2010-12-31"
+   ],
+   [
+    "DU/2011/159",
+    "2011-03-18"
+   ],
+   [
+    "DU/2011/322",
+    "2011-04-08"
+   ],
+   [
+    "DU/2011/551",
+    "2011-08-11"
+   ],
+   [
+    "DU/2011/569",
+    "2011-05-31"
+   ],
+   [
+    "DU/2011/695",
+    "2011-06-21"
+   ],
+   [
+    "DU/2011/897",
+    "2012-01-01"
+   ],
+   [
+    "DU/2011/1060",
+    "2011-09-29"
+   ],
+   [
+    "DU/2011/1341",
+    "2011-11-03"
+   ],
+   [
+    "DU/2012/460",
+    "2012-05-28"
+   ],
+   [
+    "DU/2012/951",
+    "2013-01-01"
+   ],
+   [
+    "DU/2012/1342",
+    "2013-01-01"
+   ],
+   [
+    "DU/2012/1513",
+    "2013-01-14"
+   ],
+   [
+    "DU/2013/21",
+    "2013-01-23"
+   ],
+   [
+    "DU/2013/139",
+    "2013-02-14"
+   ],
+   [
+    "DU/2013/165",
+    "2013-03-07"
+   ],
+   [
+    "DU/2013/888",
+    "2014-01-01"
+   ],
+   [
+    "DU/2013/1238",
+    "2013-11-24"
+   ],
+   [
+    "DU/2014/40",
+    "2014-01-19"
+   ],
+   [
+    "DU/2014/47",
+    "2014-01-25"
+   ],
+   [
+    "DU/2014/457",
+    "2014-05-09"
+   ],
+   [
+    "DU/2014/822",
+    "2014-12-25"
+   ],
+   [
+    "DU/2014/1101",
+    "2014-09-05"
+   ],
+   [
+    "DU/2014/1146",
+    "2014-09-13"
+   ],
+   [
+    "DU/2014/1322",
+    "2015-01-01"
+   ],
+   [
+    "DU/2014/1662",
+    "2015-01-01"
+   ],
+   [
+    "DU/2015/122",
+    "2015-02-06"
+   ],
+   [
+    "DU/2015/151",
+    "2015-02-12"
+   ],
+   [
+    "DU/2015/277",
+    "2015-03-30"
+   ],
+   [
+    "DU/2015/478",
+    "2015-05-04"
+   ],
+   [
+    "DU/2015/774",
+    "2015-09-11"
+   ],
+   [
+    "DU/2015/881",
+    "2015-07-10"
+   ],
+   [
+    "DU/2015/933",
+    "2016-01-01"
+   ],
+   [
+    "DU/2015/1045",
+    "2015-08-28"
+   ],
+   [
+    "DU/2015/1223",
+    "2015-09-09"
+   ],
+   [
+    "DU/2015/1434",
+    "2015-10-06"
+   ],
+   [
+    "DU/2015/1593",
+    "2015-11-12"
+   ],
+   [
+    "DU/2015/1688",
+    "2016-01-01"
+   ],
+   [
+    "DU/2015/1936",
+    "2017-01-01"
+   ],
+   [
+    "DU/2015/2278",
+    "2015-12-30"
+   ],
+   [
+    "DU/2016/266",
+    "2016-03-17"
+   ],
+   [
+    "DU/2016/831",
+    "2016-10-01"
+   ],
+   [
+    "DU/2016/903",
+    "2016-07-01"
+   ],
+   [
+    "DU/2016/1250",
+    "2016-08-31"
+   ],
+   [
+    "DU/2016/1933",
+    "2016-12-31"
+   ],
+   [
+    "DU/2016/1991",
+    "2016-12-10"
+   ],
+   [
+    "DU/2016/2255",
+    "2017-01-01"
+   ],
+   [
+    "DU/2016/2260",
+    "2017-01-01"
+   ],
+   [
+    "DU/2017/785",
+    "2017-04-29"
+   ],
+   [
+    "DU/2017/898",
+    "2017-05-24"
+   ],
+   [
+    "DU/2017/1089",
+    "2017-06-21"
+   ],
+   [
+    "DU/2017/1529",
+    "2017-09-11"
+   ],
+   [
+    "DU/2017/1566",
+    "2018-01-01"
+   ],
+   [
+    "DU/2017/1888",
+    "2017-10-11"
+   ],
+   [
+    "DU/2017/1999",
+    "2017-11-27"
+   ],
+   [
+    "DU/2017/2056",
+    "2018-01-01"
+   ],
+   [
+    "DU/2017/2290",
+    "2018-01-01"
+   ],
+   [
+    "DU/2018/9",
+    "2018-01-18"
+   ],
+   [
+    "DU/2018/88",
+    "2018-01-26"
+   ],
+   [
+    "DU/2018/534",
+    "2019-03-14"
+   ],
+   [
+    "DU/2018/650",
+    "2018-04-30"
+   ],
+   [
+    "DU/2018/1356",
+    "2018-07-28"
+   ],
+   [
+    "DU/2018/1479",
+    "2019-01-01"
+   ],
+   [
+    "DU/2018/1564",
+    "2018-08-29"
+   ],
+   [
+    "DU/2018/1590",
+    "2018-09-04"
+   ],
+   [
+    "DU/2018/1592",
+    "2018-09-05"
+   ],
+   [
+    "DU/2018/1648",
+    "2018-09-11"
+   ],
+   [
+    "DU/2018/1722",
+    "2018-09-20"
+   ],
+   [
+    "DU/2018/2161",
+    "2019-01-01"
+   ],
+   [
+    "DU/2019/42",
+    "2019-01-25"
+   ],
+   [
+    "DU/2019/412",
+    "2019-03-20"
+   ],
+   [
+    "DU/2019/452",
+    "2019-03-14"
+   ],
+   [
+    "DU/2019/1123",
+    "2019-07-18"
+   ],
+   [
+    "DU/2019/1211",
+    "2019-06-29"
+   ],
+   [
+    "DU/2019/1403",
+    "2019-08-13"
+   ],
+   [
+    "DU/2019/1495",
+    "2020-01-01"
+   ],
+   [
+    "DU/2019/1501",
+    "2019-08-24"
+   ],
+   [
+    "DU/2019/1527",
+    "2020-01-01"
+   ],
+   [
+    "DU/2019/1579",
+    "2019-09-06"
+   ],
+   [
+    "DU/2019/1680",
+    "2019-09-18"
+   ],
+   [
+    "DU/2019/1712",
+    "2019-09-24"
+   ],
+   [
+    "DU/2019/1815",
+    "2019-10-25"
+   ],
+   [
+    "DU/2019/2087",
+    "2019-11-14"
+   ],
+   [
+    "DU/2019/2166",
+    "2019-11-23"
+   ],
+   [
+    "DU/2020/284",
+    "2020-02-29"
+   ],
+   [
+    "DU/2020/695",
+    "2020-04-18"
+   ],
+   [
+    "DU/2020/1378",
+    "2020-11-13"
+   ],
+   [
+    "DU/2020/1565",
+    "2020-10-01"
+   ],
+   [
+    "DU/2020/2127",
+    "2021-01-01"
+   ],
+   [
+    "DU/2020/2338",
+    "2020-12-31"
+   ],
+   [
+    "DU/2021/802",
+    "2021-06-01"
+   ],
+   [
+    "DU/2021/868",
+    "2021-05-22"
+   ],
+   [
+    "DU/2021/1047",
+    "2021-06-25"
+   ],
+   [
+    "DU/2021/1162",
+    "2021-07-13"
+   ],
+   [
+    "DU/2021/1535",
+    "2021-08-21"
+   ],
+   [
+    "DU/2021/1642",
+    "2021-09-22"
+   ],
+   [
+    "DU/2021/1648",
+    "2021-09-23"
+   ],
+   [
+    "DU/2021/1718",
+    "2021-12-18"
+   ],
+   [
+    "DU/2021/2127",
+    "2021-02-25"
+   ],
+   [
+    "DU/2021/2269",
+    "2021-12-24"
+   ],
+   [
+    "DU/2022/1079",
+    "2022-06-04"
+   ],
+   [
+    "DU/2022/1260",
+    "2022-06-29"
+   ],
+   [
+    "DU/2022/1504",
+    "2022-10-19"
+   ],
+   [
+    "DU/2022/1576",
+    "2022-08-11"
+   ],
+   [
+    "DU/2022/1747",
+    "2022-08-20"
+   ],
+   [
+    "DU/2022/2088",
+    "2022-10-13"
+   ],
+   [
+    "DU/2022/2127",
+    "2022-10-18"
+   ],
+   [
+    "DU/2022/2375",
+    "2024-01-01"
+   ],
+   [
+    "DU/2022/2687",
+    "2022-12-21"
+   ],
+   [
+    "DU/2023/877",
+    "2023-05-24"
+   ],
+   [
+    "DU/2023/1506",
+    "2023-09-03"
+   ],
+   [
+    "DU/2023/1688",
+    "2023-09-24"
+   ],
+   [
+    "DU/2023/1719",
+    "2023-09-12"
+   ],
+   [
+    "DU/2023/1762",
+    "2023-10-01"
+   ],
+   [
+    "DU/2023/1890",
+    "2023-10-16"
+   ],
+   [
+    "DU/2023/1963",
+    "2023-10-07"
+   ],
+   [
+    "DU/2023/2029",
+    "2023-10-28"
+   ],
+   [
+    "DU/2024/834",
+    "2024-07-01"
+   ],
+   [
+    "DU/2024/1089",
+    "2024-07-23"
+   ],
+   [
+    "DU/2024/1222",
+    "2024-11-10"
+   ],
+   [
+    "DU/2024/1847",
+    "2024-12-28"
+   ],
+   [
+    "DU/2024/1853",
+    "2024-12-31"
+   ],
+   [
+    "DU/2024/1881",
+    "2025-01-20"
+   ],
+   [
+    "DU/2024/1914",
+    "2025-01-01"
+   ],
+   [
+    "DU/2024/1940",
+    "2025-01-11"
+   ],
+   [
+    "DU/2024/1946",
+    "2025-01-01"
+   ],
+   [
+    "DU/2025/303",
+    "2025-04-01"
+   ],
+   [
+    "DU/2025/1080",
+    "2025-09-07"
+   ],
+   [
+    "DU/2025/1812",
+    "2025-12-31"
+   ],
+   [
+    "DU/2025/1863",
+    "2026-01-13"
+   ],
+   [
+    "DU/2026/176",
+    "2027-02-18"
+   ],
+   [
+    "DU/2026/426",
+    "2026-04-14"
+   ],
+   [
+    "DU/2026/605",
+    "2026-05-21"
+   ],
+   [
+    "DU/2026/607",
+    "2026-05-21"
+   ],
+   [
+    "DU/2026/635",
+    "2026-05-27"
+   ],
+   [
+    "DU/2026/912",
+    "2026-07-31"
+   ],
+   [
+    "DU/2026/982",
+    "2026-07-23"
+   ],
+   [
+    "DU/2026/1157",
+    "2026-09-16"
+   ]
+  ]
+ },
+ {
+  "file": "ustawa_odpady.txt",
+  "eli": "DU/2013/21",
+  "title": "Ustawa z dnia 14 grudnia 2012 r. o odpadach",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "tekst ujednolicony (U)",
+  "chars": 624885,
+  "tj": "DU/2026/1328",
+  "amend_all": [
+   [
+    "DU/2013/888",
+    "2014-01-01"
+   ],
+   [
+    "DU/2013/1238",
+    "2013-11-24"
+   ],
+   [
+    "DU/2014/695",
+    "2014-06-12"
+   ],
+   [
+    "DU/2014/1101",
+    "2014-09-05"
+   ],
+   [
+    "DU/2014/1322",
+    "2015-01-01"
+   ],
+   [
+    "DU/2015/87",
+    "2015-02-01"
+   ],
+   [
+    "DU/2015/122",
+    "2015-02-06"
+   ],
+   [
+    "DU/2015/933",
+    "2016-01-01"
+   ],
+   [
+    "DU/2015/1045",
+    "2016-01-01"
+   ],
+   [
+    "DU/2015/1688",
+    "2016-01-01"
+   ],
+   [
+    "DU/2015/1936",
+    "2017-01-01"
+   ],
+   [
+    "DU/2015/2281",
+    "2016-01-01"
+   ],
+   [
+    "DU/2016/1579",
+    "2016-10-07"
+   ],
+   [
+    "DU/2016/1954",
+    "2016-12-17"
+   ],
+   [
+    "DU/2017/785",
+    "2017-04-29"
+   ],
+   [
+    "DU/2017/1566",
+    "2018-01-01"
+   ],
+   [
+    "DU/2017/2056",
+    "2018-01-01"
+   ],
+   [
+    "DU/2017/2422",
+    "2018-01-06"
+   ],
+   [
+    "DU/2018/650",
+    "2018-04-30"
+   ],
+   [
+    "DU/2018/1000",
+    "2018-05-25"
+   ],
+   [
+    "DU/2018/1479",
+    "2018-08-18"
+   ],
+   [
+    "DU/2018/1544",
+    "2018-09-11"
+   ],
+   [
+    "DU/2018/1564",
+    "2018-08-29"
+   ],
+   [
+    "DU/2018/1592",
+    "2018-09-05"
+   ],
+   [
+    "DU/2019/60",
+    "2019-03-04"
+   ],
+   [
+    "DU/2019/730",
+    "2019-05-04"
+   ],
+   [
+    "DU/2019/1403",
+    "2019-08-13"
+   ],
+   [
+    "DU/2019/1579",
+    "2019-09-06"
+   ],
+   [
+    "DU/2020/150",
+    "2020-01-31"
+   ],
+   [
+    "DU/2020/284",
+    "2020-02-29"
+   ],
+   [
+    "DU/2020/322",
+    "2020-07-01"
+   ],
+   [
+    "DU/2020/568",
+    "2020-03-31"
+   ],
+   [
+    "DU/2020/875",
+    "2020-05-16"
+   ],
+   [
+    "DU/2020/2361",
+    "2020-12-31"
+   ],
+   [
+    "DU/2021/784",
+    "2021-05-13"
+   ],
+   [
+    "DU/2021/1648",
+    "2021-09-23"
+   ],
+   [
+    "DU/2021/2151",
+    "2022-01-01"
+   ],
+   [
+    "DU/2022/1250",
+    "2022-09-14"
+   ],
+   [
+    "DU/2022/1726",
+    "2022-09-01"
+   ],
+   [
+    "DU/2022/2127",
+    "2022-10-18"
+   ],
+   [
+    "DU/2022/2687",
+    "2022-12-21"
+   ],
+   [
+    "DU/2022/2722",
+    "2023-01-06"
+   ],
+   [
+    "DU/2023/295",
+    "2023-02-15"
+   ],
+   [
+    "DU/2023/877",
+    "2023-05-24"
+   ],
+   [
+    "DU/2023/1597",
+    "2023-09-11"
+   ],
+   [
+    "DU/2023/1688",
+    "2023-09-24"
+   ],
+   [
+    "DU/2023/1852",
+    "2023-10-13"
+   ],
+   [
+    "DU/2023/2029",
+    "2023-10-28"
+   ],
+   [
+    "DU/2024/1834",
+    "2025-01-01"
+   ],
+   [
+    "DU/2024/1911",
+    "2025-01-01"
+   ],
+   [
+    "DU/2024/1914",
+    "2025-01-01"
+   ],
+   [
+    "DU/2025/1812",
+    "2025-12-31"
+   ],
+   [
+    "DU/2026/174",
+    "2026-02-18"
+   ],
+   [
+    "DU/2026/815",
+    "2026-07-04"
+   ],
+   [
+    "DU/2026/875",
+    "2027-01-01"
+   ]
+  ]
+ },
+ {
+  "file": "ustawa_imprezy_masowe.txt",
+  "eli": "DU/2009/504",
+  "title": "Ustawa z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "tekst ujednolicony (U)",
+  "chars": 108414,
+  "tj": "DU/2023/616",
+  "amend_all": [
+   [
+    "DU/2010/857",
+    "2010-10-16"
+   ],
+   [
+    "DU/2010/1021",
+    "2010-09-04"
+   ],
+   [
+    "DU/2011/1280",
+    "2011-11-12"
+   ],
+   [
+    "DU/2012/951",
+    "2013-01-01"
+   ],
+   [
+    "DU/2013/628",
+    "2013-06-05"
+   ],
+   [
+    "DU/2013/829",
+    "2014-01-01"
+   ],
+   [
+    "DU/2015/1707",
+    "2015-11-26"
+   ],
+   [
+    "DU/2016/1250",
+    "2016-08-31"
+   ],
+   [
+    "DU/2017/799",
+    "2017-05-04"
+   ],
+   [
+    "DU/2018/138",
+    "2018-02-01"
+   ],
+   [
+    "DU/2018/310",
+    "2018-03-09"
+   ],
+   [
+    "DU/2019/61",
+    "2019-01-29"
+   ],
+   [
+    "DU/2019/125",
+    "2019-02-06"
+   ],
+   [
+    "DU/2021/2490",
+    "2022-01-01"
+   ],
+   [
+    "DU/2022/1700",
+    "2022-09-01"
+   ],
+   [
+    "DU/2026/875",
+    "2027-01-01"
+   ]
+  ]
+ },
+ {
+  "file": "ustawa_wyroby_budowlane.txt",
+  "eli": "DU/2004/881",
+  "title": "Ustawa z dnia 16 kwietnia 2004 r. o wyrobach budowlanych",
+  "status": "akt posiada tekst jednolity",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "tekst ujednolicony (U)",
+  "chars": 83526,
+  "tj": "DU/2021/1213",
+  "amend_all": [
+   [
+    "DU/2009/97",
+    "2009-03-07"
+   ],
+   [
+    "DU/2010/760",
+    "2010-12-30"
+   ],
+   [
+    "DU/2011/586",
+    "2011-06-02"
+   ],
+   [
+    "DU/2012/951",
+    "2013-01-01"
+   ],
+   [
+    "DU/2013/898",
+    "2013-08-23"
+   ],
+   [
+    "DU/2015/1165",
+    "2016-01-01"
+   ],
+   [
+    "DU/2016/542",
+    "2016-04-20"
+   ],
+   [
+    "DU/2016/1250",
+    "2016-08-31"
+   ],
+   [
+    "DU/2018/650",
+    "2018-04-30"
+   ],
+   [
+    "DU/2019/730",
+    "2019-05-04"
+   ],
+   [
+    "DU/2020/471",
+    "2020-09-19"
+   ]
+  ]
+ }
+]

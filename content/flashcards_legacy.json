@@ -1,0 +1,407 @@
+[
+ [
+  "Wysokość budynku niskiego (N)",
+  "do 12 m włącznie (lub do 4 kondygnacji nadziemnych mieszkalnych)",
+  "Klasyfikacja"
+ ],
+ [
+  "Wysokość budynku średniowysokiego (SW)",
+  "ponad 12 m do 25 m (lub 5-9 kondygnacji mieszkalnych)",
+  "Klasyfikacja"
+ ],
+ [
+  "Wysokość budynku wysokiego (W)",
+  "ponad 25 m do 55 m (lub 10-18 kondygnacji mieszkalnych)",
+  "Klasyfikacja"
+ ],
+ [
+  "Wysokość budynku wysokościowego (WW)",
+  "powyżej 55 m",
+  "Klasyfikacja"
+ ],
+ [
+  "Kategorie zagrożenia ludzi ZL I",
+  "budynki/pomieszczenia dla ponad 50 osób niebędących stałymi użytkownikami, nieprzeznaczone głównie dla osób o ograniczonej zdolności poruszania się",
+  "Klasyfikacja"
+ ],
+ [
+  "Kategoria ZL II",
+  "przeznaczone głównie dla ludzi o ograniczonej zdolności poruszania się (szpitale, żłobki, przedszkola, DPS)",
+  "Klasyfikacja"
+ ],
+ [
+  "Kategorie ZL III / ZL IV / ZL V",
+  "ZL III - użyteczności publicznej pozostałe; ZL IV - mieszkalne; ZL V - zamieszkania zbiorowego pozostałe",
+  "Klasyfikacja"
+ ],
+ [
+  "Długość przejścia ewakuacyjnego w strefie ZL",
+  "max 40 m",
+  "Ewakuacja"
+ ],
+ [
+  "Długość przejścia ewakuacyjnego w strefie PM",
+  "max 100 m (75 m przy Q>500 MJ/m² w strefie z pom. zagrożonym wybuchem: 40 m)",
+  "Ewakuacja"
+ ],
+ [
+  "Powiększenie długości przejścia - pomieszczenie o wysokości >5 m",
+  "+25%",
+  "Ewakuacja"
+ ],
+ [
+  "Powiększenie przejścia: SUG wodne / oddymianie z wykrywaniem dymu",
+  "+25% każde (łącznie do +50%)",
+  "Ewakuacja"
+ ],
+ [
+  "Dojście ewakuacyjne ZL I, II, V - jedno dojście / dwa dojścia",
+  "10 m / 40 m",
+  "Ewakuacja"
+ ],
+ [
+  "Dojście ewakuacyjne ZL III - jedno / dwa",
+  "30 m / 60 m",
+  "Ewakuacja"
+ ],
+ [
+  "Dojście ewakuacyjne ZL IV - jedno / dwa",
+  "60 m (w tym max 20 m na poziomej drodze) / 100 m",
+  "Ewakuacja"
+ ],
+ [
+  "Drugie dojście ewakuacyjne",
+  "może być o 100% dłuższe niż wartość dla dojścia najkrótszego",
+  "Ewakuacja"
+ ],
+ [
+  "Szerokość drzwi ewakuacyjnych z pomieszczenia",
+  "0,9 m w świetle (dla >50 osób: min 1,2 m, liczona 0,6 m/100 osób)",
+  "Ewakuacja"
+ ],
+ [
+  "Drzwi otwierane na zewnątrz pomieszczenia - kiedy?",
+  "pomieszczenia: >50 osób, zagrożone wybuchem, dla >6 osób o ograniczonej zdolności poruszania się",
+  "Ewakuacja"
+ ],
+ [
+  "Przejście między rzędami siedzeń (pomieszczenia >200 osób)",
+  "min 0,45 m",
+  "Ewakuacja"
+ ],
+ [
+  "Woda do zewn. gaszenia - budynek ZL",
+  "20 dm³/s (UP i ZZ o kubaturze >2500 m³ lub pow. >500 m²); ZL IV zwykle 10 dm³/s z hydrantu DN 80",
+  "Woda"
+ ],
+ [
+  "Odległość hydrantów zewnętrznych od siebie (obszar miejski)",
+  "do 150 m",
+  "Woda"
+ ],
+ [
+  "Odległość hydrantu od chronionego budynku",
+  "max 75 m (pierwszy hydrant), 5-15 m od ściany",
+  "Woda"
+ ],
+ [
+  "Hydranty na sieci magistralnej",
+  "nadziemne DN 100",
+  "Woda"
+ ],
+ [
+  "Droga pożarowa - szerokość / nacisk osi",
+  "min 4 m (3,5 m poza odcinkiem przy budynku); nacisk osi 100 kN",
+  "Woda"
+ ],
+ [
+  "Droga pożarowa - odległość od ściany budynku",
+  "5-15 m dla ZL (bliższa krawędź)",
+  "Woda"
+ ],
+ [
+  "Promień zewnętrznego łuku drogi pożarowej",
+  "min 11 m",
+  "Woda"
+ ],
+ [
+  "Prześwit drogi pod estakadą na terenie zakładu",
+  "4,5 m × 4,5 m",
+  "Woda"
+ ],
+ [
+  "Kiedy droga pożarowa do budynku PM?",
+  "strefa >1000 m² i Q>500 MJ/m², lub pomieszczenie zagrożone wybuchem",
+  "Woda"
+ ],
+ [
+  "Hydrant 25 - gdzie?",
+  "strefy ZL: budynki wysokie i wysokościowe (bez ZL IV); SW ze strefą ZL I, II, III lub V; niskie ZL II",
+  "Instalacje gaśnicze"
+ ],
+ [
+  "Hydrant 33 - gdzie?",
+  "garaż jednokondygnacyjny zamknięty >10 stanowisk oraz garaż wielokondygnacyjny",
+  "Instalacje gaśnicze"
+ ],
+ [
+  "Hydrant 52 - gdzie?",
+  "strefa PM o Q>500 MJ/m² i pow. >200 m²; przy wejściu do pomieszczeń magazynowych/technicznych o Q>500 i pow. >200 m² w strefach ZL",
+  "Instalacje gaśnicze"
+ ],
+ [
+  "Wydajność hydrantów: 25 / 33 / 52",
+  "1,0 / 1,5 / 2,5 dm³/s (hydrant 52: 150 dm³/min)",
+  "Instalacje gaśnicze"
+ ],
+ [
+  "Ciśnienie na zaworze hydrantu wewnętrznego",
+  "min 0,2 MPa, max 1,2 MPa",
+  "Instalacje gaśnicze"
+ ],
+ [
+  "Tryskacze obowiązkowe (rozp. MSWiA §27)",
+  "handlowe/wystawowe: jednokondygnacyjne ZL I >8000 m², wielokondygnacyjne >5000 m²; gastronomia >600 miejsc; UP i ZZ wysokościowe",
+  "Instalacje gaśnicze"
+ ],
+ [
+  "PN-EN 12845: min odległość między tryskaczami",
+  "2 m (z wyjątkami)",
+  "Instalacje gaśnicze"
+ ],
+ [
+  "PN-EN 12845: powierzchnia na tryskacz OH",
+  "12 m² (LH: 21 m²)",
+  "Instalacje gaśnicze"
+ ],
+ [
+  "PN-EN 12845: czas działania LH / OH / HH",
+  "30 / 60 / 90 minut",
+  "Instalacje gaśnicze"
+ ],
+ [
+  "PN-EN 12845: oddzielenie przestrzeni chronionej od niechronionej",
+  "min 60 min odporności ogniowej",
+  "Instalacje gaśnicze"
+ ],
+ [
+  "Cel tryskaczy ESFR",
+  "ugaszenie pożaru (nie tylko kontrola)",
+  "Instalacje gaśnicze"
+ ],
+ [
+  "PN-EN 15004: czas retencji gazu gaśniczego",
+  "min 10 minut",
+  "Instalacje gaśnicze"
+ ],
+ [
+  "Powiększenie strefy pożarowej: SUG wodne / oddymianie",
+  "+100% / +50% (nie dotyczy budynków W i WW)",
+  "Strefy"
+ ],
+ [
+  "Strefy ZL I, III, IV, V: N / SW / W i WW",
+  "10 000 / 8 000 / 5 000 / 2 500 m²",
+  "Strefy"
+ ],
+ [
+  "Strefy ZL II: 1-kond. / N / SW / W i WW",
+  "8 000 / 5 000 / 3 500 / 2 000 m²",
+  "Strefy"
+ ],
+ [
+  "Ściana oddzielenia ppoż. - otwory",
+  "łączna powierzchnia otworów ≤15% ściany; wypełnienie przepuszczające światło ≤10% (klasa E)",
+  "Strefy"
+ ],
+ [
+  "Ściana oddzielenia a dach",
+  "wyprowadzić 0,3 m ponad pokrycie palne LUB pas niepalny 1 m EI 60 pod pokryciem; przekrycie niepalne - do poziomu pokrycia",
+  "Strefy"
+ ],
+ [
+  "Klasy odporności pożarowej ZL (tabela §212)",
+  "ZL I/II: N-B(C dla ZL II przy stropie ≤9m), SW-B, W-B, WW-A; ZL III: N-C, SW-B; ZL IV: N-D, SW-C, W-B; ZL V jak ZL III",
+  "Klasyfikacja"
+ ],
+ [
+  "Klasa B - główne wymagania",
+  "konstrukcja nośna R 120, strop REI 60, ściana zewn. EI 60, konstrukcja dachu R 30, przekrycie RE 30",
+  "Klasyfikacja"
+ ],
+ [
+  "Klasa C / D - konstrukcja nośna",
+  "R 60 / R 30",
+  "Klasyfikacja"
+ ],
+ [
+  "Strefy zagrożenia wybuchem - gazy",
+  "strefa 0: ciągle/długo; strefa 1: czasami przy normalnej pracy; strefa 2: rzadko i krótko",
+  "Wybuch"
+ ],
+ [
+  "Strefy zagrożenia wybuchem - pyły",
+  "strefa 20 / 21 / 22 (analogicznie do 0/1/2)",
+  "Wybuch"
+ ],
+ [
+  "Kategorie urządzeń ATEX w strefach",
+  "strefa 0/20: kat. 1; strefa 1/21: kat. 1 lub 2; strefa 2/22: kat. 1, 2 lub 3",
+  "Wybuch"
+ ],
+ [
+  "Pomieszczenie zagrożone wybuchem - kryterium",
+  "możliwy przyrost ciśnienia ponad 5 kPa",
+  "Wybuch"
+ ],
+ [
+  "Dach lekki nad pomieszczeniem zagrożonym wybuchem",
+  "masa do 75 kg/m² rzutu (bez konstrukcji nośnej)",
+  "Wybuch"
+ ],
+ [
+  "Urządzenia odciążające zamiast lekkiego dachu",
+  "min 0,065 m²/m³ kubatury pomieszczenia",
+  "Wybuch"
+ ],
+ [
+  "Ściany pomieszczenia zagrożonego wybuchem",
+  "odporne na parcie 15 kN/m²",
+  "Wybuch"
+ ],
+ [
+  "Lokalizacja pomieszczeń zagrożonych wybuchem",
+  "najwyższa kondygnacja budynku (zasada)",
+  "Wybuch"
+ ],
+ [
+  "Materiał niebezpieczny pożarowo - ciecz palna",
+  "temperatura zapłonu poniżej 328,15 K (55°C)",
+  "Wybuch"
+ ],
+ [
+  "SSP obowiązkowy m.in. w:",
+  "teatry >300 miejsc; kina >600; gastronomia >300 miejsc; sale >1500 osób; szpitale >200 łóżek; hotele >50 miejsc; UP wysokie i wysokościowe; DPS >100",
+  "SSP i DSO"
+ ],
+ [
+  "TS 54-14: promień działania czujki dymu / ciepła",
+  "7,5 m / 4,5 m (pow. dozorowania 80 / 30 m²)",
+  "SSP i DSO"
+ ],
+ [
+  "TS 54-14: wolna przestrzeń wokół czujki",
+  "0,5 m we wszystkich kierunkach",
+  "SSP i DSO"
+ ],
+ [
+  "TS 54-14: przegrody sięgające bliżej stropu niż 0,3 m",
+  "traktuje się jak ściany (odrębne pomieszczenia)",
+  "SSP i DSO"
+ ],
+ [
+  "PN-EN 60849: poziom dźwięku w miejscach sypialnych",
+  "75 dBA przy wezgłowiu łóżka",
+  "SSP i DSO"
+ ],
+ [
+  "PN-EN 1838: natężenie oświetlenia drogi ewakuacyjnej",
+  "min 1 lx w osi drogi (pas centralny)",
+  "Oświetlenie"
+ ],
+ [
+  "PN-EN 1838: strefa otwarta / strefa wysokiego ryzyka",
+  "0,5 lx / 10% natężenia eksploatacyjnego, nie mniej niż 15 lx",
+  "Oświetlenie"
+ ],
+ [
+  "PN-EN 1838: czas osiągnięcia natężenia",
+  "50% w 5 s, 100% w 60 s",
+  "Oświetlenie"
+ ],
+ [
+  "Odległość widzenia znaku: podświetlany wewnętrznie / zewnętrznie",
+  "d = 200×h / d = 100×h (znak 15 cm podświetlany: 30 m)",
+  "Oświetlenie"
+ ],
+ [
+  "Oświetlenie awaryjne wymagane m.in.:",
+  "drogi ewakuacyjne oświetlone wyłącznie światłem sztucznym, widownie, sale >200 osób, pomieszczenia >2000 m² netto, garaże >1000 m² oświetlone tylko sztucznie",
+  "Oświetlenie"
+ ],
+ [
+  "PN-B-02877-4: jedna klapa dymowa przypada na",
+  "max 200 m² powierzchni dachu (dach płaski)",
+  "Wentylacja"
+ ],
+ [
+  "Klapy dymowe: automatyczne+ręczne / tylko ręczne",
+  "B300 30 / B600 30",
+  "Wentylacja"
+ ],
+ [
+  "PN-EN 12101-6: nadciśnienie w klatce / przepływ w drzwiach",
+  "50 Pa / 2 m/s (kryterium przepływu dla klasy B)",
+  "Wentylacja"
+ ],
+ [
+  "Podział korytarza przegrodami z drzwiami dymoszczelnymi",
+  "odcinki max 50 m (strefy ZL)",
+  "Wentylacja"
+ ],
+ [
+  "Kiedy klatki z urządzeniami przeciw zadymieniu?",
+  "N ze strefą ZL II, SW: ZL I, II, III i V oraz PM o Q>500; W i WW: zapobiegające zadymieniu (+przedsionki)",
+  "Wentylacja"
+ ],
+ [
+  "Rzeczoznawca NIE może:",
+  "uzgodnić projektu, którego jest autorem; uzgodnić warunkowo bez zgody KW PSP na rozwiązania zamienne",
+  "Procedury"
+ ],
+ [
+  "Kto kwalifikuje odstąpienie od projektu?",
+  "projektant (art. 36a ust. 6 Prawa budowlanego)",
+  "Procedury"
+ ],
+ [
+  "Rozwiązania zamienne - kto uzgadnia?",
+  "komendant wojewódzki PSP w drodze postanowienia (art. 6a ustawy)",
+  "Procedury"
+ ],
+ [
+  "Zawiadomienie PSP o zakończeniu budowy",
+  "gdy wymagane pozwolenie na użytkowanie lub projekt wymagał uzgodnienia ppoż. (art. 56 PB)",
+  "Procedury"
+ ],
+ [
+  "Operat przeciwpożarowy (odpady) - kto wykonuje?",
+  "dla marszałka/RDOŚ: rzeczoznawca ppoż.; dla starosty: także osoba z art. 4 ust. 2a ustawy",
+  "Procedury"
+ ],
+ [
+  "Uzgodnienie projektu - potwierdzenie",
+  "pieczęć/podpis rzeczoznawcy + karta uzgodnienia; elektronicznie: podpis kwalifikowany lub zaufany",
+  "Procedury"
+ ],
+ [
+  "Zbiornik pośredni tryskaczy - wzór",
+  "V = (wydatek × czas działania) − (zasilanie × czas); np. 1800 dm³/min × 60 min − 10 dm³/s × 60 min = 108−36 = 72 m³",
+  "Obliczenia"
+ ],
+ [
+  "Uzupełniający zapas wody - wzór",
+  "(zapotrzebowanie − wydajność wodociągu) × względny czas trwania pożaru; np. (30−10) dm³/s × 6h = 432 m³",
+  "Obliczenia"
+ ],
+ [
+  "Średnia gęstość obciążenia ogniowego strefy",
+  "Qśr = Σ(Qi×Fi)/ΣFi (średnia ważona powierzchnią)",
+  "Obliczenia"
+ ],
+ [
+  "PN-B-02852: czego nie uwzględniamy",
+  "materiałów o zawartości wody >60%, niepalnych; uwzględniamy palne elementy budynku i opakowania",
+  "Obliczenia"
+ ]
+]
