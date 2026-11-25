@@ -1,0 +1,17 @@
+[
+ {
+  "id": 211,
+  "ans": "a",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "W4",
+  "basis": "§ 267 ust. 8 w zw. z zał. nr 3 pkt 3 rozp. MI z 12.04.2002 (WT); klasy wyrobów liniowych wg PN-EN 13501-1. Rozp. MSWiA z 7.06.2010 (§ 25) nie określa klasy reakcji na ogień izolacji przewodów.",
+  "src": "akty/wt_2002.txt",
+  "quote": "A2L-s1, d0; A2L-s2, d0; A2L-s3, d0; BL-s1, d0; BL-s2, d0 oraz BL-s3, d0;",
+  "expl": "Izolacje cieplne w instalacji wodociągowej (w tym przeciwpożarowej) mają nie rozprzestrzeniać ognia (§ 267 ust. 8 WT), a zał. nr 3 pkt 3 WT przypisuje tej cesze izolacjom przewodów klasy wyrobów liniowych z indeksem „L”: A1L, A2L-s1…s3, d0 oraz BL-s1…s3, d0 — stąd BL-s3, d0. Oznaczenie „BDL” w klasyfikacji PN-EN 13501-1 nie istnieje, a indeks „FL” (CFL-s3, d0) dotyczy posadzek, przy czym klasa C nie spełniałaby i tak wymogu nierozprzestrzeniania ognia.",
+  "norms": ["PN-EN 13501-1"],
+  "verdict": "Rację ma A (a). B pominął pytanie jako spoza bloku, ale rozstrzyga je WT 2002 obecne w korpusie: § 267 ust. 8 (izolacje w instalacji wodociągowej mają nie rozprzestrzeniać ognia) i zał. nr 3 pkt 3 (lista klas A1L…BL-s3, d0). Cytat A zweryfikowany w wt_2002.txt, linia 5589. Rozp. MSWiA 2010 i PN-EN 671 nie regulują klasy izolacji (grep 'izolac' — brak trafień dot. hydrantów). Stary klucz również 'a'."
+ }
+]

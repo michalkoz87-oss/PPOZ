@@ -14,5 +14,19 @@
   "W2",
   "Z"
  ],
- "done": {}
+ "done": {
+  "R": {
+   "date": "2026-11-25",
+   "questions": 60,
+   "confirmed": 56,
+   "skipped": 4,
+   "disputed": 2,
+   "changedVsOldKey": 15,
+   "lessons": [
+    "T08"
+   ],
+   "flashcards": 40,
+   "tokens": 2018506
+  }
+ }
 }

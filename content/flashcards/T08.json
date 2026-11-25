@@ -1,0 +1,362 @@
+[
+ {
+  "id": "T08-01",
+  "topic": "R1",
+  "front": "Poniżej jakiej temperatury zapłonu ciecz palna jest materiałem niebezpiecznym pożarowo?",
+  "back": "Poniżej 328,15 K (55°C).",
+  "ref": "§ 2 ust. 1 pkt 1 lit. b",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-02",
+  "topic": "R1",
+  "front": "Jak często co najmniej przeprowadza się przeglądy techniczne i konserwację urządzeń przeciwpożarowych i gaśnic?",
+  "back": "W okresach ustalonych przez producenta, nie rzadziej niż raz w roku.",
+  "ref": "§ 3 ust. 3",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-03",
+  "topic": "R1",
+  "front": "Czy autonomiczne czujki dymu podlegają przeglądom z § 3 ust. 1–3?",
+  "back": "Nie. Montuje się je, konserwuje i eksploatuje według instrukcji producenta.",
+  "ref": "§ 3 ust. 3a",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-04",
+  "topic": "R1",
+  "front": "W jakiej odległości od obiektu nie wolno rozgrzewać smoły otwartym ogniem?",
+  "back": "Mniejszej niż 5 m.",
+  "ref": "§ 4 ust. 1 pkt 4",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-05",
+  "topic": "R1",
+  "front": "Jak blisko granicy działki sąsiedniej nie wolno składować materiałów palnych poza budynkami?",
+  "back": "Bliżej niż 4 m.",
+  "ref": "§ 4 ust. 1 pkt 6",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-06",
+  "topic": "R1",
+  "front": "Jaką najmniejszą szerokość ma pas ochronny wokół placów składowych i obiektów tymczasowych o konstrukcji palnej?",
+  "back": "2 m, z nawierzchnią niepalną lub gruntem oczyszczonym.",
+  "ref": "§ 4 ust. 3",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-07",
+  "topic": "R1",
+  "front": "Jaką powierzchnię muszą mieć strefy rozdzielone ścianą oddzielenia, by w budynku handlowym, produkcyjnym lub magazynowym trzeba było oznakować jej połączenie z elewacją i dachem?",
+  "back": "Co najmniej 2000 m² każda, jeżeli ściany zewnętrzne lub dach jednej ze stref nie są z materiałów niepalnych albo w jednej ze stref gęstość obciążenia ogniowego przekracza 1000 MJ/m².",
+  "ref": "§ 4 ust. 2 pkt 6",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-08",
+  "topic": "R1",
+  "front": "Do kiedy trzeba oznakować punkty schronienia zidentyfikowane przed 30.09.2026?",
+  "back": "Niezwłocznie, najpóźniej do 31.12.2026.",
+  "ref": "§ 2 rozp. zm. z 28.09.2026",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-09",
+  "topic": "R1",
+  "front": "Jak często co najmniej aktualizuje się instrukcję bezpieczeństwa pożarowego?",
+  "back": "Raz na 2 lata, a także po zmianach użytkowania lub technologii wpływających na warunki ochrony.",
+  "ref": "§ 6 ust. 7",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-10",
+  "topic": "R1",
+  "front": "Do jakiej kubatury brutto budynek (strefa) bez strefy zagrożenia wybuchem nie wymaga IBP?",
+  "back": "Do 1000 m³ (budynek inwentarski do 1500 m³).",
+  "ref": "§ 6 ust. 8 pkt 1–2",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-11",
+  "topic": "R1",
+  "front": "Do jakiej temperatury chroni się magazyn butli z gazami palnymi przed ogrzaniem?",
+  "back": "Temperatura nie może przekroczyć 35°C (308,15 K).",
+  "ref": "§ 12 ust. 2",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-12",
+  "topic": "R1",
+  "front": "Ile gazu płynnego w butlach można składować w punkcie sprzedaży przyborów gazowych?",
+  "back": "Łącznie do 70 kg.",
+  "ref": "§ 14 ust. 1",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-13",
+  "topic": "R1",
+  "front": "Jak często przeprowadza się praktyczne sprawdzenie ewakuacji w obiekcie dla ponad 50 stałych użytkowników, niezakwalifikowanym do ZL IV?",
+  "back": "Co najmniej raz na 2 lata.",
+  "ref": "§ 17 ust. 1",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-14",
+  "topic": "R1",
+  "front": "W jakim terminie od przyjścia nowych użytkowników sprawdza się ewakuację w szkole lub internacie?",
+  "back": "Najpóźniej 3 miesiące od rozpoczęcia korzystania z obiektu (i co najmniej raz w roku).",
+  "ref": "§ 17 ust. 2",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-15",
+  "topic": "R1",
+  "front": "W jakim terminie właściciel escape roomu składa w komendzie powiatowej PSP protokół ze sprawdzenia?",
+  "back": "W ciągu 7 dni od sprawdzenia.",
+  "ref": "§ 17a ust. 5",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-16",
+  "topic": "R1",
+  "front": "Na jaką powierzchnię strefy ZL I, II, III lub V niechronionej SUG przypada jedna jednostka (2 kg) środka gaśniczego w gaśnicach?",
+  "back": "Na każde 100 m².",
+  "ref": "§ 32 ust. 3 pkt 1 lit. a",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-17",
+  "topic": "R1",
+  "front": "Jaka jest największa odległość z dowolnego miejsca w obiekcie do najbliższej gaśnicy?",
+  "back": "30 m.",
+  "ref": "§ 33 ust. 2 pkt 1",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-18",
+  "topic": "R1",
+  "front": "Od kiedy autonomiczna czujka dymu jest obowiązkowa w lokalu mieszkalnym użytkowanym już w dniu wejścia zmiany w życie (23.12.2024)?",
+  "back": "Od 1.01.2030.",
+  "ref": "§ 2 ust. 2 rozp. zm. z 21.11.2024",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-19",
+  "topic": "R1",
+  "front": "W jakich dwóch przypadkach pomieszczenie ze spalaniem paliwa nie wymaga autonomicznej czujki tlenku węgla?",
+  "back": "Gdy spalanie odbywa się w urządzeniu z zamkniętą komorą spalania albo w gazowym urządzeniu do przygotowywania posiłków.",
+  "ref": "§ 28a ust. 4",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-20",
+  "topic": "R2",
+  "front": "Jak często węże hydrantów wewnętrznych poddaje się próbie ciśnieniowej?",
+  "back": "Raz na 5 lat, na maksymalne ciśnienie robocze.",
+  "ref": "§ 3 ust. 4; PN-EN 671-3 pkt 6.2",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-21",
+  "topic": "R2",
+  "front": "Przez jaki czas co najmniej musi być zapewnione zasilanie hydrantów wewnętrznych?",
+  "back": "1 godzinę.",
+  "ref": "§ 18 ust. 4",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-22",
+  "topic": "R2",
+  "front": "Od jakiej powierzchni strefy ZL I, ZL II lub ZL V w budynku niskim lub średniowysokim są wymagane hydranty 25?",
+  "back": "Przekraczającej 200 m².",
+  "ref": "§ 19 ust. 1 pkt 2 lit. a",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-23",
+  "topic": "R2",
+  "front": "Od ilu stanowisk postojowych garaż jednokondygnacyjny zamknięty wymaga hydrantów 33?",
+  "back": "Więcej niż 10.",
+  "ref": "§ 19 ust. 2 pkt 1",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-24",
+  "topic": "R2",
+  "front": "Przy jakiej gęstości obciążenia ogniowego i powierzchni strefa PM wymaga hydrantów 52?",
+  "back": "Ponad 500 MJ/m² i ponad 200 m².",
+  "ref": "§ 19 ust. 3 pkt 1",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-25",
+  "topic": "R2",
+  "front": "Do jakiej gęstości obciążenia ogniowego wolno zastąpić hydrant 52 hydrantem 33 w przypadkach z § 19 ust. 3 pkt 1 i 3?",
+  "back": "Do 1000 MJ/m² włącznie.",
+  "ref": "§ 19 ust. 4",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-26",
+  "topic": "R2",
+  "front": "W jakich budynkach zawory 52 są obowiązkowe?",
+  "back": "W wysokich i wysokościowych o więcej niż jednej kondygnacji nadziemnej.",
+  "ref": "§ 19 ust. 6",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-27",
+  "topic": "R2",
+  "front": "Na jakiej wysokości od podłogi umieszcza się zawory 52 i zawory odcinające hydrantów?",
+  "back": "1,35 ± 0,1 m.",
+  "ref": "§ 21 ust. 1",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-28",
+  "topic": "R2",
+  "front": "Ile wynosi minimalna wydajność hydrantu 52 w dm³/min?",
+  "back": "150 dm³/min (2,5 dm³/s).",
+  "ref": "§ 22 ust. 1 pkt 3",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-29",
+  "topic": "R2",
+  "front": "Jakie maksymalne ciśnienie dopuszcza się na zaworze 52 i zaworach hydrantów 33 i 52?",
+  "back": "0,7 MPa (dla pozostałych zaworów odcinających 1,2 MPa).",
+  "ref": "§ 22 ust. 4",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-30",
+  "topic": "R2",
+  "front": "Przy jakiej powierzchni strefy PM o gęstości ponad 500 MJ/m² instalacja musi zapewnić jednoczesny pobór z 4 hydrantów?",
+  "back": "Przekraczającej 3000 m².",
+  "ref": "§ 23 pkt 3 lit. b",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-31",
+  "topic": "R2",
+  "front": "Jaki zapas wody w zbiornikach zapewnia się dla instalacji wodociągowej przeciwpożarowej budynku wysokiego lub wysokościowego?",
+  "back": "Co najmniej 100 m³.",
+  "ref": "§ 24 ust. 2",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-32",
+  "topic": "R2",
+  "front": "Do ilu m³ można zmniejszyć zbiornik z § 24 ust. 2, jeżeli sieć zewnętrzna zapewnia co najmniej 15 dm³/s?",
+  "back": "Do 25 m³.",
+  "ref": "§ 24 ust. 3 pkt 3 lit. b",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-33",
+  "topic": "R2",
+  "front": "Jaką średnicę ma dodatkowa nasada w elewacji, wymagana przy zmniejszeniu zbiornika dzięki zasilaniu z sieci (§ 24 ust. 3 pkt 3) lub zasilaniu instalacji wprost z sieci (§ 24 ust. 4)?",
+  "back": "75 mm.",
+  "ref": "§ 24 ust. 5",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-34",
+  "topic": "R2",
+  "front": "Powyżej jakiej liczby miejsc gastronomicznych w budynku wymagane są stałe samoczynne urządzenia gaśnicze wodne?",
+  "back": "Powyżej 600.",
+  "ref": "§ 27 ust. 2 pkt 2",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-35",
+  "topic": "R2",
+  "front": "Od jakiej liczby miejsc teatr musi mieć SSP?",
+  "back": "Powyżej 300 miejsc.",
+  "ref": "§ 28 ust. 1 pkt 2",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-36",
+  "topic": "R2",
+  "front": "Od jakiej liczby miejsc kino musi mieć SSP?",
+  "back": "Powyżej 600 miejsc; ten sam próg dotyczy DSO.",
+  "ref": "§ 28 ust. 1 pkt 3; § 29 ust. 1 pkt 3",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-37",
+  "topic": "R2",
+  "front": "Kiedy garaż podziemny wymaga SSP?",
+  "back": "Gdy strefa pożarowa przekracza 1500 m² lub garaż obejmuje więcej niż jedną kondygnację podziemną.",
+  "ref": "§ 28 ust. 1 pkt 17",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-38",
+  "topic": "R2",
+  "front": "Jaka jest maksymalna długość węża półsztywnego hydrantu wewnętrznego?",
+  "back": "30 m, jeden odcinek.",
+  "ref": "PN-EN 671-1:2012 pkt 4.4.3",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-39",
+  "topic": "R2",
+  "front": "Jaka jest maksymalna długość węża płasko składanego hydrantu wewnętrznego?",
+  "back": "20 m.",
+  "ref": "PN-EN 671-2:2012 pkt 4.4.3",
+  "conf": "wysoka",
+  "week": 8
+ },
+ {
+  "id": "T08-40",
+  "topic": "R2",
+  "front": "Jaki jest minimalny efektywny zasięg rzutu prądu rozproszonego płaskiego przy 0,2 MPa?",
+  "back": "6 m (zwarty 10 m, stożkowy 3 m).",
+  "ref": "PN-EN 671-1:2012 pkt 4.2.3",
+  "conf": "wysoka",
+  "week": 8
+ }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 461,
+    "ans": "b",
+    "conf": "niska",
+    "ansNow": "=",
+    "stan": "aktualne",
+    "stanNote": "",
+    "topic": "R2",
+    "basis": "§ 28 ust. 1 (definicja SSP) i ust. 1 pkt 8, 11, 12 oraz § 31 rozp. MSWiA z 7.06.2010; art. 5 ustawy o ochronie przeciwpożarowej; § 3 pkt 6 i § 209 ust. 2 pkt 2 WT 2002 (DPS = użyteczność publiczna, ZL II)",
+    "src": "akty/rozp_ppoz_2010.txt",
+    "quote": "domach pomocy społecznej i ośrodkach rehabilitacji dla osób niepełnosprawnych o liczbie łóżek powyżej 100",
+    "expl": "Komisja oczekuje odpowiedzi b: to dosłowna definicja systemu sygnalizacji pożarowej (SSP) z § 28 ust. 1. Odpowiedź c jest błędna, bo obowiązkowy SSP trzeba połączyć z PSP albo z obiektem wskazanym przez komendanta (art. 5 ustawy, § 31). Odpowiedź a też jest błędna: przepisy nie przewidują „systemu alarmu” z czujek autonomicznych, a § 28a (od 23.12.2024) dotyczy lokali mieszkalnych i pokoi hotelowych, nie DPS. Wątpliwość: § 28 ust. 1 pkt 8 wymaga SSP w DPS dopiero przy ponad 100 łóżkach w budynku, więc przy 80 miejscach obowiązek nie wynika wprost z rozporządzenia. Nie pomaga też próg 50 miejsc z pkt 12: DPS to budynek opieki społecznej, czyli użyteczności publicznej (ZL II), a nawet przy zaliczeniu go do zamieszkania zbiorowego pobyt trwa ponad 3 doby, więc zastosowanie ma pkt 11 z progiem 200. Klucz b wynika z konstrukcji pytania (wszystkie opcje zakładają jakiś system), a nie z wprost brzmiącego przepisu.",
+    "norms": [],
+    "verdict": "Obaj eksperci (A i B) mieli rację co do litery b i co do niskiej pewności. Uzasadnienie B jest trafniejsze: wprost wskazuje, że próg z § 28 ust. 1 pkt 8 (>100 łóżek) nie jest osiągnięty. Rozumowanie A przez § 28 ust. 1 pkt 12 (>50 miejsc noclegowych) jest błędne z dwóch powodów. Po pierwsze, DPS jako budynek opieki społecznej jest budynkiem użyteczności publicznej (WT § 3 pkt 6), a nie zamieszkania zbiorowego. Po drugie, pkt 11 obejmuje każdy budynek zamieszkania zbiorowego z pobytem ponad 3 doby (próg 200), więc pkt 12 dotyczy tylko pobytów krótkich. W korpusie nie ma aktu z zakresu pomocy społecznej, który mógłby nakładać na DPS obowiązek SSP niezależnie od rozporządzenia z 2010 r. Klucz b przyjęto jako zamierzony przez komisję, bo b odtwarza definicję z § 28 ust. 1, c przeczy art. 5 ustawy, a a nie ma podstawy prawnej."
+  }
+]

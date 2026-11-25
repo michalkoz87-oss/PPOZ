@@ -1,4 +1,18 @@
 {
+"2": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R2",
+"basis": "§ 27 ust. 2 pkt 2 rozp. MSWiA z 7.06.2010",
+"quote": "2)   w budynkach o liczbie miejsc służących celom gastronomicznym powyżej 600;",
+"expl": "Stałe samoczynne urządzenia gaśnicze wodne są obowiązkowe w budynkach, w których liczba miejsc służących celom gastronomicznym przekracza 600 – liczy się miejsca w całym budynku, a nie w jednej strefie pożarowej (dlatego b jest błędne). Próg 300 miejsc (c) dotyczy systemu sygnalizacji pożarowej (§ 28 ust. 1 pkt 4), nie tryskaczy.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "5": {
 "ans": "b",
 "ansNow": "=",
@@ -45,6 +59,22 @@
 "verif": "zgodne",
 "alt": null
 },
+"16": {
+"ans": "a",
+"ansNow": "=",
+"conf": "średnia",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R2",
+"basis": "§ 25 ust. 9 rozp. MSWiA z 7.06.2010 (brak zakazu, wymóg niezależności parametrów); zasada podłączenia przed zaworami kontrolno-alarmowymi z normy tryskaczowej (PN-EN 12845) — punktu normy nie zweryfikowano",
+"quote": "Możliwość poboru wody do celów przeciwpożarowych o wymaganych parametrach ciśnienia i wydajności",
+"expl": "Przepisy nie zakazują zasilania hydrantów wewnętrznych z instalacji tryskaczowej, wymagają jednak, by pobór wody do celów przeciwpożarowych o wymaganych parametrach był zapewniony niezależnie od pracy innych systemów (§ 25 ust. 9). Dlatego hydranty przyłącza się przed zaworami kontrolno-alarmowymi, przez własną armaturę odcinającą przy punkcie podłączenia do zasilania, tak by ich użycie nie uruchamiało alarmu ani nie zubażało sekcji. Odpowiedź b jest błędna (takiego zakazu nie ma), a limit 300 dm3/min (c) nie wynika z żadnego przepisu.",
+"norms": [
+"PN-EN 12845"
+],
+"verif": "źródła",
+"alt": null
+},
 "19": {
 "ans": "a",
 "ansNow": "=",
@@ -73,6 +103,36 @@
 "verif": "źródła",
 "alt": null
 },
+"27": {
+"ans": "b",
+"ansNow": "=",
+"conf": "średnia",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R2",
+"basis": "§ 24 ust. 2, ust. 3 pkt 1 lit. a i pkt 3 lit. c, ust. 4 i 5 rozp. MSWiA z 7.06.2010; § 8 WT (grupa wysokości)",
+"quote": "c)   ust. 3 pkt 1 ‒ do 6 m3 w przypadku zapewnienia zasilania tych zbiorników w wodę z zewnętrznej sieci wodocią-",
+"expl": "Budynek z 11 kondygnacjami nadziemnymi jest wysoki (W), więc bazowo zapas wody dla instalacji hydrantowej to 100 m3. Ponieważ powyżej 12 m są wyłącznie strefy mieszkalne ZL IV, zbiornik można zmniejszyć do 50 m3 (ust. 3 pkt 1 lit. a; lit. b odpada, bo strefy mają 1800 m2 > 750 m2), a przy zasilaniu zbiornika z sieci o wydajności ≥ 10 dm3/s i nasadzie 75 – do 6 m3 (ust. 3 pkt 3 lit. c, ust. 5). Rezygnacja ze zbiornika (c) dotyczy tylko budynków wysokich w całości ZL IV (ust. 4), a tu są sklepy i garaż.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"34": {
+"ans": "b",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "nieustalone",
+"stanNote": "Pytanie opiera się na wycofanym wydaniu PN-EN 12101-6:2007 (EN 12101-6:2005); obecnie obowiązują PN-EN 12101-6:2022-09 i PN-EN 12101-13:2022-09 (projektowanie SRC) – treści aktualnych wydań w zakresie wyposażenia rezerwowego nie sprawdzono.",
+"topic": "U6",
+"basis": "pkt 11.7.2.3 PN-EN 12101-6:2007 (EN 12101-6:2005)",
+"quote": "budynku (np. dwie klatki schodowe, na które moŜna wejść z kaŜdej kondygnacji), nie jest wymagane",
+"expl": "Wg pkt 11.7.2.3 normy kompletny duplikat wentylatora z silnikiem jest wymagany, gdy system różnicowania ciśnień chroni jedyną drogę ewakuacyjną. Jeżeli z każdego miejsca są dwie niezależne drogi ewakuacyjne (dwie klatki dostępne z każdej kondygnacji), wyposażenie rezerwowe nie jest wymagane – wysokość budynku (165 m) tej reguły normy nie zmienia, więc a i c są błędne.",
+"norms": [
+"PN-EN 12101-6"
+],
+"verif": "źródła",
+"alt": null
+},
 "36": {
 "ans": "c",
 "ansNow": "=",
@@ -83,6 +143,20 @@
 "basis": "§ 15 rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
 "quote": "§ 15. Wiadukty, estakady, przejścia i inne podobne urządzenia lub stałe elementy, usytuowane ponad drogami pożarowymi, powinny mieć prześwit o wysokości i szerokości nie mniejszej niż 4,5 m.",
 "expl": "Elementy usytuowane ponad drogą pożarową (wiadukty, estakady, przejścia) muszą zapewniać prześwit o wysokości i szerokości co najmniej 4,5 m (§ 15). Wartości 3,6 m × 4,2 m dotyczą czego innego — przejazdów na dziedzińce i bram (§ 14), a 4 m to minimalna szerokość samej drogi pożarowej przy budynku (§ 13 ust. 1).",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"37": {
+"ans": "c",
+"ansNow": "=",
+"conf": "średnia",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "H1",
+"basis": "§ 3 ust. 1 pkt 2 rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
+"quote": "2 500 m3 lub o powierzchni przekraczajàcej",
+"expl": "Poza jednostką osadniczą wodę do zewnętrznego gaszenia zapewnia się dla budynków UP i ZZ o kubaturze brutto przekraczającej 2500 m3 lub powierzchni przekraczającej 500 m2. Obiekty tworzą jedną strefę pożarową, więc sumujemy: 145 + 350 = 495 m2 i 400 + 2050 = 2450 m3 – żaden próg nie jest przekroczony, obowiązek nie powstaje. Wartości 10 i 20 dm3/s (a, b) to ilości z § 5 ust. 1, stosowane dopiero wtedy, gdy obowiązek istnieje.",
 "norms": [],
 "verif": "źródła",
 "alt": null
@@ -119,6 +193,20 @@
 "verif": "zgodne",
 "alt": null
 },
+"55": {
+"ans": "b",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R1",
+"basis": "§ 2 ust. 1 pkt 9 rozp. MSWiA z 7.06.2010",
+"quote": "a w szczególności: stałe i półstałe urządzenia gaśnicze i zabezpieczające, urządzenia inertyzujące, urządzenia wcho-",
+"expl": "Definicja urządzeń przeciwpożarowych wymienia wprost stałe i półstałe urządzenia gaśnicze. Gaśnica jest sprzętem (rozporządzenie wymienia „urządzenia przeciwpożarowe” i „gaśnice” osobno, np. § 3 ust. 2), a urządzeniem jest przeciwpożarowy wyłącznik prądu, nie zwykły wyłącznik główny odcinający wszystkie obwody – PWP nie odłącza obwodów urządzeń, które muszą działać w czasie pożaru.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "58": {
 "ans": "c",
 "ansNow": "=",
@@ -127,10 +215,10 @@
 "stanNote": "",
 "topic": "R2",
 "basis": "§ 28 ust. 1 pkt 10 rozp. MSWiA z 7.06.2010",
-"quote": "budynkach użyteczności publicznej wysokich i wysokościowych;",
-"expl": "Dla ogółu budynków użyteczności publicznej (bez względu na funkcję) obowiązek SSP zależy od wysokości: wymagany jest w budynkach wysokich i wysokościowych. Powierzchnia strefy czy liczba miejsc to kryteria tylko dla wybranych rodzajów obiektów (handlowe, kina, teatry itd.).",
+"quote": "10) budynkach użyteczności publicznej wysokich i wysokościowych;",
+"expl": "Dla ogółu budynków użyteczności publicznej SSP jest wymagany, gdy są to budynki wysokie lub wysokościowe – kryterium jest więc wysokość (grupa wysokości). Liczba miejsc lub osób (a) i powierzchnia strefy (b) są kryteriami tylko dla wybranych rodzajów obiektów: teatrów, kin, budynków handlowych, dworców itp.",
 "norms": [],
-"verif": "zgodne",
+"verif": "źródła",
 "alt": null
 },
 "63": {
@@ -164,15 +252,15 @@
 "89": {
 "ans": "b",
 "ansNow": "=",
-"conf": "wysoka",
+"conf": "średnia",
 "stan": "aktualne",
 "stanNote": "",
 "topic": "R2",
-"basis": "§ 27 ust. 2 pkt 1 lit. b, § 28 ust. 1 pkt 1 lit. b i pkt 3, § 29 ust. 1 pkt 3 rozp. MSWiA z 7.06.2010",
-"quote": "kinach i teatrach o liczbie miejsc powyżej 600;",
-"expl": "Kino ma łącznie 800 miejsc (4 × 200) – ponad 600, więc wymagane są SSP (§ 28) i DSO (§ 29). SUG wodne w budynku handlowym wielokondygnacyjnym są wymagane dopiero dla strefy ZL I powyżej 5000 m2, a tu strefa ma do 5000 m2.",
+"basis": "§ 27 ust. 2 pkt 1 lit. b, § 28 ust. 1 pkt 1 lit. b i pkt 3, § 29 ust. 1 pkt 1 lit. b i pkt 3 rozp. MSWiA z 7.06.2010",
+"quote": "3)     kinach i teatrach o liczbie miejsc powyżej 600;",
+"expl": "Kino ma łącznie 4 × 200 = 800 miejsc, czyli ponad 600 – to wymusza zarówno SSP (§ 28 ust. 1 pkt 3), jak i DSO (§ 29 ust. 1 pkt 3). Tryskacze w wielokondygnacyjnym budynku handlowym są wymagane dopiero przy strefie ZL I powyżej 5000 m2, a strefa „do 5000 m2” progu nie przekracza – dlatego a jest błędne, a c pomija DSO.",
 "norms": [],
-"verif": "zgodne",
+"verif": "źródła",
 "alt": null
 },
 "90": {
@@ -217,6 +305,20 @@
 "verif": "jednokrotne",
 "alt": null
 },
+"99": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R2",
+"basis": "§ 24 ust. 2, ust. 3 pkt 1 i pkt 3 lit. a–c, ust. 5 rozp. MSWiA z 7.06.2010; § 8 WT",
+"quote": "a)   ust. 2 i ust. 3 pkt 2 ‒ do 50 m3 w przypadku zapewnienia zasilania tych zbiorników w wodę z zewnętrznej sieci",
+"expl": "Budynek 55 m to budynek wysoki (W), więc wymagany jest zapas 100 m3 w jednym lub kilku zbiornikach; przy zasilaniu zbiorników z sieci ≥ 10 dm3/s i nasadzie 75 można go zmniejszyć do 50 m3 (ust. 3 pkt 3 lit. a). Zbiornik 25 m3 wymaga sieci ≥ 15 dm3/s (a – zła wydajność), a 6 m3 przysługuje tylko budynkom z ust. 3 pkt 1 (powyżej 12 m wyłącznie ZL IV albo strefy ≤ 750 m2), czego biurowiec ze strefą 2500 m2 nie spełnia (b).",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "100": {
 "ans": "a",
 "ansNow": "=",
@@ -233,6 +335,20 @@
 "verif": "jednokrotne",
 "alt": null
 },
+"103": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "P1",
+"basis": "art. 11i ust. 1 pkt 3–4 i ust. 3 oraz art. 6c ustawy o ochronie przeciwpożarowej",
+"quote": "3. Rzeczoznawca nie może uzgadniać opracowanego przez siebie projektu",
+"expl": "Rzeczoznawca może sporządzać opracowania techniczne i wykonywać czynności z zakresu ochrony przeciwpożarowej (art. 11i ust. 1), w tym opracować instrukcję bezpieczeństwa pożarowego. Nie może natomiast uzgadniać projektu, którego sam jest autorem (art. 11i ust. 3 – odpada b), ani uzgodnić projektu z rozwiązaniami innymi niż przepisowe bez dołączonej zgody na odstępstwo lub na rozwiązania zamienne (art. 6c – odpada c).",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "104": {
 "ans": "b",
 "ansNow": "=",
@@ -241,10 +357,10 @@
 "stanNote": "",
 "topic": "R2",
 "basis": "§ 28 ust. 1 pkt 17 rozp. MSWiA z 7.06.2010",
-"quote": "garażach podziemnych, w których strefa pożarowa przekracza 1500 m2 lub obejmujących więcej niż jedną kondygnację podziemną;",
-"expl": "SSP jest wymagany w garażach podziemnych, gdy strefa pożarowa przekracza 1500 m2 lub obejmuje więcej niż jedną kondygnację podziemną. Tu strefa nie przekracza 1500 m2 i obejmuje tylko jedną kondygnację podziemną (–1) oraz poziom 0, więc obowiązku nie ma.",
+"quote": "garażach podziemnych, w których strefa pożarowa przekracza 1500 m2",
+"expl": "SSP jest wymagany w garażu podziemnym, gdy strefa pożarowa przekracza 1500 m2 albo garaż obejmuje więcej niż jedną kondygnację podziemną. Strefa do 1500 m2 obejmująca poziom „0” i jedną kondygnację podziemną „−1” nie spełnia żadnego z warunków, więc SSP nie jest wymagany; rozwiązania zamienne (c) nie są potrzebne, bo nie ma czego zastępować.",
 "norms": [],
-"verif": "zgodne",
+"verif": "źródła",
 "alt": null
 },
 "108": {
@@ -261,6 +377,62 @@
 "PKN-CEN/TS 54-14"
 ],
 "verif": "zgodne",
+"alt": null
+},
+"116": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "P2",
+"basis": "art. 6b ustawy o ochronie przeciwpożarowej; § 1 rozp. MSWiA z 2.12.2015 (uchylone)",
+"quote": "miejscowym zagrożeniem oraz projekt urządzenia przeciwpożarowego wymagają",
+"expl": "Obowiązek uzgodnienia z rzeczoznawcą projektu urządzenia przeciwpożarowego wynika z ustawy (art. 6b). Rozporządzenie z 2015 r. w sprawie uzgadniania projektu budowlanego dotyczyło tylko projektów budowlanych (rodzaje obiektów, dane, sposób uzgadniania), więc b i c są błędne; obecne rozporządzenie z 5.08.2023 określa jedynie szczegółowy sposób uzgadniania, a sam obowiązek nadal wynika z ustawy.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"117": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "P2",
+"basis": "§ 2 pkt 3 rozp. MSWiA z 2.12.2015 (uchylone); obecnie § 2 pkt 4 rozp. MSWiA z 5.08.2023",
+"quote": "b)   rozwiązania organizacyjne niezbędne do właściwego funkcjonowania projektowanych zabezpieczeń.",
+"expl": "Definicja scenariusza pożarowego wymienia jako uwzględniane „przede wszystkim” zarówno sposób funkcjonowania i współdziałania urządzeń przeciwpożarowych, innych technicznych środków zabezpieczenia i urządzeń użytkowych (lit. a), jak i rozwiązania organizacyjne niezbędne do działania zabezpieczeń (lit. b). Wybór tylko jednego elementu jest niepełny; definicja w rozporządzeniu z 2023 r. ma tę samą treść.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"118": {
+"ans": "b",
+"ansNow": "brak",
+"conf": "wysoka",
+"stan": "zmienione",
+"stanNote": "Rozp. z 2.12.2015 uchylone; obecnie rozp. MSWiA z 5.08.2023, § 4 ust. 1: w projekcie architektoniczno-budowlanym – informacje o doborze urządzeń przeciwpożarowych wraz z określeniem zakresu i celu ich stosowania (bez charakterystyki, pkt 2 lit. j), w projekcie technicznym – informacje o urządzeniach wraz z ich charakterystyką (bez określenia „podstawowa”, pkt 3 lit. j). Żadna opcja nie oddaje dziś dokładnie wymagań.",
+"topic": "P2",
+"basis": "§ 4 ust. 1 pkt 11 rozp. MSWiA z 2.12.2015 w sprawie uzgadniania projektu budowlanego (uchylone)",
+"quote": "pożarowych, z podstawową charakterystyką tych urządzeń;",
+"expl": "Wg rozporządzenia z 2015 r. podstawę uzgodnienia stanowiły m.in. informacje o doborze urządzeń przeciwpożarowych, dostosowanym do przepisów i scenariuszy pożarowych, „z podstawową charakterystyką tych urządzeń” – nie szczegółową (a) i nie bez charakterystyki (c). Dziś wymagania rozdzielono na projekt architektoniczno-budowlany i techniczny (patrz stan prawny).",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"120": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R2",
+"basis": "§ 19 ust. 2 pkt 2 rozp. MSWiA z 7.06.2010 (wyjątki: § 19 ust. 5, § 44 pkt 3)",
+"quote": "2. Hydranty 33 muszą być stosowane w garażu:",
+"expl": "Hydranty 33 są obowiązkowe w każdym garażu wielokondygnacyjnym, bez progu powierzchni i bez względu na to, czy jest otwarty czy zamknięty. Warunek „zamknięty” (b) dotyczy tylko garaży jednokondygnacyjnych z więcej niż 10 stanowiskami, a progu 1000 m2 (c) przepis nie zna. Wyjątki: wolno stojące garaże MON na terenach zamkniętych oraz garaże istniejące wyposażone w hydranty 52 wg przepisów z 2006 r.",
+"norms": [],
+"verif": "źródła",
 "alt": null
 },
 "124": {
@@ -289,6 +461,20 @@
 "basis": "§ 25 ust. 4 pkt 2 rozp. MSWiA z 7.06.2010 w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów",
 "quote": "4. Średnice nominalne przewodów zasilających, w milimetrach, na których instaluje się hydranty wewnętrzne i zawory 52, powinny wynosić co najmniej: 1) DN 25 ‒ dla hydrantów 25; 2) DN 50 ‒ dla hydrantów 33 i 52; 3) DN 80 ‒ dla zaworów 52 na nawodnionych pionach w budynkach wysokich i wysokościowych.",
 "expl": "Przewody zasilające hydranty 33 (wąż półsztywny 33 mm) muszą mieć średnicę co najmniej DN 50 — tak samo jak dla hydrantów 52. DN 25 wystarcza tylko dla hydrantów 25, a DN 80 jest wymagane dla zaworów 52 na nawodnionych pionach w budynkach wysokich i wysokościowych. DN 32 i DN 40 nie występują w przepisie.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"128": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "P1",
+"basis": "art. 11m ust. 1 ustawy o ochronie przeciwpożarowej",
+"quote": "1)    uzgadnianiem projektów zagospodarowania działki lub terenu lub projektów",
+"expl": "Obowiązkowe OC rzeczoznawcy obejmuje szkody związane z uzgadnianiem projektów budowlanych (dziś: projektów zagospodarowania działki, architektoniczno-budowlanych i technicznych) oraz projektów urządzeń przeciwpożarowych, a osobno – z wykonywaniem ekspertyz i opracowań technicznych. Uzgadnianie „innej dokumentacji projektowej” (b) nie jest objęte obowiązkowym ubezpieczeniem, a c pomija projekty urządzeń.",
 "norms": [],
 "verif": "źródła",
 "alt": null
@@ -337,20 +523,48 @@
 "verif": "źródła",
 "alt": null
 },
+"145": {
+"ans": "b",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "H2",
+"basis": "§ 12 ust. 1 pkt 2 i pkt 5 lit. b rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
+"quote": "dniowysoki, wysoki lub wysokoÊciowy, zawierajà-",
+"expl": "Drogę pożarową doprowadza się do każdego budynku średniowysokiego, wysokiego i wysokościowego ze strefą ZL III, ZL IV lub ZL V. Do budynku niskiego ze strefą ZL V droga jest wymagana dopiero przy ponad 50 miejscach noclegowych – przy dokładnie 50 nie jest, dlatego a i c są błędne.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "146": {
 "ans": "b",
-"ansNow": "c",
+"ansNow": "=",
 "conf": "średnia",
-"stan": "zmienione",
-"stanNote": "Pytanie nie podaje wydania; w dacie egzaminu obowiązywała PKN-CEN/TS 54-14:2006 (promień działania czujki dymu 7,5 m). Wg aktualnej PKN-CEN/TS 54-14:2020-09 promień działania punktowej czujki dymu wynosi 6,2 m, co na sali 24 m × 6 m daje co najmniej 3 czujki – do potwierdzenia w tekście normy.",
+"stan": "nieustalone",
+"stanNote": "Odpowiedź według wycofanej PKN-CEN/TS 54-14:2006 (plik to projekt wydania polskiego); aktualne wydanie PKN-CEN/TS 54-14:2020-09 – zasad dla belek stropowych i promienia działania czujek nie sprawdzono.",
 "topic": "U1",
-"basis": "PKN-CEN/TS 54-14:2006 (obowiązująca w dacie egzaminu), zał. A – promień działania czujki dymu 7,5 m, belki do 5% wysokości pomieszczenia pomija się",
-"quote": "",
-"expl": "Belki 0,2 m są niższe niż 5% wysokości pomieszczenia (0,225 m), więc strop traktuje się jak płaski. Przy promieniu działania 7,5 m i szerokości 6 m jedna czujka w osi sali obejmuje ok. 13,7 m długości, zatem na 24 m potrzeba 2 czujek.",
+"basis": "zał. A, A.6.5.1 f) i tablica A.1 PKN-CEN/TS 54-14:2006",
+"quote": "Stropy z wykształceniami o wysokoś ci mniejszej ni Ŝ  5 % wysokoś ci pomieszczenia powinny być  traktowane",
+"expl": "Belka 0,2 m jest niższa niż 5 % wysokości sali (0,225 m), więc strop traktuje się jak płaski. Dla punktowej czujki dymu w pomieszczeniu do 4,5 m promień działania wynosi 7,5 m: jedna czujka w środku nie obejmie narożników (ok. 12,4 m), a dwie – każda na pole 12 × 6 m – mają do narożnika ok. 6,7 m. Trzy czujki (c) wynikałyby z błędnego traktowania belek jak ścian.",
 "norms": [
 "PKN-CEN/TS 54-14"
 ],
-"verif": "zgodne",
+"verif": "źródła",
+"alt": null
+},
+"160": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "P2",
+"basis": "§ 2 pkt 3 rozp. MSWiA z 2.12.2015 (uchylone); obecnie § 2 pkt 4 rozp. MSWiA z 5.08.2023",
+"quote": "b)   rozwiązania organizacyjne niezbędne do właściwego funkcjonowania projektowanych zabezpieczeń.",
+"expl": "Definicja scenariusza pożarowego wymienia jako uwzględniane „przede wszystkim” zarówno sposób funkcjonowania i współdziałania urządzeń przeciwpożarowych, innych technicznych środków zabezpieczenia i urządzeń użytkowych (lit. a), jak i rozwiązania organizacyjne niezbędne do działania zabezpieczeń (lit. b). Wybór tylko jednego elementu jest niepełny; definicja w rozporządzeniu z 2023 r. ma tę samą treść.",
+"norms": [],
+"verif": "źródła",
 "alt": null
 },
 "162": {
@@ -376,11 +590,11 @@
 "stan": "aktualne",
 "stanNote": "",
 "topic": "R2",
-"basis": "§ 27 ust. 2 pkt 1 lit. a, § 28 ust. 1 pkt 1 lit. a, § 29 ust. 1 pkt 1 lit. a i § 30 rozp. MSWiA z 7.06.2010",
-"quote": "Przepis ust. 1 nie dotyczy obiektów, w których system sygnalizacji pożarowej jest niezbędny do uruchamiania urządzeń przewidzianych do funkcjonowania podczas pożaru.",
-"expl": "Jednokondygnacyjny budynek handlowy ze strefą ZL I 9500 m2 przekracza progi: 5000 m2 (SSP) oraz 8000 m2 (SUG wodne i DSO). Zwolnienie z SSP dla obiektów z SUG nie działa, gdy SSP jest niezbędny do uruchamiania urządzeń działających podczas pożaru – a DSO nadaje komunikaty automatycznie po sygnale z SSP.",
+"basis": "§ 27 ust. 2 pkt 1 lit. a, § 28 ust. 1 pkt 1 lit. a, § 29 ust. 1 pkt 1 lit. a i § 30 ust. 2 rozp. MSWiA z 7.06.2010",
+"quote": "Przepis ust. 1 nie dotyczy obiektów, w których system sygnalizacji pożarowej jest niezbędny do uruchamiania",
+"expl": "Jednokondygnacyjny budynek handlowy ze strefą ZL I powyżej 8000 m2 wymaga stałych samoczynnych urządzeń gaśniczych wodnych, SSP (strefa powyżej 5000 m2) i DSO (strefa ZL I powyżej 8000 m2). Zwolnienie z SSP obiektów ze stałymi urządzeniami gaśniczymi (§ 30 ust. 1) nie działa, gdy SSP jest potrzebny do uruchamiania innych urządzeń (§ 30 ust. 2), a DSO nadaje komunikaty automatycznie po sygnale z SSP. Wyłączenie z § 44 pkt 4 dotyczy tylko budynków istniejących przed wejściem rozporządzenia w życie.",
 "norms": [],
-"verif": "zgodne",
+"verif": "źródła",
 "alt": null
 },
 "171": {
@@ -393,6 +607,20 @@
 "basis": "zał. nr 1 pkt 8 rozp. MI z 17.06.2011 (metro, uchylone); obecnie zał. nr 1 ust. 7 rozp. MI z 16.05.2023",
 "quote": "8. Okładziny, przezroczyste przekrycia, obudowy schodów, ścianki działowe, osłony i przegrody powinny być co najmniej klasy reakcji na ogień B-s1, d0.",
 "expl": "Obudowy schodów (obok okładzin, przezroczystych przekryć, ścianek działowych, osłon i przegród) muszą mieć klasę reakcji na ogień co najmniej B-s1, d0. Klasa A2-s1, d0 jest wymagana dla okładzin sufitów, sufitów podwieszanych i przewodów wentylacyjnych, a same schody i posadzki peronów wykonuje się z materiałów A1fl.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"180": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R2",
+"basis": "§ 19 ust. 1 pkt 2 lit. b tiret pierwsze rozp. MSWiA z 7.06.2010",
+"quote": "obejmująca tylko pierwszą kondygnację nadziemną, a nad nią znajdują się wyłącznie strefy pożarowe ZL IV,",
+"expl": "W budynku średniowysokim strefa ZL III o powierzchni ponad 200 m2 wymaga hydrantów 25. Złagodzenie do progu 1000 m2 dotyczy tylko strefy obejmującej wyłącznie pierwszą kondygnację nadziemną z samymi strefami ZL IV powyżej – tu strefa obejmuje też kondygnację podziemną, więc wyjątek nie działa (c błędne). Hydranty 33 (b) przewidziano dla garaży.",
 "norms": [],
 "verif": "źródła",
 "alt": null
@@ -425,6 +653,36 @@
 "verif": "źródła",
 "alt": null
 },
+"188": {
+"ans": "b",
+"ansNow": "=",
+"conf": "średnia",
+"stan": "nieustalone",
+"stanNote": "Odpowiedź według wycofanej PKN-CEN/TS 54-14:2006 (plik to projekt wydania polskiego); aktualne wydanie PKN-CEN/TS 54-14:2020-09 – zasad dla belek stropowych i promienia działania czujek nie sprawdzono.",
+"topic": "U1",
+"basis": "zał. A, A.6.5.1 f) i tablica A.1 PKN-CEN/TS 54-14:2006",
+"quote": "Stropy z wykształceniami o wysokoś ci mniejszej ni Ŝ  5 % wysokoś ci pomieszczenia powinny być  traktowane",
+"expl": "Belki 0,21 m są niższe niż 5 % wysokości pomieszczenia (0,225 m), więc strop traktuje się jak płaski. Przy promieniu działania czujki dymu 7,5 m siatka 3 × 2 czujek (pola 10 × 10 m, połowa przekątnej 7,07 m) pokrywa salę 30 × 20 m; pięć czujek po jednej na pole 20 × 6 m nie wystarcza (do narożnika pola ok. 10,4 m), a 10 czujek wynikałoby z błędnego traktowania belek jak ścian.",
+"norms": [
+"PKN-CEN/TS 54-14"
+],
+"verif": "źródła",
+"alt": null
+},
+"191": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "H1",
+"basis": "§ 3 ust. 1 pkt 2 rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
+"quote": "2 500 m3 lub o powierzchni przekraczajàcej",
+"expl": "Dla budynku zamieszkania zbiorowego (hotel) poza jednostką osadniczą woda do zewnętrznego gaszenia jest wymagana, gdy kubatura brutto przekracza 2500 m3 lub powierzchnia przekracza 500 m2. Kubatura równa 2500 m3 progu nie „przekracza”, a 450 m2 < 500 m2, więc obowiązku nie ma; 10 i 20 dm3/s (a, b) to ilości z § 5 ust. 1, stosowane dopiero przy istniejącym obowiązku.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "202": {
 "ans": "b",
 "ansNow": "=",
@@ -435,6 +693,50 @@
 "basis": "§ 8 ust. 2 pkt 1 rozp. MRiGŻ z 7.10.1997 ws. budowli rolniczych (uchylone); obecnie § 8 ust. 2 pkt 1 rozp. MRiRW z 13.01.2023 (Dz.U. poz. 297) – ta sama wartość",
 "quote": "Odległość silosów na zboże i pasze o pojemności większej niż 100 ton powinna wynosić co najmniej: 1) 10 m od pomieszczeń przeznaczonych na pobyt ludzi oraz od budynków inwentarskich, jednak nie mniej niż 15 m od otworów okiennych i drzwiowych w tych pomieszczeniach oraz budynkach;",
 "expl": "Dla silosów na zboże i pasze o pojemności ponad 100 ton wymagane jest 10 m od pomieszczeń przeznaczonych na pobyt ludzi, ale nie mniej niż 15 m od otworów okiennych i drzwiowych w tych pomieszczeniach – pytanie dotyczy właśnie otworów, stąd 15 m. 8 m to odległość dla silosów do 100 ton (oraz od innych budynków), a 20 m w tym przepisie nie występuje. Obowiązujące rozporządzenie z 13.01.2023 (§ 8 ust. 2 pkt 1) powtarza tę samą wartość.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"211": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "W4",
+"basis": "§ 267 ust. 8 w zw. z zał. nr 3 pkt 3 rozp. MI z 12.04.2002 (WT); klasy wyrobów liniowych wg PN-EN 13501-1. Rozp. MSWiA z 7.06.2010 (§ 25) nie określa klasy reakcji na ogień izolacji przewodów.",
+"quote": "A2L-s1, d0; A2L-s2, d0; A2L-s3, d0; BL-s1, d0; BL-s2, d0 oraz BL-s3, d0;",
+"expl": "Izolacje cieplne w instalacji wodociągowej (w tym przeciwpożarowej) mają nie rozprzestrzeniać ognia (§ 267 ust. 8 WT), a zał. nr 3 pkt 3 WT przypisuje tej cesze izolacjom przewodów klasy wyrobów liniowych z indeksem „L”: A1L, A2L-s1…s3, d0 oraz BL-s1…s3, d0 — stąd BL-s3, d0. Oznaczenie „BDL” w klasyfikacji PN-EN 13501-1 nie istnieje, a indeks „FL” (CFL-s3, d0) dotyczy posadzek, przy czym klasa C nie spełniałaby i tak wymogu nierozprzestrzeniania ognia.",
+"norms": [
+"PN-EN 13501-1"
+],
+"verif": "źródła",
+"alt": null
+},
+"212": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R2",
+"basis": "§ 28 ust. 1 pkt 3 rozp. MSWiA z 7.06.2010",
+"quote": "3)   kinach o liczbie miejsc powyżej 600;",
+"expl": "SSP jest wymagany w kinach o liczbie miejsc powyżej 600, więc spośród podanych wartości tylko 700 przekracza próg. Próg 300 miejsc (a) dotyczy teatrów, a 500 miejsc (b) nie jest progiem w § 28.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"221": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R2",
+"basis": "§ 19 ust. 3 pkt 3 i ust. 4 rozp. MSWiA z 7.06.2010",
+"quote": "3)    przy wejściu do pomieszczeń magazynowych lub technicznych o powierzchni przekraczającej 200 m2 i gęstości",
+"expl": "Przy wejściu do pomieszczenia magazynowego o powierzchni ponad 200 m2 i gęstości obciążenia ogniowego ponad 500 MJ/m2, położonego w strefie ZL w budynku niskim lub średniowysokim, wymagany jest hydrant 52. Hydrant 33 wolno zastosować zamiast 52 tylko przy gęstości nieprzekraczającej 1000 MJ/m2 (ust. 4), a tu jest ona większa – więc b odpada; hydrant 25 (c) służy ochronie samej strefy ZL.",
 "norms": [],
 "verif": "źródła",
 "alt": null
@@ -607,6 +909,36 @@
 "verif": "źródła",
 "alt": null
 },
+"256": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R1",
+"basis": "§ 2 ust. 1 pkt 1 lit. b rozp. MSWiA z 7.06.2010",
+"quote": "b) ciecze palne o temperaturze zapłonu poniżej 328,15 K (55ºC),",
+"expl": "Materiałem niebezpiecznym pożarowo jest ciecz palna o temperaturze zapłonu poniżej 328,15 K (55 °C). 268,75 K to ok. −4,4 °C, a 308,15 K to 35 °C – obie ciecze są niebezpieczne; 384,15 K to 111 °C, czyli powyżej progu, więc taka ciecz nie jest materiałem niebezpiecznym pożarowo.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"257": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "nieustalone",
+"stanNote": "Pytanie powołuje wycofane wydanie PN-EN 12101-6:2007 (EN 12101-6:2005); obecnie obowiązują PN-EN 12101-6:2022-09 i PN-EN 12101-13:2022-09 (projektowanie SRC) – treści aktualnych wydań w zakresie wyposażenia rezerwowego nie sprawdzono.",
+"topic": "U6",
+"basis": "pkt 11.7.2.3 PN-EN 12101-6:2007 (EN 12101-6:2005)",
+"quote": "budynku (np. dwie klatki schodowe, na które moŜna wejść z kaŜdej kondygnacji), nie jest wymagane",
+"expl": "Wg pkt 11.7.2.3 normy kompletny duplikat wentylatora z silnikiem jest wymagany, gdy system różnicowania ciśnień chroni jedyną drogę ewakuacyjną. Jeżeli z każdego miejsca są dwie niezależne drogi ewakuacyjne (dwie klatki dostępne z każdej kondygnacji), wyposażenie rezerwowe nie jest wymagane – wysokość budynku (165 m) tej reguły normy nie zmienia, więc b i c są błędne.",
+"norms": [
+"PN-EN 12101-6"
+],
+"verif": "źródła",
+"alt": null
+},
 "259": {
 "ans": "c",
 "ansNow": "=",
@@ -667,6 +999,48 @@
 "verif": "zgodne",
 "alt": null
 },
+"274": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "WT z 2002 r. wygasły 21.09.2026 bez następcy; ich ostatnie brzmienie przyjęto jako przepisy odniesienia, odpowiedź bez zmian.",
+"topic": "R2",
+"basis": "§ 28 ust. 1 pkt 2 i § 29 ust. 1 pkt 3 rozp. MSWiA z 7.06.2010; § 233 ust. 1 pkt 1 WT",
+"quote": "teatrach o liczbie miejsc powyżej 300;",
+"expl": "SSP jest wymagany w teatrach o liczbie miejsc powyżej 300 (§ 28 ust. 1 pkt 2), a DSO dopiero w kinach i teatrach powyżej 600 miejsc (§ 29 ust. 1 pkt 3). Kurtyna przeciwpożarowa (§ 233 ust. 1 pkt 1 WT) jest wymagana dopiero przy widowni powyżej 600 miejsc i scenie ponad 150 m² lub ponad 1200 m³ — przy 500 miejscach nie jest wymagana, mimo że scena przekracza 1200 m³.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"275": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "Rozporządzenie MG z 26.04.2013 utraciło moc 21.09.2026 bez następcy; ostatnie brzmienie traktowane jako przepis odniesienia.",
+"topic": "S1",
+"basis": "§ 99 ust. 2 pkt 4 lit. c rozp. MG z 26.04.2013 w sprawie sieci gazowych",
+"quote": "system sygnalizacji pożarowej obejmujący ochroną wszystkie budynki na terenie tłoczni, połączony z komendą",
+"expl": "Układ sterowania tłocznią gazu ma posiadać SSP obejmujący ochroną wszystkie budynki na terenie tłoczni i połączony z komendą PSP lub obiektem wskazanym przez komendanta powiatowego (§ 99 ust. 2 pkt 4 lit. c). Odpowiedź a myli ten wymóg z SSP w pomieszczeniach sprężarek (§ 93 ust. 2), a odpowiedź b pomija obowiązkowe połączenie z PSP.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"276": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R2",
+"basis": "§ 25 ust. 5 rozp. MSWiA z 7.06.2010",
+"quote": "umożliwiających jej nawadnianie w sposób ręczny i/lub automatyczny",
+"expl": "W nieogrzewanych budynkach przewody instalacji wodociągowej przeciwpożarowej zabezpiecza się przed zamarznięciem i można stosować instalację suchą, jeśli zapewniono jej nawadnianie w sposób ręczny i/lub automatyczny (§ 25 ust. 5). Przepis nie wymaga wyłącznie automatyki (b) ani obu sposobów jednocześnie (c).",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "278": {
 "ans": "b",
 "ansNow": "=",
@@ -677,6 +1051,20 @@
 "basis": "§ 41 rozp. MRiGŻ z 7.10.1997 (t.j. Dz. U. z 2014 r. poz. 81); dziś: § 42 rozp. MRiRW z 13.01.2023 (Dz. U. poz. 297)",
 "quote": "Odległości stanowisk postojowych dla pojazdów samochodowych i samojezdnych maszyn rolniczych od instalacji służących do otrzymywania biogazu rolniczego powinny wynosić co najmniej 10 m.",
 "expl": "Stanowiska postojowe dla pojazdów samochodowych i samojezdnych maszyn rolniczych muszą być oddalone od instalacji służących do otrzymywania biogazu rolniczego o co najmniej 10 m. Wartości 8 m i 15 m pochodzą z innych przepisów tego rozporządzenia (np. 8 m – silosy od budynków i strefa bezpieczeństwa, 15 m – odległości od składu węgla czy silosów).",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"280": {
+"ans": "b",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "H2",
+"basis": "§ 12 ust. 1 pkt 3 i § 13 ust. 2 rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
+"quote": "jezdni co najmniej 100 kN (kiloniutonów)",
+"expl": "Budynek ze strefą PM o gęstości 700 MJ/m2 (> 500) i powierzchni 1400 m2 (> 1000) wymaga drogi pożarowej (§ 12 ust. 1 pkt 3). Na działce z obiektem z § 12 ust. 1 pkt 3 i 4 droga musi przenosić nacisk osi co najmniej 100 kN bez względu na to, czy działka leży w mieście (§ 13 ust. 2); 50 kN dotyczy tylko pozostałych terenów poza miastem (§ 13 ust. 3).",
 "norms": [],
 "verif": "źródła",
 "alt": null
@@ -761,6 +1149,34 @@
 "basis": "§ 43 ust. 1 pkt 2 rozp. MRiGŻ z 7.10.1997 (t.j. Dz. U. z 2014 r. poz. 81); dziś: § 44 ust. 1 i ust. 2 pkt 2 rozp. MRiRW z 13.01.2023 (Dz. U. poz. 297)",
 "quote": "1) do 350 m3 – strefa bezpieczeństwa wynosi co najmniej 3 m; 2) ponad 350 m3 do 700 m3 – strefa bezpieczeństwa wynosi co najmniej 5 m; 3) ponad 700 m3 – strefa bezpieczeństwa wynosi co najmniej 8 m.",
 "expl": "Strefa bezpieczeństwa zależy od łącznej pojemności komór fermentacyjnych i zbiorników biogazu: do 350 m3 – 3 m, ponad 350 do 700 m3 – 5 m, ponad 700 m3 – 8 m. Instalacja o pojemności 500 m3 mieści się w środkowym przedziale, więc strefa wynosi co najmniej 5 m.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"304": {
+"ans": "c",
+"ansNow": "=",
+"conf": "średnia",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R2",
+"basis": "§ 19 ust. 3 pkt 1 i ust. 4, § 22 ust. 1 pkt 2, § 23 pkt 2 rozp. MSWiA z 7.06.2010",
+"quote": "dwóch sąsiednich hydrantów wewnętrznych lub dwóch sąsiednich zaworów 52",
+"expl": "Strefa PM o Q > 500 MJ/m2 i powierzchni > 200 m2 wymaga hydrantów 52, ale przy Q ≤ 1000 MJ/m2 dopuszcza się hydranty 33 (§ 19 ust. 3 pkt 1 i ust. 4). Strefa 3000 m2 nie przekracza 3000 m2, więc wystarcza jednoczesny pobór z dwóch sąsiednich hydrantów (§ 23 pkt 2), a nie z czterech (§ 23 pkt 3 lit. b); minimum to 2 × 1,5 dm3/s (hydrant 33, § 22 ust. 1) = 3 dm3/s, a 5 i 10 dm3/s odpowiadają dwóm lub czterem hydrantom 52.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"307": {
+"ans": "c",
+"ansNow": "=",
+"conf": "średnia",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R2",
+"basis": "§ 24 ust. 2, ust. 3 pkt 1 i pkt 3 lit. a oraz ust. 5 rozp. MSWiA z 7.06.2010",
+"quote": "do 50 m3 w przypadku zapewnienia zasilania tych zbiorników w wodę z zewnętrznej sieci",
+"expl": "Podstawowy zapas dla budynków W i WW to 100 m3 (§ 24 ust. 2); zmniejszenie do 50 m3, a dalej do 6 m3, przysługuje tylko budynkom do 100 m zawierającym powyżej 12 m wyłącznie ZL IV albo bez stref > 750 m2 (ust. 3 pkt 1), czego budynek użyteczności publicznej z kondygnacjami do 2000 m2 nie spełnia. Pozostaje ust. 3 pkt 3 lit. a: przy zasilaniu zbiornika z sieci ≥ 10 dm3/s – 50 m3 (25 m3 wymaga sieci ≥ 15 dm3/s, 6 m3 – spełnienia ust. 3 pkt 1); warunkiem jest też nasada 75 mm na elewacji (ust. 5).",
 "norms": [],
 "verif": "źródła",
 "alt": null
@@ -917,6 +1333,20 @@
 "verif": "zgodne",
 "alt": null
 },
+"342": {
+"ans": "c",
+"ansNow": "=",
+"conf": "średnia",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R2",
+"basis": "§ 18 ust. 1 i § 19 ust. 3–4 rozp. MSWiA z 7.06.2010",
+"quote": "W budynkach stosuje się następujące rodzaje punktów poboru wody do celów przeciwpożarowych:",
+"expl": "Przepisy rozdziału 5 o instalacji wodociągowej przeciwpożarowej dotyczą budynków – § 18 ust. 1 stanowi, że punkty poboru wody (hydranty 25, 33, 52, zawory 52) stosuje się „w budynkach”, więc obiekt budowlany niebędący budynkiem nie musi mieć hydrantów wewnętrznych. Odpowiedź b odwołuje się do § 19 ust. 4 (hydranty 33 zamiast 52 przy Q ≤ 1000 MJ/m2), który dotyczy stref w budynkach; poza tym Q „nieprzekraczające 1000 MJ/m2” nie przesądza nawet o przekroczeniu progu 500 MJ/m2.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "344": {
 "ans": "b",
 "ansNow": "=",
@@ -931,6 +1361,20 @@
 "PN-EN 12845"
 ],
 "verif": "zgodne",
+"alt": null
+},
+"347": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R2",
+"basis": "§ 22 ust. 1 pkt 3 rozp. MSWiA z 7.06.2010",
+"quote": "dla hydrantu 52 ‒ 2,5 dm3/s",
+"expl": "Minimalna wydajność hydrantu 52 mierzona na wylocie prądownicy wynosi 2,5 dm3/s (§ 22 ust. 1 pkt 3), czyli 2,5 × 60 = 150 dm3/min. Odpowiedź a podaje właściwą liczbę w złej jednostce (dm3/min zamiast dm3/s), a 120 dm3/min to tylko 2,0 dm3/s.",
+"norms": [],
+"verif": "źródła",
 "alt": null
 },
 "353": {
@@ -963,6 +1407,36 @@
 "PN-EN 12845"
 ],
 "verif": "zgodne",
+"alt": null
+},
+"359": {
+"ans": "b",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R2",
+"basis": "PN-EN 671-1:2012 pkt 4.2.3",
+"quote": "b) prąd rozproszony płaski 6 m;",
+"expl": "Wg pkt 4.2.3 PN-EN 671-1:2012 przy ciśnieniu 0,2 MPa efektywny zasięg rzutu wynosi co najmniej 10 m dla prądu zwartego, 6 m dla prądu rozproszonego płaskiego i 3 m dla prądu rozproszonego stożkowego. 10 m i 3 m to wartości dla pozostałych rodzajów prądu (te same liczby przyjmuje § 20 ust. 3 rozporządzenia przy ustalaniu zasięgu hydrantów).",
+"norms": [
+"PN-EN 671-1"
+],
+"verif": "źródła",
+"alt": null
+},
+"368": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R1",
+"basis": "§ 2 ust. 1 pkt 1 lit. b rozp. MSWiA z 7.06.2010",
+"quote": "ciecze palne o temperaturze zapłonu poniżej 328,15 K (55ºC)",
+"expl": "Materiałem niebezpiecznym pożarowo jest ciecz palna o temperaturze zapłonu poniżej 328,15 K (55°C). Zarówno 327 K, jak i 328 K są niższe od 328,15 K, więc obie ciecze są materiałami niebezpiecznymi pożarowo – pułapką jest zaokrąglenie progu do 328 K.",
+"norms": [],
+"verif": "źródła",
 "alt": null
 },
 "370": {
@@ -1055,6 +1529,48 @@
 "verif": "zgodne",
 "alt": null
 },
+"384": {
+"ans": "b",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "WT z 2002 r. utraciły moc 21.09.2026 (brak nowego rozporządzenia); ostatnie brzmienie traktowane jako przepis odniesienia – odpowiedź bez zmian.",
+"topic": "W5",
+"basis": "§ 277 ust. 4 WT z 2002 r.",
+"quote": "mocą systemu wykrywania dymu, w przypadku gdy ta strefa nie posiada bezpośredniego wjazdu lub wyjazdu z budynku",
+"expl": "Wentylację oddymiającą uruchamianą systemem wykrywania dymu stosuje się w strefie pożarowej garażu zamkniętego, która nie ma bezpośredniego wjazdu lub wyjazdu z budynku albo ma powierzchnię ponad 1500 m2 (§ 277 ust. 4 WT). Każda strefa ma 1250 m2, więc decyduje tylko kryterium wyjazdu – oddymianie jest wymagane wyłącznie w strefie bez bezpośredniego wyjazdu; wymóg ocenia się dla strefy, a nie dla całego garażu 2500 m2.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"385": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R2",
+"basis": "§ 19 ust. 3 pkt 2 i ust. 4 oraz § 20 ust. 3 rozp. MSWiA z 7.06.2010",
+"quote": "w strefie pożarowej produkcyjnej i magazynowej o gęstości obciążenia ogniowego nieprzekraczającej 500 MJ/m2,",
+"expl": "Hydranty 52 stosuje się w strefie PM o Q ≤ 500 MJ/m2, w której jest pomieszczenie o powierzchni > 100 m2 i Q > 1000 MJ/m2 (§ 19 ust. 3 pkt 2) – obowiązek dotyczy strefy pożarowej, a zasięg hydrantów ma objąć jej całą powierzchnię (§ 20 ust. 3). Ochrona „tylko przy pomieszczeniu” to konstrukcja z pkt 3 (wejścia do pomieszczeń w strefach ZL), a dopuszczenie hydrantów 33 z ust. 4 nie obejmuje pkt 2.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"387": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "H2",
+"basis": "§ 12 ust. 1 pkt 1 i pkt 5 lit. b rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
+"quote": "go ponad 50 miejsc noclegowych;",
+"expl": "Do budynku niskiego ze strefą ZL V droga pożarowa jest wymagana dopiero wtedy, gdy ma on ponad 50 miejsc noclegowych (§ 12 ust. 1 pkt 5 lit. b), a motel z 20 pokojami dwuosobowymi ma 40 miejsc. Odległość drogi 5–15 m od ściany (ust. 2) i dojście do 30 m (ust. 7) dotyczą budynków, do których droga jest wymagana.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "388": {
 "ans": "b",
 "ansNow": "=",
@@ -1081,6 +1597,34 @@
 "basis": "§ 181 ust. 3 pkt 1 lit. a, b i e WT (rozp. MI z 12.04.2002)",
 "quote": "a) widowni kin, teatrów i filharmonii oraz innych sal widowiskowych, b) audytoriów, sal konferencyjnych, czytelni, lokali rozrywkowych oraz sal sportowych, przeznaczonych dla ponad 200 osób, (...) e) o powierzchni netto ponad 2000 m2 w budynkach użyteczności publicznej",
 "expl": "Dla widowni kin, teatrów, filharmonii i innych sal widowiskowych awaryjne oświetlenie ewakuacyjne jest wymagane bez względu na liczbę osób, więc sala widowiskowa na 40 osób je wymaga. Lokal rozrywkowy podlega obowiązkowi dopiero przy przeznaczeniu dla ponad 200 osób (150 to za mało), a pomieszczenie w budynku użyteczności publicznej – przy powierzchni netto ponad 2000 m2 (1200 m2 to za mało).",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"390": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R2",
+"basis": "§ 28 ust. 1 pkt 4, 11 i 12 oraz ust. 2 rozp. MSWiA z 7.06.2010",
+"quote": "2. Wymagania, o których mowa w ust. 1 pkt 4 i 11, nie dotyczą budynków, które są zlokalizowane na terenach za-",
+"expl": "Wymagania SSP dla budynków gastronomicznych ponad 300 miejsc (§ 28 ust. 1 pkt 4) i zamieszkania zbiorowego z pobytem ponad 3 doby ponad 200 miejsc (pkt 11) nie dotyczą budynków na terenach zamkniętych służących obronności (§ 28 ust. 2). Dodatkowo 150 miejsc nie przekracza progu 200 z pkt 11, a budynek z pobytem ponad 3 doby nie mieści się w pkt 12 (budynki niewymienione w pkt 11).",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"397": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "H1",
+"basis": "§ 3 ust. 1 pkt 2 i 4 rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
+"quote": "obiekty budowlane gospodarki rolnej o po",
+"expl": "Wodę do zewnętrznego gaszenia zapewnia się dla obiektów budowlanych gospodarki rolnej o powierzchni strefy pożarowej ponad 1000 m2, bez względu na położenie (§ 3 ust. 1 pkt 4). Budynek użyteczności publicznej poza jednostką osadniczą wymaga jej dopiero przy kubaturze brutto ponad 2500 m3 lub powierzchni ponad 500 m2 (pkt 2), a stacje paliw ze zbiornikami o łącznej pojemności do 200 m3 są z tego obowiązku wyłączone.",
 "norms": [],
 "verif": "źródła",
 "alt": null
@@ -1113,6 +1657,20 @@
 "verif": "źródła",
 "alt": null
 },
+"411": {
+"ans": "b",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "WT z 2002 r. wygasły 21.09.2026 bez następcy; ich ostatnie brzmienie przyjęto jako przepisy odniesienia, odpowiedź bez zmian.",
+"topic": "X1",
+"basis": "§ 221 ust. 1 i 2 WT (rozp. MI z 12.04.2002)",
+"quote": "chowych), jak przepony, klapy oraz otwory oszklone szkłem zwykłym, jest większa niż 0,065 m2/m3 kubatury pomieszcze-",
+"expl": "Kubatura pomieszczenia to 150 m² × 4 m = 600 m³, a z lekkiego dachu zwalnia łączna powierzchnia urządzeń odciążających WIĘKSZA niż 0,065 m²/m³, czyli ponad 39,0 m². Dokładnie 39,0 m² progu nie przekracza (odpowiedzi a i c), a 39,5 m² — przekracza; parcie 15 kN/m² z § 221 ust. 3 dotyczy odporności ścian oddzielających, nie warunku zwolnienia.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "415": {
 "ans": "a",
 "ansNow": "=",
@@ -1129,19 +1687,47 @@
 "verif": "zgodne",
 "alt": null
 },
+"416": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R2",
+"basis": "§ 19 ust. 2 pkt 2 i ust. 5 rozp. MSWiA z 7.06.2010",
+"quote": "nie dotyczą wolno stojących garaży na terenach zamkniętych podległych",
+"expl": "Garaż wielokondygnacyjny musi mieć hydranty 33 (§ 19 ust. 2 pkt 2). Wyłączenie z § 19 ust. 5 obejmuje tylko wolno stojące garaże na terenach zamkniętych podległych Ministrowi Obrony Narodowej, a nie MSWiA; hydranty 52 dotyczą stref PM o Q > 500 MJ/m2, nie garaży.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "420": {
 "ans": "b",
 "ansNow": "=",
-"conf": "niska",
+"conf": "średnia",
 "stan": "aktualne",
-"stanNote": "Rozp. MSWiA z 17.09.2021 uchylone (9.08.2023); obowiązuje rozp. MSWiA z 5.08.2023 (Dz. U. poz. 1563), którego § 5 pkt 3 ma identyczną treść – odpowiedź bez zmian.",
+"stanNote": "Rozp. z 17.09.2021 uchylono 9.08.2023; następca – rozp. MSWiA z 5.08.2023 (§ 5 pkt 3) – zawiera identyczny wymóg scenariusza pożarowego, odpowiedź bez zmian.",
 "topic": "P2",
-"basis": "§ 5 ust. 1 pkt 3 rozp. MSWiA z 17.09.2021 (dziś: § 5 pkt 3 rozp. MSWiA z 5.08.2023) w zw. z § 245 pkt 1 i § 277 ust. 4 WT oraz § 28 ust. 1 pkt 17 i ust. 2 rozp. MSWiA z 7.06.2010",
-"quote": "opracowaniu scenariusza pożarowego dla obiektu budowlanego lub jego części stanowiącej odrębną strefę pożarową, w których przewidziano stosowanie systemu sygnalizacji pożarowej, stałych urządzeń gaśniczych, urządzeń oddymiających lub urządzeń zapobiegających zadymieniu.",
-"expl": "Scenariusz pożarowy opracowuje się tylko tam, gdzie przewidziano SSP, stałe urządzenia gaśnicze, urządzenia oddymiające lub zapobiegające zadymieniu. Garaż otwarty jednokondygnacyjny ze strefami 1500 m2 nie wymaga SSP (próg: strefa „przekracza 1500 m2” lub więcej niż jedna kondygnacja podziemna) ani wentylacji oddymiającej (§ 277 ust. 4 WT dotyczy tylko garażu zamkniętego, nawet gdy wyjazd prowadzi przez sąsiednią strefę). Przedszkole (ZL II w budynku niskim) musi mieć klatkę schodową z oddymianiem lub zapobieganiem zadymieniu (§ 245 pkt 1 WT), a garaż o dwóch kondygnacjach podziemnych wymaga SSP – zwolnienie dla terenów zamkniętych (§ 28 ust. 2) obejmuje tylko pkt 4 i 11, nie garaże.",
+"basis": "§ 5 ust. 1 pkt 3 rozp. MSWiA z 17.09.2021 (obecnie § 5 pkt 3 rozp. MSWiA z 5.08.2023); § 28 ust. 1 pkt 17 i ust. 2 rozp. MSWiA z 7.06.2010; § 245 pkt 1 i § 277 ust. 4 WT",
+"quote": "w których przewidziano stosowanie systemu sygnalizacji pożarowej, stałych urządzeń gaśniczych",
+"expl": "Scenariusz pożarowy opracowuje się dla obiektu lub strefy, w których przewidziano SSP, stałe urządzenia gaśnicze, urządzenia oddymiające lub zapobiegające zadymieniu. Jednokondygnacyjny garaż otwarty ze strefami po 1500 m2 nie wymaga SSP (§ 28 ust. 1 pkt 17: strefa ponad 1500 m2 lub więcej niż jedna kondygnacja podziemna) ani oddymiania (§ 277 ust. 4 WT dotyczy garaży zamkniętych), więc scenariusz nie jest potrzebny. Przedszkole (ZL II w budynku niskim) ma klatki schodowe z urządzeniami zapobiegającymi zadymieniu (§ 245 pkt 1 WT), a dwukondygnacyjny garaż podziemny wymaga SSP także na terenie zamkniętym (§ 28 ust. 2 wyłącza tylko pkt 4 i 11).",
 "norms": [],
-"verif": "sporne",
-"alt": "c"
+"verif": "źródła",
+"alt": null
+},
+"421": {
+"ans": "c",
+"ansNow": "=",
+"conf": "średnia",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R2",
+"basis": "§ 19 ust. 3 pkt 1, ust. 4 i ust. 6 rozp. MSWiA z 7.06.2010; § 181 ust. 3 pkt 1 lit. e i pkt 2 lit. a WT",
+"quote": "Zawory 52 muszą być stosowane w budynkach wysokich i wysokościowych o więcej niż jednej kondygnacji",
+"expl": "Strefa PM o Q = 1000 MJ/m2 wymaga hydrantów 52 (§ 19 ust. 3 pkt 1; ust. 4 dopuszcza alternatywnie hydranty 33), natomiast zawory 52 są obowiązkowe tylko w budynkach W i WW o więcej niż jednej kondygnacji nadziemnej (§ 19 ust. 6, od 17.08.2022), a SUG wodnych rozporządzenie dla stref PM nie wymaga. Pomieszczenie magazynowe o powierzchni netto 3000 m2 (> 2000 m2) w budynku magazynowym wymaga awaryjnego oświetlenia ewakuacyjnego, także na drogach ewakuacyjnych z niego (§ 181 ust. 3 pkt 1 lit. e i pkt 2 lit. a WT).",
+"norms": [],
+"verif": "źródła",
+"alt": null
 },
 "425": {
 "ans": "c",
@@ -1221,6 +1807,20 @@
 "verif": "zgodne",
 "alt": null
 },
+"448": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "P2",
+"basis": "§ 7 ust. 1 i § 9 ust. 3 rozp. MSWiA z 5.08.2023 w sprawie uzgadniania projektu… pod względem zgodności z wymaganiami ochrony przeciwpożarowej",
+"quote": "kwalifikowanym podpisem elektronicznym rzeczoznawcy opatruje się plik komputerowy z tym projektem",
+"expl": "Projekt w postaci elektronicznej rzeczoznawca opatruje kwalifikowanym podpisem elektronicznym i sporządza kartę uzgodnienia w pliku PDF opatrzoną tym podpisem, stanowiącą załącznik do projektu (§ 7 ust. 1). Podpis zaufany lub osobisty dopuszcza się tylko dla pliku z zawiadomieniem o uzgodnieniu kierowanym do komendanta wojewódzkiego PSP (§ 9 ust. 3), a nie dla samego uzgodnienia projektu.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "453": {
 "ans": "c",
 "ansNow": "=",
@@ -1231,6 +1831,20 @@
 "basis": "zał. nr 1 ust. 10 rozp. MI z 16.05.2023 w sprawie warunków technicznych, jakim powinny odpowiadać obiekty budowlane metra i ich usytuowanie (Dz.U. poz. 1210, w mocy od 28.12.2023)",
 "quote": "10. Kable i przewody elektryczne oraz światłowodowe zainstalowane wewnątrz tunelu lub stacji metra mają klasę reakcji na ogień co najmniej B2ca-s1, d0, a1, przy czym osłony tych kabli i przewodów – klasę reakcji na ogień co najmniej B-s1, d0.",
 "expl": "Wg obowiązującego rozporządzenia z 2023 r. kable i przewody elektryczne oraz światłowodowe w tunelu lub na stacji metra muszą mieć klasę reakcji na ogień co najmniej B2ca-s1, d0, a1. Opcja a nawiązuje do uchylonego rozporządzenia z 2011 r. (klasa B-s3, d0 i kwasowość produktów rozkładu poniżej pH 4,3), a klasa B1ca z opcji b jest wyższa niż wymagane minimum. Osłony kabli: co najmniej B-s1, d0.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"457": {
+"ans": "b",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "H2",
+"basis": "§ 12 ust. 1 pkt 1–4 i 7 rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
+"quote": "ogniowego poni˝ej 500 MJ/m2 o powierzchni",
+"expl": "Drogę pożarową doprowadza się m.in. do każdego budynku ze strefą ZL II, np. domu dla osób starszych (§ 12 ust. 1 pkt 1), oraz do stanowiska czerpania wody (pkt 7). Strefa PM wymaga drogi tylko przy Q > 500 MJ/m² z powierzchnią > 1000 m² lub pomieszczeniem zagrożonym wybuchem (pkt 3) albo przy Q ≤ 500 MJ/m² i powierzchni > 20 000 m² (pkt 4), a sama wysokość SW obliguje tylko przy strefach ZL III–V (pkt 2) — dlatego dla budynku z odpowiedzi b droga nie jest wymagana.",
 "norms": [],
 "verif": "źródła",
 "alt": null
@@ -1251,6 +1865,34 @@
 "verif": "zgodne",
 "alt": null
 },
+"461": {
+"ans": "b",
+"ansNow": "=",
+"conf": "niska",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R2",
+"basis": "§ 28 ust. 1 (definicja SSP) i ust. 1 pkt 8, 11, 12 oraz § 31 rozp. MSWiA z 7.06.2010; art. 5 ustawy o ochronie przeciwpożarowej; § 3 pkt 6 i § 209 ust. 2 pkt 2 WT 2002 (DPS = użyteczność publiczna, ZL II)",
+"quote": "domach pomocy społecznej i ośrodkach rehabilitacji dla osób niepełnosprawnych o liczbie łóżek powyżej 100",
+"expl": "Komisja oczekuje odpowiedzi b: to dosłowna definicja systemu sygnalizacji pożarowej (SSP) z § 28 ust. 1. Odpowiedź c jest błędna, bo obowiązkowy SSP trzeba połączyć z PSP albo z obiektem wskazanym przez komendanta (art. 5 ustawy, § 31). Odpowiedź a też jest błędna: przepisy nie przewidują „systemu alarmu” z czujek autonomicznych, a § 28a (od 23.12.2024) dotyczy lokali mieszkalnych i pokoi hotelowych, nie DPS. Wątpliwość: § 28 ust. 1 pkt 8 wymaga SSP w DPS dopiero przy ponad 100 łóżkach w budynku, więc przy 80 miejscach obowiązek nie wynika wprost z rozporządzenia. Nie pomaga też próg 50 miejsc z pkt 12: DPS to budynek opieki społecznej, czyli użyteczności publicznej (ZL II), a nawet przy zaliczeniu go do zamieszkania zbiorowego pobyt trwa ponad 3 doby, więc zastosowanie ma pkt 11 z progiem 200. Klucz b wynika z konstrukcji pytania (wszystkie opcje zakładają jakiś system), a nie z wprost brzmiącego przepisu.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"462": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "Rozporządzenie MG z 26.04.2013 utraciło moc 21.09.2026 bez następcy; ostatnie brzmienie traktowane jako przepis odniesienia.",
+"topic": "S1",
+"basis": "§ 93 ust. 1 i 2 rozp. MG z 26.04.2013 w sprawie sieci gazowych",
+"quote": "Pomieszczenia, w których znajdują się sprężarki gazu ziemnego, należy wyposażyć w stałe urządzenia gaśnicze,",
+"expl": "Pomieszczenia ze sprężarkami gazu ziemnego wyposaża się w stałe urządzenia gaśnicze poprzedzone sygnałem akustycznym i optycznym (§ 93 ust. 1) oraz w SSP sprzężony m.in. z automatycznym uruchamianiem tych urządzeń i zatrzymaniem sprężarek (§ 93 ust. 2). Wymagane są oba urządzenia, więc odpowiedzi a i b są niepełne.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "467": {
 "ans": "c",
 "ansNow": "=",
@@ -1268,6 +1910,20 @@
 "verif": "sporne",
 "alt": "b"
 },
+"476": {
+"ans": "c",
+"ansNow": "=",
+"conf": "średnia",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R2",
+"basis": "§ 28 ust. 1 pkt 3 i § 29 ust. 1 pkt 3 rozp. MSWiA z 7.06.2010; § 181 ust. 3 pkt 1 lit. a WT",
+"quote": "kinach i teatrach o liczbie miejsc powyżej 600",
+"expl": "Liczbę miejsc liczy się dla całego kina: 5 × 150 = 750 > 600, więc wymagane są SSP (§ 28 ust. 1 pkt 3) i DSO (§ 29 ust. 1 pkt 3), niezależnie od podziału sal na odrębne strefy pożarowe. Widownie kin wymagają awaryjnego oświetlenia ewakuacyjnego bez progu liczby miejsc (§ 181 ust. 3 pkt 1 lit. a WT), więc odpowiedzi a i b są niepełne.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "485": {
 "ans": "b",
 "ansNow": "=",
@@ -1278,6 +1934,48 @@
 "basis": "§ 267 ust. 1b pkt 2 WT (dodany nowelizacją z 31.01.2022, Dz.U. poz. 248); budynek mieszkalny 10-kondygnacyjny = wysoki (§ 8 pkt 3)",
 "quote": "dopuszcza się stosowanie przewodów wentylacyjnych o klasie reakcji na ogień co najmniej E pod warunkiem zainstalowania w miejscu przejścia przewodów wentylacyjnych przez przegrody wydzielające lokal mieszkalny lub lokal użytkowy: (…) 2) w budynkach wysokich (W) i wysokościowych (WW) – przeciwpożarowej klapy odcinającej o klasie odporności ogniowej co najmniej E I S 60.",
 "expl": "Budynek mieszkalny o 10 kondygnacjach nadziemnych jest budynkiem wysokim (ponad 9 do 18 kondygnacji). Dla budynków wysokich i wysokościowych § 267 ust. 1b pkt 2 wymaga w miejscu przejścia przewodów przez przegrody wydzielające lokal przeciwpożarowej klapy odcinającej co najmniej EIS 60. Zabezpieczenie ogniochronne (EI 30, a nie EI 60) wystarcza tylko w budynkach niskich i średniowysokich – dlatego a) jest błędna.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"495": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R2",
+"basis": "§ 19 ust. 1 pkt 1 i 2 oraz ust. 3 rozp. MSWiA z 7.06.2010",
+"quote": "na każdej kondygnacji budynku innego niż tymczasowy, niskiego i średniowysokiego:",
+"expl": "Hydranty 25 w strefach ZL budynków niskich i średniowysokich wymaga się tylko w budynkach „innych niż tymczasowe” (§ 19 ust. 1 pkt 2), a pkt 1 dotyczy wyłącznie budynków W i WW – tymczasowy budynek SW jest więc zwolniony. Hydranty 52 są przewidziane dla stref PM (§ 19 ust. 3), a strefa z 60 osobami niebędącymi stałymi użytkownikami to ZL I.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"500": {
+"ans": "c",
+"ansNow": "=",
+"conf": "średnia",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R2",
+"basis": "§ 24 ust. 2, ust. 3 pkt 1 i pkt 3 lit. a–b oraz ust. 5 rozp. MSWiA z 7.06.2010",
+"quote": "Warunkiem zastosowania dopuszczeń, o których mowa w ust. 3 pkt 3 i ust. 4, jest wyprowadzenie w elewacjach",
+"expl": "Biurowiec W (ZL III) ze strefami 1500 m2 > 750 m2 nie korzysta z § 24 ust. 3 pkt 1, więc zapas podstawowy wynosi 100 m3; zbiornik 30 m3 mieści się w zmniejszeniu do 25 m3 przy zasilaniu z sieci ≥ 15 dm3/s (ust. 3 pkt 3 lit. b), a przy 10 dm3/s minimum to 50 m3. Warunkiem każdego zmniejszenia z ust. 3 pkt 3 jest jednak nasada 75 mm na elewacji od strony drogi pożarowej (ust. 5), której odpowiedź b nie wymienia – dlatego zamierzona jest odpowiedź c.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"505": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "H1",
+"basis": "§ 10 ust. 9 pkt 1, 2 i 5 rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
+"quote": "czerpania wody o wymiarach zapewniaj",
+"expl": "Przy hydrancie do intensywnego czerpania wody (sieć ≥ DN 250) przewiduje się stanowisko czerpania wody o wymiarach zapewniających swobodny dostęp do hydrantu (§ 10 ust. 9 pkt 5). Średnica hydrantu ma wynosić DN 100 lub DN 150 (DN 125 to minimalna średnica przewodu sieci rozgałęzieniowej z § 9 ust. 7), a wydajność przy 0,2 MPa co najmniej 20 dm3/s, nie 15 dm3/s.",
 "norms": [],
 "verif": "źródła",
 "alt": null
@@ -1613,15 +2311,15 @@
 "536": {
 "ans": "c",
 "ansNow": "=",
-"conf": "średnia",
+"conf": "wysoka",
 "stan": "aktualne",
 "stanNote": "",
 "topic": "R2",
-"basis": "§ 25 ust. 2 oraz ust. 3 pkt 1 lit. a i pkt 3 lit. c rozp. MSWiA z 7.06.2010",
-"quote": "do 6 m3 w przypadku zapewnienia zasilania tych zbiorników w wodę z zewnętrznej sieci wodocią",
-"expl": "Zasadą jest zapas 100 m³. Budynek do 100 m wysokości, który powyżej 12 m ma wyłącznie strefy ZL IV, niezależnie od ich powierzchni, może mieć 50 m³, a przy zasilaniu zbiornika z sieci o wydajności co najmniej 10 dm³/s wystarcza 6 m³. Odpowiedź a jest prawdziwa dla wariantu bez zasilania z sieci; nasada 75 mm w treści wskazuje na wariant minimalny.",
+"basis": "§ 24 ust. 3 pkt 1 lit. a, pkt 3 lit. c i ust. 5 rozp. MSWiA z 7.06.2010",
+"quote": "ust. 3 pkt 1 ‒ do 6 m3 w przypadku zapewnienia zasilania tych zbiorników w wodę z zewnętrznej sieci wodocią",
+"expl": "Budynek WW do 100 m, który powyżej 12 m ma wyłącznie strefy ZL IV (niezależnie od ich powierzchni), może mieć zapas zmniejszony ze 100 m³ do 50 m³ (§ 24 ust. 3 pkt 1 lit. a), a przy zasilaniu zbiornika z sieci o wydajności ≥ 10 dm³/s dalej do 6 m³ (ust. 3 pkt 3 lit. c); warunek nasady 75 mm z ust. 5 jest w treści spełniony. 50 m³ to wartość przed redukcją z pkt 3, a 25 m³ przy 15 dm³/s (lit. b) dotyczy budynków z bazowym zapasem 100 m³.",
 "norms": [],
-"verif": "jednokrotne",
+"verif": "źródła",
 "alt": null
 },
 "537": {
