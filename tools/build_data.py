@@ -33,6 +33,40 @@ def dump(name, obj):
     return os.path.getsize(os.path.join(OUT, name))
 
 
+ROUGH = [('S3', r'\bmetr[ao]\b|metra'), ('S2', r'tunel|autostrad|drogow\w+ obiekt|\bmost'), ('S1', r'baz\w* paliw|stacj\w* paliw|naftow|rurociąg|gazu płynnego|gazem płynnym|lpg|sieci gazow|gazociąg|tłoczni'),
+         ('S4', r'odpad'), ('S5', r'\blas\w*\b|leśn'), ('S6', r'przedszkol|żłob|szkoł'), ('S7', r'imprez|widowisk|stadion|13200'), ('W6', r'rolnicz|inwentarsk|budynk\w* in\b|zwierz'),
+         ('S8', r'poważn\w* awari|zwiększonym ryzyku|dużym ryzyku|ochrony środowiska'), ('U4', r'12845|tryskacz|zraszacz|esfr|mgł'), ('U5', r'15004|gaz\w* gaśnicz|gaśnicz\w* gazow|fk-5|pianow|proszk|aerozol'),
+         ('U1', r'54-14|czujk|sygnalizacji pożar|ostrzegacz'), ('U2', r'60849|dźwiękow\w* system|\bdso\b'), ('U3', r'1838|50172|oświetleni\w* awaryjn|oświetleni\w* ewakuac|7010|znak\w* bezp|01256'),
+         ('U6', r'12101|02877|oddymia|dym|nadciśnieni|różnicowania ciśnień|wentylacj\w* pożar'), ('U7', r'\bsep\b|60364|kabl|przewod\w* elektr|zasilani|wyłącznik|dźwig|81-7'),
+         ('X1', r'wybuch|60079|1127|atex'), ('H1', r'02857|zbiornik\w* przeciwpożarow|do zewnętrznego gaszenia|hydrant\w* zewn|zaopatrzeni\w* w wodę|zaopatrzenia wodnego'), ('H2', r'drog\w* pożarow'),
+         ('R2', r'hydrant|671|instalacj\w* wodociągow\w* przeciwpożarow|zawor\w* 52'), ('P2', r'uzgodni|uzgadni|rzeczoznawc|projekt\w* budowlan|pozwoleni|odstępst|ekspertyz|rozwiąza\w* zamienn'),
+         ('P1', r'państwowej straży|komendant|kontrolno|ustaw\w* o ochronie'), ('P3', r'świadectw|dopuszczeni|wyrob|certyfik|deklaracj'), ('O1', r'02852|obciążeni\w* ogniow|eurokod|1992-1-2'),
+         ('W5', r'garaż'), ('W3', r'ewakuac|dojści|przejści|klatk\w* schodow|drzwi'), ('W2', r'stref\w* pożarow|oddzieleni\w* przeciwpożar|odległoś|usytuow|ścian\w* zewn|dach'),
+         ('W1', r'odporności ogniow|odporności pożar|reakcji na ogień|kategori\w* zagrożenia ludzi|\bzl\b'), ('W4', r'\bgaz|kotłow|komin|wentylac|instalac'), ('R1', r'gaśnic|instrukcj\w* bezpieczeństwa|przegląd')]
+NORM_RX = re.compile(r'((?:PKN-)?CEN/TS\s*\d+-\d+|PN[- ]EN[- ](?:ISO |IEC )?\d+(?:-\d+)*|PN-HD\s*\d+(?:-\d+)*|PN-[A-Z][- ]\d+(?:-\d+)*|N\s*SEP-E[- ]?\d+)')
+
+
+def rough_topic(q):
+    """Przybliżony temat ze słów kluczowych — używany, dopóki pytanie nie ma tematu z weryfikacji klucza."""
+    t = ' '.join((q['q'], q['a'], q['b'], q['c'])).lower()
+    for code, rx in ROUGH:
+        if re.search(rx, t):
+            return code
+    return 'Z9'
+
+
+def rough_norms(q):
+    out = []
+    for m in NORM_RX.findall(' '.join((q['q'], q['a'], q['b'], q['c']))):
+        n = re.sub(r'\s+', ' ', m.upper()).replace('PN EN', 'PN-EN').replace('PN-EN-', 'PN-EN ')
+        n = re.sub(r'^CEN/TS', 'PKN-CEN/TS', n)
+        n = re.sub(r'N SEP-E[- ]?0*(\d+)', lambda x: 'N SEP-E-%03d' % int(x.group(1)), n)
+        n = re.sub(r'PN-([A-Z]) ', r'PN-\1-', n)
+        if n not in out:
+            out.append(n)
+    return out
+
+
 def build_questions():
     qs = load(C('questions.json'))
     final = {int(k): v for k, v in (load(C('key', 'final.json'), {}) or {}).items()}
@@ -51,7 +85,7 @@ def build_questions():
         else:
             old = q.get('oldKey')
             rec.update(ans=old or '', ansNow='=', key=old or '', conf=q.get('oldConf') or 'niska',
-                       stan='aktualne', stanNote='', topic='Z9', basis='', quote='', expl='', norms=[],
+                       stan='aktualne', stanNote='', topic=rough_topic(q), basis='', quote='', expl='', norms=rough_norms(q),
                        verif='stary-klucz' if old else 'brak')
         out.append(rec)
     return out
@@ -111,7 +145,7 @@ def build_norms(questions):
         cur = [dict(num=e['num'], langs=e['langs']) for e in n['current']]
         cited_eds = [e for e in (c.get('editions') or {}) if e != '—']
         cur_tags = {re.sub(r'^.*?:', '', e['num']) for e in n['current']}
-        stale = [e for e in cited_eds if not any(e.split('+')[0] in t for t in cur_tags)]
+        stale = [e for e in cited_eds if not any(e.split('+')[0] in t for t in cur_tags)] if n['found'] else []
         if not n['found'] and not ids:
             continue
         out.append(dict(base=base, title=n.get('title') or '', current=cur,
@@ -150,8 +184,14 @@ ACT_SHORT = {
     'kontr_rozp_2005': 'Rozp. MSWiA z 24.10.2005 – czynności kontrolno-rozpoznawcze',
     'wt_uzytkowania_bud_mieszk_1999_uchylone': 'Rozp. MSWiA z 16.08.1999 – warunki techniczne użytkowania budynków mieszkalnych',
     'bhp_ogolne_1997': 'Rozp. MPiPS z 26.09.1997 – ogólne przepisy BHP',
+    'budowle_ochronne_2025': 'Rozp. MSWiA z 4.11.2025 – warunki techniczne budowli ochronnych',
+    'mds_2025': 'Rozp. MSWiA z 9.07.2025 – miejsca doraźnego schronienia',
+    'magazyny_mat_wybuchowych': 'Rozp. MRPiT – magazyny materiałów wybuchowych, broni i amunicji (t.j. 2025)',
 }
 ACT_NOTE = {
+    'budowle_ochronne_2025': 'Nowy akt. Pytania z niego pojawiły się w arkuszu egzaminacyjnym z 2026 r.',
+    'mds_2025': 'Nowy akt. Pytanie z niego pojawiło się w arkuszu egzaminacyjnym z 2026 r.',
+    'magazyny_mat_wybuchowych': 'Pytania z tego aktu pojawiły się w arkuszu egzaminacyjnym z 2026 r.',
     'wt_2002': 'Utraciło moc 21.09.2026 (upływ terminu z art. 66 ustawy o zapewnianiu dostępności). Do 24.11.2026 nie ogłoszono nowego rozporządzenia. Prawo budowlane, art. 102a–102c: przez 18 miesięcy od 20.09.2026 (do 20.03.2028) projekt można sporządzić według przepisów obowiązujących do 19.09.2026 po złożeniu oświadczenia inwestora. Ucz się ostatniego brzmienia i śledź publikację nowych WT.',
     'sieci_gazowe_2013_uchylone': 'Utraciło moc 21.09.2026 z tego samego powodu co WT; pytania egzaminacyjne odwołują się do jego treści.',
     'wt_uzytkowania_bud_mieszk_1999_uchylone': 'Utraciło moc 21.09.2026; art. 102c Prawa budowlanego dopuszcza użytkowanie budynków mieszkalnych według dotychczasowych przepisów przez 18 miesięcy.',
@@ -174,7 +214,8 @@ def build_legal():
                         dz='Dz.U. %s poz. %s' % (y, p), status=a['status'], inForce=a['inForce'] == 'IN_FORCE',
                         repealDate=a.get('repealDate'), repealedBy=[r[0] for r in a.get('repealedBy', [])],
                         composition=a['composition'], note=ACT_NOTE.get(key, ''),
-                        url='https://api.sejm.gov.pl/eli/acts/%s/text.pdf' % base,
+                        url=('https://api.sejm.gov.pl/eli/acts/%s/text/U/D%s%04dLj.pdf' % (eli, y, int(p)) if a['composition'].startswith('tekst ujednolicony') else 'https://api.sejm.gov.pl/eli/acts/%s/text.pdf' % base),
+                        consolidated=a['composition'].startswith('tekst ujednolicony'),
                         page='https://eli.gov.pl/eli/%s/ogl' % eli))
     out.sort(key=lambda x: (not x['inForce'], x['short']))
     return out

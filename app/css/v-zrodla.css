@@ -1,1 +1,47 @@
-/* v-zrodla */
+/* Widok „Przepisy i normy”: rejestr w jednej karcie, pozycje oddzielone liniami.
+   Pozycja ma dwie kolumny (treść | pola lektury); na telefonie układa się w pionie. */
+.zr-ghead { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 6px 16px; }
+.zr-sum { font-variant-numeric: tabular-nums; }
+.zr-list { padding: 0; gap: 0; }
+.zr-item { display: grid; grid-template-columns: minmax(0, 1fr) minmax(150px, auto); gap: 12px 24px; padding: 16px 18px; }
+.zr-item + .zr-item { border-top: 1px solid var(--line); }
+.zr-main { display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.zr-side { display: flex; flex-direction: column; align-items: flex-start; gap: 12px; min-width: 0; }
+.zr-checks { display: flex; flex-direction: column; gap: 4px; }
+.zr-checks .check { padding: 4px 0; }
+
+.zr-name { font-size: 1.08rem; }
+.zr-base { font: 600 1.02rem/1.3 var(--f-mono); letter-spacing: 0; overflow-wrap: anywhere; }
+.zr-full { font-size: .875rem; color: var(--ink-2); max-width: 74ch; }
+.zr-ntitle { max-width: 74ch; }
+.zr-note { font-size: .9rem; max-width: 74ch; padding: 2px 0 2px 12px; border-left: 3px solid var(--warn); }
+.zr-fine { display: flex; flex-direction: column; gap: 2px; max-width: 84ch; }
+
+/* Długie znaczniki (lista wydań, tygodnie planu) mogą się zawijać. */
+.zr-chip { white-space: normal; border-radius: 12px; }
+a.zr-week { text-decoration: none; }
+a.zr-week:hover { text-decoration: underline; }
+.zr-ext svg { width: 16px; height: 16px; flex: none; }
+
+/* Fakty o normie: etykieta | wartości */
+.zr-facts { display: grid; grid-template-columns: 9.5rem minmax(0, 1fr); gap: 8px 14px; margin: 0; }
+.zr-facts dt { padding-top: 6px; }
+.zr-facts dd { margin: 0; display: flex; flex-wrap: wrap; align-items: center; gap: 6px 8px; min-width: 0; }
+.zr-wide { flex-basis: 100%; }
+.zr-ed { font: 500 .78rem/1.35 var(--f-mono); padding: 2px 7px; border-radius: 3px; background: var(--surface-2); color: var(--ink-2); overflow-wrap: anywhere; }
+.zr-ed b { font-weight: 600; color: var(--ink); }
+.zr-ed.zr-stale { background: var(--warn-soft); }
+.zr-ed.zr-stale b { color: var(--warn); }
+.zr-fold > summary { cursor: pointer; width: fit-content; padding: 4px 0; font-size: .78rem; font-weight: 500; color: var(--ink-2); }
+.zr-fold[open] > summary { margin-bottom: 4px; }
+.zr-fold .num { overflow-wrap: anywhere; }
+
+.zr-toggles { display: flex; flex-wrap: wrap; gap: 10px 28px; }
+
+@media (max-width: 680px) {
+  .zr-item { grid-template-columns: minmax(0, 1fr); padding: 14px; }
+  .zr-side { flex-direction: row; flex-wrap: wrap; align-items: center; gap: 8px 18px; }
+  .zr-checks { flex-direction: row; flex-wrap: wrap; gap: 4px 18px; }
+  .zr-facts { grid-template-columns: minmax(0, 1fr); gap: 2px; }
+  .zr-facts dt { padding-top: 8px; }
+}

@@ -3024,5 +3024,44 @@
     "2020-09-19"
    ]
   ]
+ },
+ {
+  "file": "budowle_ochronne_2025.txt",
+  "eli": "DU/2025/1548",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 4 listopada 2025 r. w sprawie warunków technicznych dla budowli ochronnych oraz warunków technicznych ich użytkowania i usytuowania",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "tekst pierwotny DU/2025/1548",
+  "chars": 243545,
+  "tj": null,
+  "amend_all": []
+ },
+ {
+  "file": "mds_2025.txt",
+  "eli": "DU/2025/932",
+  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 9 lipca 2025 r. w sprawie warunków organizowania oraz wymagań, jakie powinny spełniać miejsca doraźnego schronienia",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "tekst pierwotny DU/2025/932",
+  "chars": 46382,
+  "tj": null,
+  "amend_all": []
+ },
+ {
+  "file": "magazyny_mat_wybuchowych.txt",
+  "eli": "DU/2025/1766",
+  "title": "Rozporządzenie Ministra Rozwoju, Pracy i Technologii w sprawie obiektów i pomieszczeń magazynowych do przechowywania materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym (tekst jednolity)",
+  "status": "obowiązujący",
+  "inForce": "IN_FORCE",
+  "repealDate": null,
+  "repealedBy": [],
+  "composition": "t.j. DU/2025/1766",
+  "chars": 79254,
+  "tj": null,
+  "amend_all": []
  }
 ]
