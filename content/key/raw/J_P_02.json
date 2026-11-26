@@ -1,0 +1,17 @@
+[
+ {
+  "id": 244,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "WT z 2002 r. utraciły moc 21.09.2026 bez następcy; § 262 ust. 1 i zał. nr 3 tabela 1 w ostatnim brzmieniu przyjęto jako przepisy odniesienia (bez zmian względem t.j. Dz.U. 2019 poz. 1065 obowiązującego w dacie egzaminu).",
+  "topic": "W1",
+  "basis": "§ 262 ust. 1 w zw. z § 208a ust. 1 i zał. nr 3 pkt 1.1 tabela 1 rozp. MI z 12.04.2002 w sprawie warunków technicznych (WT)",
+  "src": "akty/wt_2002.txt",
+  "quote": "Okładziny sufitów oraz sufity podwieszone należy wykonywać z materiałów niepalnych lub niezapalnych,",
+  "expl": "§ 262 ust. 1 WT wymaga okładzin sufitów i sufitów podwieszonych z materiałów niepalnych lub niezapalnych, niekapiących i nieodpadających pod wpływem ognia (poza mieszkaniami). W tabeli 1 zał. nr 3 WT „niezapalne” to wyłącznie klasy B (B-s1…s3, d0…d2), a cała klasa C (także C-sX, d0) jest „trudno zapalna”; najniższa klasa niezapalna i zarazem niekapiąca (d0) to więc B-s3, d0, czyli w klasyfikacji podstawowej B. Odpowiedź C jest błędna, bo C to wyroby trudno zapalne; A2 to wyroby niepalne, wymaganie wyższe niż minimalne.",
+  "norms": ["PN-EN 13501-1"],
+  "verdict": "Rację miał B. Ekspert A błędnie odczytał tabelę 1 zał. nr 3 WT z pliku tekstowego, w którym konwersja PDF zgubiła granice komórek, i przyjął, że klasy C-sX, d0 są niezapalne. W urzędowym tekście jednolitym (Dz.U. 2022 poz. 1225 i Dz.U. 2019 poz. 1065, PDF z API Sejmu ELI) linie siatki tabeli wprost oddzielają komórkę „niezapalne” (tylko klasy B) od komórki „trudno zapalne” (wszystkie klasy C oraz D-s1). Zatem minimum to B (B-sX, d0). Zgadza się to ze starym kluczem (b) i z pytaniem 325 (arkusz 9), w którym za niezapalny i niekapiący uznano B-s3, d0, a nie C-s1, d0."
+ }
+]
