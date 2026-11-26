@@ -1,0 +1,362 @@
+[
+ {
+  "id": "T09-01",
+  "topic": "H1",
+  "front": "Od jakiej liczby mieszkańców jednostka osadnicza (niebędąca zabudową kolonijną) wymaga wody do zewnętrznego gaszenia pożaru?",
+  "back": "Gdy liczba mieszkańców przekracza 100.",
+  "ref": "§ 3 ust. 1 pkt 1",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-02",
+  "topic": "H1",
+  "front": "Od jakiej kubatury lub powierzchni budynek użyteczności publicznej albo obiekt PM poza jednostką osadniczą wymaga wody do zewnętrznego gaszenia?",
+  "back": "Kubatura brutto ponad 2500 m³ lub powierzchnia ponad 500 m².",
+  "ref": "§ 3 ust. 1 pkt 2",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-03",
+  "topic": "H1",
+  "front": "Ile wody do zewnętrznego gaszenia wymaga obiekt niebędący budynkiem, użyteczności publicznej, ze strefą dla ponad 50 osób?",
+  "back": "10 dm³/s z co najmniej jednego hydrantu 80 mm albo 100 m³ w zbiorniku.",
+  "ref": "§ 3 ust. 1 pkt 3, § 5 ust. 1 pkt 3",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-04",
+  "topic": "H1",
+  "front": "Ile wody wymagają pozostałe obiekty w jednostce osadniczej do 2000 mieszkańców?",
+  "back": "Co najmniej 5 dm³/s.",
+  "ref": "§ 3 ust. 3",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-05",
+  "topic": "H1",
+  "front": "W jakiej największej odległości od skrajnej zabudowy lub obiektu wykonuje się uzupełniające źródło wody?",
+  "back": "Do 250 m.",
+  "ref": "§ 4 ust. 5",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-06",
+  "topic": "H1",
+  "front": "Ile wody wymaga budynek użyteczności publicznej o kubaturze do 5000 m³ i powierzchni wewnętrznej do 1000 m²?",
+  "back": "10 dm³/s z co najmniej jednego hydrantu 80 mm albo 100 m³ w zbiorniku.",
+  "ref": "§ 5 ust. 1 pkt 1",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-07",
+  "topic": "H1",
+  "front": "Jaką pojemność ma zbiornik uzupełniający brak wydajności wodociągu dla budynku użyteczności publicznej lub zamieszkania zbiorowego?",
+  "back": "10 m³ na każdy brakujący 1 dm³/s, nie mniej niż 50 m³.",
+  "ref": "§ 5 ust. 2",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-08",
+  "topic": "H1",
+  "front": "Jaki jest górny limit ilości wody do zewnętrznego gaszenia dla garaży według tabeli nr 2?",
+  "back": "Nie więcej niż 20 dm³/s.",
+  "ref": "zał., tabela nr 2, przypis",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-09",
+  "topic": "H1",
+  "front": "Ile wody do zewnętrznego gaszenia wymaga stacja gazu ziemnego?",
+  "back": "10 dm³/s (tyle samo stacja paliw i stacja gazu płynnego).",
+  "ref": "§ 6 ust. 4",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-10",
+  "topic": "H1",
+  "front": "Ile wody wymaga zbiornik z cieczą palną o temperaturze zapłonu powyżej 100 °C?",
+  "back": "10 dm³/s, bez względu na pojemność i zajmowaną powierzchnię.",
+  "ref": "§ 6 ust. 8",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-11",
+  "topic": "H1",
+  "front": "Od czego zależy ilość wody dla urządzeń technologicznych, składów i magazynów z gazami i cieczami (temperatura zapłonu do 100 °C) poza budynkami?",
+  "back": "Od zajmowanej powierzchni w m² (tabela nr 4).",
+  "ref": "§ 6 ust. 7, zał. tabela nr 4",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-12",
+  "topic": "H1",
+  "front": "Ile wody daje tabela nr 2 dla strefy PM o powierzchni 200 m² i gęstości obciążenia ogniowego 3500 MJ/m²?",
+  "back": "20 dm³/s.",
+  "ref": "§ 6 ust. 3, zał. tabela nr 2 lp. 5",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-13",
+  "topic": "H1",
+  "front": "Jak liczy się uzupełniający zapas wody dla obiektu PM z tabeli nr 2, gdy wodociąg ma za małą wydajność?",
+  "back": "Brakująca wydajność razy czas trwania pożaru, nie dłużej niż 4 h.",
+  "ref": "§ 6 ust. 10 pkt 1",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-14",
+  "topic": "H1",
+  "front": "O ile zmniejsza się wodę do zewnętrznego gaszenia w strefie z urządzeniem gaśniczym pianowym?",
+  "back": "O 75 %, przy czym łącznie nie mniej niż ilość do zewnętrznego gaszenia.",
+  "ref": "§ 7 ust. 1 pkt 3",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-15",
+  "topic": "H1",
+  "front": "Kto może dopuścić zastępcze źródło wody do celów przeciwpożarowych?",
+  "back": "Komendant powiatowy (miejski) PSP, na wniosek właściciela, na czas określony.",
+  "ref": "§ 8 ust. 1",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-16",
+  "topic": "H1",
+  "front": "Jaką minimalną wydajność i ciśnienie w hydrancie musi zapewnić sieć wodociągowa przeciwpożarowa i jak długo?",
+  "back": "5 dm³/s i 0,1 MPa przez co najmniej 2 h.",
+  "ref": "§ 9 ust. 2",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-17",
+  "topic": "H1",
+  "front": "Kiedy dopuszcza się sieć wodociągową przeciwpożarową rozgałęzieniową?",
+  "back": "Poza obszarami miejskimi oraz tam, gdzie łączna wymagana ilość wody nie przekracza 20 dm³/s.",
+  "ref": "§ 9 ust. 3",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-18",
+  "topic": "H1",
+  "front": "Jaka jest minimalna średnica rur stalowych pod hydranty przy rozbudowie lub modernizacji wodociągu 5 dm³/s w jednostce do 2000 mieszkańców?",
+  "back": "DN 80.",
+  "ref": "§ 9 ust. 7 pkt 4",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-19",
+  "topic": "H1",
+  "front": "Jakie hydranty stosuje się na magistralnym przewodzie wodociągowym przeciwpożarowym?",
+  "back": "Nadziemne DN 100.",
+  "ref": "§ 10 ust. 3",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-20",
+  "topic": "H1",
+  "front": "W jakiej największej odległości od chronionego obiektu ma być najbliższy hydrant zewnętrzny?",
+  "back": "Do 75 m.",
+  "ref": "§ 10 ust. 6 pkt 3",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-21",
+  "topic": "H1",
+  "front": "Jaka ma być odległość hydrantu zewnętrznego od ściany chronionego budynku?",
+  "back": "Co najmniej 5 m.",
+  "ref": "§ 10 ust. 6 pkt 5",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-22",
+  "topic": "H1",
+  "front": "Jak często właściciel sieci poddaje hydranty zewnętrzne przeglądom i konserwacji?",
+  "back": "Co najmniej raz w roku.",
+  "ref": "§ 10 ust. 13",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-23",
+  "topic": "H1",
+  "front": "Jaka jest minimalna pojemność przeciwpożarowego zbiornika wodnego według PN-B-02857:2017-04?",
+  "back": "Co najmniej 50 m³.",
+  "ref": "PN-B-02857:2017-04 pkt 4.3",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-24",
+  "topic": "H1",
+  "front": "W jakiej największej odległości od obiektu chronionego sytuuje się przeciwpożarowy zbiornik wodny według PN-B-02857:2017-04?",
+  "back": "Do 250 m (350 m to największa długość dojazdu).",
+  "ref": "PN-B-02857:2017-04 pkt 4.4.1",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-25",
+  "topic": "H1",
+  "front": "Jakie wymiary ma stanowisko postojowe samochodu na stanowisku czerpania wody według PN-B-02857:2017-04?",
+  "back": "Co najmniej 4 m szerokości i 12 m długości.",
+  "ref": "PN-B-02857:2017-04 pkt 4.5",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-26",
+  "topic": "H1",
+  "front": "Jaka jest minimalna odległość stanowiska czerpania od budynku, którego ściana w pasie 16 m od strony stanowiska nie ma klasy co najmniej E 15?",
+  "back": "Co najmniej 16 m (bazowo co najmniej 8 m). Klasa E 15 według OCR normy – do sprawdzenia w normie.",
+  "ref": "PN-B-02857:2017-04 pkt 4.5",
+  "conf": "średnia",
+  "week": 9
+ },
+ {
+  "id": "T09-27",
+  "topic": "H1",
+  "front": "Jaka może być największa odległość pionowa od poziomu stanowiska czerpania do najniższego użytecznego poziomu wody przy pracy ze ssaniem?",
+  "back": "5,0 m.",
+  "ref": "PN-B-02857:2017-04 pkt 4.2",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-28",
+  "topic": "H1",
+  "front": "Z jaką wydajnością każdy przewód ssawny musi móc jednocześnie pobierać wodę ze studzienki ssawnej?",
+  "back": "Co najmniej 1200 dm³/min, czyli 20 dm³/s.",
+  "ref": "PN-B-02857:2017-04 pkt 4.8",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-29",
+  "topic": "H1",
+  "front": "Ile przewodów ssawnych wymaga zbiornik o pojemności powyżej 150 m³ do 300 m³ pracujący ze ssaniem?",
+  "back": "Co najmniej dwa.",
+  "ref": "PN-B-02857:2017-04 pkt 4.9",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-30",
+  "topic": "H1",
+  "front": "W jakim czasie źródło inne niż sieć wodociągowa ma napełnić opróżniony zbiornik przeciwpożarowy?",
+  "back": "Nie dłużej niż 72 h.",
+  "ref": "PN-B-02857:2017-04 pkt 4.11",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-31",
+  "topic": "H2",
+  "front": "Kiedy do budynku ze strefą PM o gęstości obciążenia ogniowego poniżej 500 MJ/m² trzeba doprowadzić drogę pożarową?",
+  "back": "Gdy powierzchnia strefy przekracza 20 000 m².",
+  "ref": "§ 12 ust. 1 pkt 4",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-32",
+  "topic": "H2",
+  "front": "Kiedy trzeba doprowadzić drogę pożarową do strefy pożarowej poza budynkiem obejmującej plac składowy?",
+  "back": "Gdy Q przekracza 500 MJ/m², a strefa ma ponad 1000 m² albo występuje pomieszczenie zagrożone wybuchem.",
+  "ref": "§ 12 ust. 1 pkt 3",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-33",
+  "topic": "H2",
+  "front": "W jakiej odległości od ściany obiektu ZL ma być bliższa krawędź drogi pożarowej?",
+  "back": "5–15 m (dla pozostałych obiektów 5–25 m).",
+  "ref": "§ 12 ust. 2",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-34",
+  "topic": "H2",
+  "front": "Kiedy droga pożarowa musi biec z dwóch stron budynku?",
+  "back": "Gdy krótszy bok budynku ma więcej niż 60 m.",
+  "ref": "§ 12 ust. 2",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-35",
+  "topic": "H2",
+  "front": "Jaką szerokość i długość ma dojście łączące wyjścia z obiektu z drogą pożarową?",
+  "back": "Szerokość co najmniej 1,5 m, długość do 50 m.",
+  "ref": "§ 12 ust. 4",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-36",
+  "topic": "H2",
+  "front": "Jaki jest najmniejszy promień zewnętrznego łuku drogi pożarowej?",
+  "back": "11 m.",
+  "ref": "§ 12 ust. 11",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-37",
+  "topic": "H2",
+  "front": "Jaką klasę musi mieć ściana budynku, gdy droga pożarowa poza miejscami z § 12 ust. 2–3 jest bliżej niż 5 m?",
+  "back": "Klasę odporności ogniowej ściany oddzielenia pożarowego, na tym odcinku i do 5 m od niego.",
+  "ref": "§ 12 ust. 12",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-38",
+  "topic": "H2",
+  "front": "Jakie jest dopuszczalne nachylenie podłużne drogi pożarowej wzdłuż budynku?",
+  "back": "Do 5 %, czyli 1 m w pionie na 20 m w poziomie.",
+  "ref": "§ 13 ust. 1",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-39",
+  "topic": "H2",
+  "front": "Jaki minimalny nacisk osi musi przenosić droga pożarowa w mieście?",
+  "back": "Co najmniej 100 kN.",
+  "ref": "§ 13 ust. 2",
+  "conf": "wysoka",
+  "week": 9
+ },
+ {
+  "id": "T09-40",
+  "topic": "H2",
+  "front": "Jaki prześwit musi mieć estakada nad drogą pożarową?",
+  "back": "Co najmniej 4,5 m wysokości i 4,5 m szerokości.",
+  "ref": "§ 15",
+  "conf": "wysoka",
+  "week": 9
+ }
+]

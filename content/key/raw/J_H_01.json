@@ -1,0 +1,32 @@
+[
+  {
+    "id": 175,
+    "ans": "c",
+    "conf": "niska",
+    "ansNow": "=",
+    "stan": "aktualne",
+    "stanNote": "",
+    "topic": "H1",
+    "basis": "PN-B-02857:2017-04 pkt 4.2 (głębokość min. 2 m, uwzględnienie dodatków np. na lód) i pkt 4.3 (podwyższenie normalnego poziomu wody o 1 m przy zbiorniku niezabezpieczonym przed zamarzaniem)",
+    "src": "normy/PN-B-02857_2017-04.txt",
+    "quote": "Jeżeli zbiornik nie jest zabezpieczony przed zamarzaniem, to normalny poziom wody należy podwyższyć o 1 m",
+    "expl": "Pkt 4.2 normy podaje ogólną minimalną głębokość zbiornika 2 m i każe przy jej ustalaniu uwzględnić dodatki „np. na lód”, a pkt 4.3 dla zbiornika niezabezpieczonego przed zamarzaniem każe podnieść normalny poziom wody o 1 m. Warunek dodany w pytaniu („nie jest chroniony przed zamarzaniem”) ma sens tylko przy zsumowaniu 2 m + 1 m = 3 m; 1 m to sam dodatek na lód, a 2 m to wartość ogólna, bez dodatku. Wątpliwość: norma nie podaje wprost 3 m i da się ją czytać tak, że 2 m obowiązuje zawsze, a podnosi się tylko poziom wody, więc klucz komisji jest niepewny.",
+    "norms": ["PN-B-02857"],
+    "verdict": "Rację ma A (c), ale z niską pewnością. B poprawnie cytuje pierwsze zdanie pkt 4.2 (2 m), lecz pomija, że warunek z pytania odsyła do pkt 4.3 (+1 m poziomu wody) i do zdania z pkt 4.2 o dodatkach na lód. Norma nie podaje jednak wprost wartości 3 m, więc tekst nie rozstrzyga tego jednoznacznie. Oba cytaty sprawdzono w pliku normy (linie 267 i 278, czytelne)."
+  },
+  {
+    "id": 194,
+    "ans": "b",
+    "conf": "niska",
+    "ansNow": "=",
+    "stan": "aktualne",
+    "stanNote": "",
+    "topic": "H2",
+    "basis": "§ 12 ust. 4 i 5 rozp. MSWiA z 24.07.2009; pojęcia dojścia i przejścia ewakuacyjnego: § 256 ust. 1 i § 237 ust. 1 rozp. MI z 12.04.2002 (WT, przepisy odniesienia)",
+    "src": "akty/woda_drogi_2009.txt",
+    "quote": "na długość dojścia powinna obejmować również",
+    "expl": "§ 12 ust. 5: dźwig dla ekip ratowniczych łączy się z drogą pożarową dojściem z ust. 4 (szerokość min. 1,5 m, długość do 50 m), a te 50 m obejmuje również drogę ewakuacyjną w budynku, więc odpowiedź a (odcinka w budynku nie ogranicza się) przeczy przepisowi. Odcinek w budynku jest drogą ewakuacyjną, której długość WT nazywają dojściem ewakuacyjnym i limitują dla strefy pożarowej (§ 256 ust. 1). Przejście ewakuacyjne biegnie wewnątrz pomieszczenia do wyjścia na drogę ewakuacyjną (§ 237 ust. 1) i drogą ewakuacyjną nie jest, dlatego c jest za szerokie. Wątpliwość: żadna opcja nie powtarza tekstu rozporządzenia, więc zapamiętaj przede wszystkim regułę: łącznie najwyżej 50 m, razem z drogą ewakuacyjną w budynku.",
+    "norms": [],
+    "verdict": "Rację ma B (b). Rozporządzenie mówi o „drodze ewakuacyjnej w budynku”, a w WT długość drogi ewakuacyjnej to dojście ewakuacyjne w strefie pożarowej (§ 256 ust. 1). Przejście ewakuacyjne (§ 237 ust. 1) prowadzi w pomieszczeniu do drogi ewakuacyjnej, a nie jest jej częścią; A wybrał c jako „najbliższą” bez tego rozróżnienia. Dojście do dźwigu prowadzi przez przedsionek przeciwpożarowy (§ 253 ust. 2 WT), czyli z drogi ewakuacyjnej. Pewność niska, bo b i c dodają ograniczenie, którego w tekście nie ma. Cytat A/B sprawdzono (linia 821 pliku)."
+  }
+]

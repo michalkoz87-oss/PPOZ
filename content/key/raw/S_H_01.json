@@ -1,0 +1,81 @@
+[
+ {
+  "id": 29,
+  "ans": "c",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "H2",
+  "basis": "§ 12 ust. 11 rozp. MSWiA z 24.07.2009",
+  "src": "akty/woda_drogi_2009.txt",
+  "quote": "Najmniejszy promień zewnętrznego łuku drogi",
+  "expl": "§ 12 ust. 11 określa najmniejszy promień zewnętrznego łuku drogi pożarowej (co najmniej 11 m), więc promień łuku mierzy się do zewnętrznej krawędzi drogi. Liczenie 11 m do osi lub do krawędzi wewnętrznej byłoby innym, ostrzejszym wymaganiem (krawędź zewnętrzna miałaby wtedy promień ok. 13–15 m), którego przepis nie stawia.",
+  "norms": [],
+  "verdict": "Odpowiedź c potwierdzona (§ 12 ust. 11, linia 893). Poprawiono wyjaśnienie A (to ono trafia do klucza): twierdziło, że pomiar do osi lub krawędzi wewnętrznej „dałby łuk ciaśniejszy”, a jest odwrotnie – przy 11 m liczonych do osi lub krawędzi wewnętrznej krawędź zewnętrzna ma promień większy niż 11 m, czyli łuk jest łagodniejszy."
+ },
+ {
+  "id": 79,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "H1",
+  "basis": "§ 6 ust. 3 i tabela nr 2 załącznika (przypis „Dla garaży nie więcej niż 20 dm3/s”) rozp. MSWiA z 24.07.2009",
+  "src": "akty/woda_drogi_2009.txt",
+  "quote": "* Dla garaży nie więcej niż 20 dm3/s.",
+  "expl": "Strefę garażu traktuje się jak strefę produkcyjno-magazynową: ilość wody odczytuje się z tabeli nr 2 według gęstości obciążenia ogniowego i powierzchni strefy, a przypis ogranicza ją dla garaży do 20 dm3/s. Pytanie nie podaje gęstości; spośród progów z odpowiedzi tylko 2000 m2 jest w tabeli granicą przejścia z 10 na 20 dm3/s (wiersz 200–500 MJ/m2), więc klucz zakłada taką gęstość – przepis nie przypisuje jej garażom (przy 500–1000 MJ/m2 20 dm3/s wymaga się już powyżej 1000 m2). 1500 m2 nie jest progiem tabeli, a w wierszu do 200 MJ/m2 powyżej 3000 m2 wymaga się tylko 15 dm3/s (20 dm3/s dopiero powyżej 5000 m2).",
+  "norms": [],
+  "verdict": "Odpowiedź b potwierdzona przeliczeniem tabeli nr 2 (wiersz 200–500 MJ/m2: 2000–3000 m2 → 20 dm3/s; 1500 m2 nie jest progiem; 3000 m2 w żadnym wierszu nie jest granicą wejścia na 20 dm3/s). Poprawiono wyjaśnienie: A i B podawały „typową dla garaży gęstość 200–500 MJ/m2” jako fakt, choć ani rozporządzenie, ani korpus jej nie ustalają; to założenie potrzebne, by pytanie miało odpowiedź, dlatego pewność pozostaje średnia."
+ },
+ {
+  "id": 170,
+  "ans": "a",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "Rozp. MTiGM z 30.05.2000 uchylone od 21.09.2022; ta sama reguła (DN 80, do 250 m) jest w zał. nr 3 ust. 61 rozp. MI z 24.06.2022 (zm. Dz.U. 2025 poz. 1352 zmieniła tylko sposób umieszczenia hydrantów we wnękach).",
+  "topic": "S2",
+  "basis": "§ 322c ust. 1 rozp. MTiGM z 30.05.2000 (dodany Dz.U. 2012 poz. 608); obecnie zał. nr 3 ust. 61 rozp. MI z 24.06.2022",
+  "src": "akty/drogi_2022.txt",
+  "quote": "usytuowane w pobliżu wjazdów do tunelu i w tunelu, w odległościach nieprzekraczających 250 m.",
+  "expl": "Tunel dłuższy niż 500 m wyposaża się w hydranty zewnętrzne nadziemne DN 80 przy wjazdach i w tunelu, w odstępach nieprzekraczających 250 m (§ 322c ust. 1 rozp. z 30.05.2000; dziś zał. nr 3 ust. 61 rozp. z 24.06.2022). 150 m to odstęp punktów alarmowych (telefon alarmowy i dwie gaśnice proszkowe, § 322 ust. 2; dziś ust. 66), a nie hydrantów, więc odpowiedź c miesza dwa wymagania; hydrantów podziemnych DN 100 przepisy o tunelach nie przewidują.",
+  "norms": [],
+  "verdict": "Odpowiedź a potwierdzona (§ 322c ust. 1 rozp. z 2000 r., linia 4384–4386 doi_2000_uchylone.txt; zał. nr 3 ust. 61 rozp. z 2022 r., linia 2379–2380). Poprawiono wyjaśnienie A: twierdziło, że odstęp 150 m przy punktach alarmowych „nie wynika z przepisu”, tymczasem 150 m to właśnie wymagany odstęp punktów alarmowych (§ 322 ust. 2 rozp. z 2000 r., linia 4312–4313; zał. nr 3 ust. 66 rozp. z 2022 r., linia 2402–2404) – z tego bierze się pułapka w odpowiedzi c."
+ },
+ {
+  "id": 175,
+  "ans": "c",
+  "conf": "niska",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "H1",
+  "basis": "PN-B-02857:2017-04 pkt 4.2 (głębokość min. 2 m, uwzględnienie dodatków np. na lód) i pkt 4.3 (podwyższenie normalnego poziomu wody o 1 m przy zbiorniku niezabezpieczonym przed zamarzaniem)",
+  "src": "normy/PN-B-02857_2017-04.txt",
+  "quote": "Jeżeli zbiornik nie jest zabezpieczony przed zamarzaniem, to normalny poziom wody należy podwyższyć o 1 m",
+  "expl": "Pkt 4.2 normy podaje minimalną głębokość zbiornika 2 m, a pkt 4.3 dla zbiornika niezabezpieczonego przed zamarzaniem każe podwyższyć normalny poziom wody o 1 m i zapewnić odpowietrzenie w lodzie; klucz zakłada, że komisja, dodając ten warunek do pytania, zsumowała obie wartości: 2 m + 1 m = 3 m (1 m to sam dodatek, 2 m – wartość ogólna). Wątpliwość: wartość 3 m w normie nie występuje, a podwyższenie o 1 m dotyczy normalnego poziomu wody wyznaczanego z wymaganej pojemności (pkt 3.16), nie minimalnej głębokości, więc dosłownie norma daje 2 m także dla takiego zbiornika – pytanie sporne.",
+  "norms": [
+   "PN-B-02857"
+  ],
+  "verdict": "Odpowiedź c i pewność niska pozostawione (rozstrzygnięcie J). Poprawiono wyjaśnienie: J twierdził, że warunek z pytania „ma sens tylko przy zsumowaniu 2 m + 1 m”, co jest zbyt mocne – komisja mogła go dodać jako pułapkę (dodatkowe dane-pułapki występują np. w pyt. 305). Wg pkt 3.16 normalny poziom wody wynika z wymaganej pojemności, więc dodatek 1 m z pkt 4.3 nie musi zwiększać minimalnej głębokości 2 m z pkt 4.2 (linia 267); obie interpretacje opisano, by uczący się znał spór."
+ },
+ {
+  "id": 225,
+  "ans": "b",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "H1",
+  "basis": "PN-B-02857:2017-04 pkt 4.2",
+  "src": "normy/PN-B-02857_2017-04.txt",
+  "quote": "niższego użytecznego poziomu wody, nie powinna przekraczać 5,0 m.",
+  "expl": "Pkt 4.2: przy pracy z zasysaniem odległość pionowa od poziomu stanowiska czerpania wody do najniższego użytecznego poziomu wody nie powinna przekraczać 5,0 m. 2 m to minimalna głębokość zbiornika z tego samego punktu, a 7 m nie występuje ani w normie z 2017 r., ani w wycofanej z 1982 r. (ta dopuszczała 6 m, liczone od osi nasady pompy do dna zbiornika lub studzienki ssawnej).",
+  "norms": [
+   "PN-B-02857"
+  ],
+  "verdict": "Odpowiedź b potwierdzona (pkt 4.2, linia 272). Poprawiono wyjaśnienie A: omawiało wartość 4 m, której nie ma wśród odpowiedzi (§ 4 ust. 6 rozp. z 2009 r.), a pomijało dystraktor 7 m; uzupełniono porównanie z PN-B-02857:1982 pkt 3.1 (6 m od osi nasady pompy do dna)."
+ }
+]

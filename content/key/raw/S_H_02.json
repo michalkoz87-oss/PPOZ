@@ -1,0 +1,32 @@
+[
+ {
+  "id": 367,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "H1",
+  "basis": "pkt 4.5 PN-B-02857:2017-04 w zw. z § 216 ust. 1 WT 2002 (klasa „E” – brak wymagań odporności ogniowej dla ściany zewnętrznej)",
+  "src": "normy/PN-B-02857_2017-04.txt",
+  "quote": "czerpania wody, nie posiada klasy odporności ogniowej co najmniej E 15, lub",
+  "expl": "Stanowisko czerpania wody ma być co najmniej 8 m od obiektu chronionego, a co najmniej 16 m, gdy ściana zewnętrzna w pasie 16 m od strony stanowiska nie ma klasy co najmniej E 15 albo gdy strefa ma powyżej 1000 m2 i Q powyżej 2000 MJ/m2. Przy Q = 1000 MJ/m2 rozstrzyga ściana: w budynku klasy „E” WT nie stawiają ścianie zewnętrznej żadnych wymagań odporności ogniowej (§ 216 ust. 1), więc nie można przyjąć, że ma ona E 15, i obowiązuje 16 m. 8 m wymagałoby ściany co najmniej E 15 (por. pytanie o budynek klasy „D”), a 20 m norma z 2017 r. nie przewiduje (wydanie z 1982 r. wymagało 25 m albo 40 m).",
+  "norms": ["PN-B-02857"],
+  "verdict": "Odpowiedź b potwierdzona. Poprawiono wyjaśnienie: było „ściana nie ma E 15” (brak wymagania nie oznacza braku klasy, tylko że nie można jej zakładać) oraz przykład „8 m dotyczy klasy D ze ścianą EI 30”, który jest mylący, bo wymaganie EI 30 dla klasy „D” w § 216 ust. 1 WT dotyczy pasa międzykondygnacyjnego (odnośnik 2), a kryterium normy to E 15 (pkt 4.5 PN-B-02857:2017-04)."
+ },
+ {
+  "id": 529,
+  "ans": "c",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "H1",
+  "basis": "§ 6 ust. 3 i ust. 10 pkt 1 oraz tabela nr 2 zał. rozp. MSWiA z 24.07.2009; PN-B-02852 (względny czas trwania pożaru)",
+  "src": "akty/woda_drogi_2009.txt",
+  "quote": "trwania pożaru, jednak nie większy niż 4 godziny;",
+  "expl": "Tabela nr 2 daje 30 dm3/s (Q = 3900 MJ/m2 w przedziale 2000–4000, strefa 2100 m2 w przedziale 2000–3000 m2). Zbiornik zamiast wodociągu ma mieć zapas równy brakującej wydajności razy czas trwania pożaru wg PN-B-02852, nie dłuższy niż 4 h; dla Q ok. 4000 MJ/m2 czas ten sięga ok. 4 h, więc przyjmuje się 4 h: 30 dm3/s × 14 400 s = 432 m3 (tekstu PN-B-02852 nie ma w źródłach, stąd pewność średnia). 216 m3 to 2 h (czas pracy sieci z § 9, a nie czas pożaru), a 300 m3 to przelicznik 10 m3 na 1 dm3/s, który § 6 ust. 10 pkt 2 stosuje tylko do obiektów z ust. 4, 5 i 7–9.",
+  "norms": ["PN-B-02852"],
+  "verdict": "Odpowiedź c potwierdzona (tabela nr 2 i § 6 ust. 10 pkt 1). Poprawiono wyjaśnienie: A i B podawali jako fakt, że czas trwania pożaru wg PN-B-02852 dla 3900 MJ/m2 „przekracza 4 h”, choć tekstu normy nie ma w korpusie (przy zależności ok. 1 h na 1000 MJ/m2 wyszłoby ok. 3,9 h); teraz wyjaśnienie mówi, że wariant 432 m3 opiera się na przyjęciu górnej granicy 4 h."
+ }
+]

@@ -1,0 +1,684 @@
+{
+ "intro": "Lekcja obejmuje całe rozporządzenie MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych (Dz. U. Nr 124, poz. 1030), które obowiązuje w brzmieniu ogłoszonym, bez zmian, oraz PN-B-02857:2017-04 o przeciwpożarowych zbiornikach wodnych (tekst z OCR skanu, wartości porównane z wycofanym wydaniem z 1982 r., które wyjaśnia odpowiedzi na starsze pytania). Pojęcia kategorii ZL, strefy pożarowej i grup wysokości rozporządzenie bierze z WT z 12.04.2002, które utraciły moc 21.09.2026 i są tu przepisami odniesienia, a § 6 ust. 6 odsyła do uchylonego rozporządzenia z 2005 r. o bazach i stacjach paliw (dziś obowiązuje rozporządzenie MKiŚ z 24.07.2023). Tekstów PN-EN 14384 i PN-EN 14339 (hydranty nadziemne i podziemne) ani PN-B-02852 (względny czas trwania pożaru) nie ma w korpusie, więc parametry hydrantów lekcja podaje tylko z § 10, a czas trwania pożaru tylko z górną granicą 4 h z § 6 ust. 10 pkt 1. Najwięcej punktów traci się na tej granicy 4 h, na minimum 50 m³ zbiornika uzupełniającego, na progach 500 MJ/m² i 20 000 m² przy drogach pożarowych oraz na wartościach z wydania normy z 1982 r., które w 2017 r. się zmieniły.",
+ "sections": [
+  {
+   "h": "Zakres, pojęcia i obiekty wymagające wody (§ 1–3)",
+   "text": "Rozporządzenie wydano na podstawie art. 13 ust. 3 ustawy o ochronie przeciwpożarowej. Określa wymagania dla przeciwpożarowego zaopatrzenia w wodę i dla dróg pożarowych (§ 1) i zastąpiło rozporządzenie z 16.06.2003 (§ 18).\nPojęcia rozporządzenie przejmuje z innych aktów:\n- budynek, kategoria zagrożenia ludzi, strefa pożarowa, kondygnacja i grupa wysokości z WT z 12.04.2002 (§ 2 ust. 1); powierzchnię strefy pożarowej liczy się jako powierzchnię wewnętrzną (WT § 226 ust. 3, przepisy odniesienia);\n- obiekt budowlany z art. 3 pkt 1 Prawa budowlanego (§ 2 ust. 2);\n- jednostka osadnicza i zabudowa kolonijna z ustawy o urzędowych nazwach miejscowości (§ 2 ust. 3).\nTabela pokazuje, kiedy trzeba zapewnić wodę do zewnętrznego gaszenia. Dla pozostałych obiektów woda mieści się w ilości przewidzianej dla jednostki osadniczej, nie mniejszej niż 10 dm³/s (§ 3 ust. 2). W jednostce osadniczej do 2000 mieszkańców wymaga się dla nich co najmniej 5 dm³/s (§ 3 ust. 3).",
+   "table": {
+    "head": [
+     "Obiekt",
+     "Kiedy woda jest wymagana",
+     "Podstawa"
+    ],
+    "rows": [
+     [
+      "Jednostka osadnicza oraz budynki użyteczności publicznej, zamieszkania zbiorowego i obiekty PM w jej granicach",
+      "ponad 100 mieszkańców, jeżeli jednostka nie jest zabudową kolonijną",
+      "§ 3 ust. 1 pkt 1"
+     ],
+     [
+      "Budynek użyteczności publicznej lub zamieszkania zbiorowego, obiekt produkcyjny lub magazynowy poza taką jednostką",
+      "kubatura brutto ponad 2500 m³ lub powierzchnia ponad 500 m²; nie dotyczy stacji paliw ze zbiornikami o łącznej pojemności do 200 m³ ani stacji gazu płynnego",
+      "§ 3 ust. 1 pkt 2"
+     ],
+     [
+      "Obiekt niebędący budynkiem, użyteczności publicznej lub zamieszkania zbiorowego",
+      "strefa pożarowa ponad 1000 m² albo przeznaczona do jednoczesnego przebywania ponad 50 osób",
+      "§ 3 ust. 1 pkt 3"
+     ],
+     [
+      "Obiekt gospodarki rolnej",
+      "strefa pożarowa ponad 1000 m²",
+      "§ 3 ust. 1 pkt 4"
+     ],
+     [
+      "Pozostałe obiekty",
+      "w ramach ilości dla jednostki osadniczej, co najmniej 10 dm³/s; w jednostce do 2000 mieszkańców co najmniej 5 dm³/s",
+      "§ 3 ust. 2–3"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Jednostki osadnicze i budynki użyteczności publicznej (§ 4–5, tabela nr 1)",
+   "text": "Ilość wody dla jednostki osadniczej podaje tabela nr 1 (§ 4 ust. 1). Dzielnicę lub osiedle można liczyć odrębnie, jeśli oddziela je pas niezabudowanego terenu o szerokości co najmniej 100 m; dopuszcza się na nim drzewostan liściasty lub mieszany z co najmniej 50 % drzew liściastych (§ 4 ust. 2). Wodę ma zapewniać sieć wodociągowa doprowadzająca wodę do jednostki (§ 4 ust. 4).\nGdy wodociąg nie daje wymaganej ilości, w odległości do 250 m od skrajnej zabudowy lub chronionego obiektu wykonuje się co najmniej jedno uzupełniające źródło (§ 4 ust. 5):\n- studnię o wydajności co najmniej 10 dm³/s;\n- punkt czerpania przy zbiorniku naturalnym lub sztucznym albo na cieku o przepływie co najmniej 20 dm³/s przy najniższym stanie wód;\n- przeciwpożarowy zbiornik wodny zgodny z Polską Normą.\nZe studni i z punktu czerpania przy zbiorniku lub cieku (§ 4 ust. 5 pkt 1 i 2) pobiera się wodę z głębokości do 4 m między lustrem wody a poziomem stanowiska czerpania; potrzebne są studzienka ssawna lub inne urządzenie do poboru wody, zabezpieczone przed zamuleniem i zamarzaniem, oraz stanowisko czerpania z dojazdem (§ 4 ust. 6). Każde uzupełniające źródło zabezpiecza się przed wpadnięciem ludzi i zwierząt (§ 4 ust. 7).\nDla budynków użyteczności publicznej i zamieszkania zbiorowego oraz innych obiektów o takim przeznaczeniu (§ 5 ust. 1):\n- kubatura brutto do 5000 m³ i powierzchnia wewnętrzna do 1000 m²: 10 dm³/s z co najmniej jednego hydrantu 80 mm albo 100 m³ w zbiorniku;\n- pozostałe budynki: 20 dm³/s łącznie z co najmniej dwóch hydrantów 80 mm albo 200 m³;\n- obiekty z § 3 ust. 1 pkt 3 (niebędące budynkami): 10 dm³/s albo 100 m³.\nBrak można uzupełnić ze źródeł z § 4 ust. 5; zbiornik ma wtedy 10 m³ na każdy brakujący 1 dm³/s, ale nie mniej niż 50 m³ (§ 5 ust. 2). Jeśli w tej samej strefie są pomieszczenia magazynowe, liczy się je według tabeli nr 2, biorąc łączną powierzchnię tych pomieszczeń zamiast powierzchni strefy, i przyjmuje wyższe z wymagań (§ 5 ust. 3).",
+   "table": {
+    "head": [
+     "Liczba mieszkańców jednostki",
+     "Wydajność wodociągu [dm³/s]",
+     "Równoważny zapas w zbiorniku [m³]"
+    ],
+    "rows": [
+     [
+      "do 2000",
+      "5",
+      "50"
+     ],
+     [
+      "2001–5000",
+      "10",
+      "100"
+     ],
+     [
+      "5001–10 000",
+      "15",
+      "150"
+     ],
+     [
+      "10 001–25 000",
+      "20",
+      "200"
+     ],
+     [
+      "25 001–100 000",
+      "40",
+      "400"
+     ],
+     [
+      "ponad 100 000",
+      "60",
+      "600"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Obiekty produkcyjne, magazynowe i szczególne (§ 6, tabele nr 2–4)",
+   "text": "Wodę dla obiektów PM zapewnia się z urządzeń dostarczających wodę do celów bytowo-gospodarczych i technologicznych lub z innych zasobów (§ 6 ust. 1); gdy to nie wystarcza, korzysta się z urządzeń jednostki osadniczej lub ze źródeł z § 4 ust. 5 (§ 6 ust. 2). Ilość dla obiektu PM ustala się dla strefy pożarowej, dla której wychodzi największa, z tabeli nr 2 (§ 6 ust. 3). Dla garaży tabela daje nie więcej niż 20 dm³/s (przypis do tabeli nr 2).\nWartości stałe i tabele szczególne:\n- stacje paliw, stacje gazu płynnego i stacje gazu ziemnego: 10 dm³/s (§ 6 ust. 4);\n- zbiorniki z gazami palnymi, z cieczami o temperaturze zapłonu do 100 °C niebędącymi produktami naftowymi i z produktami naftowymi o temperaturze zapłonu od 55 do 100 °C: tabela nr 3 według pojemności ogólnej, bez zbiorników podziemnych i przenośnych; dla cieczy od 10 dm³/s (ponad 200 do 1000 m³) do 40 dm³/s (ponad 200 000 m³), dla gazów od 10 dm³/s (do 10 000 m³) do 20 dm³/s (ponad 100 000 m³) (§ 6 ust. 5);\n- pozostałe zbiorniki z produktami naftowymi: przepisy o bazach i stacjach paliw (§ 6 ust. 6; powołane rozporządzenie z 2005 r. jest uchylone);\n- urządzenia technologiczne, składy i magazyny z gazami palnymi i cieczami o temperaturze zapłonu do 100 °C poza budynkami: tabela nr 4 według zajmowanej powierzchni: do 500 m² 10 dm³/s, do 1000 m² 20 dm³/s, do 2000 m² 30 dm³/s, ponad 2000 m² 40 dm³/s (§ 6 ust. 7);\n- silosy, komory i zasobniki ze stałymi sypkimi materiałami palnymi oraz zbiorniki z cieczami o temperaturze zapłonu ponad 100 °C: 10 dm³/s (§ 6 ust. 8);\n- obiekty gospodarki rolnej: co najmniej 10 dm³/s przy strefie do 2000 m², co najmniej 15 dm³/s powyżej (§ 6 ust. 9).\nStrefy z odpadami stałymi poza budynkami mają własną tabelę w rozporządzeniu MSWiA z 19.02.2020, a zapas uzupełniający to tam brakująca wydajność razy 4 h (§ 41 ust. 1 i 3 tego rozporządzenia; pyt. 508).\nTabela nr 2 (wydajność wodociągu w dm³/s; kolumny to powierzchnia strefy pożarowej w m², wiersze to gęstość obciążenia ogniowego Q w MJ/m², granice „powyżej … do …”):",
+   "table": {
+    "head": [
+     "Q [MJ/m²]",
+     "do 500",
+     "500–1000",
+     "1000–2000",
+     "2000–3000",
+     "3000–4000",
+     "4000–5000",
+     "ponad 5000"
+    ],
+    "rows": [
+     [
+      "do 200",
+      "10",
+      "10",
+      "10",
+      "10",
+      "15",
+      "15",
+      "20"
+     ],
+     [
+      "200–500",
+      "10",
+      "10",
+      "10",
+      "20",
+      "20",
+      "30",
+      "30"
+     ],
+     [
+      "500–1000",
+      "10",
+      "10",
+      "20",
+      "20",
+      "30",
+      "30",
+      "40"
+     ],
+     [
+      "1000–2000",
+      "10",
+      "20",
+      "20",
+      "30",
+      "30",
+      "40",
+      "40"
+     ],
+     [
+      "2000–4000",
+      "20",
+      "20",
+      "30",
+      "30",
+      "40",
+      "40",
+      "50"
+     ],
+     [
+      "ponad 4000",
+      "20",
+      "30",
+      "30",
+      "40",
+      "40",
+      "50",
+      "60"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Zapas uzupełniający, urządzenia gaśnicze i źródła zastępcze (§ 6 ust. 10–11, § 7–8)",
+   "text": "Gdy wodociąg nie daje ilości z § 6 ust. 3–5 i 7–9, zapewnia się uzupełniający zapas w zbiornikach przeciwpożarowych, technologicznych lub naturalnych, przystosowanych do poboru wody przez pompy pożarnicze (§ 6 ust. 10):\n- dla obiektów PM z tabeli nr 2: brakująca wydajność razy czas trwania pożaru dla danej strefy według Polskiej Normy o gęstości obciążenia ogniowego, ale nie więcej niż 4 h (pkt 1);\n- dla obiektów z ust. 4, 5 i 7–9: 10 m³ na każdy brakujący 1 dm³/s (pkt 2).\nPrzykład z egzaminu: wymagane 30 dm³/s, wodociąg 10 dm³/s, czas trwania pożaru 6 h. Brakuje 20 dm³/s, czas ogranicza się do 4 h, więc zapas to 20 dm³/s × 14 400 s = 288 m³ (pyt. 112). Brak można też uzupełnić ze studni lub cieku z § 4 ust. 5 pkt 1 i 2 (§ 6 ust. 11).\nWodociąg, który nie służy tylko celom przeciwpożarowym, musi dać łącznie wodę przeciwpożarową, bytowo-gospodarczą ograniczoną do 15 % i przemysłową ograniczoną do niezbędnej obsługi urządzeń technologicznych (§ 7 ust. 2).\nGdy nie ma źródła wody, komendant powiatowy (miejski) PSP na wniosek właściciela może dopuścić na czas określony zastępcze źródło, np. zbiornik, studnię lub ciek ze stanowiskiem czerpania i dojazdem (§ 8 ust. 1). Musi ono pozwalać na działania siłami najbliższej jednostki ochrony przeciwpożarowej (§ 8 ust. 2). W szczególnie uzasadnionych przypadkach dopuszcza się rozwiązania zamienne, które nie pogarszają warunków ochrony, uzgodnione z komendantem wojewódzkim PSP (§ 8 ust. 3). Projektowanie sieci, zbiorników, stanowisk czerpania i dojazdów regulują Polskie Normy (§ 8 ust. 4).\nStrefy ze stałymi urządzeniami gaśniczymi i zabezpieczającymi (w obiektach z § 5 ust. 1 i 3 oraz § 6 ust. 3, 5 i 7) liczy się według § 7 ust. 1, niezależnie od tego, czy urządzenie i hydranty mają wspólne, czy odrębne zasilanie:",
+   "table": {
+    "head": [
+     "Urządzenie w strefie",
+     "Wymagana łączna ilość wody",
+     "Podstawa"
+    ],
+    "rows": [
+     [
+      "Urządzenia zraszaczowe zabezpieczające",
+      "woda dla urządzenia plus pełna ilość do zewnętrznego gaszenia",
+      "§ 7 ust. 1 pkt 1"
+     ],
+     [
+      "Tryskaczowe, zraszaczowe gaśnicze, mgłowe, sieci stałych działek",
+      "woda dla urządzenia plus ilość do zewnętrznego gaszenia zmniejszona o 50 %, łącznie nie mniej niż ilość do zewnętrznego gaszenia",
+      "§ 7 ust. 1 pkt 2"
+     ],
+     [
+      "Gaśnicze pianowe",
+      "woda dla urządzenia plus ilość do zewnętrznego gaszenia zmniejszona o 75 %, łącznie nie mniej niż ilość do zewnętrznego gaszenia",
+      "§ 7 ust. 1 pkt 3"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Sieć wodociągowa, hydranty zewnętrzne i pompownie (§ 9–11)",
+   "text": "Sieć wodociągowa przeciwpożarowa jest zasilana z pompowni, zbiornika wieżowego, studni lub innych urządzeń, które przez co najmniej 2 h dają wymaganą wydajność i ciśnienie w hydrantach zewnętrznych, nawet niekorzystnie ulokowanych (§ 9 ust. 1). Minimum to 5 dm³/s i 0,1 MPa w hydrancie przez co najmniej 2 h (§ 9 ust. 2).\nUkład i średnice sieci:\n- zasadą jest sieć obwodowa; rozgałęzieniowa jest dopuszczalna poza obszarami miejskimi oraz tam, gdzie łączna wymagana ilość wody nie przekracza 20 dm³/s (§ 9 ust. 3); hydranty można zasilać odgałęzieniami sieci obwodowej (§ 9 ust. 4);\n- ponad 30 dm³/s: zasilanie sieci obwodowej w dwóch punktach oddalonych o co najmniej 1/4 obwodu (§ 9 ust. 5);\n- ponad 20 dm³/s: możliwość jednoczesnego poboru z dwóch sąsiednich hydrantów (§ 9 ust. 6);\n- rury stalowe pod hydranty: co najmniej DN 100 w sieci obwodowej, DN 125 w rozgałęzieniowej, w odgałęzieniach według obliczeń, DN 80 przy rozbudowie lub modernizacji wodociągu o wydajności 5 dm³/s w jednostce do 2000 mieszkańców (§ 9 ust. 7); inne materiały mają równoważną średnicę wewnętrzną (§ 9 ust. 8);\n- ciśnienie hydrostatyczne nie może przekraczać 1,6 MPa (§ 10 ust. 11).\nHydranty nadziemne DN 80 są zasadą; podziemne DN 80 tylko wtedy, gdy nadziemny jest szczególnie utrudniony lub niewskazany, np. ze względu na ruch (§ 10 ust. 1–2). Nadziemne DN 100 instaluje się w obiektach PM wymagających ponad 30 dm³/s, w zakładach rafineryjnych i petrochemicznych oraz na magistralnym przewodzie przeciwpożarowym (§ 10 ust. 3). Odcięcia hydrantów są w normalnej eksploatacji otwarte (§ 10 ust. 4), hydranty spełniają Polskie Normy będące odpowiednikami EN (§ 10 ust. 5), a ich miejsca oznakowuje się znakami zgodnymi z PN (§ 10 ust. 12). Przeglądy i konserwację prowadzi właściciel sieci co najmniej raz w roku (§ 10 ust. 13). Na sieciach co najmniej DN 250 instaluje się hydranty nadziemne do intensywnego czerpania: DN 100 lub DN 150, co najmniej 20 dm³/s przy 0,2 MPa, dostępne z głównych dróg, oznakowane z wielkościami charakterystycznymi, ze stanowiskiem czerpania i zakazem parkowania (§ 10 ust. 9). Potrzebę takich hydrantów określa PSP przy opiniowaniu studium i miejscowych planów (§ 10 ust. 10).\nPompownie przeciwpożarowe zasila sieć elektroenergetyczna albo silnik spalinowy z paliwem na 4 h pracy przy pełnym obciążeniu (§ 11 ust. 1). Przy zapotrzebowaniu ponad 20 dm³/s pompy mają dwa odrębne źródła energii (rezerwowym może być agregat), a przy ciągłym podawaniu wody co najmniej dwie pompy, w tym rezerwową nie słabszą od największej (§ 11 ust. 2). Pompy mają układ pomiarowy (ciśnieniomierz, przepływomierz, zawór regulacyjny) i zasilanie z obwodu niezależnego od innych (§ 11 ust. 4 i 6).",
+   "table": {
+    "head": [
+     "Parametr hydrantu zewnętrznego",
+     "Wartość",
+     "Podstawa"
+    ],
+    "rows": [
+     [
+      "Odległość między hydrantami",
+      "do 150 m; poza obszarami miejskimi według gęstości zabudowy",
+      "§ 10 ust. 6 pkt 1, ust. 7"
+     ],
+     [
+      "Od zewnętrznej krawędzi jezdni",
+      "do 15 m",
+      "§ 10 ust. 6 pkt 2"
+     ],
+     [
+      "Najbliższy hydrant od chronionego obiektu",
+      "do 75 m",
+      "§ 10 ust. 6 pkt 3"
+     ],
+     [
+      "Pozostałe hydranty wymagane dla obiektu",
+      "do 150 m",
+      "§ 10 ust. 6 pkt 4"
+     ],
+     [
+      "Od ściany chronionego budynku",
+      "co najmniej 5 m",
+      "§ 10 ust. 6 pkt 5"
+     ],
+     [
+      "Wydajność przy 0,2 MPa: nadziemny DN 80 / nadziemny DN 100 / podziemny DN 80",
+      "co najmniej 10 / 15 / 10 dm³/s",
+      "§ 10 ust. 8 pkt 1–3"
+     ],
+     [
+      "Nadziemny DN 80 na sieci o minimalnych parametrach z § 9 ust. 2",
+      "co najmniej 5 dm³/s",
+      "§ 10 ust. 8 pkt 4"
+     ],
+     [
+      "Hydrant do intensywnego czerpania (sieć co najmniej DN 250)",
+      "DN 100 lub DN 150, co najmniej 20 dm³/s",
+      "§ 10 ust. 9 pkt 1–2"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Przeciwpożarowe zbiorniki wodne – PN-B-02857:2017-04 i wydanie 1982",
+   "text": "Rozporządzenie odsyła do Polskiej Normy w § 4 ust. 5 pkt 3 i § 8 ust. 4. Aktualna jest PN-B-02857:2017-04, która zastąpiła wydanie z 1982 r. (przedmowa normy). Obejmuje zbiorniki naziemne, półpodziemne, podziemne, kryte i otwarte do zewnętrznego gaszenia pożaru (pkt 1). Pojemność zbiornika to objętość między normalnym a najniższym użytecznym poziomem wody, zawsze dostępna do celów przeciwpożarowych (pkt 3.17).\nWymagania z wydania 2017, o które pyta komisja:\n- grupę pojemników łączy się przewodami o średnicy co najmniej 300 mm (pkt 4.1);\n- zbiornik niezabezpieczony przed zamarzaniem ma normalny poziom wody podwyższony o 1 m; nie dotyczy to zbiornika podziemnego przykrytego warstwą ziemi co najmniej 0,8 m (pkt 4.3);\n- zbiornik podziemny pod placem z ruchem pojazdów musi przenosić pojazdy o masie całkowitej co najmniej 20 t (pkt 4.4.2);\n- zbiornik naziemny i zbiornik w budynku oddziela się tak, by pobór wody był możliwy przez obliczeniowy czas trwania pożaru, nie krócej niż 2 h (pkt 4.4.3, 4.4.4); ściana oddzielenia, która pozwala zbliżyć stanowisko czerpania do obiektu, ma co najmniej REI-M 120 i jest niezależna konstrukcyjnie (pkt 4.5);\n- studzienka ssawna zapewnia jednoczesny pobór każdym przewodem co najmniej 1200 dm³/min, ma średnicę wewnętrzną co najmniej 1 m i pokrywę co najmniej 0,6 m (pkt 4.8);\n- przewód ssawny do pracy ze ssaniem ma najwyżej 10 m długości i zawór zwrotny na wlocie; wyprowadza się go 0,5–1 m nad stanowisko i kończy nasadą 110; zaleca się co najmniej 2 m między nasadami (pkt 4.9);\n- zbiornik otwarty ponad 100 m³ ma dwa zejścia na dno, na skarpach przeciwległych ścian (pkt 4.12.4); każdy zbiornik ma wodowskaz lub inny sposób określenia objętości (pkt 4.12.6);\n- zbiornik oznakowuje się fotoluminescencyjnym znakiem z pojemnością w m³, a punkt czerpania tablicą z pojemnością i odległością w metrach (pkt 4.13); przeglądy i konserwacja według PN-EN 12845 (pkt 5).\nTekst wydania 2017 pochodzi z OCR. Wartości z tabeli są czytelne i zgadzają się z treścią pytań. Wyjątkiem jest klasa ściany w pkt 4.5: OCR podaje E 15, a pytanie 542 rozróżnia E 15 i EI 15 (do sprawdzenia w normie).",
+   "table": {
+    "head": [
+     "Parametr",
+     "PN-B-02857:2017-04 (aktualna)",
+     "PN-B-02857:1982 (wycofana; zastąpiona przez PN-B-02857:2017-04)"
+    ],
+    "rows": [
+     [
+      "Minimalna pojemność",
+      "co najmniej 50 m³ (pkt 4.3)",
+      "nominalnie co najmniej 50 m³ (pkt 3.2)"
+     ],
+     [
+      "Głębokość minimalna",
+      "co najmniej 2 m (pkt 4.2)",
+      "co najmniej 0,5 m od lustra do dna w miejscu czerpania (pkt 3.1)"
+     ],
+     [
+      "Wysokość ssania",
+      "do 5,0 m od poziomu stanowiska do najniższego użytecznego poziomu wody (pkt 4.2)",
+      "do 6 m od osi nasady ssawnej pompy do dna zbiornika lub studzienki (pkt 3.1)"
+     ],
+     [
+      "Odległość od obiektu chronionego",
+      "do 250 m; dojazd do 350 m od stanowiska do punktu przyjęcia sił położonego do 30 m od obiektu (pkt 4.4.1)",
+      "zasięg w promieniu do 250 m (pkt 3.3.1)"
+     ],
+     [
+      "Stanowisko czerpania wody",
+      "postój samochodu co najmniej 4 m × 12 m; co najmniej 3 m × 3 m, gdy zbiornik służy tylko jednostce osadniczej (pkt 4.5)",
+      "co najmniej 20 × 20 m; 3 × 3 m na terenach wiejskich (pkt 3.4)"
+     ],
+     [
+      "Stanowisko od punktu poboru",
+      "do 2 m (pkt 4.5, 4.7)",
+      "do 3 m (pkt 3.4)"
+     ],
+     [
+      "Stanowisko od obiektu chronionego",
+      "co najmniej 8 m; co najmniej 16 m, gdy ściana w pasie 16 m nie ma E 15 (klasa według OCR, do sprawdzenia w normie) albo strefa przy stanowisku ma powierzchnię wewnętrzną ponad 1000 m² i Q ponad 2000 MJ/m² (pkt 4.5)",
+      "co najmniej 25 m; 40 m przy składowisku materiałów palnych lub przeszkleniu ściany ponad 70 % (pkt 3.4)"
+     ],
+     [
+      "Liczba przewodów ssawnych",
+      "co najmniej: 1 do 150 m³, 2 powyżej 150 do 300 m³, 3 powyżej 300 m³; jeden (co najmniej 150 mm) w zbiorniku naziemnym do 300 m³ z napływem (pkt 4.9)",
+      "każde stanowisko co najmniej dwa przewody; od 200 m³ co najmniej dwa stanowiska (pkt 3.4)"
+     ],
+     [
+      "Średnica przewodu ssawnego",
+      "co najmniej 100 mm (pkt 4.9)",
+      "co najmniej 100 mm (pkt 3.7)"
+     ],
+     [
+      "Szczelność przewodu ssawnego",
+      "podciśnienie 0,07 MPa, spadek do 0,01 MPa w 1 min (pkt 4.9)",
+      "to samo (pkt 3.7)"
+     ],
+     [
+      "Czas napełnienia",
+      "z wodociągu 48 h (100 % do 100 m³, 50 % powyżej); z innych źródeł cały zbiornik w 72 h (pkt 4.11)",
+      "to samo (pkt 3.9)"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Kiedy doprowadza się drogę pożarową i jak ma przebiegać (§ 12)",
+   "text": "Droga pożarowa ma utwardzoną nawierzchnię i umożliwia dojazd pojazdów jednostek ochrony przeciwpożarowej o każdej porze roku (§ 12 ust. 1). Obiekty wymagające drogi wymienia tabela.\nDo budynków z pkt 1–4 droga biegnie wzdłuż dłuższego boku na całej długości, a gdy krótszy bok ma ponad 60 m, z dwóch stron. Bliższa krawędź jest 5–15 m od ściany obiektów ZL i 5–25 m od ściany pozostałych obiektów. Między drogą a ścianą nie może być stałych elementów zagospodarowania ani drzew i krzewów wyższych niż 3 m, które blokują podnośniki i drabiny (§ 12 ust. 2). Przy uzasadnionych warunkach lokalnych wystarczy dostęp do 30 % obwodu przy rozpiętości do 60 m, do 50 % obwodu przy rozpiętości powyżej 60 m albo do 100 % elewacji frontowej przy zabudowie pierzejowej (§ 12 ust. 3).\nDojścia i wyjątki:\n- wyjścia z obiektów z pkt 1–6 łączy się z drogą dojściem o szerokości co najmniej 1,5 m i długości do 50 m (§ 12 ust. 4); dla dźwigu dla ekip ratowniczych te 50 m obejmuje także drogę ewakuacyjną w budynku (§ 12 ust. 5);\n- § 12 ust. 2 i 3 nie stosuje się, gdy łącznie: w budynku o więcej niż 3 kondygnacjach każda klatka ewakuacyjna na kondygnacjach powyżej trzeciej do 25 m ma okno dla ekip ratowniczych (parapet do 90 cm, otwór co najmniej 110 cm × 60 cm) albo dotarcie do takiego okna poziomą drogą ewakuacyjną do 50 m; droga jest 5–10 m od rzutu okien bez przeszkód wyższych niż 3 m; okna są oznakowane (§ 12 ust. 6);\n- § 12 ust. 2 i 3 nie dotyczy budynku do 3 kondygnacji nadziemnych i do 12 m wysokości, jeśli wyjścia łączy z drogą utwardzone dojście o szerokości co najmniej 1,5 m i długości do 30 m (§ 12 ust. 7);\n- dojścia mogą biec przez budynek, ale nie przez strefę, do której mają zapewnić dostęp (§ 12 ust. 8).\nDrogę prowadzi się bez cofania albo kończy placem manewrowym 20 m × 20 m lub innym rozwiązaniem do zawracania (§ 12 ust. 9). Dopuszcza się odcinek do 15 m z wyjazdem tylko tyłem (§ 12 ust. 10). Promień zewnętrznego łuku wynosi co najmniej 11 m (§ 12 ust. 11). W miejscach innych niż z ust. 2 i 3 droga i plac mogą być bliżej niż 5 m od budynku, jeśli ściana na tym odcinku i do 5 m od niego ma klasę odporności ogniowej ściany oddzielenia pożarowego (§ 12 ust. 12). Obowiązek utrzymania dróg pożarowych w stanie umożliwiającym ich wykorzystanie przez pojazdy jednostek ochrony przeciwpożarowej mają właściciele lub zarządcy terenów na podstawie § 5 rozporządzenia MSWiA z 7.06.2010 (pyt. 43).",
+   "table": {
+    "head": [
+     "Obiekt",
+     "Warunek doprowadzenia drogi pożarowej",
+     "Podstawa"
+    ],
+    "rows": [
+     [
+      "Budynek ze strefą ZL I lub ZL II",
+      "zawsze",
+      "§ 12 ust. 1 pkt 1"
+     ],
+     [
+      "Budynek SW, W lub WW ze strefą ZL III, ZL IV lub ZL V",
+      "zawsze",
+      "§ 12 ust. 1 pkt 2"
+     ],
+     [
+      "Budynek ze strefą PM; strefa poza budynkiem (urządzenia technologiczne, plac składowy, wiata)",
+      "Q ponad 500 MJ/m² i co najmniej jedno: strefa ponad 1000 m² albo pomieszczenie zagrożone wybuchem",
+      "§ 12 ust. 1 pkt 3"
+     ],
+     [
+      "Budynek ze strefą PM o Q poniżej 500 MJ/m²",
+      "strefa ponad 20 000 m²",
+      "§ 12 ust. 1 pkt 4"
+     ],
+     [
+      "Budynek niski",
+      "strefa ZL III ponad 1000 m² obejmująca kondygnację nadziemną inną niż pierwsza albo strefa ZL V z ponad 50 miejscami noclegowymi",
+      "§ 12 ust. 1 pkt 5"
+     ],
+     [
+      "Obiekt niebędący budynkiem, użyteczności publicznej lub zamieszkania zbiorowego",
+      "ponad 50 osób jednocześnie w strefie pożarowej",
+      "§ 12 ust. 1 pkt 6"
+     ],
+     [
+      "Stanowisko czerpania wody do celów przeciwpożarowych",
+      "zawsze",
+      "§ 12 ust. 1 pkt 7"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Parametry drogi, przejazdy i wjazdy (§ 13–17)",
+   "text": "Szerokość co najmniej 4 m i nachylenie podłużne do 5 % obowiązują w miejscach z § 12 ust. 2 i 3 wraz z 10-metrowymi odcinkami dojazdu i wyjazdu oraz na 15 m od miejsc przy oknach dla ekip ratowniczych (§ 13 ust. 1). Nachylenie 5 % to 1 m w pionie na 20 m w poziomie (pyt. 533). Od terenu zależą nacisk osi na całej drodze i szerokość poza tymi miejscami (§ 13 ust. 2–3). Rozwiązania zamienne w zakresie dróg uzgadnia się z komendantem wojewódzkim PSP na wniosek właściciela (§ 13 ust. 4).\nNa teren wydzielony o powierzchni ponad 5 ha z obiektami z § 12 ust. 1 oraz na place targowe i wystawowe tej wielkości zapewnia się co najmniej dwa wjazdy oddalone od siebie o co najmniej 75 m; bramy wjazdowe spełniają warunki szerokości przejazdów z § 14 ust. 1 pkt 2 i ust. 2 (§ 16). Odległości 5–15 m od ściany obiektów ZL nie stosuje się do dróg istniejących w dniu wejścia rozporządzenia w życie, wykonanych według przepisów z czasu budowy (§ 17). Rozporządzenie weszło w życie 14 dni po ogłoszeniu (§ 19).",
+   "table": {
+    "head": [
+     "Element",
+     "Wymaganie",
+     "Podstawa"
+    ],
+    "rows": [
+     [
+      "Droga przy budynku (miejsca z § 12 ust. 2–3 i 10 m dojazdu)",
+      "szerokość co najmniej 4 m, nachylenie podłużne do 5 %",
+      "§ 13 ust. 1 pkt 1"
+     ],
+     [
+      "Droga przy oknach dla ekip ratowniczych",
+      "4 m i do 5 % na odcinku 15 m od miejsca doprowadzenia",
+      "§ 13 ust. 1 pkt 2"
+     ],
+     [
+      "W mieście i na działce obiektu z § 12 ust. 1 pkt 3 i 4",
+      "nacisk osi co najmniej 100 kN; szerokość w innych miejscach co najmniej 3,5 m",
+      "§ 13 ust. 2"
+     ],
+     [
+      "Pozostałe tereny",
+      "nacisk osi co najmniej 50 kN; szerokość w innych miejscach co najmniej 3 m",
+      "§ 13 ust. 3"
+     ],
+     [
+      "Przejazd na dziedziniec: wysokość",
+      "co najmniej 4,2 m; w budownictwie jednorodzinnym 3,2 m",
+      "§ 14 ust. 1 pkt 1"
+     ],
+     [
+      "Przejazd: szerokość",
+      "co najmniej 3,6 m, w tym jezdnia co najmniej 3 m",
+      "§ 14 ust. 1 pkt 2"
+     ],
+     [
+      "Odległość między przejazdami na jeden dziedziniec",
+      "do 150 m",
+      "§ 14 ust. 1 pkt 3"
+     ],
+     [
+      "Jezdnia oddzielona od chodników słupami lub ścianami",
+      "co najmniej 3,6 m",
+      "§ 14 ust. 2"
+     ],
+     [
+      "Przejazd będący stałym przejściem dla pieszych",
+      "dodatkowy chodnik co najmniej 1 m",
+      "§ 14 ust. 3"
+     ],
+     [
+      "Wiadukty, estakady, przejścia nad drogą",
+      "prześwit co najmniej 4,5 m wysokości i 4,5 m szerokości",
+      "§ 15"
+     ]
+    ]
+   }
+  }
+ ],
+ "keyValues": [
+  {
+   "label": "Jednostka osadnicza wymagająca wody do zewnętrznego gaszenia",
+   "value": "ponad 100 mieszkańców, jeśli nie jest zabudową kolonijną",
+   "ref": "§ 3 ust. 1 pkt 1"
+  },
+  {
+   "label": "Budynek użyteczności publicznej, zamieszkania zbiorowego lub obiekt PM poza taką jednostką",
+   "value": "kubatura brutto ponad 2500 m³ lub powierzchnia ponad 500 m²",
+   "ref": "§ 3 ust. 1 pkt 2"
+  },
+  {
+   "label": "Pozostałe obiekty budowlane",
+   "value": "co najmniej 10 dm³/s; w jednostce do 2000 mieszkańców co najmniej 5 dm³/s",
+   "ref": "§ 3 ust. 2–3"
+  },
+  {
+   "label": "Jednostka osadnicza do 2000 mieszkańców",
+   "value": "5 dm³/s albo 50 m³",
+   "ref": "zał., tabela nr 1 lp. 1"
+  },
+  {
+   "label": "Jednostka osadnicza ponad 100 000 mieszkańców",
+   "value": "60 dm³/s albo 600 m³",
+   "ref": "zał., tabela nr 1 lp. 6"
+  },
+  {
+   "label": "Uzupełniające źródło wody",
+   "value": "do 250 m od skrajnej zabudowy lub chronionego obiektu; studnia co najmniej 10 dm³/s, ciek co najmniej 20 dm³/s",
+   "ref": "§ 4 ust. 5"
+  },
+  {
+   "label": "Głębokość poboru ze studni lub z punktu czerpania przy zbiorniku albo cieku",
+   "value": "do 4 m od lustra wody do poziomu stanowiska czerpania",
+   "ref": "§ 4 ust. 6"
+  },
+  {
+   "label": "Budynek użyteczności publicznej lub zamieszkania zbiorowego do 5000 m³ i do 1000 m²",
+   "value": "10 dm³/s z co najmniej jednego hydrantu 80 mm albo 100 m³",
+   "ref": "§ 5 ust. 1 pkt 1"
+  },
+  {
+   "label": "Pozostałe budynki użyteczności publicznej i zamieszkania zbiorowego",
+   "value": "20 dm³/s z co najmniej dwóch hydrantów 80 mm albo 200 m³",
+   "ref": "§ 5 ust. 1 pkt 2"
+  },
+  {
+   "label": "Zbiornik uzupełniający przy budynku użyteczności publicznej lub zamieszkania zbiorowego",
+   "value": "10 m³ na 1 dm³/s brakującej wydajności, nie mniej niż 50 m³",
+   "ref": "§ 5 ust. 2"
+  },
+  {
+   "label": "Stacje paliw, gazu płynnego i gazu ziemnego",
+   "value": "10 dm³/s",
+   "ref": "§ 6 ust. 4"
+  },
+  {
+   "label": "Silosy i zasobniki z materiałami sypkimi, zbiorniki cieczy o temperaturze zapłonu ponad 100 °C",
+   "value": "10 dm³/s",
+   "ref": "§ 6 ust. 8"
+  },
+  {
+   "label": "Obiekty gospodarki rolnej",
+   "value": "co najmniej 10 dm³/s do 2000 m² strefy, co najmniej 15 dm³/s powyżej",
+   "ref": "§ 6 ust. 9"
+  },
+  {
+   "label": "Garaże (tabela nr 2)",
+   "value": "nie więcej niż 20 dm³/s",
+   "ref": "zał., tabela nr 2, przypis"
+  },
+  {
+   "label": "Zapas uzupełniający dla obiektu PM z tabeli nr 2",
+   "value": "brakująca wydajność × czas trwania pożaru, nie więcej niż 4 h",
+   "ref": "§ 6 ust. 10 pkt 1"
+  },
+  {
+   "label": "Zapas uzupełniający dla obiektów z § 6 ust. 4, 5 i 7–9",
+   "value": "10 m³ na 1 dm³/s brakującej wydajności",
+   "ref": "§ 6 ust. 10 pkt 2"
+  },
+  {
+   "label": "Zmniejszenie wody do zewnętrznego gaszenia przy SUG",
+   "value": "o 50 % przy tryskaczach, zraszaczach gaśniczych, mgłowych i działkach; o 75 % przy pianowych; łącznie nie mniej niż ilość do zewnętrznego gaszenia",
+   "ref": "§ 7 ust. 1 pkt 2–3"
+  },
+  {
+   "label": "Woda bytowo-gospodarcza w wodociągu wielofunkcyjnym",
+   "value": "ograniczona do 15 %",
+   "ref": "§ 7 ust. 2 pkt 2"
+  },
+  {
+   "label": "Minimalne parametry sieci przeciwpożarowej",
+   "value": "5 dm³/s i 0,1 MPa w hydrancie przez co najmniej 2 h",
+   "ref": "§ 9 ust. 2"
+  },
+  {
+   "label": "Średnice przewodów stalowych pod hydranty",
+   "value": "co najmniej DN 100 w sieci obwodowej, DN 125 w rozgałęzieniowej, DN 80 przy rozbudowie lub modernizacji wodociągu 5 dm³/s w jednostce do 2000 mieszkańców",
+   "ref": "§ 9 ust. 7"
+  },
+  {
+   "label": "Hydranty nadziemne DN 100",
+   "value": "obiekty PM ponad 30 dm³/s, zakłady rafineryjne i petrochemiczne, przewód magistralny",
+   "ref": "§ 10 ust. 3"
+  },
+  {
+   "label": "Rozmieszczenie hydrantów",
+   "value": "między hydrantami do 150 m, do 15 m od zewnętrznej krawędzi jezdni, najbliższy do 75 m od obiektu, pozostałe wymagane do 150 m, co najmniej 5 m od ściany",
+   "ref": "§ 10 ust. 6"
+  },
+  {
+   "label": "Wydajność hydrantu przy 0,2 MPa",
+   "value": "nadziemny DN 80 i podziemny DN 80: co najmniej 10 dm³/s; nadziemny DN 100: co najmniej 15 dm³/s",
+   "ref": "§ 10 ust. 8"
+  },
+  {
+   "label": "Maksymalne ciśnienie hydrostatyczne w sieci",
+   "value": "1,6 MPa",
+   "ref": "§ 10 ust. 11"
+  },
+  {
+   "label": "Zbiornik przeciwpożarowy wg normy",
+   "value": "co najmniej 50 m³, do 250 m od obiektu, wysokość ssania do 5,0 m",
+   "ref": "PN-B-02857:2017-04 pkt 4.2, 4.3, 4.4.1"
+  },
+  {
+   "label": "Stanowisko czerpania wody wg normy",
+   "value": "postój co najmniej 4 m × 12 m, do 2 m od punktu poboru, co najmniej 8 m (16 m) od obiektu",
+   "ref": "PN-B-02857:2017-04 pkt 4.5"
+  },
+  {
+   "label": "Droga pożarowa przy budynku: odległość bliższej krawędzi od ściany",
+   "value": "5–15 m dla obiektów ZL, 5–25 m dla pozostałych",
+   "ref": "§ 12 ust. 2"
+  },
+  {
+   "label": "Zawracanie i łuki",
+   "value": "plac 20 m × 20 m, ślepy odcinek do 15 m, promień zewnętrznego łuku co najmniej 11 m",
+   "ref": "§ 12 ust. 9–11"
+  },
+  {
+   "label": "Szerokość i nośność drogi pożarowej",
+   "value": "przy budynku co najmniej 4 m i nachylenie do 5 %; w mieście i na działce obiektów z § 12 ust. 1 pkt 3–4 nacisk osi co najmniej 100 kN i szerokość w innych miejscach co najmniej 3,5 m; gdzie indziej 50 kN i 3 m",
+   "ref": "§ 13 ust. 1–3"
+  },
+  {
+   "label": "Przejazdy i prześwity",
+   "value": "wysokość co najmniej 4,2 m (3,2 m jednorodzinne), szerokość co najmniej 3,6 m (jezdnia co najmniej 3 m), prześwit pod estakadą co najmniej 4,5 m × 4,5 m",
+   "ref": "§ 14 ust. 1, § 15"
+  }
+ ],
+ "traps": [
+  "Zapas w zbiorniku dla obiektu PM z tabeli nr 2 to brakująca wydajność razy czas trwania pożaru, ale najwyżej 4 h: przy 30 dm³/s wymaganych i 10 dm³/s z wodociągu wychodzi 20 dm³/s × 4 h = 288 m³, a nie 432 m³ dla 6 h; przy 40 dm³/s wymaganych brakuje 30 dm³/s, co daje 432 m³ (§ 6 ust. 10 pkt 1; pyt. 112, 159).",
+  "Przelicznik 10 m³ na 1 dm³/s brakującej wydajności dotyczy budynków użyteczności publicznej i zamieszkania zbiorowego (z minimum 50 m³) oraz obiektów z § 6 ust. 4, 5 i 7–9, nie stref PM z tabeli nr 2; hotelowi z siecią 17 dm³/s zamiast 20 dm³/s potrzeba 50 m³, a nie 30 m³ (§ 5 ust. 2, § 6 ust. 10 pkt 2; pyt. 327).",
+  "Do budynku ze strefą PM o gęstości obciążenia ogniowego poniżej 500 MJ/m² drogę pożarową doprowadza się tylko przy strefie ponad 20 000 m²; pomieszczenie zagrożone wybuchem liczy się dopiero przy Q ponad 500 MJ/m², więc hala 12 000 m² z Q 400 MJ/m² drogi nie wymaga (§ 12 ust. 1 pkt 3–4; pyt. 204, 391, 491).",
+  "Próg 20 000 m² dotyczy tylko budynków; strefa poza budynkiem (plac składowy, wiata, urządzenia technologiczne) wymaga drogi przy Q ponad 500 MJ/m² i powierzchni ponad 1000 m² albo pomieszczeniu zagrożonym wybuchem, a samo zagrożenie wybuchem przy Q do 500 MJ/m² nie wystarcza (§ 12 ust. 1 pkt 3; pyt. 339, 430).",
+  "Powierzchnię strefy liczy się jako powierzchnię wewnętrzną, więc strefa PM o powierzchni wewnętrznej 980 m² i całkowitej 1020 m², bez pomieszczeń zagrożonych wybuchem, nie wymaga drogi pożarowej mimo Q 4000 MJ/m² (§ 12 ust. 1 pkt 3 lit. a; WT § 226 ust. 3; pyt. 484).",
+  "Stacja gazu ziemnego (tak jak stacja paliw i gazu płynnego) ma stałe 10 dm³/s; tyle samo ma zbiornik cieczy o temperaturze zapłonu ponad 100 °C bez względu na zajmowaną powierzchnię, bo tabela nr 4 obejmuje tylko ciecze o temperaturze zapłonu do 100 °C (§ 6 ust. 4, 7 i 8; pyt. 358, 305).",
+  "Przy urządzeniu pianowym wodę do zewnętrznego gaszenia zmniejsza się o 75 %, ale łącznie nie mniej niż ilość do zewnętrznego gaszenia: 60 dm³/s z tabeli nr 2, z czego 20 dm³/s daje własny zbiornik urządzenia, oznacza 40 dm³/s z sieci hydrantowej, a nie 15 dm³/s (§ 7 ust. 1 pkt 3; pyt. 338).",
+  "Na magistralnym przewodzie przeciwpożarowym stosuje się hydranty nadziemne DN 100; DN 100 lub DN 150 z wydajnością co najmniej 20 dm³/s to hydranty do intensywnego czerpania na sieciach co najmniej DN 250 (§ 10 ust. 3 i 9; pyt. 303, 341).",
+  "Według PN-B-02857:2017-04 stanowisko postojowe przy zbiorniku ma co najmniej 4 m × 12 m; wymiar 20 × 20 m pochodzi z wycofanego wydania z 1982 r. (PN-B-02857:2017-04 pkt 4.5; PN-B-02857:1982 pkt 3.4; pyt. 121).",
+  "Pobór co najmniej 1200 dm³/min każdym przewodem ssawnym to 20 dm³/s i nie zależy od pojemności zbiornika (PN-B-02857:2017-04 pkt 4.8; pyt. 429).",
+  "Poza zbiornikami do 150 m³ jeden przewód ssawny (co najmniej 150 mm, z dwiema nasadami 110) dopuszcza się tylko w zbiorniku naziemnym do 300 m³ pracującym z napływem; dla zbiornika ponad 300 m³ norma takiego rozwiązania nie przewiduje (PN-B-02857:2017-04 pkt 4.9; pyt. 309, 352).",
+  "Stanowisko czerpania może być 8 m od budynku, ale co najmniej 16 m, gdy ściana w pasie 16 m od strony stanowiska nie ma klasy co najmniej E 15 (tak podaje OCR normy; do sprawdzenia w normie); budynek w klasie odporności pożarowej E nie ma wymagań dla ścian zewnętrznych, więc dla jednokondygnacyjnego magazynu w klasie E (2000 m², Q 1000 MJ/m²) obowiązuje 16 m (PN-B-02857:2017-04 pkt 4.5; WT § 216 ust. 1; pyt. 367, 542)."
+ ],
+ "oral": [
+  {
+   "q": "Kazus: projekt hotelu w mieście o pięciu kondygnacjach nadziemnych, kubaturze brutto 18 000 m³, powierzchni wewnętrznej 5000 m² i 120 miejscach noclegowych. Hydranty na sieci miejskiej dają 17 dm³/s. Oceń zaopatrzenie w wodę do zewnętrznego gaszenia i drogę pożarową.",
+   "points": [
+    "Hotel to budynek zamieszkania zbiorowego w jednostce osadniczej, więc woda do zewnętrznego gaszenia jest wymagana (§ 3 ust. 1 pkt 1).",
+    "Budynek przekracza 5000 m³ i 1000 m², więc potrzeba 20 dm³/s z co najmniej dwóch hydrantów 80 mm albo 200 m³ w zbiorniku (§ 5 ust. 1 pkt 2).",
+    "Brakuje 3 dm³/s; zbiornik uzupełniający to 10 m³ na 1 dm³/s, ale nie mniej niż 50 m³, więc 50 m³ (§ 5 ust. 2; pyt. 327). Norma też wymaga co najmniej 50 m³ (PN-B-02857:2017-04 pkt 4.3).",
+    "Najbliższy hydrant do 75 m od budynku, kolejne do 150 m, każdy co najmniej 5 m od ściany i do 15 m od krawędzi jezdni (§ 10 ust. 6).",
+    "Grupę wysokości ustala się według WT § 8 (przepisy odniesienia). Budynek średniowysoki ze strefą ZL V wymaga drogi z § 12 ust. 1 pkt 2, a niski z ponad 50 miejscami noclegowymi z § 12 ust. 1 pkt 5 lit. b.",
+    "Przy budynku średniowysokim droga biegnie wzdłuż dłuższego boku 5–15 m od ściany, a z dwóch stron, gdy krótszy bok ma ponad 60 m (§ 12 ust. 2). Ten wymóg dotyczy tylko budynków z § 12 ust. 1 pkt 1–4, więc dla budynku niskiego z pkt 5 wystarczy doprowadzenie drogi i dojścia do 50 m (§ 12 ust. 4).",
+    "Przy budynku: szerokość co najmniej 4 m i nachylenie do 5 % (§ 13 ust. 1); w mieście nacisk osi co najmniej 100 kN i szerokość w innych miejscach co najmniej 3,5 m (§ 13 ust. 2)."
+   ]
+  },
+  {
+   "q": "Kazus: budynek magazynowy stanowiący jedną strefę pożarową PM o gęstości obciążenia ogniowego 4500 MJ/m² i powierzchni 5500 m². Rozważ dwa warianty: urządzenie gaśnicze pianowe zużywające 1200 dm³/min z własnego zbiornika oraz urządzenie tryskaczowe 8000 dm³/min przez 90 min z odrębnego zbiornika. Ile wody muszą dać hydranty zewnętrzne lub zbiornik do zewnętrznego gaszenia?",
+   "points": [
+    "Z tabeli nr 2 (Q ponad 4000 MJ/m², strefa ponad 5000 m²) wynika 60 dm³/s (§ 6 ust. 3).",
+    "Wariant pianowy: urządzenie 1200 dm³/min to 20 dm³/s, a 25 % z 60 dm³/s to 15 dm³/s; razem 35 dm³/s, ale łącznie nie mniej niż 60 dm³/s, więc sieć hydrantowa musi dać 40 dm³/s (§ 7 ust. 1 pkt 3; pyt. 338).",
+    "Wariant tryskaczowy: zewnętrzne gaszenie zmniejsza się o 50 %, łącznie nie mniej niż ilość do zewnętrznego gaszenia (§ 7 ust. 1 pkt 2).",
+    "Zapas zbiornikowy dla strefy PM to brakująca wydajność wodociągu razy czas trwania pożaru, najwyżej 4 h (§ 6 ust. 10 pkt 1). Czas ustala się według PN-B-02852, której tekstu nie ma w korpusie; odpowiedzi w pyt. 371 odpowiadają 4 h: 60 dm³/s × 4 h = 864 m³, połowa to 432 m³.",
+    "Kontrola: tryskacze 8000 dm³/min × 90 min = 720 m³; 720 m³ + 432 m³ = 1152 m³, czyli więcej niż 864 m³, więc warunek minimum jest spełniony (pyt. 371).",
+    "Przy wymaganych ponad 30 dm³/s stosuje się hydranty nadziemne DN 100 (§ 10 ust. 3), sieć obwodową zasila się w dwóch punktach oddalonych o co najmniej 1/4 obwodu (§ 9 ust. 5), a pompy w pompowni przeciwpożarowej mają dwa odrębne źródła energii (§ 11 ust. 2)."
+   ]
+  },
+  {
+   "q": "Kazus: hala produkcyjna o powierzchni 12 000 m², jedna strefa PM, gęstość obciążenia ogniowego 400 MJ/m², z pomieszczeniem zagrożonym wybuchem, na terenie zakładu o powierzchni 7 ha. Czy wymagana jest droga pożarowa, a jeśli inwestor podniesie Q do 600 MJ/m², jakie parametry musi ona mieć?",
+   "points": [
+    "Przy Q do 500 MJ/m² pomieszczenie zagrożone wybuchem nie wystarcza, bo § 12 ust. 1 pkt 3 wymaga Q ponad 500 MJ/m²; przy Q poniżej 500 MJ/m² droga jest wymagana dopiero przy strefie ponad 20 000 m² (§ 12 ust. 1 pkt 4; pyt. 491).",
+    "Przy Q 600 MJ/m² droga jest wymagana, bo strefa ma ponad 1000 m² i jest pomieszczenie zagrożone wybuchem (§ 12 ust. 1 pkt 3).",
+    "Droga biegnie wzdłuż dłuższego boku, 5–25 m od ściany (obiekt nie jest ZL), z dwóch stron, jeśli krótszy bok ma ponad 60 m, i bez przeszkód wyższych niż 3 m (§ 12 ust. 2).",
+    "Przy budynku szerokość co najmniej 4 m i nachylenie do 5 % wraz z 10-metrowymi dojazdami; na działce nacisk osi co najmniej 100 kN i szerokość w innych miejscach co najmniej 3,5 m (§ 13 ust. 1–2).",
+    "Przejazd bez cofania albo plac 20 m × 20 m; ślepy odcinek do 15 m; promień zewnętrznego łuku co najmniej 11 m (§ 12 ust. 9–11). Estakady nad drogą: prześwit co najmniej 4,5 m × 4,5 m (§ 15; pyt. 81).",
+    "Teren ponad 5 ha wymaga co najmniej dwóch wjazdów oddalonych o co najmniej 75 m (§ 16 ust. 1).",
+    "Woda: przy Q 400 MJ/m² tabela nr 2 daje 30 dm³/s (wiersz 200–500, strefa ponad 5000 m²), przy Q 600 MJ/m² 40 dm³/s (wiersz 500–1000). Ponad 20 dm³/s oznacza jednoczesny pobór z dwóch sąsiednich hydrantów (§ 9 ust. 6) i dwa źródła energii dla pomp w pompowni (§ 11 ust. 2); dopiero ponad 30 dm³/s, czyli w wariancie Q 600, hydranty nadziemne DN 100 i zasilanie sieci obwodowej w dwóch punktach (§ 10 ust. 3, § 9 ust. 5)."
+   ]
+  },
+  {
+   "q": "Sprawdź projekt podziemnego przeciwpożarowego zbiornika wodnego o pojemności 432 m³ dla magazynu, usytuowanego pod placem manewrowym, 200 m od budynku, ze stanowiskiem czerpania 10 m od ściany. Na co zwrócisz uwagę według PN-B-02857:2017-04?",
+   "points": [
+    "Pojemność co najmniej 50 m³ i odległość do 250 m od obiektu są spełnione; dojazd do 350 m od stanowiska do punktu przyjęcia sił położonego do 30 m od obiektu (pkt 4.3, 4.4.1).",
+    "Pod placem z ruchem pojazdów strop musi przenosić pojazdy o masie całkowitej co najmniej 20 t (pkt 4.4.2).",
+    "Ponad 300 m³ wymaga co najmniej trzech przewodów ssawnych, każdy co najmniej 100 mm i do 10 m długości przy pracy ze ssaniem (pkt 4.9). Stanowisko czerpania lokalizuje się przy każdej nasadzie ssawnej (pkt 4.5); wycofana PN-B-02857:1982 wymagała przy zbiorniku od 200 m³ co najmniej dwóch stanowisk (pkt 3.4 wydania 1982, zastąpionego przez PN-B-02857:2017-04; pyt. 474).",
+    "Stanowisko postojowe co najmniej 4 m × 12 m, do 2 m od punktu poboru, z utwardzoną i odwodnioną nawierzchnią spełniającą wymagania dla dróg pożarowych (pkt 4.5). Droga pożarowa musi być doprowadzona do stanowiska (§ 12 ust. 1 pkt 7).",
+    "10 m od ściany wystarcza tylko wtedy, gdy nie zachodzi przypadek 16 m: ściana bez E 15 w pasie 16 m (klasa według OCR, do sprawdzenia w normie) albo strefa przy stanowisku ponad 1000 m² i ponad 2000 MJ/m². Inaczej trzeba odsunąć stanowisko na co najmniej 16 m albo wykonać niezależną konstrukcyjnie ścianę oddzielenia przeciwpożarowego co najmniej REI-M 120 (pkt 4.5).",
+    "Wysokość ssania do 5,0 m (pkt 4.2); studzienka ssawna co najmniej 1200 dm³/min na przewód, średnica co najmniej 1 m (pkt 4.8).",
+    "Napełnienie z wodociągu: 50 % w 48 h (ponad 100 m³), z innego źródła cały zbiornik w 72 h (pkt 4.11); oznakowanie fotoluminescencyjne z pojemnością i tablica z odległością (pkt 4.13); konserwacja według PN-EN 12845 (pkt 5)."
+   ]
+  },
+  {
+   "q": "Kazus: przy dłuższym boku (45 m) wysokiego budynku biurowego biegnie jezdnia asfaltowa o szerokości 15 m, której bliższa krawędź jest 2 m od ściany z oknami. Czy może być uznana za drogę pożarową i jakie rozwiązania przepisy dopuszczają?",
+   "points": [
+    "Budynek wysoki ze strefą ZL III wymaga drogi pożarowej (§ 12 ust. 1 pkt 2), biegnącej wzdłuż dłuższego boku z bliższą krawędzią 5–15 m od ściany (§ 12 ust. 2).",
+    "Zbliżenie na mniej niż 5 m przy ścianie z klasą ściany oddzielenia pożarowego (§ 12 ust. 12) dotyczy tylko miejsc innych niż te z § 12 ust. 2 i 3, więc nie pomoże wzdłuż elewacji dostępowej.",
+    "O to pytano w pyt. 66: przy jezdni szerokiej na 15 m pas o szerokości co najmniej 4 m (§ 13 ust. 1) może leżeć w przedziale 5–15 m od ściany. To wykładnia, a nie dosłowne brzmienie § 12 ust. 2, więc przed komisją trzeba ją uzasadnić.",
+    "Alternatywy: dostęp do 30 % lub 50 % obwodu albo 100 % elewacji frontowej przy uzasadnionych warunkach lokalnych, ale przy spełnieniu pozostałych wymagań ust. 2, także odległości 5–15 m (§ 12 ust. 3); okna dla ekip ratowniczych na kondygnacjach powyżej trzeciej do wysokości 25 m, z drogą 5–10 m od ich rzutu (§ 12 ust. 6).",
+    "W ostateczności rozwiązanie zamienne na wniosek właściciela, uzgodnione z komendantem wojewódzkim PSP (§ 13 ust. 4).",
+    "Dla drogi istniejącej, wykonanej zgodnie z przepisami z czasu budowy, nie stosuje się wymogu odległości 5–15 m od obiektów ZL (§ 17)."
+   ]
+  },
+  {
+   "q": "Gmina projektuje sieć wodociągową dla nowego osiedla w mieście liczącym 8000 mieszkańców. Jakie wymagania przeciwpożarowe musi spełnić sieć i hydranty?",
+   "points": [
+    "Jednostka 5001–10 000 mieszkańców: 15 dm³/s albo 150 m³ w zbiorniku (tabela nr 1). Osiedle można liczyć odrębnie, jeśli oddziela je pas niezabudowanego terenu co najmniej 100 m (§ 4 ust. 2).",
+    "Zasilanie zapewniające wydajność i ciśnienie w hydrantach, nawet niekorzystnie ulokowanych, przez co najmniej 2 h; minimum 5 dm³/s i 0,1 MPa (§ 9 ust. 1–2).",
+    "W mieście sieć obwodowa; rozgałęzieniowa tylko tam, gdzie łączna wymagana ilość wody nie przekracza 20 dm³/s (§ 9 ust. 3; pyt. 451). Wodociąg wielofunkcyjny liczy też wodę bytową do 15 % i przemysłową (§ 7 ust. 2).",
+    "Przewody stalowe pod hydranty: co najmniej DN 100 w obwodowej, DN 125 w rozgałęzieniowej, inne materiały o równoważnej średnicy wewnętrznej (§ 9 ust. 7–8).",
+    "Hydranty nadziemne DN 80, podziemne tylko gdy nadziemne są szczególnie utrudnione lub niewskazane; między hydrantami do 150 m, do 15 m od krawędzi jezdni; co najmniej 10 dm³/s przy 0,2 MPa (§ 10 ust. 1, 2, 6, 8).",
+    "Ciśnienie hydrostatyczne do 1,6 MPa (§ 10 ust. 11); oznakowanie według PN (§ 10 ust. 12); przegląd i konserwacja co najmniej raz w roku przez właściciela sieci (§ 10 ust. 13).",
+    "Na przewodach co najmniej DN 250 instaluje się hydranty nadziemne do intensywnego czerpania DN 100 lub DN 150 o wydajności co najmniej 20 dm³/s; potrzebę ich instalowania określa PSP przy opiniowaniu projektów studium i miejscowych planów (§ 10 ust. 9–10)."
+   ]
+  },
+  {
+   "q": "Właściciel zakładu na terenie bez wodociągu nie może zapewnić wymaganej ilości wody ani drogi pożarowej spełniającej § 12–13. Jakie ścieżki przewiduje rozporządzenie i kto w nich decyduje?",
+   "points": [
+    "Uzupełniające źródła do 250 m: studnia co najmniej 10 dm³/s, punkt czerpania przy zbiorniku lub cieku co najmniej 20 dm³/s, zbiornik według PN; pobór z głębokości do 4 m i zabezpieczenie przed wpadnięciem (§ 4 ust. 5–7).",
+    "Dla obiektów PM zapas w zbiornikach przystosowanych do poboru pompami: brak razy czas trwania pożaru do 4 h albo 10 m³ na 1 dm³/s, zależnie od rodzaju obiektu (§ 6 ust. 10); można też korzystać ze studni lub cieku (§ 6 ust. 11).",
+    "Zastępcze źródło na czas określony dopuszcza komendant powiatowy (miejski) PSP na wniosek właściciela; musi ono pozwalać na działania siłami najbliższej jednostki (§ 8 ust. 1–2).",
+    "Rozwiązania zamienne w zakresie wody i w zakresie dróg pożarowych uzgadnia komendant wojewódzki PSP, na wniosek właściciela, przy niepogorszeniu warunków ochrony (§ 8 ust. 3, § 13 ust. 4).",
+    "Właściciel lub zarządca terenu utrzymuje znajdujące się na nim drogi pożarowe w stanie umożliwiającym ich wykorzystanie przez pojazdy jednostek ochrony przeciwpożarowej (§ 5 rozporządzenia MSWiA z 7.06.2010)."
+   ]
+  }
+ ],
+ "selfCheck": [
+  "Dlaczego przy obiekcie PM z tabeli nr 2 zapas uzupełniający liczy się przez czas trwania pożaru, a nie przelicznikiem 10 m³ na 1 dm³/s, i jaka jest górna granica tego czasu (§ 6 ust. 10)?",
+  "Jak liczy się wodę dla budynku użyteczności publicznej, w którego strefie pożarowej są pomieszczenia magazynowe, i jaką powierzchnię przyjmuje się do tabeli nr 2 (§ 5 ust. 3)?",
+  "Kiedy ilość wody można ustalić odrębnie dla dzielnicy lub osiedla i jaki drzewostan dopuszcza się w pasie oddzielającym (§ 4 ust. 2)?",
+  "Co oznaczają progi 20 dm³/s i 30 dm³/s w § 9 ust. 3, 5 i 6, § 10 ust. 3 i § 11 ust. 2?",
+  "Do których budynków z § 12 ust. 1 stosuje się przebieg drogi wzdłuż dłuższego boku z § 12 ust. 2, a dla których wystarcza doprowadzenie drogi i dojście z § 12 ust. 4?",
+  "Jakie trzy warunki muszą być spełnione łącznie, aby dzięki oknom dla ekip ratowniczych odstąpić od § 12 ust. 2 i 3, i czy okno musi być w każdej klatce (§ 12 ust. 6; pyt. 392)?",
+  "Gdzie obowiązuje szerokość 4 m i nachylenie do 5 %, a gdzie wystarcza 3,5 m lub 3 m (§ 13 ust. 1–3)?",
+  "Ile przewodów ssawnych i stanowisk czerpania wymaga zbiornik ponad 300 m³ według PN-B-02857:2017-04 (pkt 4.5, 4.9), a ile stanowisk wymagało wydanie z 1982 r. (pkt 3.4)?",
+  "Jak norma traktuje głębokość zbiornika niezabezpieczonego przed zamarzaniem: co mówi pkt 4.2, co dodaje pkt 4.3 i o którą z tych wartości pyta pyt. 175?",
+  "Które wartości PN-B-02857 zmieniły się między wydaniem z 1982 r. a wydaniem z 2017 r. (wymiary stanowiska, odległość od obiektu i od punktu poboru, wysokość ssania)?"
+ ]
+}

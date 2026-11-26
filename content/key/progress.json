@@ -61,6 +61,31 @@
       "drawingFixes": 12,
       "note": "Pierwszy przebieg z dwoma zdającymi i sceptykiem. Żaden zdający nie wskazał K05 u10 (ślepy korytarz: limit 10 m liczony tylko dla ślepego odcinka; klucz trzyma się brzmienia § 256 ust. 3). Sceptyk: K04 dojście przez klatkę ok. 40 m i HZ2 36,5 m; K05 zasięgi hydrantów z geometrii, usunięte wyjście w ścianie zachodniej, odsunięcie drzwi sali 0.15; K06 cytat § 3 ust. 2 bez „nie” (odwrócony sens), wyjątki § 211 ust. 2, § 3 ust. 3a, odporność u1 na § 210. Niepewne: K04 u6 (drzewa uniemożliwiające dostęp), K05 u10 (odnośnik do § 256 ust. 3), K06 u3 (40 m z § 278 ust. 2 dla każdego garażu zamkniętego).",
       "tokens": 7174208
+    },
+    "H": {
+      "date": "2026-11-26",
+      "questions": 55,
+      "confirmed": 55,
+      "skipped": 0,
+      "disputed": 2,
+      "skepticChangedAns": 0,
+      "skepticFixedExpl": 7,
+      "conf": {
+        "wysoka": 40,
+        "średnia": 13,
+        "niska": 2
+      },
+      "changedVsOldKey": 19,
+      "lessons": [
+        "T09"
+      ],
+      "flashcards": 40,
+      "norms": [
+        "PN-B-02857:2017-04 (OCR skanu)",
+        "PN-B-02857:1982 (wycofana)"
+      ],
+      "note": "Pierwszy blok ze sceptykiem: żadnej odpowiedzi nie obalił, poprawił 7 wyjaśnień (m.in. 29 – odwrócone rozumowanie o promieniu łuku, 367 – klasa E ściany a 16 m, 170 – 150 m między punktami alarmowymi). Niepewne: 175 (głębokość 2 m czy 3 m przy zamarzaniu) i 194 (żadna opcja nie powtarza § 12 ust. 5); 371, 474, 529 zależą od wykresu PN-B-02852 spoza korpusu.",
+      "tokens": 1966294
     }
   }
 }
