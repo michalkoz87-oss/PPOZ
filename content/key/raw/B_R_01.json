@@ -9,7 +9,7 @@
   "topic": "U6",
   "basis": "PN-EN 12101-6:2007 pkt 11.7.2.3 (wyposażenie rezerwowe systemów różnicowania ciśnień)",
   "src": "normy/PN-EN_12101-6_2007_projekt_WYCOFANA.txt",
-  "quote": "budynku (np. dwie klatki schodowe, na które moŜna wejść z kaŜdej kondygnacji), nie jest wymagane",
+  "quote": "budynku (np. dwie klatki schodowe, na które można wejść z każdej kondygnacji), nie jest wymagane",
   "expl": "Wg pkt 11.7.2.3 normy kompletny duplikat wentylatora z silnikiem jest wymagany, gdy system chroni jedyną drogę ewakuacyjną w budynku; gdy z każdego pomieszczenia są dwie niezależne drogi (np. dwie klatki dostępne z każdej kondygnacji), wyposażenia rezerwowego nie wymaga się. Wysokość 165 m nie zmienia tego kryterium, a odpowiedź „co najmniej w jednej klatce” wynika z błędnego odczytania zdania, że nie jest wymagane wyposażenie rezerwowe „dla każdej drogi ewakuacyjnej”.",
   "norms": [
    "PN-EN 12101-6"
@@ -67,7 +67,7 @@
   "topic": "H1",
   "basis": "§ 3 ust. 1 pkt 2 rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
   "src": "akty/woda_drogi_2009.txt",
-  "quote": "2 500 m3 lub o powierzchni przekraczajàcej",
+  "quote": "2 500 m3 lub o powierzchni przekraczającej",
   "expl": "Poza jednostkami osadniczymi woda do zewnętrznego gaszenia jest wymagana dla budynków użyteczności publicznej i zamieszkania zbiorowego o kubaturze brutto przekraczającej 2500 m3 lub powierzchni przekraczającej 500 m2. Hotel ma kubaturę równą 2500 m3 (nie przekracza progu) i 450 m2, więc obowiązku nie ma. Wartości 10 i 20 dm3/s to ilości wody z § 5 ust. 1, stosowane dopiero wtedy, gdy obowiązek istnieje.",
   "norms": []
  },
@@ -81,7 +81,7 @@
   "topic": "U1",
   "basis": "PKN-CEN/TS 54-14:2006 zał. A: A.6.5.1 a) i f), tablica A.1 (obliczenie)",
   "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
-  "quote": "Stropy z wykształceniami o wysokoś ci mniejszej ni Ŝ  5 % wysokoś ci pomieszczenia powinny być  traktowane",
+  "quote": "Stropy z wykształceniami o wysokoś ci mniejszej ni ż  5 % wysokoś ci pomieszczenia powinny być  traktowane",
   "expl": "Belki niższe niż 5 % wysokości pomieszczenia (0,05 × 4,5 m = 0,225 m) traktuje się jak strop płaski, więc belki 0,21 m nie dzielą sufitu na pola. Przy promieniu działania punktowej czujki dymu 7,5 m pomieszczenie 30 × 20 m pokrywa siatka 3 × 2 czujek (pola 10 × 10 m, maks. odległość 7,07 m); 5 czujek nie wystarczy (wymagałyby promienia ok. 8,1 m), a 5 lub 10 wynika z błędnego potraktowania belek jak ścian.",
   "norms": [
    "PKN-CEN/TS 54-14"
@@ -139,7 +139,7 @@
   "topic": "U1",
   "basis": "PKN-CEN/TS 54-14:2006 zał. A: A.6.5.1 a) i f), tablica A.1 (obliczenie)",
   "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
-  "quote": "Stropy z wykształceniami o wysokoś ci mniejszej ni Ŝ  5 % wysokoś ci pomieszczenia powinny być  traktowane",
+  "quote": "Stropy z wykształceniami o wysokoś ci mniejszej ni ż  5 % wysokoś ci pomieszczenia powinny być  traktowane",
   "expl": "Belki 0,2 m są niższe niż 5 % wysokości sali (0,225 m), więc sufit traktuje się jak płaski i belki nie tworzą osobnych pól. Przy promieniu 7,5 m dwie czujki w osi sali 24 × 6 m (co 12 m) obejmują każdy punkt w odległości najwyżej 6,7 m, a jedna czujka nie sięga narożników (12,4 m). Odpowiedź „3 czujki” zakłada błędnie, że każde z 3 pól między belkami wymaga osobnej czujki.",
   "norms": [
    "PKN-CEN/TS 54-14"
@@ -323,7 +323,7 @@
   "topic": "H1",
   "basis": "§ 3 ust. 1 pkt 2 rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
   "src": "akty/woda_drogi_2009.txt",
-  "quote": "2 500 m3 lub o powierzchni przekraczajàcej",
+  "quote": "2 500 m3 lub o powierzchni przekraczającej",
   "expl": "Poza jednostkami osadniczymi obowiązek dotyczy budynków użyteczności publicznej i zamieszkania zbiorowego o kubaturze brutto ponad 2500 m3 lub powierzchni ponad 500 m2. Nawet po zsumowaniu obu obiektów (400 + 2050 = 2450 m3; 145 + 350 = 495 m2) żaden próg nie jest przekroczony, więc woda do zewnętrznego gaszenia nie jest wymagana. 10 i 20 dm3/s to ilości z § 5, które stosuje się dopiero przy istniejącym obowiązku.",
   "norms": []
  },
@@ -337,7 +337,7 @@
   "topic": "U6",
   "basis": "PN-EN 12101-6:2007 pkt 11.7.2.3 (wyposażenie rezerwowe systemów różnicowania ciśnień)",
   "src": "normy/PN-EN_12101-6_2007_projekt_WYCOFANA.txt",
-  "quote": "budynku (np. dwie klatki schodowe, na które moŜna wejść z kaŜdej kondygnacji), nie jest wymagane",
+  "quote": "budynku (np. dwie klatki schodowe, na które można wejść z każdej kondygnacji), nie jest wymagane",
   "expl": "Wg pkt 11.7.2.3 normy kompletny duplikat wentylatora z silnikiem jest wymagany, gdy system chroni jedyną drogę ewakuacyjną w budynku; gdy z każdego pomieszczenia są dwie niezależne drogi (np. dwie klatki dostępne z każdej kondygnacji), wyposażenia rezerwowego nie wymaga się. Wysokość 165 m nie zmienia tego kryterium, a odpowiedź „co najmniej w jednej klatce” wynika z błędnego odczytania zdania, że nie jest wymagane wyposażenie rezerwowe „dla każdej drogi ewakuacyjnej”.",
   "norms": [
    "PN-EN 12101-6"

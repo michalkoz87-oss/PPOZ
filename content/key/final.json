@@ -153,13 +153,13 @@
 "34": {
 "ans": "b",
 "ansNow": "=",
-"conf": "wysoka",
+"conf": "średnia",
 "stan": "nieustalone",
 "stanNote": "Pytanie opiera się na wycofanym wydaniu PN-EN 12101-6:2007 (EN 12101-6:2005); obecnie obowiązują PN-EN 12101-6:2022-09 i PN-EN 12101-13:2022-09 (projektowanie SRC) – treści aktualnych wydań w zakresie wyposażenia rezerwowego nie sprawdzono.",
 "topic": "U6",
 "basis": "pkt 11.7.2.3 PN-EN 12101-6:2007 (EN 12101-6:2005)",
-"quote": "budynku (np. dwie klatki schodowe, na które moŜna wejść z kaŜdej kondygnacji), nie jest wymagane",
-"expl": "Wg pkt 11.7.2.3 normy kompletny duplikat wentylatora z silnikiem jest wymagany, gdy system różnicowania ciśnień chroni jedyną drogę ewakuacyjną. Jeżeli z każdego miejsca są dwie niezależne drogi ewakuacyjne (dwie klatki dostępne z każdej kondygnacji), wyposażenie rezerwowe nie jest wymagane – wysokość budynku (165 m) tej reguły normy nie zmienia, więc a i c są błędne.",
+"quote": "budynku (np. dwie klatki schodowe, na które można wejść z każdej kondygnacji), nie jest wymagane",
+"expl": "Wg pkt 11.7.2.3 PN-EN 12101-6:2007 kompletny duplikat wentylatora z silnikiem jest wymagany, gdy system różnicowania ciśnień chroni jedyną drogę ewakuacyjną w budynku; gdy z każdego pomieszczenia użytkowego są dwie niezależne drogi (np. dwie klatki schodowe dostępne z każdej kondygnacji), wyposażenie rezerwowe nie jest wymagane, a wysokość budynku (165 m) tego kryterium nie zmienia. Odpowiedź „co najmniej w jednej klatce” (a) bierze się z dosłownego odczytania końcówki zdania normy: nie jest wymagane wyposażenie rezerwowe „dla każdej drogi ewakuacyjnej”; za odczytaniem „nie muszą” (b) przemawia kolejny akapit (jedna droga i przejście do innej strefy – rezerwa zbędna), ale ogólny pkt 11.1 normy zaleca rezerwę, dlatego pewność jest średnia.",
 "norms": [
 "PN-EN 12101-6"
 ],
@@ -187,9 +187,9 @@
 "stan": "aktualne",
 "stanNote": "",
 "topic": "H1",
-"basis": "§ 3 ust. 1 pkt 2 rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
-"quote": "2 500 m3 lub o powierzchni przekraczajàcej",
-"expl": "Poza jednostką osadniczą wodę do zewnętrznego gaszenia zapewnia się dla budynków UP i ZZ o kubaturze brutto przekraczającej 2500 m3 lub powierzchni przekraczającej 500 m2. Obiekty tworzą jedną strefę pożarową, więc sumujemy: 145 + 350 = 495 m2 i 400 + 2050 = 2450 m3 – żaden próg nie jest przekroczony, obowiązek nie powstaje. Wartości 10 i 20 dm3/s (a, b) to ilości z § 5 ust. 1, stosowane dopiero wtedy, gdy obowiązek istnieje.",
+"basis": "§ 3 ust. 1 pkt 2 (próg) i § 5 ust. 1 (ilości wody) rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
+"quote": "2 500 m3 lub o powierzchni przekraczającej",
+"expl": "Poza jednostką osadniczą woda do zewnętrznego gaszenia jest wymagana dla budynków UP i ZZ o kubaturze brutto przekraczającej 2500 m3 lub powierzchni przekraczającej 500 m2; obiekty tworzą jedną strefę pożarową, więc sumujemy: 400 + 2050 = 2450 m3 i 145 + 350 = 495 m2 – żaden próg nie jest przekroczony, obowiązek nie powstaje. Wartości 10 i 20 dm3/s (a, b) to ilości z § 5 ust. 1, stosowane dopiero przy istniejącym obowiązku. Przyjęto, że 350 m2 to powierzchnia całego budynku dwukondygnacyjnego; gdyby była to powierzchnia jednej kondygnacji (łącznie ok. 845 m2 > 500 m2), wymagane byłoby 10 dm3/s (a) – stąd stary klucz „a” i pewność średnia.",
 "norms": [],
 "verif": "źródła",
 "alt": null
@@ -722,7 +722,7 @@
 "stanNote": "",
 "topic": "H2",
 "basis": "§ 12 ust. 1 pkt 2 i pkt 5 lit. b rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
-"quote": "dniowysoki, wysoki lub wysokoÊciowy, zawierajà-",
+"quote": "dniowysoki, wysoki lub wysokościowy, zawierają-",
 "expl": "Drogę pożarową doprowadza się do każdego budynku średniowysokiego, wysokiego i wysokościowego ze strefą ZL III, ZL IV lub ZL V. Do budynku niskiego ze strefą ZL V droga jest wymagana dopiero przy ponad 50 miejscach noclegowych – przy dokładnie 50 nie jest, dlatego a i c są błędne.",
 "norms": [],
 "verif": "źródła",
@@ -736,7 +736,7 @@
 "stanNote": "Odpowiedź według wycofanej PKN-CEN/TS 54-14:2006 (plik to projekt wydania polskiego); aktualne wydanie PKN-CEN/TS 54-14:2020-09 – zasad dla belek stropowych i promienia działania czujek nie sprawdzono.",
 "topic": "U1",
 "basis": "zał. A, A.6.5.1 f) i tablica A.1 PKN-CEN/TS 54-14:2006",
-"quote": "Stropy z wykształceniami o wysokoś ci mniejszej ni Ŝ  5 % wysokoś ci pomieszczenia powinny być  traktowane",
+"quote": "Stropy z wykształceniami o wysokoś ci mniejszej ni ż  5 % wysokoś ci pomieszczenia powinny być  traktowane",
 "expl": "Belka 0,2 m jest niższa niż 5 % wysokości sali (0,225 m), więc strop traktuje się jak płaski. Dla punktowej czujki dymu w pomieszczeniu do 4,5 m promień działania wynosi 7,5 m: jedna czujka w środku nie obejmie narożników (ok. 12,4 m), a dwie – każda na pole 12 × 6 m – mają do narożnika ok. 6,7 m. Trzy czujki (c) wynikałyby z błędnego traktowania belek jak ścian.",
 "norms": [
 "PKN-CEN/TS 54-14"
@@ -896,8 +896,8 @@
 "stanNote": "Odpowiedź według wycofanej PKN-CEN/TS 54-14:2006 (plik to projekt wydania polskiego); aktualne wydanie PKN-CEN/TS 54-14:2020-09 – zasad dla belek stropowych i promienia działania czujek nie sprawdzono.",
 "topic": "U1",
 "basis": "zał. A, A.6.5.1 f) i tablica A.1 PKN-CEN/TS 54-14:2006",
-"quote": "Stropy z wykształceniami o wysokoś ci mniejszej ni Ŝ  5 % wysokoś ci pomieszczenia powinny być  traktowane",
-"expl": "Belki 0,21 m są niższe niż 5 % wysokości pomieszczenia (0,225 m), więc strop traktuje się jak płaski. Przy promieniu działania czujki dymu 7,5 m siatka 3 × 2 czujek (pola 10 × 10 m, połowa przekątnej 7,07 m) pokrywa salę 30 × 20 m; pięć czujek po jednej na pole 20 × 6 m nie wystarcza (do narożnika pola ok. 10,4 m), a 10 czujek wynikałoby z błędnego traktowania belek jak ścian.",
+"quote": "Stropy z wykształceniami o wysokoś ci mniejszej ni ż  5 % wysokoś ci pomieszczenia powinny być  traktowane",
+"expl": "Belki 0,21 m są niższe niż 5 % wysokości pomieszczenia (0,05 × 4,5 m = 0,225 m), więc strop traktuje się jak płaski (A.6.5.1 f), a punktowa czujka dymu przy wysokości do 4,5 m ma promień działania 7,5 m (tablica A.1). Siatka 3 × 2 czujek (pola 10 × 10 m, połowa przekątnej 7,07 m) pokrywa salę 30 × 20 m, a żadne rozmieszczenie pięciu czujek jej nie pokryje (pięć punktów wymagałoby promienia ok. 8,1 m), więc 5 (c) to za mało. 10 czujek (a) wynikałoby z błędnego traktowania belek jak ścian: pole 20 × 6 m wymagałoby wtedy po dwie czujki.",
 "norms": [
 "PKN-CEN/TS 54-14"
 ],
@@ -912,7 +912,7 @@
 "stanNote": "",
 "topic": "H1",
 "basis": "§ 3 ust. 1 pkt 2 rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
-"quote": "2 500 m3 lub o powierzchni przekraczajàcej",
+"quote": "2 500 m3 lub o powierzchni przekraczającej",
 "expl": "Dla budynku zamieszkania zbiorowego (hotel) poza jednostką osadniczą woda do zewnętrznego gaszenia jest wymagana, gdy kubatura brutto przekracza 2500 m3 lub powierzchnia przekracza 500 m2. Kubatura równa 2500 m3 progu nie „przekracza”, a 450 m2 < 500 m2, więc obowiązku nie ma; 10 i 20 dm3/s (a, b) to ilości z § 5 ust. 1, stosowane dopiero przy istniejącym obowiązku.",
 "norms": [],
 "verif": "źródła",
@@ -1249,13 +1249,13 @@
 "257": {
 "ans": "a",
 "ansNow": "=",
-"conf": "wysoka",
+"conf": "średnia",
 "stan": "nieustalone",
 "stanNote": "Pytanie powołuje wycofane wydanie PN-EN 12101-6:2007 (EN 12101-6:2005); obecnie obowiązują PN-EN 12101-6:2022-09 i PN-EN 12101-13:2022-09 (projektowanie SRC) – treści aktualnych wydań w zakresie wyposażenia rezerwowego nie sprawdzono.",
 "topic": "U6",
 "basis": "pkt 11.7.2.3 PN-EN 12101-6:2007 (EN 12101-6:2005)",
-"quote": "budynku (np. dwie klatki schodowe, na które moŜna wejść z kaŜdej kondygnacji), nie jest wymagane",
-"expl": "Wg pkt 11.7.2.3 normy kompletny duplikat wentylatora z silnikiem jest wymagany, gdy system różnicowania ciśnień chroni jedyną drogę ewakuacyjną. Jeżeli z każdego miejsca są dwie niezależne drogi ewakuacyjne (dwie klatki dostępne z każdej kondygnacji), wyposażenie rezerwowe nie jest wymagane – wysokość budynku (165 m) tej reguły normy nie zmienia, więc b i c są błędne.",
+"quote": "budynku (np. dwie klatki schodowe, na które można wejść z każdej kondygnacji), nie jest wymagane",
+"expl": "Wg pkt 11.7.2.3 PN-EN 12101-6:2007 kompletny duplikat wentylatora z silnikiem jest wymagany, gdy system różnicowania ciśnień chroni jedyną drogę ewakuacyjną w budynku; gdy z każdego pomieszczenia użytkowego są dwie niezależne drogi (np. dwie klatki schodowe dostępne z każdej kondygnacji), wyposażenie rezerwowe nie jest wymagane, a wysokość budynku (165 m) tego kryterium nie zmienia. Odpowiedź „co najmniej w jednej klatce” (b) bierze się z dosłownego odczytania końcówki zdania normy: nie jest wymagane wyposażenie rezerwowe „dla każdej drogi ewakuacyjnej”; za odczytaniem „nie muszą” (a) przemawia kolejny akapit (jedna droga i przejście do innej strefy – rezerwa zbędna), ale ogólny pkt 11.1 normy zaleca rezerwę, dlatego pewność jest średnia.",
 "norms": [
 "PN-EN 12101-6"
 ],
@@ -1571,7 +1571,7 @@
 "topic": "R2",
 "basis": "§ 24 ust. 2, ust. 3 pkt 1 i pkt 3 lit. a oraz ust. 5 rozp. MSWiA z 7.06.2010",
 "quote": "do 50 m3 w przypadku zapewnienia zasilania tych zbiorników w wodę z zewnętrznej sieci",
-"expl": "Podstawowy zapas dla budynków W i WW to 100 m3 (§ 24 ust. 2); zmniejszenie do 50 m3, a dalej do 6 m3, przysługuje tylko budynkom do 100 m zawierającym powyżej 12 m wyłącznie ZL IV albo bez stref > 750 m2 (ust. 3 pkt 1), czego budynek użyteczności publicznej z kondygnacjami do 2000 m2 nie spełnia. Pozostaje ust. 3 pkt 3 lit. a: przy zasilaniu zbiornika z sieci ≥ 10 dm3/s – 50 m3 (25 m3 wymaga sieci ≥ 15 dm3/s, 6 m3 – spełnienia ust. 3 pkt 1); warunkiem jest też nasada 75 mm na elewacji (ust. 5).",
+"expl": "Podstawowy zapas dla budynków W i WW to 100 m3 (§ 24 ust. 2). Zmniejszenie do 50 m3, a dalej do 6 m3, przysługuje tylko budynkom do 100 m, które powyżej 12 m mają wyłącznie strefy ZL IV albo nie mają stref większych niż 750 m2 (ust. 3 pkt 1); budynek użyteczności publicznej z kondygnacjami do 2000 m2 tego nie spełnia – pytanie zakłada strefy większe niż 750 m2, bo przy strefach do 750 m2 poprawne byłoby 6 m3. Pozostaje ust. 3 pkt 3 lit. a: przy zasilaniu zbiornika z sieci ≥ 10 dm3/s – 50 m3 (25 m3 wymaga sieci ≥ 15 dm3/s), pod warunkiem nasady 75 mm na elewacji od strony drogi pożarowej (ust. 5).",
 "norms": [],
 "verif": "źródła",
 "alt": null
@@ -2133,13 +2133,13 @@
 "390": {
 "ans": "c",
 "ansNow": "=",
-"conf": "wysoka",
+"conf": "średnia",
 "stan": "aktualne",
 "stanNote": "",
 "topic": "R2",
 "basis": "§ 28 ust. 1 pkt 4, 11 i 12 oraz ust. 2 rozp. MSWiA z 7.06.2010",
 "quote": "2. Wymagania, o których mowa w ust. 1 pkt 4 i 11, nie dotyczą budynków, które są zlokalizowane na terenach za-",
-"expl": "Wymagania SSP dla budynków gastronomicznych ponad 300 miejsc (§ 28 ust. 1 pkt 4) i zamieszkania zbiorowego z pobytem ponad 3 doby ponad 200 miejsc (pkt 11) nie dotyczą budynków na terenach zamkniętych służących obronności (§ 28 ust. 2). Dodatkowo 150 miejsc nie przekracza progu 200 z pkt 11, a budynek z pobytem ponad 3 doby nie mieści się w pkt 12 (budynki niewymienione w pkt 11).",
+"expl": "Na terenach zamkniętych służących obronności państwa nie stosuje się § 28 ust. 1 pkt 4 (budynki z ponad 300 miejscami gastronomicznymi) ani pkt 11 (zamieszkanie zbiorowe z pobytem tych samych osób ponad 3 doby i ponad 200 miejscami noclegowymi) – § 28 ust. 2, więc budynek z 500 miejscami gastronomicznymi (b) nie wymaga SSP. W odpowiedzi a liczba miejsc „przekracza 150”: przy ponad 200 działa wyłączenie z ust. 2, a przy 151–200 nie jest osiągnięty próg pkt 11; pkt 12 (ponad 50 miejsc) obejmuje tylko budynki zamieszkania zbiorowego niewymienione w pkt 11, czyli z pobytem do 3 dób. Pewność średnia, bo rozstrzygnięcie odpowiedzi a opiera się na takim (powszechnie przyjmowanym) odczytaniu pkt 12, a nie na wprost brzmiącym przepisie.",
 "norms": [],
 "verif": "źródła",
 "alt": null
@@ -2488,8 +2488,8 @@
 "stanNote": "",
 "topic": "H2",
 "basis": "§ 12 ust. 1 pkt 1–4 i 7 rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
-"quote": "ogniowego poni˝ej 500 MJ/m2 o powierzchni",
-"expl": "Drogę pożarową doprowadza się m.in. do każdego budynku ze strefą ZL II, np. domu dla osób starszych (§ 12 ust. 1 pkt 1), oraz do stanowiska czerpania wody (pkt 7). Strefa PM wymaga drogi tylko przy Q > 500 MJ/m² z powierzchnią > 1000 m² lub pomieszczeniem zagrożonym wybuchem (pkt 3) albo przy Q ≤ 500 MJ/m² i powierzchni > 20 000 m² (pkt 4), a sama wysokość SW obliguje tylko przy strefach ZL III–V (pkt 2) — dlatego dla budynku z odpowiedzi b droga nie jest wymagana.",
+"quote": "ogniowego poniżej 500 MJ/m2 o powierzchni",
+"expl": "Drogę pożarową doprowadza się m.in. do każdego budynku ze strefą ZL II, np. domu dla osób starszych (§ 12 ust. 1 pkt 1), oraz do stanowiska czerpania wody (pkt 7). Strefa PM wymaga drogi tylko przy Q > 500 MJ/m² z powierzchnią > 1000 m² lub pomieszczeniem zagrożonym wybuchem (pkt 3) albo przy Q < 500 MJ/m² i powierzchni > 20 000 m² (pkt 4), a sama wysokość SW obliguje tylko przy strefach ZL III–V (pkt 2) — dlatego dla budynku z odpowiedzi b (450 MJ/m², 2000 m²) droga nie jest wymagana.",
 "norms": [],
 "verif": "źródła",
 "alt": null

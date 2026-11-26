@@ -23,7 +23,7 @@
   "topic": "H1",
   "basis": "§ 10 ust. 9 pkt 1, 2 i 5 rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
   "src": "akty/woda_drogi_2009.txt",
-  "quote": "czerpania wody o wymiarach zapewniajàcych",
+  "quote": "czerpania wody o wymiarach zapewniających",
   "expl": "Hydranty nadziemne do intensywnego czerpania wody na sieciach ≥ DN 250 mają mieć DN 100 lub DN 150, wydajność co najmniej 20 dm³/s przy 0,2 MPa, a przy hydrancie przewiduje się stanowisko czerpania wody zapewniające swobodny dostęp (z zakazem parkowania). DN 125 to minimalna średnica przewodu sieci rozgałęźnej (§ 9 ust. 7), a 15 dm³/s to wydajność zwykłego hydrantu nadziemnego DN 100 (§ 10 ust. 8).",
   "norms": []
  },
@@ -107,7 +107,7 @@
   "topic": "H2",
   "basis": "§ 12 ust. 1 pkt 1–4 i 7 rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
   "src": "akty/woda_drogi_2009.txt",
-  "quote": "ogniowego poni˝ej 500 MJ/m2 o powierzchni",
+  "quote": "ogniowego poniżej 500 MJ/m2 o powierzchni",
   "expl": "Drogę pożarową doprowadza się m.in. do każdego budynku ze strefą ZL II, np. domu dla osób starszych (§ 12 ust. 1 pkt 1), oraz do stanowiska czerpania wody (pkt 7). Strefa PM wymaga drogi tylko przy Q > 500 MJ/m² z powierzchnią > 1000 m² lub pomieszczeniem zagrożonym wybuchem (pkt 3) albo przy Q ≤ 500 MJ/m² i powierzchni > 20 000 m² (pkt 4), a sama wysokość SW obliguje tylko przy strefach ZL III–V (pkt 2) — dlatego dla budynku z odpowiedzi b droga nie jest wymagana.",
   "norms": []
  },
@@ -349,7 +349,7 @@
   "topic": "H2",
   "basis": "§ 12 ust. 1 pkt 3 lit. a i § 13 ust. 2 rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
   "src": "akty/woda_drogi_2009.txt",
-  "quote": "wierzchni´ jezdni co najmniej 100 kN (kiloniutonów),",
+  "quote": "wierzchnię jezdni co najmniej 100 kN (kiloniutonów),",
   "expl": "Budynek ze strefą PM o Q 700 MJ/m² i powierzchni 1400 m² wymaga drogi pożarowej (§ 12 ust. 1 pkt 3: Q > 500 MJ/m² i strefa > 1000 m²). Na działce z obiektem z § 12 ust. 1 pkt 3 i 4 droga ma umożliwiać przejazd pojazdów o nacisku osi co najmniej 100 kN niezależnie od tego, czy leży w mieście (§ 13 ust. 2); 50 kN (§ 13 ust. 3) dotyczy pozostałych terenów.",
   "norms": []
  },

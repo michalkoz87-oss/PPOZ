@@ -29,6 +29,9 @@ def clean(text):
     # stopka licencyjna powtarza się na każdej stronie i nie niesie treści
     text = re.sub(r'Licencja Polskiego Komitetu Normalizacyjnego dla [^\n]*\n?', '', text)
     text = text.replace('\t', ' ')
+    # część PDF-ów PKN ma znak „Ŝ” w miejscu „ż” (stara czcionka); poprawiamy tylko wtedy, gdy „ż” prawie nie występuje
+    if text.count('Ŝ') > 10 * max(1, text.count('ż')):
+        text = text.replace('Ŝ', 'ż')
     text = re.sub(r'[  ]+\n', '\n', text)
     return re.sub(r'\n{4,}', '\n\n\n', text).strip() + '\n'
 

@@ -26,7 +26,21 @@
         "T08"
       ],
       "flashcards": 40,
-      "tokens": 2018506
+      "tokens": 2018506,
+      "skeptic": {
+        "date": "2026-11-26",
+        "attacked": 56,
+        "changedAns": 0,
+        "fixed": 9,
+        "badQuotes": 4,
+        "confLowered": [
+          34,
+          257,
+          390
+        ],
+        "note": "Żadnej odpowiedzi nie obalono. 4 cytaty (37, 145, 191, 457) miały zniekształcone znaki ze starego odczytu rozporządzenia z 2009 r. i zostały zastąpione dosłownymi; pewność obniżona w 34 i 257 (cytat z PN-EN 12101-6 urwany przed „dla każdej drogi ewakuacyjnej”) i w 390 (próg 50 miejsc w § 28 ust. 1 pkt 12); wyjaśnienia uzupełnione w 37, 188, 307. Niepewne: 16 (PN-EN 12845 spoza korpusu), 461 (standard DPS spoza korpusu), 37 (czy 350 m² to cały budynek).",
+        "tokens": 555770
+      }
     },
     "K": {
       "date": "2026-11-25",

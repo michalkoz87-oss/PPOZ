@@ -53,7 +53,7 @@
   "topic": "U6",
   "basis": "pkt 11.7.2.3 PN-EN 12101-6:2007 (EN 12101-6:2005)",
   "src": "normy/PN-EN_12101-6_2007_projekt_WYCOFANA.txt",
-  "quote": "budynku (np. dwie klatki schodowe, na które moŜna wejść z kaŜdej kondygnacji), nie jest wymagane",
+  "quote": "budynku (np. dwie klatki schodowe, na które można wejść z każdej kondygnacji), nie jest wymagane",
   "expl": "Wg pkt 11.7.2.3 normy kompletny duplikat wentylatora z silnikiem jest wymagany, gdy system różnicowania ciśnień chroni jedyną drogę ewakuacyjną. Jeżeli z każdego miejsca są dwie niezależne drogi ewakuacyjne (dwie klatki dostępne z każdej kondygnacji), wyposażenie rezerwowe nie jest wymagane – wysokość budynku (165 m) tej reguły normy nie zmienia, więc a i c są błędne.",
   "norms": [
    "PN-EN 12101-6"
@@ -69,7 +69,7 @@
   "topic": "H1",
   "basis": "§ 3 ust. 1 pkt 2 rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
   "src": "akty/woda_drogi_2009.txt",
-  "quote": "2 500 m3 lub o powierzchni przekraczajàcej",
+  "quote": "2 500 m3 lub o powierzchni przekraczającej",
   "expl": "Poza jednostką osadniczą wodę do zewnętrznego gaszenia zapewnia się dla budynków UP i ZZ o kubaturze brutto przekraczającej 2500 m3 lub powierzchni przekraczającej 500 m2. Obiekty tworzą jedną strefę pożarową, więc sumujemy: 145 + 350 = 495 m2 i 400 + 2050 = 2450 m3 – żaden próg nie jest przekroczony, obowiązek nie powstaje. Wartości 10 i 20 dm3/s (a, b) to ilości z § 5 ust. 1, stosowane dopiero wtedy, gdy obowiązek istnieje.",
   "norms": []
  },
@@ -237,7 +237,7 @@
   "topic": "H2",
   "basis": "§ 12 ust. 1 pkt 2 i pkt 5 lit. b rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
   "src": "akty/woda_drogi_2009.txt",
-  "quote": "dniowysoki, wysoki lub wysokoÊciowy, zawierajà-",
+  "quote": "dniowysoki, wysoki lub wysokościowy, zawierają-",
   "expl": "Drogę pożarową doprowadza się do każdego budynku średniowysokiego, wysokiego i wysokościowego ze strefą ZL III, ZL IV lub ZL V. Do budynku niskiego ze strefą ZL V droga jest wymagana dopiero przy ponad 50 miejscach noclegowych – przy dokładnie 50 nie jest, dlatego a i c są błędne.",
   "norms": []
  },
@@ -251,7 +251,7 @@
   "topic": "U1",
   "basis": "zał. A, A.6.5.1 f) i tablica A.1 PKN-CEN/TS 54-14:2006",
   "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
-  "quote": "Stropy z wykształceniami o wysokoś ci mniejszej ni Ŝ  5 % wysokoś ci pomieszczenia powinny być  traktowane",
+  "quote": "Stropy z wykształceniami o wysokoś ci mniejszej ni ż  5 % wysokoś ci pomieszczenia powinny być  traktowane",
   "expl": "Belka 0,2 m jest niższa niż 5 % wysokości sali (0,225 m), więc strop traktuje się jak płaski. Dla punktowej czujki dymu w pomieszczeniu do 4,5 m promień działania wynosi 7,5 m: jedna czujka w środku nie obejmie narożników (ok. 12,4 m), a dwie – każda na pole 12 × 6 m – mają do narożnika ok. 6,7 m. Trzy czujki (c) wynikałyby z błędnego traktowania belek jak ścian.",
   "norms": [
    "PKN-CEN/TS 54-14"
@@ -309,7 +309,7 @@
   "topic": "U1",
   "basis": "zał. A, A.6.5.1 f) i tablica A.1 PKN-CEN/TS 54-14:2006",
   "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
-  "quote": "Stropy z wykształceniami o wysokoś ci mniejszej ni Ŝ  5 % wysokoś ci pomieszczenia powinny być  traktowane",
+  "quote": "Stropy z wykształceniami o wysokoś ci mniejszej ni ż  5 % wysokoś ci pomieszczenia powinny być  traktowane",
   "expl": "Belki 0,21 m są niższe niż 5 % wysokości pomieszczenia (0,225 m), więc strop traktuje się jak płaski. Przy promieniu działania czujki dymu 7,5 m siatka 3 × 2 czujek (pola 10 × 10 m, połowa przekątnej 7,07 m) pokrywa salę 30 × 20 m; pięć czujek po jednej na pole 20 × 6 m nie wystarcza (do narożnika pola ok. 10,4 m), a 10 czujek wynikałoby z błędnego traktowania belek jak ścian.",
   "norms": [
    "PKN-CEN/TS 54-14"
@@ -325,7 +325,7 @@
   "topic": "H1",
   "basis": "§ 3 ust. 1 pkt 2 rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
   "src": "akty/woda_drogi_2009.txt",
-  "quote": "2 500 m3 lub o powierzchni przekraczajàcej",
+  "quote": "2 500 m3 lub o powierzchni przekraczającej",
   "expl": "Dla budynku zamieszkania zbiorowego (hotel) poza jednostką osadniczą woda do zewnętrznego gaszenia jest wymagana, gdy kubatura brutto przekracza 2500 m3 lub powierzchnia przekracza 500 m2. Kubatura równa 2500 m3 progu nie „przekracza”, a 450 m2 < 500 m2, więc obowiązku nie ma; 10 i 20 dm3/s (a, b) to ilości z § 5 ust. 1, stosowane dopiero przy istniejącym obowiązku.",
   "norms": []
  },
@@ -397,7 +397,7 @@
   "topic": "U6",
   "basis": "pkt 11.7.2.3 PN-EN 12101-6:2007 (EN 12101-6:2005)",
   "src": "normy/PN-EN_12101-6_2007_projekt_WYCOFANA.txt",
-  "quote": "budynku (np. dwie klatki schodowe, na które moŜna wejść z kaŜdej kondygnacji), nie jest wymagane",
+  "quote": "budynku (np. dwie klatki schodowe, na które można wejść z każdej kondygnacji), nie jest wymagane",
   "expl": "Wg pkt 11.7.2.3 normy kompletny duplikat wentylatora z silnikiem jest wymagany, gdy system różnicowania ciśnień chroni jedyną drogę ewakuacyjną. Jeżeli z każdego miejsca są dwie niezależne drogi ewakuacyjne (dwie klatki dostępne z każdej kondygnacji), wyposażenie rezerwowe nie jest wymagane – wysokość budynku (165 m) tej reguły normy nie zmienia, więc b i c są błędne.",
   "norms": [
    "PN-EN 12101-6"

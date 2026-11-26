@@ -1,0 +1,47 @@
+[
+ {
+  "id": 307,
+  "ans": "c",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "R2",
+  "basis": "§ 24 ust. 2, ust. 3 pkt 1 i pkt 3 lit. a oraz ust. 5 rozp. MSWiA z 7.06.2010",
+  "src": "akty/rozp_ppoz_2010.txt",
+  "quote": "do 50 m3 w przypadku zapewnienia zasilania tych zbiorników w wodę z zewnętrznej sieci",
+  "expl": "Podstawowy zapas dla budynków W i WW to 100 m3 (§ 24 ust. 2). Zmniejszenie do 50 m3, a dalej do 6 m3, przysługuje tylko budynkom do 100 m, które powyżej 12 m mają wyłącznie strefy ZL IV albo nie mają stref większych niż 750 m2 (ust. 3 pkt 1); budynek użyteczności publicznej z kondygnacjami do 2000 m2 tego nie spełnia – pytanie zakłada strefy większe niż 750 m2, bo przy strefach do 750 m2 poprawne byłoby 6 m3. Pozostaje ust. 3 pkt 3 lit. a: przy zasilaniu zbiornika z sieci ≥ 10 dm3/s – 50 m3 (25 m3 wymaga sieci ≥ 15 dm3/s), pod warunkiem nasady 75 mm na elewacji od strony drogi pożarowej (ust. 5).",
+  "norms": [],
+  "verdict": "Odpowiedź c potwierdzona. Poprawiono expl: poprzednie brzmienie przesądzało, że budynek „z kondygnacjami do 2000 m2” na pewno nie spełnia § 24 ust. 3 pkt 1 lit. b, choć treść podaje tylko górną granicę powierzchni kondygnacji; dopisano założenie (strefy > 750 m2) i to, że przy strefach ≤ 750 m2 dopuszczalne byłoby 6 m3 (§ 24 ust. 3 pkt 3 lit. c), żeby uczący się widział, od czego zależy wynik."
+ },
+ {
+  "id": 390,
+  "ans": "c",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "R2",
+  "basis": "§ 28 ust. 1 pkt 4, 11 i 12 oraz ust. 2 rozp. MSWiA z 7.06.2010",
+  "src": "akty/rozp_ppoz_2010.txt",
+  "quote": "2. Wymagania, o których mowa w ust. 1 pkt 4 i 11, nie dotyczą budynków, które są zlokalizowane na terenach za-",
+  "expl": "Na terenach zamkniętych służących obronności państwa nie stosuje się § 28 ust. 1 pkt 4 (budynki z ponad 300 miejscami gastronomicznymi) ani pkt 11 (zamieszkanie zbiorowe z pobytem tych samych osób ponad 3 doby i ponad 200 miejscami noclegowymi) – § 28 ust. 2, więc budynek z 500 miejscami gastronomicznymi (b) nie wymaga SSP. W odpowiedzi a liczba miejsc „przekracza 150”: przy ponad 200 działa wyłączenie z ust. 2, a przy 151–200 nie jest osiągnięty próg pkt 11; pkt 12 (ponad 50 miejsc) obejmuje tylko budynki zamieszkania zbiorowego niewymienione w pkt 11, czyli z pobytem do 3 dób. Pewność średnia, bo rozstrzygnięcie odpowiedzi a opiera się na takim (powszechnie przyjmowanym) odczytaniu pkt 12, a nie na wprost brzmiącym przepisie.",
+  "norms": [],
+  "verdict": "Obniżono pewność z „wysoka” na „średnia”: cytowany § 28 ust. 2 wprost rozstrzyga tylko odpowiedź b (pkt 4), a dla a (liczba miejsc „przekracza 150”, więc może wynosić 151–200) wynik zależy od wykładni zwrotu „niewymienionych w pkt 11” w § 28 ust. 1 pkt 12 – przy dosłownym odczytaniu budynek z pobytem ponad 3 doby i 151–200 miejscami podpadałby pod pkt 12 (> 50), którego ust. 2 nie wyłącza. Poprawiono też expl, które błędnie mówiło o „150 miejscach” – treść podaje liczbę przekraczającą 150. Odpowiedź c bez zmian."
+ },
+ {
+  "id": 457,
+  "ans": "b",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "H2",
+  "basis": "§ 12 ust. 1 pkt 1–4 i 7 rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
+  "src": "akty/woda_drogi_2009.txt",
+  "quote": "ogniowego poniżej 500 MJ/m2 o powierzchni",
+  "expl": "Drogę pożarową doprowadza się m.in. do każdego budynku ze strefą ZL II, np. domu dla osób starszych (§ 12 ust. 1 pkt 1), oraz do stanowiska czerpania wody (pkt 7). Strefa PM wymaga drogi tylko przy Q > 500 MJ/m² z powierzchnią > 1000 m² lub pomieszczeniem zagrożonym wybuchem (pkt 3) albo przy Q < 500 MJ/m² i powierzchni > 20 000 m² (pkt 4), a sama wysokość SW obliguje tylko przy strefach ZL III–V (pkt 2) — dlatego dla budynku z odpowiedzi b (450 MJ/m², 2000 m²) droga nie jest wymagana.",
+  "norms": [],
+  "verdict": "Cytat „ogniowego poni˝ej 500 MJ/m2 o powierzchni” nie występuje dosłownie w pliku akty/woda_drogi_2009.txt (znak „˝” zamiast „ż”); zastąpiono go dosłownym brzmieniem z linii 753 (§ 12 ust. 1 pkt 4), które dotyczy przypadku z odpowiedzi b. W expl poprawiono „Q ≤ 500” na „Q < 500” zgodnie z brzmieniem pkt 4 („poniżej 500 MJ/m2”). Odpowiedź b i pewność bez zmian."
+ }
+]

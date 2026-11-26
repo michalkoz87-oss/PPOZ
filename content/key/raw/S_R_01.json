@@ -1,0 +1,98 @@
+[
+ {
+  "id": 34,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie opiera się na wycofanym wydaniu PN-EN 12101-6:2007 (EN 12101-6:2005); obecnie obowiązują PN-EN 12101-6:2022-09 i PN-EN 12101-13:2022-09 (projektowanie SRC) – treści aktualnych wydań w zakresie wyposażenia rezerwowego nie sprawdzono.",
+  "topic": "U6",
+  "basis": "pkt 11.7.2.3 PN-EN 12101-6:2007 (EN 12101-6:2005)",
+  "src": "normy/PN-EN_12101-6_2007_projekt_WYCOFANA.txt",
+  "quote": "budynku (np. dwie klatki schodowe, na które można wejść z każdej kondygnacji), nie jest wymagane",
+  "expl": "Wg pkt 11.7.2.3 PN-EN 12101-6:2007 kompletny duplikat wentylatora z silnikiem jest wymagany, gdy system różnicowania ciśnień chroni jedyną drogę ewakuacyjną w budynku; gdy z każdego pomieszczenia użytkowego są dwie niezależne drogi (np. dwie klatki schodowe dostępne z każdej kondygnacji), wyposażenie rezerwowe nie jest wymagane, a wysokość budynku (165 m) tego kryterium nie zmienia. Odpowiedź „co najmniej w jednej klatce” (a) bierze się z dosłownego odczytania końcówki zdania normy: nie jest wymagane wyposażenie rezerwowe „dla każdej drogi ewakuacyjnej”; za odczytaniem „nie muszą” (b) przemawia kolejny akapit (jedna droga i przejście do innej strefy – rezerwa zbędna), ale ogólny pkt 11.1 normy zaleca rezerwę, dlatego pewność jest średnia.",
+  "norms": [
+   "PN-EN 12101-6"
+  ],
+  "verdict": "Pewność obniżona z „wysokiej” na „średnią”: cytat urywa zdanie przed zastrzeżeniem „zapewnienie wyposażenia rezerwowego dla każdej drogi ewakuacyjnej” (PN-EN_12101-6_2007, linia 3669), które pozwala czytać przepis jako „rezerwa nie dla każdej drogi, czyli w co najmniej jednej” (opcja a), a pkt 11.1 (linia 3228–3229) ogólnie wymaga wyposażenia rezerwowego. Odpowiedź b podtrzymana – wspiera ją następny akapit 11.7.2.3; obalenia nie ma, ale przepis nie rozstrzyga wprost."
+ },
+ {
+  "id": 37,
+  "ans": "c",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "H1",
+  "basis": "§ 3 ust. 1 pkt 2 (próg) i § 5 ust. 1 (ilości wody) rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
+  "src": "akty/woda_drogi_2009.txt",
+  "quote": "2 500 m3 lub o powierzchni przekraczającej",
+  "expl": "Poza jednostką osadniczą woda do zewnętrznego gaszenia jest wymagana dla budynków UP i ZZ o kubaturze brutto przekraczającej 2500 m3 lub powierzchni przekraczającej 500 m2; obiekty tworzą jedną strefę pożarową, więc sumujemy: 400 + 2050 = 2450 m3 i 145 + 350 = 495 m2 – żaden próg nie jest przekroczony, obowiązek nie powstaje. Wartości 10 i 20 dm3/s (a, b) to ilości z § 5 ust. 1, stosowane dopiero przy istniejącym obowiązku. Przyjęto, że 350 m2 to powierzchnia całego budynku dwukondygnacyjnego; gdyby była to powierzchnia jednej kondygnacji (łącznie ok. 845 m2 > 500 m2), wymagane byłoby 10 dm3/s (a) – stąd stary klucz „a” i pewność średnia.",
+  "norms": [],
+  "verdict": "Cytat A/B „2 500 m3 lub o powierzchni przekraczajàcej” nie występuje w akty/woda_drogi_2009.txt (plik ma „przekraczającej”, linia 129) – poprawiono cytat. Odpowiedź c podtrzymana (sumy 2450 m3 i 495 m2 nie przekraczają progów § 3 ust. 1 pkt 2); w expl dopisano źródło wątpliwości (znaczenie „powierzchni” budynku dwukondygnacyjnego, stary klucz „a”)."
+ },
+ {
+  "id": 145,
+  "ans": "b",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "H2",
+  "basis": "§ 12 ust. 1 pkt 2 i pkt 5 lit. b rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
+  "src": "akty/woda_drogi_2009.txt",
+  "quote": "dniowysoki, wysoki lub wysokościowy, zawierają-",
+  "expl": "Drogę pożarową doprowadza się do każdego budynku średniowysokiego, wysokiego i wysokościowego ze strefą ZL III, ZL IV lub ZL V. Do budynku niskiego ze strefą ZL V droga jest wymagana dopiero przy ponad 50 miejscach noclegowych – przy dokładnie 50 nie jest, dlatego a i c są błędne.",
+  "norms": [],
+  "verdict": "Cytat A „dniowysoki, wysoki lub wysokoÊciowy, zawierajà-” nie występuje w akty/woda_drogi_2009.txt (plik ma „wysokościowy, zawierają-”, linia 737) – poprawiono cytat. Odpowiedź b podtrzymana: § 12 ust. 1 pkt 2 obejmuje każdy budynek SW ze strefą ZL V, a pkt 5 lit. b dla budynku niskiego wymaga „ponad 50 miejsc noclegowych”, więc przy dokładnie 50 droga nie jest wymagana."
+ },
+ {
+  "id": 188,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Odpowiedź według wycofanej PKN-CEN/TS 54-14:2006 (plik to projekt wydania polskiego); aktualne wydanie PKN-CEN/TS 54-14:2020-09 – zasad dla belek stropowych i promienia działania czujek nie sprawdzono.",
+  "topic": "U1",
+  "basis": "zał. A, A.6.5.1 f) i tablica A.1 PKN-CEN/TS 54-14:2006",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "Stropy z wykształceniami o wysokoś ci mniejszej ni ż  5 % wysokoś ci pomieszczenia powinny być  traktowane",
+  "expl": "Belki 0,21 m są niższe niż 5 % wysokości pomieszczenia (0,05 × 4,5 m = 0,225 m), więc strop traktuje się jak płaski (A.6.5.1 f), a punktowa czujka dymu przy wysokości do 4,5 m ma promień działania 7,5 m (tablica A.1). Siatka 3 × 2 czujek (pola 10 × 10 m, połowa przekątnej 7,07 m) pokrywa salę 30 × 20 m, a żadne rozmieszczenie pięciu czujek jej nie pokryje (pięć punktów wymagałoby promienia ok. 8,1 m), więc 5 (c) to za mało. 10 czujek (a) wynikałoby z błędnego traktowania belek jak ścian: pole 20 × 6 m wymagałoby wtedy po dwie czujki.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "verdict": "Uzupełniono uzasadnienie: dotychczasowe expl wykazywało tylko, że nie wystarczy jedna czujka na pole 20 × 6 m, a nie że żadne rozmieszczenie 5 czujek nie spełni warunku promienia 7,5 m. Obliczenie optymalizacyjne (pokrycie prostokąta 30 × 20 m pięcioma punktami) daje minimalny promień ok. 8,08 m > 7,5 m, więc 6 jest minimum. Odpowiedź b, stan nieustalone (TS 2006 wycofana) bez zmian."
+ },
+ {
+  "id": 191,
+  "ans": "c",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "H1",
+  "basis": "§ 3 ust. 1 pkt 2 rozp. MSWiA z 24.07.2009 w sprawie przeciwpożarowego zaopatrzenia w wodę oraz dróg pożarowych",
+  "src": "akty/woda_drogi_2009.txt",
+  "quote": "2 500 m3 lub o powierzchni przekraczającej",
+  "expl": "Dla budynku zamieszkania zbiorowego (hotel) poza jednostką osadniczą woda do zewnętrznego gaszenia jest wymagana, gdy kubatura brutto przekracza 2500 m3 lub powierzchnia przekracza 500 m2. Kubatura równa 2500 m3 progu nie „przekracza”, a 450 m2 < 500 m2, więc obowiązku nie ma; 10 i 20 dm3/s (a, b) to ilości z § 5 ust. 1, stosowane dopiero przy istniejącym obowiązku.",
+  "norms": [],
+  "verdict": "Cytat A/B „2 500 m3 lub o powierzchni przekraczajàcej” nie występuje w akty/woda_drogi_2009.txt (plik ma „przekraczającej”, linia 129) – poprawiono cytat. Odpowiedź c podtrzymana: próg to kubatura „przekraczająca” 2500 m3 (równa nie przekracza) lub powierzchnia ponad 500 m2 (tu 450 m2)."
+ },
+ {
+  "id": 257,
+  "ans": "a",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie powołuje wycofane wydanie PN-EN 12101-6:2007 (EN 12101-6:2005); obecnie obowiązują PN-EN 12101-6:2022-09 i PN-EN 12101-13:2022-09 (projektowanie SRC) – treści aktualnych wydań w zakresie wyposażenia rezerwowego nie sprawdzono.",
+  "topic": "U6",
+  "basis": "pkt 11.7.2.3 PN-EN 12101-6:2007 (EN 12101-6:2005)",
+  "src": "normy/PN-EN_12101-6_2007_projekt_WYCOFANA.txt",
+  "quote": "budynku (np. dwie klatki schodowe, na które można wejść z każdej kondygnacji), nie jest wymagane",
+  "expl": "Wg pkt 11.7.2.3 PN-EN 12101-6:2007 kompletny duplikat wentylatora z silnikiem jest wymagany, gdy system różnicowania ciśnień chroni jedyną drogę ewakuacyjną w budynku; gdy z każdego pomieszczenia użytkowego są dwie niezależne drogi (np. dwie klatki schodowe dostępne z każdej kondygnacji), wyposażenie rezerwowe nie jest wymagane, a wysokość budynku (165 m) tego kryterium nie zmienia. Odpowiedź „co najmniej w jednej klatce” (b) bierze się z dosłownego odczytania końcówki zdania normy: nie jest wymagane wyposażenie rezerwowe „dla każdej drogi ewakuacyjnej”; za odczytaniem „nie muszą” (a) przemawia kolejny akapit (jedna droga i przejście do innej strefy – rezerwa zbędna), ale ogólny pkt 11.1 normy zaleca rezerwę, dlatego pewność jest średnia.",
+  "norms": [
+   "PN-EN 12101-6"
+  ],
+  "verdict": "Pewność obniżona z „wysokiej” na „średnią”: cytat urywa zdanie przed zastrzeżeniem „zapewnienie wyposażenia rezerwowego dla każdej drogi ewakuacyjnej” (PN-EN_12101-6_2007, linia 3669), które pozwala czytać przepis jako „rezerwa w co najmniej jednej klatce” (opcja b), a pkt 11.1 (linia 3228–3229) ogólnie wymaga wyposażenia rezerwowego. Odpowiedź a podtrzymana – wspiera ją następny akapit 11.7.2.3; obalenia nie ma, ale przepis nie rozstrzyga wprost."
+ }
+]
