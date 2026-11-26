@@ -64,6 +64,12 @@ Stan postępu: `content/key/progress.json` (`done`: bloki ukończone).
    `python3 tools/nightly/skeptic_args.py R` (na istniejących częściach i wynikach A, B, J) i `Workflow` z tym
    samym skryptem i wypisanymi argumentami (`skepticOnly`). Nie uruchamiaj wcześniej `select_block.py` dla tego
    bloku: nadpisałby części.
+   **Gdy narzędzie Workflow jest niedostępne**, te same etapy uruchamia się jako osobnych agentów z identycznymi
+   poleceniami: `node tools/nightly/prompts.js <argumenty.json> solverA|solverB <część>` (oraz `author`/`checker <lekcja>`)
+   zapisuje polecenie do pliku, agent dostaje je do przeczytania; po A i B `python3 tools/nightly/disputes.py <blok> <część>
+   <plik>` wyznacza sporne dla `prompts.js … judge <część> <plik>`, a `skeptic_args.py <blok>` obecny klucz dla
+   `prompts.js … skeptic <część> "<klucz>"`. Kolejność i zasady jak w skrypcie: A i B niezależnie, arbiter tylko przy
+   rozbieżnościach, sceptyk po arbitrze, kontrola lekcji po autorze.
 
 5. **Po przebiegu:**
 
