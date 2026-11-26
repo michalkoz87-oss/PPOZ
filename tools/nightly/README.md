@@ -54,8 +54,12 @@ Stan postępu: `content/key/progress.json` (`done`: bloki ukończone).
    Polecenie wypisuje argumenty przebiegu (JSON). Gdy części jest 0, uruchom przebieg tylko dla lekcji.
 
 4. **Przebieg.** `Workflow` ze `scriptPath: tools/nightly/verify-block.js` i wypisanymi argumentami.
-   Wyniki trafiają do `content/key/raw/` (A_, B_, J_), `content/lessons/`, `content/flashcards/`.
-   Nie uruchamiaj kilku przebiegów naraz.
+   Na każdej części: dwóch niezależnych ekspertów (A od pierwszego pytania, B od ostatniego z szukaniem
+   wyjątków), arbiter dla rozbieżności i na końcu **sceptyk**, który próbuje obalić cały klucz części, także
+   odpowiedzi zgodne u A i B (sprawdza cytaty grep, wyjątki, obliczenia, stan dzisiejszy, różnice ze starym
+   kluczem). Wyniki trafiają do `content/key/raw/` (A_, B_, J_, S_), `content/lessons/`, `content/flashcards/`.
+   `merge_key.py` daje S pierwszeństwo; zmiana odpowiedzi przez sceptyka bez cytatu i pewności „wysoka”
+   oznacza pytanie jako sporne (druga odpowiedź w `alt`). Nie uruchamiaj kilku przebiegów naraz.
 
 5. **Po przebiegu:**
 
@@ -66,7 +70,7 @@ Stan postępu: `content/key/progress.json` (`done`: bloki ukończone).
    Test w przeglądarce: serwer `python3 -m http.server 8200 --directory app`, potem
    `node tools/smoke.js <katalog na zrzuty>`; ma być `ERRORS 0`.
    Uruchom też `node tools/smoke_ustna.js <katalog na zrzuty>` (moduł części ustnej).
-   Dopisz blok do `content/key/progress.json` (data, liczba pytań, liczba spornych), zrób commit i push,
+   Dopisz blok do `content/key/progress.json` (data, liczba pytań, liczba spornych, zmiany sceptyka), zrób commit i push,
    opublikuj `dist/artifact.html` z plikami `dist/data/*.json` (także `cases.json`) pod adresem
    `https://claude.ai/artifact/AYFFkjMbuJvG6gfe7YbMSC`.
 

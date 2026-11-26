@@ -3,7 +3,7 @@
   {"file": "INDEX.md", "read": "CAŁY plik: opis korpusu i stanu prawnego"},
   {"file": "akty/wt_2002.txt", "read": "dział VI „Bezpieczeństwo pożarowe” w całości (grep -n 'DZIAŁ VI'; ok. 1300 linii) oraz § 2, § 3, § 8, § 68, § 181, § 183 (grep); zmiany z 2023–2024 r. na końcu pliku"},
   {"file": "akty/rozp_ppoz_2010.txt", "read": "CAŁY plik (tekst jednolity z 2023 r.; na końcu pliku zmiany z 21.11.2024 i 28.09.2026, nieuwzględnione w tekście jednolitym)"},
-  {"file": "akty/woda_drogi_2009.txt", "read": "CAŁY plik (polskie znaki są zapisane nietypowo: ˝=ż, ∏=ł, à=ą, ´=ę, Ê=ś, ƒ=ń, ç=ć; układ dwukolumnowy; liczby są poprawne; tabele na końcu pliku)"},
+  {"file": "akty/woda_drogi_2009.txt", "read": "CAŁY plik (tekst ogłoszony z 2009 r., bez późniejszych zmian; szpalty odczytane po kolei, polskie znaki odtworzone; pojedyncze litery na marginesach to ślady znaku wodnego; tabele 1–4 załącznika na końcu pliku)"},
   {"file": "akty/uzgadnianie_2023.txt", "read": "CAŁY plik"},
   {"file": "akty/ustawa_ppoz.txt", "read": "art. 4, art. 6a–6g (grep -n 'Art. 6')"},
   {"file": "akty/prawo_budowlane.txt", "read": "grep: art. 5, art. 9, art. 56, art. 71"}

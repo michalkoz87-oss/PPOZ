@@ -7,7 +7,7 @@
  {"id": "H", "name": "Przeciwpożarowe zaopatrzenie w wodę i drogi pożarowe (rozp. MSWiA z 24.07.2009)",
   "topics": ["H1", "H2"],
   "rx": "drog\\w* pożarow|zaopatrzeni\\w* w wodę|do zewnętrznego gaszenia|hydrant\\w* zewn|hydrant\\w* nadziemn|hydrant\\w* podziemn|zbiornik\\w* przeciwpożarow|02857|stanowisk\\w* czerpania",
-  "sources": [{"file": "akty/woda_drogi_2009.txt", "read": "CAŁY plik (polskie znaki są zapisane nietypowo: ˝=ż, ∏=ł, à=ą, ´=ę, Ê=ś, ƒ=ń, ç=ć, ó=ó; układ dwukolumnowy; liczby są poprawne; tabele na końcu pliku)"}],
+  "sources": [{"file": "akty/woda_drogi_2009.txt", "read": "CAŁY plik (tekst ogłoszony z 2009 r., bez późniejszych zmian; szpalty odczytane po kolei, polskie znaki odtworzone; pojedyncze litery na marginesach to ślady znaku wodnego; tabele 1–4 załącznika na końcu pliku)"}],
   "lessons": ["T09"]},
  {"id": "P", "name": "Ustawa o ochronie ppoż., PSP, Prawo budowlane, uzgadnianie projektów, wyroby",
   "topics": ["P1", "P2", "P3"],

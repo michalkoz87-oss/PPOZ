@@ -43,6 +43,9 @@ def main():
         with open(os.path.join(out, 'part_%s.json' % name), 'w', encoding='utf-8') as f:
             json.dump([{k: q[k] for k in ('id', 'sheet', 'q', 'a', 'b', 'c')} for q in chunk], f, ensure_ascii=False, indent=1)
         parts.append(name)
+    for fn in os.listdir(out):  # części z wcześniejszego podziału tego bloku (autor lekcji czyta part_*.json)
+        if re.fullmatch(r'part_\d+\.json', fn) and fn[5:-5] not in parts:
+            os.remove(os.path.join(out, fn))
     sources, missing = list(b['sources']), []
     for n in json.load(open(os.path.join(ROOT, 'tools', 'nightly', 'norms.json'), encoding='utf-8')):
         if bid != 'Z' and bid not in n['blocks']:

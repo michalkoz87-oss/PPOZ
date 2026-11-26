@@ -5,6 +5,7 @@ export const meta = {
     { title: 'Klucz A', detail: 'odpowiedzi z tekstu źródeł' },
     { title: 'Klucz B', detail: 'niezależny drugi przebieg' },
     { title: 'Arbiter', detail: 'rozstrzyganie rozbieżności' },
+    { title: 'Sceptyk', detail: 'próba obalenia całego klucza części, także odpowiedzi zgodnych' },
     { title: 'Lekcje', detail: 'ściąga, pytania ustne, fiszki' },
     { title: 'Kontrola lekcji', detail: 'sprawdzenie wartości w źródłach' },
   ],
@@ -17,6 +18,10 @@ const SUM = { type: 'object', properties: { ok: { type: 'boolean' },
     conf: { type: 'string', enum: ['wysoka', 'średnia', 'niska'] }, ansNow: { type: 'string', enum: ['=', 'a', 'b', 'c', 'brak'] } }, required: ['id', 'ans', 'conf', 'ansNow'] } },
   skipped: { type: 'array', items: { type: 'number' } }, note: { type: 'string' } }, required: ['ok', 'answers', 'skipped'] }
 const DONE = { type: 'object', properties: { ok: { type: 'boolean' }, files: { type: 'array', items: { type: 'string' } }, note: { type: 'string' } }, required: ['ok', 'files'] }
+const SKEPTIC = { type: 'object', properties: { ok: { type: 'boolean' }, attacked: { type: 'number' },
+  changedAns: { type: 'array', items: { type: 'number' } }, changedState: { type: 'array', items: { type: 'number' } },
+  changedOther: { type: 'array', items: { type: 'number' } }, badQuotes: { type: 'array', items: { type: 'number' } },
+  confirmed: { type: 'array', items: { type: 'number' } }, note: { type: 'string' } }, required: ['ok', 'attacked', 'changedAns', 'note'] }
 const RULES = `
 KONTEKST. Aplikacja do nauki do egzaminu na rzeczoznawcę do spraw zabezpieczeń przeciwpożarowych (KG PSP). Pytania testowe A/B/C pochodzą z egzaminów 2015–2026 (pole "sheet": arkusz 1 ≈ 2015 … 14 ≈ 2026); KG PSP nie publikuje klucza. Użytkownik uczy się z tych odpowiedzi do egzaminu zawodowego: błąd w kluczu to realna szkoda. Dzisiejszy stan prawny opisuje ${W}/corpus/INDEX.md (przeczytaj najpierw; m.in. WT z 2002 r. wygasły 21.09.2026 i są traktowane jako odniesienie).
 BLOK: ${args.name}
@@ -71,6 +76,20 @@ Dla KAŻDEJ pozycji keyValues, każdej tabeli, każdej pułapki, każdego punktu
 python3 -c "import json;json.load(open('${ROOT}/content/lessons/${id}.json'));json.load(open('${ROOT}/content/flashcards/${id}.json'));print('ok')"
 Zwróć: ok, files, note (ile pozycji sprawdzono, poprawiono i usunięto).`
 
+const skeptic = (part, cur) => `Jesteś sceptykiem-ekspertem ochrony przeciwpożarowej. Klucz do pytań z ${W}/blocks/${B}/part_${part}.json ustalili już dwaj niezależni eksperci (A, B) i arbiter (J). Twoje zadanie: spróbować go OBALIĆ, pytanie po pytaniu, także tam, gdzie A i B byli zgodni — wspólny błąd dwóch osób czytających ten sam przepis tak samo jest najgroźniejszy, bo nikt go nie wykryje.
+${RULES}
+OBECNY KLUCZ (id → odpowiedź; skąd): ${cur}
+Uzasadnienia: ${RAW}/A_${B}_${part}.json, ${RAW}/B_${B}_${part}.json, ${RAW}/J_${B}_${part}.json (jeśli jest; dla id rozstrzygniętych przez arbitra liczy się J). Stary klucz z poprzedniej wersji quizu: ${ROOT}/content/questions.json, pola oldKey i oldConf (słaba wskazówka; tam, gdzie obecny klucz się od niego różni, odtwórz rozstrzygnięcie od zera).
+DLA KAŻDEGO PYTANIA:
+1. Przeczytaj treść pytania i wszystkie trzy odpowiedzi; zwróć uwagę na przeczenia w pytaniu („nie jest wymagane”, „nieprawdziwe”), progi („powyżej” a „co najmniej”), jednostki i to, czy inna opcja nie jest równie albo bardziej poprawna.
+2. Sprawdź cytat: grep -n -F fragmentu w pliku "src". Cytat ma istnieć dosłownie i dotyczyć stanu faktycznego pytania (ten sam rodzaj obiektu, ten sam przypadek), a nie sąsiedniego przepisu.
+3. Szukaj obalenia: przeczytaj cały paragraf z wyjątkami („nie stosuje się”, „dopuszcza się”, „z wyjątkiem”), przepisy szczególne w innych paragrafach, tabele załącznika; obliczenia przelicz samodzielnie.
+4. Stan dzisiejszy: czy "stan" i "ansNow" są prawdziwe na dziś (akt uchylony, zmieniony, wydanie normy zastąpione; norma aktualna i wycofana są w źródłach, jeśli je dostarczono — porównaj wartości obu wydań).
+5. Wyjaśnienie "expl" ma być poprawne i konkretne.
+ZMIANY: do pliku ${RAW}/S_${B}_${part}.json zapisz listę obiektów w formacie jak wyżej (pełny obiekt, wszystkie pola) TYLKO dla pytań, w których coś zmieniasz (odpowiedź, stan, ansNow, pewność, cytat, podstawę albo wyjaśnienie), z dodatkowym polem "verdict": co było źle, dlaczego, z podstawą. Odpowiedź zmieniaj tylko wtedy, gdy masz podstawę w tekście; jeśli Twoje obalenie opiera się na rozumowaniu, a nie na wyraźnym przepisie, wpisz conf „średnia” albo „niska” i opisz wątpliwość w "expl" — wtedy pytanie zostanie oznaczone w aplikacji jako sporne. Gdy nic nie zmieniasz, zapisz pustą listę [].
+Jeśli plik nie jest pusty, uruchom: python3 ${ROOT}/tools/validate_batch.py ${RAW}/S_${B}_${part}.json ${W}/blocks/${B}/part_${part}.json --adj <id zmienione> i poprawiaj do skutku.
+Zwróć: ok, attacked (ile pytań sprawdziłeś), changedAns (id ze zmienioną odpowiedzią "ans"), changedState (id ze zmienionym stan/ansNow), changedOther (id z poprawionym cytatem, podstawą, pewnością lub wyjaśnieniem), badQuotes (id, w których cytatu nie było w pliku albo nie dotyczył pytania), confirmed (id, których nie udało się obalić), note (najważniejsze zmiany z podstawą i co pozostaje niepewne).`
+
 const keyJob = pipeline(args.parts,
   async part => {
     const [A, Bv] = await parallel([
@@ -93,7 +112,21 @@ const keyJob = pipeline(args.parts,
     }
     let J = null
     if (disputed.length) J = await agent(judge(part, disputed, why.join('; ')), { label: `J:${B}:${part} (${disputed.length})`, phase: 'Arbiter', schema: SUM })
-    return { part, a: am.size, b: bm.size, agreed: ids.length - disputed.length, disputed: disputed.length, jOk: disputed.length ? !!(J && J.ok) : null }
+    const jm = new Map(((J && J.answers) || []).map(x => [x.id, x]))
+    const cur = ids.map(id => {
+      const j = jm.get(id), a = am.get(id), b = bm.get(id)
+      if (j) return `${id} → ${j.ans} (J)`
+      if (a && b && a.ans === b.ans) return `${id} → ${a.ans} (A i B zgodni)`
+      if (a && b) return `${id} → sporne A=${a.ans}, B=${b.ans} (arbiter nie rozstrzygnął)`
+      return `${id} → ${(a || b).ans} (tylko ${a ? 'A' : 'B'})`
+    }).join('; ')
+    return { part, a: am.size, b: bm.size, agreed: ids.length - disputed.length, disputed: disputed.length, jOk: disputed.length ? !!(J && J.ok) : null, cur, n: ids.length }
+  },
+  async (r, part) => {
+    if (!r.n) return { ...r, cur: undefined, skeptic: null }
+    const S = await agent(skeptic(part, r.cur), { label: `S:${B}:${part}`, phase: 'Sceptyk', schema: SKEPTIC })
+    const { cur, ...rest } = r
+    return { ...rest, skeptic: S }
   })
 const lessonJob = pipeline(args.lessons || [],
   id => agent(author(id), { label: `lekcja:${id}`, phase: 'Lekcje', schema: DONE }),

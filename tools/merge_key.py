@@ -5,6 +5,8 @@ Użycie: merge_key.py <katalog z plikami wyników>
 Pliki wyników (listy obiektów na paczkę pytań):
   A_NN.json, B_NN.json  – dwa niezależne przebiegi z weryfikacją w tekstach przepisów
   J_NN.json             – rozstrzygnięcia arbitra dla pytań spornych
+  S_NN.json             – poprawki sceptyka (próba obalenia całego klucza części); mają pierwszeństwo przed A/B/J,
+                          ale zmiana odpowiedzi bez cytatu i pewności „wysoka” daje pytanie sporne (alt = odpowiedź A/B/J)
   T_NN.json             – przebieg oszczędny (wiedza + punktowe sprawdzenia)
 Stary klucz (z poprzedniej wersji quizu) pochodzi z content/questions.json.
 
@@ -50,12 +52,12 @@ def clean(o):
 def main():
     src = sys.argv[1]
     qs = json.load(open(os.path.join(ROOT, 'content', 'questions.json'), encoding='utf-8'))
-    A, B, J, T = (load_dir(src, p) for p in 'ABJT')
+    A, B, J, T, S = (load_dir(src, p) for p in 'ABJTS')
     final, stats = {}, collections.Counter()
     for q in qs:
         i, old, oldc = q['id'], q.get('oldKey'), q.get('oldConf') or 'niska'
-        a, b, j, t = A.get(i), B.get(i), J.get(i), T.get(i)
-        alt = None
+        a, b, j, t, s = A.get(i), B.get(i), J.get(i), T.get(i), S.get(i)
+        alt, r, verif = None, None, None
         if j:
             r, verif = clean(j), 'źródła'
         elif a and b:
@@ -85,7 +87,21 @@ def main():
                 r['conf'] = 'średnia' if (r['conf'] == 'wysoka' and r['quote']) else 'niska'
             else:
                 verif = 'źródła' if (r['conf'] == 'wysoka' and r['quote']) else 'jednokrotne'
-        else:
+        if s:
+            rs = clean(s)
+            if r is None:
+                verif = 'źródła' if (rs['conf'] == 'wysoka' and rs['quote']) else 'jednokrotne'
+            elif rs['ans'] != r['ans']:
+                stats['sceptyk:zmiana odpowiedzi'] += 1
+                if rs['conf'] == 'wysoka' and rs['quote']:
+                    verif, alt = 'źródła', None
+                else:
+                    verif, alt, rs['conf'] = 'sporne', r['ans'], 'niska'
+            elif verif in ('sporne', 'jednokrotne') and rs['conf'] == 'wysoka' and rs['quote']:
+                verif, alt = 'źródła', None
+            stats['sceptyk:poprawki'] += 1
+            r = rs
+        if r is None:
             continue
         if r['conf'] == 'wysoka' and not r['quote']:
             r['conf'] = 'średnia'
@@ -97,7 +113,7 @@ def main():
     out = os.path.join(ROOT, 'content', 'key', 'final.json')
     os.makedirs(os.path.dirname(out), exist_ok=True)
     json.dump({str(k): v for k, v in sorted(final.items())}, open(out, 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
-    print('pytań z kluczem:', len(final), 'z', len(qs), '| źródła A/B/J/T:', len(A), len(B), len(J), len(T))
+    print('pytań z kluczem:', len(final), 'z', len(qs), '| źródła A/B/J/T/S:', len(A), len(B), len(J), len(T), len(S))
     print(dict(stats))
     print('tematy:', dict(collections.Counter(v['topic'] for v in final.values()).most_common()))
 

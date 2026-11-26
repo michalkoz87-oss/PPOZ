@@ -1,4 +1,4 @@
-import json,urllib.request,urllib.parse,subprocess,os,sys,time
+import json,re,urllib.request,urllib.parse,subprocess,os,sys,time
 OUT=sys.argv[1]
 def getj(u):
     for i in range(4):
@@ -22,6 +22,27 @@ def pdf2txt(b):
     open('/tmp/_a.pdf','wb').write(b)
     subprocess.run(['pdftotext','-layout','/tmp/_a.pdf','/tmp/_a.txt'],check=True)
     return open('/tmp/_a.txt',encoding='utf-8',errors='replace').read()
+# Dz.U. 2009 nr 124 poz. 1030: PDF ma nietypowe kodowanie polskich znaków i dwie szpalty; -layout miesza je w jednej linii,
+# a tryb bez -layout przestawia akapity. Tniemy więc stronę na szpalty (granica x=296 pt), nagłówek strony 1 i tabele
+# załącznika (od y=505 pt na stronie 7) bierzemy w całej szerokości, potem zamieniamy znaki.
+CP_2009 = str.maketrans({'˝':'ż','à':'ą','Ê':'ś','´':'ę','∏':'ł','ç':'ć','ƒ':'ń','ê':'ź','Ñ':'Ą','¢':'Ę'})
+def pdf2txt_cols(b, head_y=168, annex=(7, 505), split=296):
+    open('/tmp/_a.pdf','wb').write(b)
+    n = int(re.search(r'Pages:\s+(\d+)', subprocess.run(['pdfinfo','/tmp/_a.pdf'],capture_output=True,text=True).stdout).group(1))
+    def crop(p, x, y, w, h):
+        return subprocess.run(['pdftotext','-layout','-f',str(p),'-l',str(p),'-x',str(x),'-y',str(y),'-W',str(w),'-H',str(h),'/tmp/_a.pdf','-'],
+                              capture_output=True,text=True,check=True).stdout
+    out = []
+    for p in range(1, n + 1):
+        top = head_y if p == 1 else 0
+        bottom = annex[1] if p == annex[0] else 842
+        if p == 1: out.append(crop(p, 0, 0, 595, top))
+        if p <= annex[0]:
+            out += [crop(p, 0, top, split, bottom - top), crop(p, split, top, 595 - split, bottom - top)]
+        if p >= annex[0]:
+            out.append(crop(p, 0, bottom if p == annex[0] else 0, 595, 842 - (bottom if p == annex[0] else 0)))
+    return re.sub(r'[ \t]+\n', '\n', '\n'.join(out).translate(CP_2009))
+COLS = {'woda_drogi_2009'}
 ACTS=[
  ('ustawa_ppoz','DU/1991/351'),('ustawa_psp','DU/1991/400'),('prawo_budowlane','DU/1994/414'),('pos','DU/2001/627'),
  ('ustawa_odpady','DU/2013/21'),('ustawa_imprezy_masowe','DU/2009/504'),('ustawa_wyroby_budowlane','DU/2004/881'),
@@ -58,7 +79,7 @@ for name,eli in ACTS:
         else:
             base=tj[-1] if tj else eli
             b=getb(f"https://api.sejm.gov.pl/eli/acts/{base}/text.pdf")
-            parts.append((("TEKST JEDNOLITY " if tj else "TEKST OGŁOSZONY ")+base,pdf2txt(b)))
+            parts.append((("TEKST JEDNOLITY " if tj else "TEKST OGŁOSZONY ")+base,(pdf2txt_cols if name in COLS and not tj else pdf2txt)(b)))
             later=[z for z in zm if key(z[0])>key(base)]
             for z,dt in later:
                 try:

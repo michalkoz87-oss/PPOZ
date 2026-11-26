@@ -29,7 +29,7 @@ Pliki oznaczone „CAŁY” przeczytaj w całości narzędziem Read, zanim cokol
 
 const LESSONS = `TYPOWE BŁĘDY Z WCZEŚNIEJSZYCH KAZUSÓW (każdy przeszedł przez autora, a część także przez zdającego):
 - Pominięte wyjątki i zwolnienia. Przykład: § 12 ust. 7 rozp. z 2009 r. wyłącza § 12 ust. 2 (w tym zakaz drzew wyższych niż 3 m) dla budynku do 3 kondygnacji i 12 m z utwardzonym dojściem; drzewa wpisane jako usterka były zgodne. Przy każdym wymaganiu czytaj cały paragraf i paragrafy „nie stosuje się”, „dopuszcza się”, „z wyjątkiem”.
-- Przepis dodany zmianą, którego nie ma w tekście jednolitym (np. § 12 ust. 11 rozp. z 2009 r. z 2023 r.): sprawdź koniec pliku i INDEX.md, zanim powołasz albo pominiesz przepis.
+- Przepis dodany zmianą, którego nie ma w tekście jednolitym (np. § 12 ust. 11 WT — 30 m od budynku produkcyjnego lub magazynowego ponad 1000 m² — dodany rozporządzeniem Dz.U. 2023 poz. 2442, w mocy od 1.08.2024): sprawdź koniec pliku i INDEX.md, zanim powołasz albo pominiesz przepis.
 - Odległości między budynkami zależą od klasy odporności ogniowej ścian i udziału otworów (§ 271 ust. 1, 5, 8 i 12, § 232 ust. 2), a nie tylko od tabeli: sprawdź klasę E ściany z tabeli § 216 ust. 1.
 - Brzmienie obowiązku w odpowiedziach wzorcowych: art. 6e ustawy — komendant „unieważnia” uzgodnienie (obowiązek), nie „może unieważnić”. Cytuj czasownik z przepisu.
 - Długości i zasięgi liczone w linii prostej zamiast po rzeczywistej drodze (między regałami, przez drzwi); liczby w opisie różne od geometrii (29 m w opisie, 29,8 m z rysunku).
