@@ -46,6 +46,16 @@ def main():
     for fn in os.listdir(out):  # części z wcześniejszego podziału tego bloku (autor lekcji czyta part_*.json)
         if re.fullmatch(r'part_\d+\.json', fn) and fn[5:-5] not in parts:
             os.remove(os.path.join(out, fn))
+    sources, missing = block_sources(b)
+    print(json.dumps(dict(root=ROOT, block=bid, name=b['name'], parts=parts, sources=sources, lessons=b.get('lessons', [])), ensure_ascii=False))
+    print('pytań: %d | części: %d | norm w źródłach: %d' % (len(sel), len(parts), len(sources) - len(b['sources'])), file=sys.stderr)
+    for n in missing:
+        print('brak tekstu normy: %s (%s; %s) — patrz README, krok 1' % (n['norm'], n['via'], n['id']), file=sys.stderr)
+
+
+def block_sources(b):
+    """Źródła bloku z blocks.json oraz normy z wykazu, których tekst jest w .work/corpus/normy (i lista brakujących)."""
+    bid = b['id']
     sources, missing = list(b['sources']), []
     for n in json.load(open(os.path.join(ROOT, 'tools', 'nightly', 'norms.json'), encoding='utf-8')):
         if bid != 'Z' and bid not in n['blocks']:
@@ -57,10 +67,7 @@ def main():
             continue
         how = 'CAŁY plik' if os.path.getsize(p) < 45000 else 'grep po słowach z pytania, potem Read właściwego rozdziału'
         sources.append(dict(file='normy/' + n['file'], read='%s; %s — %s; %s' % (how, n['norm'], n['stan'], n.get('uwagi', ''))))
-    print(json.dumps(dict(root=ROOT, block=bid, name=b['name'], parts=parts, sources=sources, lessons=b.get('lessons', [])), ensure_ascii=False))
-    print('pytań: %d | części: %d | norm w źródłach: %d' % (len(sel), len(parts), len(sources) - len(b['sources'])), file=sys.stderr)
-    for n in missing:
-        print('brak tekstu normy: %s (%s; %s) — patrz README, krok 1' % (n['norm'], n['via'], n['id']), file=sys.stderr)
+    return sources, missing
 
 
 if __name__ == '__main__':

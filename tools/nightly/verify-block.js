@@ -90,6 +90,11 @@ ZMIANY: do pliku ${RAW}/S_${B}_${part}.json zapisz listę obiektów w formacie j
 Jeśli plik nie jest pusty, uruchom: python3 ${ROOT}/tools/validate_batch.py ${RAW}/S_${B}_${part}.json ${W}/blocks/${B}/part_${part}.json --adj <id zmienione> i poprawiaj do skutku.
 Zwróć: ok, attacked (ile pytań sprawdziłeś), changedAns (id ze zmienioną odpowiedzią "ans"), changedState (id ze zmienionym stan/ansNow), changedOther (id z poprawionym cytatem, podstawą, pewnością lub wyjaśnieniem), badQuotes (id, w których cytatu nie było w pliku albo nie dotyczył pytania), confirmed (id, których nie udało się obalić), note (najważniejsze zmiany z podstawą i co pozostaje niepewne).`
 
+if (args.skepticOnly) { // dosprawdzenie bloku zweryfikowanego przed dodaniem sceptyka (argumenty: tools/nightly/skeptic_args.py)
+  const res = await pipeline(args.parts, part => agent(skeptic(part, args.cur[part]), { label: `S:${B}:${part}`, phase: 'Sceptyk', schema: SKEPTIC }).then(S => ({ part, skeptic: S })))
+  return { block: B, skepticOnly: true, key: res.filter(Boolean) }
+}
+
 const keyJob = pipeline(args.parts,
   async part => {
     const [A, Bv] = await parallel([

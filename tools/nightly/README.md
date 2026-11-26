@@ -60,6 +60,10 @@ Stan postępu: `content/key/progress.json` (`done`: bloki ukończone).
    kluczem). Wyniki trafiają do `content/key/raw/` (A_, B_, J_, S_), `content/lessons/`, `content/flashcards/`.
    `merge_key.py` daje S pierwszeństwo; zmiana odpowiedzi przez sceptyka bez cytatu i pewności „wysoka”
    oznacza pytanie jako sporne (druga odpowiedź w `alt`). Nie uruchamiaj kilku przebiegów naraz.
+   Blok zweryfikowany przed dodaniem sceptyka dosprawdza się samym tym etapem:
+   `python3 tools/nightly/skeptic_args.py R` (na istniejących częściach i wynikach A, B, J) i `Workflow` z tym
+   samym skryptem i wypisanymi argumentami (`skepticOnly`). Nie uruchamiaj wcześniej `select_block.py` dla tego
+   bloku: nadpisałby części.
 
 5. **Po przebiegu:**
 
