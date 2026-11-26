@@ -42,6 +42,25 @@
       "unintendedFixed": 11,
       "note": "K01 tylko kontrola; K02 drzewa przeniesione do pozycji poprawnych (§ 12 ust. 7 rozp. z 2009 r.); K03 gaśnica przy frytownicach (wskazana przez zdającego) przeniesiona w dokumentacji",
       "tokens": 3501444
+    },
+    "K2": {
+      "date": "2026-11-26",
+      "cases": [
+        "K04",
+        "K05",
+        "K06"
+      ],
+      "issues": 36,
+      "solverFoundA": 35,
+      "solverFoundB": 35,
+      "solverFound": 35,
+      "keyFixed": 12,
+      "keyRemoved": 0,
+      "refuted": 13,
+      "unintendedFixed": 39,
+      "drawingFixes": 12,
+      "note": "Pierwszy przebieg z dwoma zdającymi i sceptykiem. Żaden zdający nie wskazał K05 u10 (ślepy korytarz: limit 10 m liczony tylko dla ślepego odcinka; klucz trzyma się brzmienia § 256 ust. 3). Sceptyk: K04 dojście przez klatkę ok. 40 m i HZ2 36,5 m; K05 zasięgi hydrantów z geometrii, usunięte wyjście w ścianie zachodniej, odsunięcie drzwi sali 0.15; K06 cytat § 3 ust. 2 bez „nie” (odwrócony sens), wyjątki § 211 ust. 2, § 3 ust. 3a, odporność u1 na § 210. Niepewne: K04 u6 (drzewa uniemożliwiające dostęp), K05 u10 (odnośnik do § 256 ust. 3), K06 u3 (40 m z § 278 ust. 2 dla każdego garażu zamkniętego).",
+      "tokens": 7174208
     }
   }
 }

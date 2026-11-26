@@ -1,0 +1,3844 @@
+{
+  "id": "K06",
+  "title": "Budynek mieszkalny wielorodzinny z garażem podziemnym",
+  "level": 3,
+  "lead": "Projekt przed uzgodnieniem: sześciokondygnacyjny budynek mieszkalny z piwnicą i garażem podziemnym na 57 stanowisk. Czy garaż o powierzchni tuż poniżej 1 500 m² obejdzie się bez oddymiania?",
+  "tags": [
+    "ZL IV",
+    "garaż podziemny",
+    "budynek średniowysoki",
+    "ocena projektu",
+    "uzgodnienie"
+  ],
+  "topics": [
+    "W1",
+    "W2",
+    "W3",
+    "W4",
+    "W5",
+    "R1",
+    "R2",
+    "H1",
+    "H2",
+    "P2",
+    "U6"
+  ],
+  "legal": "Wymagania budowlane podano według warunków technicznych z 2002 r. (tekst jednolity z 2022 r. ze zmianami z 2023 i 2024 r.). Rozporządzenie utraciło moc 21.09.2026, ale art. 102a Prawa budowlanego pozwala przez 18 miesięcy od 20.09.2026 sporządzić projekt według przepisów obowiązujących do 19.09.2026 po złożeniu oświadczenia inwestora. Do dnia sporządzenia kazusu nowych warunków technicznych nie ogłoszono; po ich ogłoszeniu klucz zostanie sprawdzony ponownie. Rozporządzenie MSWiA z 7.06.2010 stosowano w brzmieniu tekstu jednolitego z 2023 r. ze zmianą z 21.11.2024 r. (§ 28a – autonomiczne czujki dymu i tlenku węgla, w mocy od 23.12.2024 r.), której nie ma w tekście jednolitym. Pozostałe podstawy (rozporządzenia MSWiA z 2009 i 2023 r., ustawa o ochronie przeciwpożarowej, Prawo budowlane) obowiązują. Największą długość węża hydrantu 33 (30 m) przyjęto według PN-EN 671-1:2012, p. 4.4.3.",
+  "problem": "Projektant przekazał do uzgodnienia projekt zagospodarowania terenu i projekt architektoniczno-budowlany budynku mieszkalnego wielorodzinnego z garażem podziemnym. Na podstawie wyciągu z opisu i trzech rysunków proszę ocenić zgodność rozwiązań z wymaganiami ochrony przeciwpożarowej.\nProszę wskazać niezgodności i braki wraz z podstawą prawną i wartością wymaganą, odróżnić je od rozwiązań, które tylko wyglądają na niezgodne, powiedzieć, czy projekt można uzgodnić, oraz zaproponować sposób doprowadzenia go do zgodności.",
+  "doc": {
+    "title": "Budynek mieszkalny wielorodzinny z garażem podziemnym przy ul. Projektowanej – warunki ochrony przeciwpożarowej",
+    "meta": [
+      [
+        "Inwestycja",
+        "Budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym wraz z zagospodarowaniem terenu (dane fikcyjne)"
+      ],
+      [
+        "Adres",
+        "ul. Projektowana, dz. nr 214/7 (miasto, ok. 45 000 mieszkańców)"
+      ],
+      [
+        "Stadium",
+        "Projekt zagospodarowania terenu i projekt architektoniczno-budowlany"
+      ],
+      [
+        "Przepisy techniczno-budowlane",
+        "Warunki techniczne z 12.04.2002 r.; inwestor złożył oświadczenie, o którym mowa w art. 102a ust. 1 Prawa budowlanego"
+      ],
+      [
+        "Zakres wyciągu",
+        "Opis warunków ochrony przeciwpożarowej (układ danych według § 4 ust. 1 pkt 1 i 2 rozporządzenia MSWiA z 5.08.2023 r.); rys. 1 – plan zagospodarowania terenu; rys. 2 – rzut kondygnacji podziemnej; rys. 3 – rzut parteru"
+      ]
+    ],
+    "sections": [
+      {
+        "no": "1",
+        "h": "Powierzchnia, wysokość, kubatura i liczba kondygnacji",
+        "text": "- Budynek mieszkalny o wymiarach w rzucie 13,0 × 28,0 m: 6 kondygnacji nadziemnych (parter i pięć pięter) oraz kondygnacja podziemna z piwnicą pod całą częścią mieszkalną.\n- Do ściany wschodniej piwnicy przylega jednokondygnacyjny garaż podziemny o wymiarach zewnętrznych 55,0 × 28,0 m, położony pod dziedzińcem. Garaż jest częścią budynku (wspólna konstrukcja, przejście z piwnicy).\n- Powierzchnia zabudowy: 364,0 m² (część mieszkalna); ponad strop garażu wystaje tylko obudowa wyjścia z klatki K2 o wymiarach 3,0 × 4,0 m.\n- Powierzchnia wewnętrzna: część mieszkalna 2 322,9 m² (7 kondygnacji po 331,84 m², w tym piwnica), garaż 1 485,1 m², razem 3 808,0 m².\n- Kubatura brutto: część mieszkalna 7 899 m³, garaż 5 082 m³, razem 12 981 m³.\n- Wysokość budynku od poziomu terenu przy wejściu do klatki K1 (−0,15) do górnej powierzchni stropodachu (+18,40): 18,55 m. Wysokość kondygnacji podziemnej 3,30 m, wysokość w świetle piwnicy i garażu 2,80 m.\n- Grupa wysokości: budynek średniowysoki (SW)."
+      },
+      {
+        "no": "2",
+        "h": "Charakterystyka zagrożenia pożarowego",
+        "text": "Część mieszkalna obejmuje 30 mieszkań, po 5 na kondygnacji. Ogrzewanie z miejskiej sieci ciepłowniczej przez węzeł cieplny w piwnicy, płyty kuchenne elektryczne; instalacji gazowej w budynku nie ma.\nW piwnicy są komórki lokatorskie wydzielone siatką stalową, rowerownia z wózkownią i węzeł cieplny z przyłączem wody.\nGaraż zamknięty na 57 stanowisk dla samochodów osobowych. Dopuszcza się w nim parkowanie samochodów zasilanych gazem propan-butan. Gęstość obciążenia ogniowego strefy garażu wynosi 380 MJ/m²; obliczono ją dla całej strefy (1 485,1 m²) przy 57 samochodach osobowych.\nMateriały niebezpieczne pożarowo nie występują. Pomieszczeń zagrożonych wybuchem nie ma."
+      },
+      {
+        "no": "3",
+        "h": "Kategoria zagrożenia ludzi i przewidywana liczba osób",
+        "text": "Część mieszkalna wraz z piwnicą: ZL IV. Garaż: strefa pożarowa, do której stosuje się wymagania jak dla stref PM.\nPrzewidywana liczba mieszkańców: 78 osób, na jednej kondygnacji nadziemnej do 13 osób. Na kondygnacji podziemnej (piwnica i garaż) przewiduje się jednocześnie do 30 osób. W budynku nie ma pomieszczeń, z których drzwi ewakuacyjne muszą otwierać się na zewnątrz."
+      },
+      {
+        "no": "4",
+        "h": "Podział na strefy pożarowe",
+        "text": "- Strefa ZL IV: kondygnacje nadziemne i piwnica, 2 322,9 m². Strefa obejmuje część podziemną, więc jej dopuszczalna powierzchnia wynosi 50% z 5 000 m², czyli 2 500 m².\n- Piwnica nie jest oddzielona od części nadziemnej, ponieważ budynek jest średniowysokim budynkiem ZL IV. Dźwig osobowy zjeżdża do piwnicy; drzwi przystankowe w piwnicy nie mają klasy odporności ogniowej.\n- Strefa garażu: 1 485,1 m² (dopuszczalna 5 000 m²).\n- Ściana między piwnicą a garażem jest ścianą oddzielenia przeciwpożarowego R E I 120 z żelbetu, posadowioną na własnym fundamencie; przepusty instalacyjne E I 120. Strop nad garażem jest stropodachem z warstwą gruntu i nawierzchnią dziedzińca."
+      },
+      {
+        "no": "5",
+        "h": "Klasa odporności pożarowej i odporność ogniowa elementów",
+        "text": "Część mieszkalna: klasa „C”. Piwnica należy do strefy ZL IV, dlatego zgodnie z § 212 ust. 5 do ustalenia klasy przyjęto 7 kondygnacji i 21,85 m (18,55 m + 3,30 m); budynek pozostaje średniowysoki, klasa „C”.\nGaraż: klasa „D”, przyjęta według § 275 ust. 1 i § 212 ust. 4 jak dla budynku niskiego PM o gęstości obciążenia ogniowego do 500 MJ/m², ponieważ garaż ma jedną kondygnację, leży poza obrysem części mieszkalnej i nie ma nad nim innych kondygnacji.\nWszystkie elementy budynku są nierozprzestrzeniające ognia. Ściany zewnętrzne ocieplone wełną mineralną, przekrycie stropodachu nierozprzestrzeniające ognia, pasy międzykondygnacyjne 0,90 m. Nad ostatnią kondygnacją jest strop żelbetowy (stropodach).",
+        "table": {
+          "head": [
+            "Element budynku",
+            "Część mieszkalna (klasa „C”)",
+            "Garaż (klasa „D”)"
+          ],
+          "rows": [
+            [
+              "Główna konstrukcja nośna",
+              "R 60",
+              "R 30"
+            ],
+            [
+              "Konstrukcja dachu",
+              "R 15 (stropodach żelbetowy)",
+              "–"
+            ],
+            [
+              "Stropy",
+              "R E I 60",
+              "strop nad garażem R E I 30"
+            ],
+            [
+              "Ściany zewnętrzne",
+              "E I 30 (o↔i)",
+              "E I 30 (ściany podziemne)"
+            ],
+            [
+              "Ściany wewnętrzne, w tym ściany między mieszkaniami oraz między mieszkaniami a korytarzem",
+              "E I 15",
+              "–"
+            ],
+            [
+              "Przekrycie dachu",
+              "R E 15",
+              "–"
+            ],
+            [
+              "Obudowa klatki schodowej",
+              "K1: R E I 60",
+              "K2: R E I 30"
+            ],
+            [
+              "Biegi i spoczniki schodów",
+              "K1: R 60",
+              "K2: R 30"
+            ],
+            [
+              "Ściana oddzielenia przeciwpożarowego piwnica – garaż",
+              "R E I 120",
+              "R E I 120"
+            ]
+          ]
+        }
+      },
+      {
+        "no": "6",
+        "h": "Warunki ewakuacji",
+        "text": "Część mieszkalna:\n- Jedna klatka schodowa K1 przy ścianie zachodniej, obudowana ścianami R E I 60, zamykana na każdej kondygnacji (także w piwnicy) drzwiami E I 30 z samozamykaczami. W stropodachu nad klatką klapa oddymiająca klasy B300 30 otwierana samoczynnie przez czujki dymu w klatce i ręcznie przyciskami przy wejściu i na ostatniej kondygnacji; dopływ powietrza przez drzwi wejściowe D1 otwierane siłownikiem.\n- Wymiary biegów i spoczników klatki K1 – według rys. 3. Bieg do piwnicy oddzielony od biegu prowadzącego do wyjścia ruchomą barierą.\n- Korytarze o szerokości 1,50 m, bez okien. Najdłuższe dojście, od drzwi mieszkań M x.2 i M x.5 do drzwi klatki K1, wynosi 15,3 m (dopuszczalne 60 m, w tym 20 m na poziomej drodze ewakuacyjnej).\n- Na parterze klatka K1 ma wyjście D1 bezpośrednio na zewnątrz; drzwi o szerokości 1,20 m.\nGaraż:\n- Z garażu (57 stanowisk, bez wentylacji oddymiającej) zapewniono dwa wyjścia ewakuacyjne: drzwiami D2 przez przedsionek przeciwpożarowy o wymiarach 1,60 × 1,80 m, zamykany drzwiami E I 30 i wentylowany grawitacyjnie, do korytarza piwnicy i dalej do klatki K1 oraz drzwiami D3 (E I 30) do klatki schodowej K2, która służy tylko garażowi i prowadzi bezpośrednio na zewnątrz (biegi i spoczniki 1,00 m – dla garażu wbudowanego wymagane 0,90 m; drzwi wyjściowe na zewnątrz o szerokości 1,00 m, otwierane na zewnątrz).\n- Wjazd i wyjazd rampą odkrytą przez bramę segmentową B1 w ścianie wschodniej; bramy nie przyjęto jako wyjścia ewakuacyjnego.\n- Najdłuższe przejście, mierzone osiami dróg manewrowych od stanowiska w narożniku północno-wschodnim do drzwi D3 klatki K2, wynosi 37,3 m (dopuszczalne 40 m)."
+      },
+      {
+        "no": "7",
+        "h": "Urządzenia przeciwpożarowe i instalacje",
+        "text": "- Garaż: 5 hydrantów 33 z wężem półsztywnym o długości 30 m (rys. 2). Zawory odcinające na wysokości 1,35 m. Wydajność hydrantu 1,0 dm³/s, ciśnienie na zaworze odcinającym od 0,2 do 0,7 MPa; instalacja zapewnia jednoczesny pobór wody z dwóch sąsiednich hydrantów przez 1 godzinę. Przewód rozprowadzający ze stali ocynkowanej DN 50, zasilany bezpośrednio z miejskiej sieci wodociągowej przez przyłącze w piwnicy, w garażu zabezpieczony przed zamarzaniem.\n- Część mieszkalna: hydrantów wewnętrznych nie przewiduje się (strefa ZL IV w budynku średniowysokim).\n- Garaż: wentylacja mechaniczna wyciągowa sterowana czujkami tlenku węgla; wentylatory w obudowie na dziedzińcu, ponad stropem garażu. Kanały wentylacyjne nie przechodzą przez inne strefy pożarowe.\n- Garaż: instalacji wentylacji oddymiającej i systemu sygnalizacji pożarowej nie projektuje się, ponieważ strefa ma powierzchnię mniejszą niż 1 500 m² i bezpośredni wyjazd z budynku. Stałe urządzenia gaśnicze nie są wymagane.\n- Część mieszkalna: system sygnalizacji pożarowej i dźwiękowy system ostrzegawczy nie są wymagane.\n- Awaryjne oświetlenie ewakuacyjne w garażu, na korytarzach piwnicy i kondygnacji nadziemnych oraz w klatkach K1 i K2; czas działania 1 h, oprawy z własnymi akumulatorami. Centrala klapy oddymiającej ma zasilanie rezerwowe z akumulatorów; w budynku nie ma rozdzielni zasilającej urządzenia przeciwpożarowe.\n- Przeciwpożarowy wyłącznik prądu przy wejściu D1, oznakowany; odcina dopływ prądu do budynku i garażu z wyjątkiem obwodów urządzeń, które muszą działać podczas pożaru.\n- Mieszkania: autonomicznych czujek dymu nie przewiduje się, ponieważ budynek nie wymaga systemu sygnalizacji pożarowej. Czujek tlenku węgla nie przewiduje się, ponieważ w mieszkaniach nie ma urządzeń spalających paliwo.\n- Scenariusza pożarowego nie opracowano, ponieważ w budynku nie przewiduje się systemu sygnalizacji pożarowej, stałych urządzeń gaśniczych ani wentylacji oddymiającej garażu.\n- Instalacja odgromowa zgodna z Polską Normą."
+      },
+      {
+        "no": "8",
+        "h": "Gaśnice",
+        "text": "Garaż: 5 gaśnic proszkowych ABC po 6 kg (30 kg) przy hydrantach 33. Na każdej kondygnacji nadziemnej i w piwnicy dodatkowo 1 gaśnica 4 kg przy drzwiach klatki K1. Dostęp do gaśnic o szerokości co najmniej 1 m."
+      },
+      {
+        "no": "9",
+        "h": "Przygotowanie do działań ratowniczych",
+        "text": "- Droga pożarowa wewnętrzna: wjazd z ul. Projektowanej z łukami o promieniu 12 m, przebieg wzdłuż ściany zachodniej (dłuższy bok części nadziemnej, 28,0 m; garaż leży w całości pod dziedzińcem) na całej jej długości, bliższa krawędź 9,0 m od ściany. Szerokość 4,0 m, nawierzchnia z kostki betonowej na podbudowie, nacisk osi 100 kN, spadek podłużny do 2%. Droga kończy się placem manewrowym 20 × 20 m. Między drogą a ścianą trawnik i krzewy do 1 m.\n- Dojścia utwardzone do drogi pożarowej: od wyjścia D1 – 9 m, szerokość 2,0 m; od wyjścia z klatki K2 – 47 m, szerokość 1,5 m.\n- Woda do zewnętrznego gaszenia pożaru: 10 dm³/s z hydrantu nadziemnego DN 80 (HZ1) na miejskiej sieci wodociągowej obwodowej DN 150 w ul. Projektowanej; położenie hydrantu według rys. 1. Sieć zapewnia ciśnienie 0,2 MPa na zaworze hydrantu przy poborze 10 dm³/s. Według projektanta § 5 ust. 1 rozporządzenia MSWiA z 24.07.2009 r. nie obejmuje budynku mieszkalnego, więc wodę zapewnia się w ramach ilości dla miasta, nie mniej niż 10 dm³/s; dla strefy garażu tabela nr 2 tego rozporządzenia daje 10 dm³/s.\n- Dźwig dla ekip ratowniczych nie jest wymagany."
+      },
+      {
+        "no": "10",
+        "h": "Usytuowanie z uwagi na bezpieczeństwo pożarowe",
+        "text": "W odległości mniejszej niż 25 m od budynku nie ma innych budynków. Odległości ścian budynku od granic działki: zachodnia 36,0 m, północna 29,0 m, południowa 22,0 m; ściana wschodnia garażu (podziemna) 12,0 m od granicy wschodniej. Okna zajmują około 25% powierzchni ścian zewnętrznych części mieszkalnej."
+      },
+      {
+        "no": "11",
+        "h": "Rozwiązania zamienne i uzgodnienie",
+        "text": "Rozwiązań zamiennych w stosunku do wymagań ochrony przeciwpożarowej nie przewiduje się. Projekt podlega uzgodnieniu z rzeczoznawcą do spraw zabezpieczeń przeciwpożarowych (§ 3 ust. 1 pkt 2 i 13 rozporządzenia MSWiA z 5.08.2023 r.)."
+      }
+    ]
+  },
+  "drawings": [
+    {
+      "id": "R1",
+      "title": "Plan zagospodarowania terenu",
+      "scale": "1:500",
+      "kind": "pzt",
+      "size": [
+        126,
+        96
+      ],
+      "pad": [
+        2,
+        2,
+        2.5,
+        2
+      ],
+      "font": 1.15,
+      "north": [
+        123.5,
+        9
+      ],
+      "note": "Wymiary w metrach. Obrys garażu podziemnego – linia przerywana. Hydrant HZ1 na miejskiej sieci wodociągowej obwodowej DN 150, poza arkuszem: ok. 95 m na zachód od narożnika SW budynku; innego hydrantu w odległości do 150 m od budynku nie ma.",
+      "items": [
+        {
+          "t": "rect",
+          "k": "road",
+          "rect": [
+            0,
+            84,
+            126,
+            7
+          ],
+          "label": "ul. Projektowana – droga publiczna, jezdnia 7,0 m",
+          "lo": [
+            8,
+            0
+          ]
+        },
+        {
+          "t": "poly",
+          "k": "plot",
+          "pts": [
+            [
+              4,
+              3
+            ],
+            [
+              120,
+              3
+            ],
+            [
+              120,
+              82
+            ],
+            [
+              4,
+              82
+            ]
+          ]
+        },
+        {
+          "t": "rect",
+          "k": "green",
+          "rect": [
+            31,
+            32,
+            9,
+            10.9
+          ]
+        },
+        {
+          "t": "rect",
+          "k": "green",
+          "rect": [
+            31,
+            44.9,
+            9,
+            15.1
+          ]
+        },
+        {
+          "t": "rect",
+          "k": "green",
+          "rect": [
+            70,
+            8,
+            10,
+            8
+          ],
+          "label": "plac zabaw",
+          "size": 0.75
+        },
+        {
+          "t": "poly",
+          "k": "fireroad",
+          "pts": [
+            [
+              18,
+              6
+            ],
+            [
+              38,
+              6
+            ],
+            [
+              38,
+              26
+            ],
+            [
+              31,
+              26
+            ],
+            [
+              31.0,
+              72.0
+            ],
+            [
+              31.23,
+              74.34
+            ],
+            [
+              31.91,
+              76.59
+            ],
+            [
+              33.02,
+              78.67
+            ],
+            [
+              34.51,
+              80.49
+            ],
+            [
+              36.33,
+              81.98
+            ],
+            [
+              38.41,
+              83.09
+            ],
+            [
+              40.66,
+              83.77
+            ],
+            [
+              43.0,
+              84.0
+            ],
+            [
+              15.5,
+              84.0
+            ],
+            [
+              17.84,
+              83.77
+            ],
+            [
+              20.09,
+              83.09
+            ],
+            [
+              22.17,
+              81.98
+            ],
+            [
+              23.99,
+              80.49
+            ],
+            [
+              25.48,
+              78.67
+            ],
+            [
+              26.59,
+              76.59
+            ],
+            [
+              27.27,
+              74.34
+            ],
+            [
+              27.5,
+              72.0
+            ],
+            [
+              27.5,
+              26
+            ],
+            [
+              18,
+              26
+            ]
+          ]
+        },
+        {
+          "t": "text",
+          "at": [
+            28,
+            14.5
+          ],
+          "text": "plac manewrowy",
+          "size": 0.85
+        },
+        {
+          "t": "text",
+          "at": [
+            25.6,
+            54
+          ],
+          "text": "droga pożarowa (wewnętrzna)",
+          "rot": -90,
+          "size": 0.85
+        },
+        {
+          "t": "rect",
+          "k": "building",
+          "rect": [
+            40,
+            32,
+            13,
+            28
+          ],
+          "label": "BUDYNEK\nMIESZKALNY\n6 kond. nadz.\n+ piwnica\n18,55 m",
+          "size": 0.7
+        },
+        {
+          "t": "zone",
+          "rect": [
+            53,
+            32,
+            55,
+            28
+          ],
+          "label": "garaż podziemny (−1) – strefa PM, 57 stanowisk",
+          "lo": [
+            0,
+            4.6
+          ]
+        },
+        {
+          "t": "text",
+          "at": [
+            80.5,
+            47.5
+          ],
+          "text": "dziedziniec na stropie garażu",
+          "size": 0.8
+        },
+        {
+          "t": "rect",
+          "k": "paved",
+          "rect": [
+            31,
+            42.9,
+            9,
+            2.0
+          ]
+        },
+        {
+          "t": "rect",
+          "k": "paved",
+          "rect": [
+            31,
+            26.0,
+            49.4,
+            1.5
+          ]
+        },
+        {
+          "t": "rect",
+          "k": "paved",
+          "rect": [
+            78.15,
+            27.5,
+            1.5,
+            4.9
+          ]
+        },
+        {
+          "t": "rect",
+          "k": "building",
+          "rect": [
+            77.4,
+            32.4,
+            3.0,
+            4.0
+          ]
+        },
+        {
+          "t": "leader",
+          "a": [
+            88.5,
+            24.2
+          ],
+          "b": [
+            80.6,
+            33.2
+          ],
+          "text": "wyjście z klatki K2 (z garażu)",
+          "anchor": "start",
+          "lo": [
+            0.3,
+            -0.5
+          ]
+        },
+        {
+          "t": "leader",
+          "a": [
+            52.5,
+            23.4
+          ],
+          "b": [
+            56.0,
+            26.6
+          ],
+          "text": "dojście 1,5 m",
+          "anchor": "end",
+          "lo": [
+            -0.3,
+            -0.4
+          ]
+        },
+        {
+          "t": "leader",
+          "a": [
+            14.5,
+            37.2
+          ],
+          "b": [
+            39.6,
+            43.9
+          ],
+          "text": "wejście D1 (klatka K1)",
+          "anchor": "end",
+          "lo": [
+            0,
+            -0.5
+          ]
+        },
+        {
+          "t": "rect",
+          "k": "paved",
+          "rect": [
+            108,
+            47,
+            8,
+            13
+          ]
+        },
+        {
+          "t": "rect",
+          "k": "paved",
+          "rect": [
+            110,
+            60,
+            6,
+            24
+          ]
+        },
+        {
+          "t": "leader",
+          "a": [
+            97.5,
+            77.6
+          ],
+          "b": [
+            109.6,
+            73.0
+          ],
+          "text": "rampa zjazdowa, odkryta, szer. 6,0 m",
+          "anchor": "end",
+          "lo": [
+            0,
+            -0.5
+          ]
+        },
+        {
+          "t": "leader",
+          "a": [
+            98.0,
+            64.6
+          ],
+          "b": [
+            107.7,
+            51.4
+          ],
+          "text": "brama B1",
+          "anchor": "end",
+          "lo": [
+            0,
+            -0.4
+          ]
+        },
+        {
+          "t": "sym",
+          "k": "TREE",
+          "at": [
+            95,
+            12
+          ],
+          "r": 2.0
+        },
+        {
+          "t": "sym",
+          "k": "TREE",
+          "at": [
+            104,
+            19
+          ],
+          "r": 2.0
+        },
+        {
+          "t": "sym",
+          "k": "TREE",
+          "at": [
+            12,
+            48
+          ],
+          "r": 2.0
+        },
+        {
+          "t": "sym",
+          "k": "TREE",
+          "at": [
+            12,
+            61
+          ],
+          "r": 2.0
+        },
+        {
+          "t": "sym",
+          "k": "TREE",
+          "at": [
+            62,
+            70
+          ],
+          "r": 2.0
+        },
+        {
+          "t": "sym",
+          "k": "TREE",
+          "at": [
+            78,
+            69
+          ],
+          "r": 2.0
+        },
+        {
+          "t": "text",
+          "at": [
+            52,
+            79.6
+          ],
+          "text": "dz. nr 214/7"
+        },
+        {
+          "t": "leader",
+          "a": [
+            17.5,
+            89.8
+          ],
+          "b": [
+            0.3,
+            89.8
+          ],
+          "text": "do HZ1",
+          "anchor": "start",
+          "lo": [
+            0.6,
+            -0.45
+          ]
+        },
+        {
+          "t": "text",
+          "at": [
+            1.0,
+            94.6
+          ],
+          "text": "HZ1 – hydrant nadziemny DN 80 w ul. Projektowanej: ok. 95 m na zachód od narożnika SW budynku (poza arkuszem)",
+          "anchor": "start",
+          "size": 0.85
+        },
+        {
+          "t": "dim",
+          "a": [
+            27.5,
+            50
+          ],
+          "b": [
+            31,
+            50
+          ],
+          "text": "3,50",
+          "tlo": [
+            0,
+            -0.2
+          ]
+        },
+        {
+          "t": "dim",
+          "a": [
+            31,
+            38
+          ],
+          "b": [
+            40,
+            38
+          ],
+          "text": "9,00"
+        },
+        {
+          "t": "dim",
+          "a": [
+            18,
+            6
+          ],
+          "b": [
+            38,
+            6
+          ],
+          "off": -1.4,
+          "text": "20,00"
+        },
+        {
+          "t": "dim",
+          "a": [
+            18,
+            6
+          ],
+          "b": [
+            18,
+            26
+          ],
+          "off": 1.4,
+          "text": "20,00"
+        },
+        {
+          "t": "dim",
+          "a": [
+            40,
+            60
+          ],
+          "b": [
+            53,
+            60
+          ],
+          "off": 1.8,
+          "text": "13,00"
+        },
+        {
+          "t": "dim",
+          "a": [
+            53,
+            60
+          ],
+          "b": [
+            108,
+            60
+          ],
+          "off": 1.8,
+          "text": "55,00"
+        },
+        {
+          "t": "leader",
+          "a": [
+            6.0,
+            77.6
+          ],
+          "b": [
+            23.5,
+            80.2
+          ],
+          "text": "łuki R = 12 m",
+          "anchor": "start",
+          "lo": [
+            0,
+            -0.5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "R2",
+      "title": "Rzut kondygnacji podziemnej (−3,30): piwnica i garaż",
+      "scale": "1:200",
+      "kind": "rzut",
+      "size": [
+        68,
+        28
+      ],
+      "pad": [
+        2.6,
+        4.2,
+        6.2,
+        3.4
+      ],
+      "font": 0.7,
+      "note": "Wymiary w metrach. Stanowiska postojowe 2,50 × 5,00 m (rząd przy ścianie południowej 2,50 × 5,20 m). H33 – hydranty 33 z wężem 30 m, G – gaśnice 6 kg. Wyjścia ewakuacyjne z garażu według projektanta: drzwi D2 do piwnicy i drzwi D3 do klatki K2. Komórki lokatorskie wydzielone siatką stalową.",
+      "items": [
+        {
+          "t": "wall",
+          "pts": [
+            [
+              0.2,
+              0.2
+            ],
+            [
+              67.8,
+              0.2
+            ],
+            [
+              67.8,
+              27.8
+            ],
+            [
+              0.2,
+              27.8
+            ]
+          ],
+          "k": "ext",
+          "w": 0.4,
+          "close": true
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              12.8,
+              0.4
+            ],
+            [
+              12.8,
+              27.6
+            ]
+          ],
+          "k": "fire",
+          "w": 0.4
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              5.7,
+              0.4
+            ],
+            [
+              5.7,
+              27.6
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              7.4,
+              0.4
+            ],
+            [
+              7.4,
+              13.2
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              7.4,
+              14.8
+            ],
+            [
+              7.4,
+              27.6
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              0.4,
+              10.9
+            ],
+            [
+              5.7,
+              10.9
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              0.4,
+              16.9
+            ],
+            [
+              5.7,
+              16.9
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              7.4,
+              8.1
+            ],
+            [
+              12.6,
+              8.1
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              9.8,
+              8.1
+            ],
+            [
+              9.8,
+              10.5
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              7.4,
+              10.5
+            ],
+            [
+              12.6,
+              10.5
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              7.4,
+              13.2
+            ],
+            [
+              12.6,
+              13.2
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              7.4,
+              14.8
+            ],
+            [
+              12.6,
+              14.8
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              7.4,
+              20.0
+            ],
+            [
+              12.6,
+              20.0
+            ]
+          ]
+        },
+        {
+          "t": "line",
+          "a": [
+            1.6,
+            3.0
+          ],
+          "b": [
+            5.6,
+            3.0
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            1.6,
+            5.6
+          ],
+          "b": [
+            5.6,
+            5.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            1.6,
+            8.2
+          ],
+          "b": [
+            5.6,
+            8.2
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            1.6,
+            0.4
+          ],
+          "b": [
+            1.6,
+            10.8
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            1.6,
+            19.6
+          ],
+          "b": [
+            5.6,
+            19.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            1.6,
+            22.2
+          ],
+          "b": [
+            5.6,
+            22.2
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            1.6,
+            24.8
+          ],
+          "b": [
+            5.6,
+            24.8
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            1.6,
+            17.0
+          ],
+          "b": [
+            1.6,
+            27.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            8.7,
+            2.3
+          ],
+          "b": [
+            12.6,
+            2.3
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            8.7,
+            4.2
+          ],
+          "b": [
+            12.6,
+            4.2
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            8.7,
+            6.1
+          ],
+          "b": [
+            12.6,
+            6.1
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            8.7,
+            0.4
+          ],
+          "b": [
+            8.7,
+            8.0
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            8.7,
+            22.0
+          ],
+          "b": [
+            12.6,
+            22.0
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            8.7,
+            23.9
+          ],
+          "b": [
+            12.6,
+            23.9
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            8.7,
+            25.8
+          ],
+          "b": [
+            12.6,
+            25.8
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            8.7,
+            20.1
+          ],
+          "b": [
+            8.7,
+            27.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "door",
+          "at": [
+            5.7,
+            11.9
+          ],
+          "w": 1.0,
+          "dir": "v",
+          "open": "w",
+          "cls": "EI 30",
+          "lo": [
+            -2.5,
+            -0.35
+          ]
+        },
+        {
+          "t": "door",
+          "at": [
+            5.7,
+            6.0
+          ],
+          "w": 0.9,
+          "dir": "v",
+          "open": "w"
+        },
+        {
+          "t": "door",
+          "at": [
+            5.7,
+            22.0
+          ],
+          "w": 0.9,
+          "dir": "v",
+          "open": "w"
+        },
+        {
+          "t": "door",
+          "at": [
+            7.4,
+            4.0
+          ],
+          "w": 0.9,
+          "dir": "v",
+          "open": "e"
+        },
+        {
+          "t": "door",
+          "at": [
+            7.4,
+            11.85
+          ],
+          "w": 0.9,
+          "dir": "v",
+          "open": "e"
+        },
+        {
+          "t": "door",
+          "at": [
+            7.4,
+            17.4
+          ],
+          "w": 1.0,
+          "dir": "v",
+          "open": "e"
+        },
+        {
+          "t": "door",
+          "at": [
+            7.4,
+            23.6
+          ],
+          "w": 0.9,
+          "dir": "v",
+          "open": "e"
+        },
+        {
+          "t": "window",
+          "at": [
+            7.4,
+            9.3
+          ],
+          "w": 0.9,
+          "dir": "v",
+          "th": 0.2
+        },
+        {
+          "t": "door",
+          "at": [
+            12.8,
+            14.0
+          ],
+          "w": 1.0,
+          "dir": "v",
+          "open": "w",
+          "cls": "EI 60",
+          "label": "D2",
+          "th": 0.4,
+          "lo": [
+            2.3,
+            1.5
+          ]
+        },
+        {
+          "t": "room",
+          "rect": [
+            0.4,
+            0.4,
+            5.2,
+            10.4
+          ],
+          "name": "komórki",
+          "size": 0.75,
+          "lo": [
+            0.6,
+            0
+          ]
+        },
+        {
+          "t": "room",
+          "rect": [
+            0.4,
+            11.0,
+            5.2,
+            5.8
+          ],
+          "name": "K1",
+          "size": 0.9,
+          "lo": [
+            1.4,
+            1.4
+          ]
+        },
+        {
+          "t": "stair",
+          "rect": [
+            0.6,
+            12.6,
+            1.1,
+            2.5
+          ],
+          "n": 9,
+          "axis": "y"
+        },
+        {
+          "t": "stair",
+          "rect": [
+            1.9,
+            12.6,
+            1.1,
+            2.5
+          ],
+          "n": 9,
+          "axis": "y"
+        },
+        {
+          "t": "room",
+          "rect": [
+            0.4,
+            17.0,
+            5.2,
+            10.6
+          ],
+          "name": "komórki",
+          "size": 0.75,
+          "lo": [
+            0.6,
+            0
+          ]
+        },
+        {
+          "t": "room",
+          "rect": [
+            5.8,
+            0.4,
+            1.5,
+            27.2
+          ],
+          "name": "korytarz piwnicy",
+          "size": 0.75,
+          "lo": [
+            0,
+            4.2
+          ]
+        },
+        {
+          "t": "room",
+          "rect": [
+            7.5,
+            0.4,
+            5.1,
+            7.6
+          ],
+          "name": "komórki",
+          "size": 0.75,
+          "lo": [
+            0.6,
+            0
+          ]
+        },
+        {
+          "t": "room",
+          "rect": [
+            7.5,
+            8.2,
+            2.2,
+            2.2
+          ],
+          "name": "dźwig",
+          "size": 0.6,
+          "flat": true
+        },
+        {
+          "t": "room",
+          "rect": [
+            7.5,
+            10.6,
+            5.1,
+            2.5
+          ],
+          "name": "węzeł cieplny",
+          "size": 0.6
+        },
+        {
+          "t": "room",
+          "rect": [
+            7.5,
+            13.3,
+            5.1,
+            1.4
+          ],
+          "name": "przejście",
+          "size": 0.6,
+          "lo": [
+            -0.6,
+            0
+          ]
+        },
+        {
+          "t": "room",
+          "rect": [
+            7.5,
+            14.9,
+            5.1,
+            5.0
+          ],
+          "name": "rowerownia",
+          "note": "25,5 m²",
+          "size": 0.65
+        },
+        {
+          "t": "room",
+          "rect": [
+            7.5,
+            20.1,
+            5.1,
+            7.5
+          ],
+          "name": "komórki",
+          "size": 0.75,
+          "lo": [
+            0.6,
+            0
+          ]
+        },
+        {
+          "t": "text",
+          "at": [
+            6.4,
+            29.7
+          ],
+          "text": "PIWNICA – strefa ZL IV",
+          "size": 0.85
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              37.4,
+              0.4
+            ],
+            [
+              37.4,
+              5.4
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              40.4,
+              0.4
+            ],
+            [
+              40.4,
+              5.4
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              37.4,
+              5.4
+            ],
+            [
+              40.4,
+              5.4
+            ]
+          ]
+        },
+        {
+          "t": "stair",
+          "rect": [
+            37.6,
+            1.4,
+            1.0,
+            2.6
+          ],
+          "n": 10,
+          "axis": "y"
+        },
+        {
+          "t": "stair",
+          "rect": [
+            39.2,
+            1.4,
+            1.0,
+            2.6
+          ],
+          "n": 10,
+          "axis": "y"
+        },
+        {
+          "t": "door",
+          "at": [
+            38.9,
+            5.4
+          ],
+          "w": 0.9,
+          "open": "n",
+          "cls": "EI 30",
+          "label": "D3",
+          "lo": [
+            -2.4,
+            1.0
+          ]
+        },
+        {
+          "t": "text",
+          "at": [
+            38.9,
+            -0.55
+          ],
+          "text": "K2 – wyjście na zewnątrz",
+          "size": 0.8
+        },
+        {
+          "t": "line",
+          "a": [
+            13.0,
+            5.4
+          ],
+          "b": [
+            37.4,
+            5.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            40.4,
+            5.4
+          ],
+          "b": [
+            67.6,
+            5.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            13.3,
+            0.4
+          ],
+          "b": [
+            13.3,
+            5.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            15.8,
+            0.4
+          ],
+          "b": [
+            15.8,
+            5.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            18.3,
+            0.4
+          ],
+          "b": [
+            18.3,
+            5.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            20.8,
+            0.4
+          ],
+          "b": [
+            20.8,
+            5.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            23.3,
+            0.4
+          ],
+          "b": [
+            23.3,
+            5.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            25.8,
+            0.4
+          ],
+          "b": [
+            25.8,
+            5.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            28.3,
+            0.4
+          ],
+          "b": [
+            28.3,
+            5.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            30.8,
+            0.4
+          ],
+          "b": [
+            30.8,
+            5.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            33.3,
+            0.4
+          ],
+          "b": [
+            33.3,
+            5.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            35.8,
+            0.4
+          ],
+          "b": [
+            35.8,
+            5.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            42.3,
+            0.4
+          ],
+          "b": [
+            42.3,
+            5.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            44.8,
+            0.4
+          ],
+          "b": [
+            44.8,
+            5.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            47.3,
+            0.4
+          ],
+          "b": [
+            47.3,
+            5.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            49.8,
+            0.4
+          ],
+          "b": [
+            49.8,
+            5.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            52.3,
+            0.4
+          ],
+          "b": [
+            52.3,
+            5.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            54.8,
+            0.4
+          ],
+          "b": [
+            54.8,
+            5.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            57.3,
+            0.4
+          ],
+          "b": [
+            57.3,
+            5.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            59.8,
+            0.4
+          ],
+          "b": [
+            59.8,
+            5.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            62.3,
+            0.4
+          ],
+          "b": [
+            62.3,
+            5.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            64.8,
+            0.4
+          ],
+          "b": [
+            64.8,
+            5.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            67.3,
+            0.4
+          ],
+          "b": [
+            67.3,
+            5.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            19.6,
+            11.4
+          ],
+          "b": [
+            67.6,
+            11.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            19.6,
+            16.4
+          ],
+          "b": [
+            67.6,
+            16.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            19.6,
+            11.4
+          ],
+          "b": [
+            19.6,
+            16.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            22.1,
+            11.4
+          ],
+          "b": [
+            22.1,
+            16.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            24.6,
+            11.4
+          ],
+          "b": [
+            24.6,
+            16.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            27.1,
+            11.4
+          ],
+          "b": [
+            27.1,
+            16.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            29.6,
+            11.4
+          ],
+          "b": [
+            29.6,
+            16.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            32.1,
+            11.4
+          ],
+          "b": [
+            32.1,
+            16.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            34.6,
+            11.4
+          ],
+          "b": [
+            34.6,
+            16.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            37.1,
+            11.4
+          ],
+          "b": [
+            37.1,
+            16.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            39.6,
+            11.4
+          ],
+          "b": [
+            39.6,
+            16.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            42.1,
+            11.4
+          ],
+          "b": [
+            42.1,
+            16.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            44.6,
+            11.4
+          ],
+          "b": [
+            44.6,
+            16.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            47.1,
+            11.4
+          ],
+          "b": [
+            47.1,
+            16.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            49.6,
+            11.4
+          ],
+          "b": [
+            49.6,
+            16.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            52.1,
+            11.4
+          ],
+          "b": [
+            52.1,
+            16.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            54.6,
+            11.4
+          ],
+          "b": [
+            54.6,
+            16.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            57.1,
+            11.4
+          ],
+          "b": [
+            57.1,
+            16.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            59.6,
+            11.4
+          ],
+          "b": [
+            59.6,
+            16.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            62.1,
+            11.4
+          ],
+          "b": [
+            62.1,
+            16.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            64.6,
+            11.4
+          ],
+          "b": [
+            64.6,
+            16.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            67.1,
+            11.4
+          ],
+          "b": [
+            67.1,
+            16.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            13.0,
+            22.4
+          ],
+          "b": [
+            67.6,
+            22.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            14.4,
+            22.4
+          ],
+          "b": [
+            14.4,
+            27.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            16.9,
+            22.4
+          ],
+          "b": [
+            16.9,
+            27.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            19.4,
+            22.4
+          ],
+          "b": [
+            19.4,
+            27.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            21.9,
+            22.4
+          ],
+          "b": [
+            21.9,
+            27.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            24.4,
+            22.4
+          ],
+          "b": [
+            24.4,
+            27.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            26.9,
+            22.4
+          ],
+          "b": [
+            26.9,
+            27.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            29.4,
+            22.4
+          ],
+          "b": [
+            29.4,
+            27.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            31.9,
+            22.4
+          ],
+          "b": [
+            31.9,
+            27.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            34.4,
+            22.4
+          ],
+          "b": [
+            34.4,
+            27.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            36.9,
+            22.4
+          ],
+          "b": [
+            36.9,
+            27.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            39.4,
+            22.4
+          ],
+          "b": [
+            39.4,
+            27.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            42.6,
+            22.4
+          ],
+          "b": [
+            42.6,
+            27.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            45.1,
+            22.4
+          ],
+          "b": [
+            45.1,
+            27.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            47.6,
+            22.4
+          ],
+          "b": [
+            47.6,
+            27.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            50.1,
+            22.4
+          ],
+          "b": [
+            50.1,
+            27.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            52.6,
+            22.4
+          ],
+          "b": [
+            52.6,
+            27.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            55.1,
+            22.4
+          ],
+          "b": [
+            55.1,
+            27.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            57.6,
+            22.4
+          ],
+          "b": [
+            57.6,
+            27.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            60.1,
+            22.4
+          ],
+          "b": [
+            60.1,
+            27.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            62.6,
+            22.4
+          ],
+          "b": [
+            62.6,
+            27.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "line",
+          "a": [
+            65.1,
+            22.4
+          ],
+          "b": [
+            65.1,
+            27.6
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "window",
+          "at": [
+            67.8,
+            19.4
+          ],
+          "w": 5.5,
+          "dir": "v",
+          "th": 0.4
+        },
+        {
+          "t": "rect",
+          "k": "paved",
+          "rect": [
+            68.0,
+            15.0,
+            5.0,
+            13.0
+          ]
+        },
+        {
+          "t": "text",
+          "at": [
+            70.6,
+            21.5
+          ],
+          "text": "B1 – brama segmentowa 5,50 m; rampa odkryta",
+          "rot": -90,
+          "size": 0.75
+        },
+        {
+          "t": "sym",
+          "k": "H33",
+          "at": [
+            13.35,
+            12.6
+          ],
+          "lo": [
+            1.6,
+            0.25
+          ]
+        },
+        {
+          "t": "sym",
+          "k": "H33",
+          "at": [
+            40.0,
+            5.75
+          ],
+          "lo": [
+            1.0,
+            1.25
+          ]
+        },
+        {
+          "t": "sym",
+          "k": "H33",
+          "at": [
+            40.55,
+            27.25
+          ],
+          "lo": [
+            0,
+            -1.05
+          ]
+        },
+        {
+          "t": "sym",
+          "k": "H33",
+          "at": [
+            65.85,
+            27.25
+          ],
+          "lo": [
+            0,
+            -1.05
+          ]
+        },
+        {
+          "t": "sym",
+          "k": "H33",
+          "at": [
+            67.25,
+            10.0
+          ],
+          "lo": [
+            -1.7,
+            0.25
+          ]
+        },
+        {
+          "t": "sym",
+          "k": "G",
+          "at": [
+            13.35,
+            11.3
+          ],
+          "label": " "
+        },
+        {
+          "t": "sym",
+          "k": "G",
+          "at": [
+            41.6,
+            5.75
+          ],
+          "label": " "
+        },
+        {
+          "t": "sym",
+          "k": "G",
+          "at": [
+            42.0,
+            27.25
+          ],
+          "label": " "
+        },
+        {
+          "t": "sym",
+          "k": "G",
+          "at": [
+            67.1,
+            27.25
+          ],
+          "label": " "
+        },
+        {
+          "t": "sym",
+          "k": "G",
+          "at": [
+            67.25,
+            6.9
+          ],
+          "label": " "
+        },
+        {
+          "t": "sym",
+          "k": "G",
+          "at": [
+            6.05,
+            13.0
+          ],
+          "label": " "
+        },
+        {
+          "t": "path",
+          "pts": [
+            [
+              66.35,
+              1.25
+            ],
+            [
+              66.35,
+              8.4
+            ],
+            [
+              38.9,
+              8.4
+            ],
+            [
+              38.9,
+              5.7
+            ]
+          ],
+          "auto": true,
+          "lo": [
+            -2.0,
+            -0.55
+          ]
+        },
+        {
+          "t": "text",
+          "at": [
+            52.0,
+            19.9
+          ],
+          "text": "droga manewrowa",
+          "size": 0.8
+        },
+        {
+          "t": "text",
+          "at": [
+            26.0,
+            8.7
+          ],
+          "text": "droga manewrowa",
+          "size": 0.8
+        },
+        {
+          "t": "text",
+          "at": [
+            34.0,
+            19.6
+          ],
+          "text": "GARAŻ ZAMKNIĘTY – strefa PM 1 485,1 m², 57 stanowisk",
+          "size": 0.8
+        },
+        {
+          "t": "dim",
+          "a": [
+            0,
+            0
+          ],
+          "b": [
+            68,
+            0
+          ],
+          "off": -3.0,
+          "text": "68,00"
+        },
+        {
+          "t": "dim",
+          "a": [
+            0,
+            0
+          ],
+          "b": [
+            13,
+            0
+          ],
+          "off": -1.6,
+          "text": "13,00"
+        },
+        {
+          "t": "dim",
+          "a": [
+            13,
+            0
+          ],
+          "b": [
+            68,
+            0
+          ],
+          "off": -1.6,
+          "text": "55,00",
+          "tlo": [
+            -8,
+            0
+          ]
+        },
+        {
+          "t": "dim",
+          "a": [
+            0,
+            0
+          ],
+          "b": [
+            0,
+            28
+          ],
+          "off": 1.6,
+          "text": "28,00"
+        },
+        {
+          "t": "dim",
+          "a": [
+            31.5,
+            5.4
+          ],
+          "b": [
+            31.5,
+            11.4
+          ],
+          "text": "6,00"
+        },
+        {
+          "t": "dim",
+          "a": [
+            60.0,
+            16.4
+          ],
+          "b": [
+            60.0,
+            22.4
+          ],
+          "text": "6,00"
+        },
+        {
+          "t": "dim",
+          "a": [
+            13.0,
+            18.0
+          ],
+          "b": [
+            19.6,
+            18.0
+          ],
+          "text": "6,60"
+        },
+        {
+          "t": "dim",
+          "a": [
+            56.0,
+            22.4
+          ],
+          "b": [
+            56.0,
+            27.6
+          ],
+          "text": "5,20"
+        },
+        {
+          "t": "dim",
+          "a": [
+            13.0,
+            28.0
+          ],
+          "b": [
+            67.6,
+            28.0
+          ],
+          "off": 1.4,
+          "text": "54,60 (wnętrze garażu)"
+        },
+        {
+          "t": "dim",
+          "a": [
+            67.6,
+            0.4
+          ],
+          "b": [
+            67.6,
+            27.6
+          ],
+          "off": -5.6,
+          "text": "27,20"
+        }
+      ]
+    },
+    {
+      "id": "R3",
+      "title": "Rzut parteru (±0,00)",
+      "scale": "1:100",
+      "kind": "rzut",
+      "size": [
+        13,
+        28
+      ],
+      "pad": [
+        3.2,
+        2.6,
+        1.4,
+        2.8
+      ],
+      "font": 0.42,
+      "note": "Wymiary w metrach. Kondygnacje +1 do +5: układ korytarza, klatki K1 i mieszkań jak na parterze, bez wyjścia D1. Drzwi do mieszkań 0,90 m. Klatka K1: obudowa R E I 60, drzwi E I 30, klapa oddymiająca w stropodachu (KD). PWP – przeciwpożarowy wyłącznik prądu.",
+      "items": [
+        {
+          "t": "wall",
+          "pts": [
+            [
+              0.2,
+              0.2
+            ],
+            [
+              12.8,
+              0.2
+            ],
+            [
+              12.8,
+              27.8
+            ],
+            [
+              0.2,
+              27.8
+            ]
+          ],
+          "k": "ext",
+          "w": 0.4,
+          "close": true
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              5.7,
+              0.4
+            ],
+            [
+              5.7,
+              27.6
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              7.4,
+              0.4
+            ],
+            [
+              7.4,
+              27.6
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              0.4,
+              10.9
+            ],
+            [
+              5.7,
+              10.9
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              0.4,
+              16.9
+            ],
+            [
+              5.7,
+              16.9
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              7.4,
+              8.1
+            ],
+            [
+              12.6,
+              8.1
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              9.8,
+              8.1
+            ],
+            [
+              9.8,
+              10.5
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              7.4,
+              10.5
+            ],
+            [
+              12.6,
+              10.5
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              7.4,
+              19.1
+            ],
+            [
+              12.6,
+              19.1
+            ]
+          ]
+        },
+        {
+          "t": "window",
+          "at": [
+            0.2,
+            3.2
+          ],
+          "w": 1.5,
+          "dir": "v"
+        },
+        {
+          "t": "window",
+          "at": [
+            0.2,
+            7.6
+          ],
+          "w": 1.5,
+          "dir": "v"
+        },
+        {
+          "t": "window",
+          "at": [
+            0.2,
+            20.2
+          ],
+          "w": 1.5,
+          "dir": "v"
+        },
+        {
+          "t": "window",
+          "at": [
+            0.2,
+            24.6
+          ],
+          "w": 1.5,
+          "dir": "v"
+        },
+        {
+          "t": "window",
+          "at": [
+            0.2,
+            14.6
+          ],
+          "w": 1.0,
+          "dir": "v"
+        },
+        {
+          "t": "window",
+          "at": [
+            12.8,
+            2.6
+          ],
+          "w": 1.5,
+          "dir": "v"
+        },
+        {
+          "t": "window",
+          "at": [
+            12.8,
+            5.8
+          ],
+          "w": 1.5,
+          "dir": "v"
+        },
+        {
+          "t": "window",
+          "at": [
+            12.8,
+            13.0
+          ],
+          "w": 1.5,
+          "dir": "v"
+        },
+        {
+          "t": "window",
+          "at": [
+            12.8,
+            16.6
+          ],
+          "w": 1.5,
+          "dir": "v"
+        },
+        {
+          "t": "window",
+          "at": [
+            12.8,
+            21.8
+          ],
+          "w": 1.5,
+          "dir": "v"
+        },
+        {
+          "t": "window",
+          "at": [
+            12.8,
+            25.2
+          ],
+          "w": 1.5,
+          "dir": "v"
+        },
+        {
+          "t": "window",
+          "at": [
+            2.9,
+            0.2
+          ],
+          "w": 1.5
+        },
+        {
+          "t": "window",
+          "at": [
+            2.9,
+            27.8
+          ],
+          "w": 1.5
+        },
+        {
+          "t": "window",
+          "at": [
+            10.0,
+            0.2
+          ],
+          "w": 1.5
+        },
+        {
+          "t": "window",
+          "at": [
+            10.0,
+            27.8
+          ],
+          "w": 1.5
+        },
+        {
+          "t": "door",
+          "at": [
+            5.7,
+            2.4
+          ],
+          "w": 0.9,
+          "dir": "v",
+          "open": "w"
+        },
+        {
+          "t": "door",
+          "at": [
+            7.4,
+            2.4
+          ],
+          "w": 0.9,
+          "dir": "v",
+          "open": "e"
+        },
+        {
+          "t": "door",
+          "at": [
+            7.4,
+            11.6
+          ],
+          "w": 0.9,
+          "dir": "v",
+          "open": "e"
+        },
+        {
+          "t": "door",
+          "at": [
+            5.7,
+            25.6
+          ],
+          "w": 0.9,
+          "dir": "v",
+          "open": "w"
+        },
+        {
+          "t": "door",
+          "at": [
+            7.4,
+            25.6
+          ],
+          "w": 0.9,
+          "dir": "v",
+          "open": "e"
+        },
+        {
+          "t": "window",
+          "at": [
+            7.4,
+            9.3
+          ],
+          "w": 0.9,
+          "dir": "v",
+          "th": 0.2
+        },
+        {
+          "t": "door",
+          "at": [
+            5.7,
+            11.9
+          ],
+          "w": 1.0,
+          "dir": "v",
+          "open": "w",
+          "cls": "EI 30",
+          "lo": [
+            0.85,
+            -0.95
+          ]
+        },
+        {
+          "t": "door",
+          "at": [
+            0.2,
+            11.85
+          ],
+          "w": 1.2,
+          "dir": "v",
+          "open": "e",
+          "label": "D1 1,20",
+          "th": 0.4,
+          "lo": [
+            -1.35,
+            0.35
+          ]
+        },
+        {
+          "t": "stair",
+          "rect": [
+            0.6,
+            12.6,
+            1.1,
+            2.5
+          ],
+          "n": 9,
+          "axis": "y"
+        },
+        {
+          "t": "stair",
+          "rect": [
+            1.9,
+            12.6,
+            1.1,
+            2.5
+          ],
+          "n": 9,
+          "axis": "y"
+        },
+        {
+          "t": "line",
+          "a": [
+            1.9,
+            12.75
+          ],
+          "b": [
+            3.0,
+            12.75
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "text",
+          "at": [
+            1.15,
+            16.55
+          ],
+          "text": "↑ +1",
+          "size": 0.8
+        },
+        {
+          "t": "text",
+          "at": [
+            2.45,
+            16.55
+          ],
+          "text": "↓ −1",
+          "size": 0.8
+        },
+        {
+          "t": "leader",
+          "a": [
+            4.6,
+            14.3
+          ],
+          "b": [
+            2.95,
+            12.85
+          ],
+          "text": "bariera",
+          "anchor": "middle",
+          "lo": [
+            0.0,
+            0.55
+          ]
+        },
+        {
+          "t": "text",
+          "at": [
+            4.1,
+            16.3
+          ],
+          "text": "K1",
+          "k": "room",
+          "size": 1.1
+        },
+        {
+          "t": "sym",
+          "k": "KD",
+          "at": [
+            4.5,
+            13.15
+          ],
+          "label": " "
+        },
+        {
+          "t": "sym",
+          "k": "PWP",
+          "at": [
+            2.4,
+            11.45
+          ],
+          "label": " "
+        },
+        {
+          "t": "sym",
+          "k": "G",
+          "at": [
+            6.05,
+            13.0
+          ],
+          "label": " "
+        },
+        {
+          "t": "room",
+          "rect": [
+            0.4,
+            0.4,
+            5.2,
+            10.4
+          ],
+          "no": "M 0.1",
+          "name": "mieszkanie",
+          "area": 54.1
+        },
+        {
+          "t": "room",
+          "rect": [
+            0.4,
+            17.0,
+            5.2,
+            10.6
+          ],
+          "no": "M 0.2",
+          "name": "mieszkanie",
+          "area": 55.1
+        },
+        {
+          "t": "room",
+          "rect": [
+            7.5,
+            0.4,
+            5.1,
+            7.6
+          ],
+          "no": "M 0.3",
+          "name": "mieszkanie",
+          "area": 38.8
+        },
+        {
+          "t": "room",
+          "rect": [
+            7.5,
+            10.6,
+            5.1,
+            8.4
+          ],
+          "no": "M 0.4",
+          "name": "mieszkanie",
+          "area": 42.8
+        },
+        {
+          "t": "room",
+          "rect": [
+            7.5,
+            19.2,
+            5.1,
+            8.4
+          ],
+          "no": "M 0.5",
+          "name": "mieszkanie",
+          "area": 42.8
+        },
+        {
+          "t": "room",
+          "rect": [
+            7.5,
+            8.2,
+            2.2,
+            2.2
+          ],
+          "name": "dźwig",
+          "size": 0.75,
+          "flat": true
+        },
+        {
+          "t": "room",
+          "rect": [
+            9.9,
+            8.2,
+            2.7,
+            2.2
+          ],
+          "name": "szacht",
+          "size": 0.75,
+          "flat": true
+        },
+        {
+          "t": "room",
+          "rect": [
+            5.8,
+            0.4,
+            1.5,
+            27.2
+          ],
+          "name": "korytarz – bez okien",
+          "lo": [
+            0,
+            -7.6
+          ]
+        },
+        {
+          "t": "path",
+          "pts": [
+            [
+              5.7,
+              25.6
+            ],
+            [
+              6.55,
+              25.6
+            ],
+            [
+              6.55,
+              11.9
+            ],
+            [
+              5.8,
+              11.9
+            ]
+          ],
+          "auto": true
+        },
+        {
+          "t": "dim",
+          "a": [
+            0,
+            0
+          ],
+          "b": [
+            13,
+            0
+          ],
+          "off": -1.4,
+          "text": "13,00"
+        },
+        {
+          "t": "dim",
+          "a": [
+            0,
+            0
+          ],
+          "b": [
+            0,
+            28
+          ],
+          "off": 2.6,
+          "text": "28,00"
+        },
+        {
+          "t": "dim",
+          "a": [
+            5.8,
+            9.9
+          ],
+          "b": [
+            7.3,
+            9.9
+          ],
+          "text": "1,50"
+        },
+        {
+          "t": "dim",
+          "a": [
+            0.6,
+            15.1
+          ],
+          "b": [
+            1.7,
+            15.1
+          ],
+          "off": 0.8,
+          "text": "1,10"
+        },
+        {
+          "t": "dim",
+          "a": [
+            3.6,
+            11.0
+          ],
+          "b": [
+            3.6,
+            12.6
+          ],
+          "text": "1,60",
+          "tlo": [
+            0.05,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "kind": "ocena",
+      "q": "Do jakiej grupy wysokości i kategorii zagrożenia ludzi należy budynek? Jaka klasa odporności pożarowej jest wymagana dla części mieszkalnej z piwnicą i dla garażu?",
+      "points": [
+        {
+          "t": "Budynek mieszkalny o 6 kondygnacjach nadziemnych i wysokości 18,55 m jest średniowysoki (mieszkalny ponad 4 do 9 kondygnacji, ponad 12 m do 25 m).",
+          "basis": "§ 8 pkt 2 WT"
+        },
+        {
+          "t": "Część mieszkalna z piwnicą: ZL IV. Do garażu stosuje się wymagania jak dla PM.",
+          "basis": "§ 209 ust. 2 pkt 4 WT; § 209 ust. 3 WT"
+        },
+        {
+          "t": "ZL IV w budynku średniowysokim: klasa „C”. Piwnica jest w strefie ZL IV i nie jest oddzielona elementami R E I 120 z bezpośrednim wyjściem na zewnątrz, więc liczy się 7 kondygnacji i 21,85 m – budynek nadal mieści się w grupie SW, klasa „C”.",
+          "basis": "§ 212 ust. 2 i 5 WT; § 8 pkt 2 WT"
+        },
+        {
+          "t": "Garaż: klasa jak dla budynku PM do 500 MJ/m², a budynek jest średniowysoki – klasa „C”; klasa części podziemnej nie może być niższa niż „C” ani niż klasa części nad nią. Klasa „D” jest błędna; obniżenie o jedną klasę wymagałoby stałych samoczynnych urządzeń gaśniczych wodnych.",
+          "basis": "§ 275 ust. 1 WT; § 212 ust. 4, 6 i 7 WT; § 214 WT"
+        },
+        {
+          "t": "Klasa „C”: konstrukcja nośna R 60, konstrukcja dachu R 15, stropy R E I 60, ściany zewnętrzne E I 30 (o↔i), ściany wewnętrzne E I 15, przekrycie dachu R E 15; obudowa klatek jak stropy (R E I 60), biegi i spoczniki R 60.",
+          "basis": "§ 216 ust. 1 WT; § 249 ust. 1 i ust. 3 pkt 1 WT"
+        },
+        {
+          "t": "Ściany oddzielające mieszkania od korytarzy i od innych mieszkań w budynku średniowysokim: E I 30, a nie E I 15.",
+          "basis": "§ 217 ust. 1 pkt 1 lit. a WT"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "kind": "ocena",
+      "q": "Czy podział na strefy pożarowe jest prawidłowy? Proszę ocenić strefę obejmującą piwnicę, strefę garażu i połączenie garażu z częścią mieszkalną.",
+      "points": [
+        {
+          "t": "Strefa ZL obejmująca część podziemną: najwyżej 50% powierzchni dopuszczalnej dla pierwszej kondygnacji nadziemnej, w budynku SW 2 500 m². Projekt: 2 322,9 m² – zgodne. Wyjątek z § 227 ust. 3 nie zachodzi, bo z piwnicy nie ma wyjść bezpośrednio na zewnątrz.",
+          "basis": "§ 227 ust. 1, 2 i 3 WT"
+        },
+        {
+          "t": "Piwnic w budynku ZL IV niskim i średniowysokim nie trzeba oddzielać stropami i ścianami R E I 60 ani zamykać drzwiami E I 30; przedsionek przed piwnicą jest wymagany tylko w budynku wysokim i wysokościowym. Dźwig zjeżdżający do piwnicy jest więc dopuszczalny.",
+          "basis": "§ 250 ust. 1 i 2 WT"
+        },
+        {
+          "t": "Garaż zamknięty: strefa do 5 000 m²; 1 485,1 m² – zgodne.",
+          "basis": "§ 277 ust. 1 WT"
+        },
+        {
+          "t": "Oddzielenie garażu w budynku klasy „C”: ściana R E I 120 z materiałów niepalnych, przepusty o klasie ściany.",
+          "basis": "§ 232 ust. 1 i 4 WT; § 234 ust. 1 WT"
+        },
+        {
+          "t": "Połączenie garażu z budynkiem tylko przez przedsionek przeciwpożarowy zamykany drzwiami E I 30, o rzucie co najmniej 1,4 × 1,4 m, z obudową E I 60 i wentylacją co najmniej grawitacyjną. Na rys. 2 są tylko drzwi D2 E I 60 – niezgodne, mimo że ogólna tabela § 232 ust. 4 dopuszcza takie drzwi w ścianie oddzielenia.",
+          "basis": "§ 280 ust. 1 WT; § 232 ust. 3 WT"
+        },
+        {
+          "t": "Bez przedsionka wolno połączyć z garażem tylko dźwig oddzielony od garażu drzwiami E I 60.",
+          "basis": "§ 280 ust. 2 WT"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "kind": "ocena",
+      "q": "Jakie wymagania dotyczą garażu w zakresie oddymiania, wykrywania pożaru i ewakuacji? Czy projekt je spełnia?",
+      "points": [
+        {
+          "t": "Wentylacja oddymiająca uruchamiana systemem wykrywania dymu jest wymagana, gdy strefa garażu zamkniętego nie ma bezpośredniego wjazdu lub wyjazdu z budynku albo ma ponad 1 500 m². Garaż ma 1 485,1 m² i bezpośredni wyjazd rampą – oddymianie nie jest wymagane.",
+          "basis": "§ 277 ust. 4 WT"
+        },
+        {
+          "t": "System sygnalizacji pożarowej w garażu podziemnym: strefa ponad 1 500 m² albo więcej niż jedna kondygnacja podziemna – nie zachodzi. Stałe samoczynne urządzenia gaśnicze wodne: garaż na więcej niż dwóch kondygnacjach podziemnych albo poniżej drugiej – nie zachodzi.",
+          "basis": "§ 28 ust. 1 pkt 17 rozp. MSWiA z 7.06.2010; § 277 ust. 3 WT"
+        },
+        {
+          "t": "Ponad 25 stanowisk i brak oddymiania: co najmniej dwa wyjścia ewakuacyjne; jednym może być wjazd lub wyjazd, ale wyjście musi być dostępne także przy zamkniętej bramie. Projekt ma dwa wyjścia (D2 i D3); brama B1 bez drzwi nie jest wyjściem.",
+          "basis": "§ 278 ust. 1 i 4 WT; § 240 ust. 5 WT"
+        },
+        {
+          "t": "Przejście od stanowiska do najbliższego wyjścia w garażu zamkniętym: do 40 m, z możliwością powiększenia na zasadach § 237 ust. 6 i 7. Środkowy rząd sięga ściany wschodniej, a brama B1 nie jest wyjściem, więc z rzędu przy ścianie południowej do wyjść prowadzi tylko przejazd przy ścianie zachodniej: z ostatniego stanowiska przy bramie przejście ma ok. 56 m najkrótszą drogą od najdalszego miejsca stanowiska (ok. 63 m osiami dróg manewrowych). Projektant sprawdził tylko narożnik północno-wschodni.",
+          "basis": "§ 278 ust. 2 pkt 1 i ust. 3 WT; § 237 ust. 6 i 7 WT; § 240 ust. 3 WT"
+        },
+        {
+          "t": "Klatka K2 służy tylko garażowi: biegi i spoczniki co najmniej 0,9 m (garaże wbudowane), w projekcie 1,00 m – zgodne; w klasie „C” obudowa jak stropy (R E I 60), biegi i spoczniki R 60.",
+          "basis": "§ 105 ust. 1 WT; § 68 ust. 1 WT; § 249 ust. 1 i ust. 3 pkt 1 WT"
+        },
+        {
+          "t": "Awaryjne oświetlenie ewakuacyjne w garażu o powierzchni netto ponad 1 000 m² oświetlonym wyłącznie światłem sztucznym i na drogach ewakuacyjnych z niego, czas działania co najmniej 1 h – przewidziane.",
+          "basis": "§ 181 ust. 3 pkt 1 lit. d i pkt 2 lit. a WT; § 181 ust. 5 WT"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "kind": "ocena",
+      "q": "Proszę ocenić instalacje i wyposażenie garażu: hydranty wewnętrzne, wentylację z detekcją, gaśnice i wyłącznik prądu.",
+      "points": [
+        {
+          "t": "Garaż jednokondygnacyjny zamknięty o więcej niż 10 stanowiskach: hydranty 33, przy wejściach do klatek i na drogach komunikacji ogólnej; zasilanie co najmniej przez 1 godzinę.",
+          "basis": "§ 19 ust. 2 pkt 1 rozp. MSWiA z 7.06.2010; § 20 ust. 1 rozp. MSWiA z 7.06.2010; § 18 ust. 4 rozp. MSWiA z 7.06.2010"
+        },
+        {
+          "t": "Wydajność hydrantu 33 na wylocie prądownicy co najmniej 1,5 dm³/s (w projekcie 1,0), ciśnienie na zaworze co najmniej 0,2 MPa; strefa ponad 500 m², więc jednoczesny pobór z dwóch sąsiednich hydrantów; przewody co najmniej DN 50.",
+          "basis": "§ 22 ust. 1 pkt 2 i ust. 2 rozp. MSWiA z 7.06.2010; § 23 pkt 2 rozp. MSWiA z 7.06.2010; § 25 ust. 4 pkt 2 rozp. MSWiA z 7.06.2010"
+        },
+        {
+          "t": "Zasięg: wąż 30 m i efektywny zasięg prądu (3 m w strefach ZL budynków o więcej niż jednej kondygnacji nadziemnej, 10 m w pozostałych); najdalsze miejsce garażu jest ok. 22 m od najbliższego hydrantu po drogach manewrowych, więc pięć hydrantów obejmuje cały garaż przy każdym z tych zasięgów.",
+          "basis": "§ 20 ust. 3 rozp. MSWiA z 7.06.2010; PN-EN 671-1:2012 p. 4.4.3"
+        },
+        {
+          "t": "Wentylacja mechaniczna sterowana czujkami tlenku węgla jest wymagana; skoro dopuszcza się samochody zasilane gazem propan-butan, a podłoga jest poniżej terenu, wentylacją muszą sterować także czujki tego gazu. Przy wjeździe właściciel umieszcza informację o dopuszczeniu albo niedopuszczeniu takich samochodów.",
+          "basis": "§ 108 ust. 1 pkt 3 i 4 WT; § 4 ust. 2 pkt 5 rozp. MSWiA z 7.06.2010"
+        },
+        {
+          "t": "Gaśnice: jedna jednostka 2 kg na każde 300 m² strefy niewymienionej w § 32 ust. 3 pkt 1 – co najmniej 5 jednostek, 10 kg; projekt 30 kg. Dojście do gaśnicy do 30 m, dostęp 1 m – spełnione.",
+          "basis": "§ 32 ust. 3 pkt 2 rozp. MSWiA z 7.06.2010; § 33 ust. 2 rozp. MSWiA z 7.06.2010"
+        },
+        {
+          "t": "Przeciwpożarowy wyłącznik prądu wymagany (strefy ponad 1 000 m³), w pobliżu głównego wejścia lub złącza, oznakowany – zgodne.",
+          "basis": "§ 183 ust. 2 i 3 WT"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "kind": "ocena",
+      "q": "Proszę ocenić klatkę schodową K1, warunki ewakuacji w części mieszkalnej i wyposażenie mieszkań.",
+      "points": [
+        {
+          "t": "Klatki w strefie ZL IV budynku SW nie dotyczy § 245. Obudowa R E I 60, biegi i spoczniki R 60. Wyjście do klatki kończy dojście, bo klatka jest obudowana, zamykana drzwiami E I 30 i ma urządzenie do usuwania dymu.",
+          "basis": "§ 245 WT; § 249 ust. 1 i ust. 3 pkt 1 WT; § 256 ust. 2 WT"
+        },
+        {
+          "t": "ZL IV przy jednym dojściu: 60 m, w tym nie więcej niż 20 m na poziomej drodze ewakuacyjnej; dojście 15,3 m – zgodne. Korytarz 1,50 m – nie mniej niż 1,4 m.",
+          "basis": "§ 256 ust. 3 WT; § 242 ust. 1 WT"
+        },
+        {
+          "t": "Biegi w budynku wielorodzinnym co najmniej 1,2 m, spoczniki 1,5 m; na rys. 3 biegi mają 1,10 m – niezgodne.",
+          "basis": "§ 68 ust. 1 WT"
+        },
+        {
+          "t": "Budynek dla 78 osób: drzwi wyjściowe z budynku otwierane na zewnątrz – drzwi D1 otwierają się do wewnątrz. Szerokość 1,20 m nie jest mniejsza od wymaganej szerokości biegu.",
+          "basis": "§ 236 ust. 4 WT; § 239 ust. 4 WT"
+        },
+        {
+          "t": "Ściany oddzielające mieszkania od korytarza i od siebie: E I 30; obudowa korytarza ma klasę ścian wewnętrznych z uwzględnieniem § 217.",
+          "basis": "§ 217 ust. 1 pkt 1 lit. a WT; § 241 ust. 1 WT"
+        },
+        {
+          "t": "Lokal mieszkalny wyposaża się w co najmniej jedną autonomiczną czujkę dymu, chyba że chroni go system sygnalizacji pożarowej albo stałe samoczynne urządzenie gaśnicze; czujkę tlenku węgla – tylko w pomieszczeniu ze spalaniem paliwa, którego tu nie ma.",
+          "basis": "§ 28a ust. 1, 2 i 3 rozp. MSWiA z 7.06.2010"
+        },
+        {
+          "t": "Hydrantów 25, systemu sygnalizacji pożarowej i DSO w strefie ZL IV budynku SW nie wymaga się; awaryjne oświetlenie ewakuacyjne na korytarzach bez okien – przewidziane.",
+          "basis": "§ 19 ust. 1 rozp. MSWiA z 7.06.2010; § 28 ust. 1 rozp. MSWiA z 7.06.2010; § 29 ust. 1 rozp. MSWiA z 7.06.2010; § 181 ust. 3 pkt 2 lit. b WT"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "kind": "ocena",
+      "q": "Proszę ocenić drogę pożarową i zaopatrzenie w wodę do zewnętrznego gaszenia pożaru.",
+      "points": [
+        {
+          "t": "Droga pożarowa jest wymagana: budynek średniowysoki ze strefą ZL IV.",
+          "basis": "§ 12 ust. 1 pkt 2 rozp. MSWiA z 24.07.2009"
+        },
+        {
+          "t": "Przebieg wzdłuż dłuższego boku na całej długości, bliższa krawędź 5–15 m od ściany, bez stałych elementów i drzew wyższych niż 3 m między drogą a ścianą: droga wzdłuż ściany zachodniej w odległości 9,0 m – zgodna. Projekt nie korzysta ze zwolnienia z § 12 ust. 6 (okna dla ekip ratowniczych w klatce schodowej, oznakowane, 5–10 m od drogi), a § 12 ust. 7 dotyczy tylko budynków do 3 kondygnacji nadziemnych i 12 m. Garaż leży w całości pod dziedzińcem, więc ściany nad terenem, do których droga ma zapewnić dostęp podnośnikom i drabinom mechanicznym, ma tylko część mieszkalna 13,0 × 28,0 m; jej dłuższym bokiem jest ściana zachodnia.",
+          "basis": "§ 12 ust. 2, 6 i 7 rozp. MSWiA z 24.07.2009"
+        },
+        {
+          "t": "Szerokość co najmniej 4 m i spadek do 5% wzdłuż budynku oraz na odcinkach 10 m od tego miejsca; w innych miejscach w mieście co najmniej 3,5 m, nacisk osi co najmniej 100 kN. Rys. 1 pokazuje 3,50 m także wzdłuż budynku – niezgodność z opisem i z przepisem.",
+          "basis": "§ 13 ust. 1 pkt 1 i ust. 2 rozp. MSWiA z 24.07.2009"
+        },
+        {
+          "t": "Ślepa droga dłuższa niż 15 m kończy się placem 20 × 20 m – zgodne; łuki wjazdu R 12 m – nie mniej niż 11 m; dojścia od wyjść: D1 9 m, K2 ok. 47 m, szerokość co najmniej 1,5 m – zgodne.",
+          "basis": "§ 12 ust. 4, 9, 10 i 11 rozp. MSWiA z 24.07.2009"
+        },
+        {
+          "t": "Woda: § 5 ust. 1 dotyczy budynków użyteczności publicznej i zamieszkania zbiorowego. Dla budynku mieszkalnego w mieście wodę zapewnia się w ramach ilości dla jednostki osadniczej, nie mniej niż 10 dm³/s; dla strefy garażu (380 MJ/m², 1 485,1 m²) tabela nr 2 daje 10 dm³/s. Ilość jest poprawna.",
+          "basis": "§ 3 ust. 1 pkt 1 i ust. 2 rozp. MSWiA z 24.07.2009; § 5 ust. 1 rozp. MSWiA z 24.07.2009; § 6 ust. 3 i tabela nr 2 rozp. MSWiA z 24.07.2009"
+        },
+        {
+          "t": "Hydrant nadziemny DN 80 ma wydajność nominalną 10 dm³/s; najbliższy hydrant do 75 m od obiektu, do 15 m od krawędzi jezdni, co najmniej 5 m od ściany. HZ1 jest ok. 95 m od budynku – potrzebny bliższy hydrant.",
+          "basis": "§ 10 ust. 6 pkt 2, 3 i 5 rozp. MSWiA z 24.07.2009; § 10 ust. 8 pkt 1 rozp. MSWiA z 24.07.2009"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "kind": "procedura",
+      "q": "Czy projekt wymaga uzgodnienia i na jakiej podstawie? Czy sam garaż podlega uzgodnieniu, czy potrzebny jest scenariusz pożarowy i czy rzeczoznawca może uzgodnić projekt w tej postaci?",
+      "points": [
+        {
+          "t": "Tak: budynek średniowysoki ze strefą ZL IV; uzgodnienia wymaga także wewnętrzna droga pożarowa do tego budynku.",
+          "basis": "§ 3 ust. 1 pkt 2 i 13 rozp. MSWiA z 5.08.2023"
+        },
+        {
+          "t": "Garaż jako odrębna pozycja wymaga uzgodnienia, gdy jest wielokondygnacyjny, gdy jednokondygnacyjny zamknięty wymaga urządzenia oddymiającego lub stałego samoczynnego urządzenia gaśniczego wodnego, gdy ma ponad 20 stanowisk wielopoziomowych albo gdy obiekt jest objęty obowiązkiem SSP, SUG lub DSO – nic z tego nie zachodzi. Garaż jest jednak częścią budynku i uzgadnia się go razem z nim.",
+          "basis": "§ 3 ust. 1 pkt 6 i 7 rozp. MSWiA z 5.08.2023; art. 6b ustawy o ochronie ppoż."
+        },
+        {
+          "t": "Scenariusz pożarowy opracowuje się w toku uzgadniania dla obiektu lub strefy, w których przewidziano SSP, stałe urządzenia gaśnicze, urządzenia oddymiające lub zapobiegające zadymieniu. Klapa oddymiająca w klatce K1 jest urządzeniem oddymiającym, więc scenariusz dla strefy ZL IV jest potrzebny.",
+          "basis": "§ 5 pkt 3 rozp. MSWiA z 5.08.2023; § 2 pkt 2 rozp. MSWiA z 5.08.2023"
+        },
+        {
+          "t": "Uzgadnia się w trakcie sporządzania projektu, we współpracy projektanta z rzeczoznawcą; rozwiązania inne niż wynikające z przepisów rzeczoznawca może uzgodnić tylko wtedy, gdy dołączono zgodę na odstępstwo albo na rozwiązania zamienne. W tej postaci projektu uzgodnić nie można.",
+          "basis": "§ 5 rozp. MSWiA z 5.08.2023; art. 6c ustawy o ochronie ppoż."
+        },
+        {
+          "t": "Potwierdzenie: projekt papierowy – pieczęć i podpis na rysunku zagospodarowania terenu i na rzucie pierwszej kondygnacji nadziemnej; elektroniczny – kwalifikowany podpis elektroniczny i karta uzgodnienia. Zawiadomienie do komendanta wojewódzkiego PSP w terminie 14 dni, przez elektroniczną skrzynkę podawczą.",
+          "basis": "art. 6d ust. 1 i 2 ustawy o ochronie ppoż.; § 6 ust. 1 pkt 1 i 2 rozp. MSWiA z 5.08.2023; § 7 ust. 1 rozp. MSWiA z 5.08.2023; § 9 ust. 5 rozp. MSWiA z 5.08.2023"
+        },
+        {
+          "t": "Gdyby uzgodniono projekt z niezgodnościami mającymi istotny wpływ na bezpieczeństwo pożarowe, komendant wojewódzki PSP do dnia uzyskania pozwolenia na użytkowanie unieważnia uzgodnienie w drodze postanowienia.",
+          "basis": "art. 6e ust. 1 i 2 ustawy o ochronie ppoż."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "kind": "zamienne",
+      "q": "Inwestor nie chce budować przedsionka między garażem a piwnicą (brak miejsca) i proponuje pozostawić drzwi E I 60 zamykane samoczynnie po wykryciu dymu. Jaką drogą może to próbować zalegalizować i co musi wykazać ekspertyza?",
+      "points": [
+        {
+          "t": "Przedsionek wynika z przepisów techniczno-budowlanych; § 280 ust. 2 zwalnia z niego tylko dźwig. W budynku projektowanym potrzebna jest zgoda na odstępstwo: udziela jej organ administracji architektoniczno-budowlanej po uzyskaniu upoważnienia ministra, przed wydaniem decyzji o pozwoleniu na budowę.",
+          "basis": "art. 9 ust. 1 i 2 Prawa budowlanego; § 280 ust. 1 i 2 WT"
+        },
+        {
+          "t": "Do wniosku o upoważnienie przy odstępstwie od przepisów o bezpieczeństwie pożarowym dołącza się ekspertyzę rzeczoznawcy do spraw zabezpieczeń przeciwpożarowych oraz postanowienie komendanta wojewódzkiego PSP o zgodzie na rozwiązania zamienne (budynek podlega uzgodnieniu).",
+          "basis": "art. 9 ust. 3 pkt 5 Prawa budowlanego; art. 6a ust. 3 ustawy o ochronie ppoż."
+        },
+        {
+          "t": "Komendant wojewódzki PSP na uzasadniony ekspertyzą techniczną wniosek inwestora może w drodze postanowienia wyrazić zgodę, wyrazić zgodę pod warunkami albo nie wyrazić zgody; służy zażalenie.",
+          "basis": "art. 6a ust. 2 ustawy o ochronie ppoż."
+        },
+        {
+          "t": "Ekspertyza musi wykazać, że rozwiązanie zamienne ogranicza możliwość powstania pożaru, a w razie pożaru zapewnia nośność konstrukcji przez określony czas, ograniczenie rozprzestrzeniania ognia i dymu w obiekcie i na sąsiednie obiekty, ewakuację ludzi i bezpieczeństwo ekip ratowniczych – tu przede wszystkim ochronę piwnicy i jedynej klatki K1 przed dymem z garażu.",
+          "basis": "art. 6a ust. 1 ustawy o ochronie ppoż."
+        },
+        {
+          "t": "Zgoda samego komendanta bez odstępstwa wystarcza tylko przy nadbudowie, rozbudowie, przebudowie, zmianie sposobu użytkowania lub dostosowaniu istniejących obiektów – nie przy budowie nowego budynku.",
+          "basis": "art. 9 ust. 6 Prawa budowlanego"
+        },
+        {
+          "t": "Rzeczoznawca może uzgodnić projekt z takim rozwiązaniem dopiero po dołączeniu zgody na odstępstwo albo zgody na rozwiązania zamienne.",
+          "basis": "art. 6c ustawy o ochronie ppoż."
+        }
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "u1",
+      "kind": "błąd",
+      "weight": 3,
+      "act": "wt_2002",
+      "where": "opis, pkt 5",
+      "title": "Zaniżona klasa odporności pożarowej garażu podziemnego",
+      "is": "Garaż w klasie „D”, jak budynek niski PM do 500 MJ/m²: konstrukcja nośna R 30, strop nad garażem R E I 30, ściany wewnętrzne bez wymagań, obudowa klatki K2 R E I 30, biegi K2 R 30.",
+      "should": "Garaż jest podziemną kondygnacją budynku średniowysokiego. Klasę przyjmuje się jak dla budynku PM o gęstości obciążenia ogniowego do 500 MJ/m² (§ 275 ust. 1), ustalając ją dla tej kondygnacji odrębnie według tabeli § 212 ust. 4 (§ 212 ust. 6); dla budynku średniowysokiego tabela daje „C”, a kolumna dla budynku niskiego nie ma zastosowania. Niezależnie od tego klasa części podziemnej nie może być niższa niż „C” ani niższa od klasy części położonej nad nią (§ 212 ust. 7). Argument, że garaż leży poza obrysem części mieszkalnej, niczego nie zmienia: nawet gdyby garaż, oddzielony ścianą oddzielenia przeciwpożarowego na własnym fundamencie, traktować jak odrębny budynek (§ 210), jest on w całości kondygnacją podziemną, dla której § 212 ust. 7 wymaga co najmniej „C”. Obniżenie o jedną klasę z § 214 wymagałoby stałych samoczynnych urządzeń gaśniczych wodnych. Klasa „C”: główna konstrukcja nośna R 60, strop (stropodach) nad garażem, zakwalifikowany w projekcie jako strop, R E I 60, ściany wewnętrzne E I 15, ściany zewnętrzne E I 30; obudowa klatki K2 jak stropy – R E I 60, biegi i spoczniki R 60.",
+      "basis": "§ 212 ust. 4, 6 i 7 WT; § 210 WT; § 275 ust. 1 WT; § 216 ust. 1 WT; § 249 ust. 1 i ust. 3 pkt 1 WT",
+      "quote": "przy czym dla części podziemnej nie powinna być ona niższa niż „C”",
+      "fix": "Przyjąć dla garażu klasę „C” i poprawić klasy elementów garażu i klatki K2 w opisie i w projekcie konstrukcji.",
+      "marker": {
+        "d": "R2",
+        "at": [
+          24.0,
+          19.4
+        ]
+      }
+    },
+    {
+      "id": "u2",
+      "kind": "niespójność",
+      "weight": 3,
+      "act": "wt_2002",
+      "where": "opis, pkt 6; rys. 2 – drzwi D2",
+      "title": "Połączenie garażu z piwnicą i klatką K1 bez przedsionka przeciwpożarowego",
+      "is": "Opis: wyjście z garażu przez przedsionek 1,60 × 1,80 m z drzwiami E I 30. Rys. 2: w ścianie oddzielenia R E I 120 są tylko drzwi D2 E I 60, które prowadzą wprost do przejścia i korytarza piwnicy, a stamtąd do klatki K1.",
+      "should": "Połączenie garażu z budynkiem wymaga przedsionka przeciwpożarowego zamykanego drzwiami o klasie co najmniej E I 30 (§ 280 ust. 1). Przedsionek ma rzut co najmniej 1,4 × 1,4 m, ściany i strop E I 60 z materiałów niepalnych i wentylację co najmniej grawitacyjną (§ 232 ust. 3). Drzwi E I 60 spełniałyby ogólną tabelę § 232 ust. 4 dla otworu w ścianie oddzielenia budynku klasy „C”, ale dla garażu obowiązuje przepis szczególny; bez przedsionka dopuszcza się tylko dźwig oddzielony od garażu drzwiami E I 60 (§ 280 ust. 2). Opis i rysunek są sprzeczne, a według rysunku dym z garażu może przedostać się do piwnicy i do klatki K1 – jedynej drogi ewakuacji z mieszkań.",
+      "basis": "§ 280 ust. 1 i 2 WT; § 232 ust. 3 i 4 WT",
+      "quote": "Połączenie garażu z budynkiem wymaga zastosowania przedsionka przeciwpożarowego zamykanego drzwiami o klasie odporności ogniowej co najmniej E I 30.",
+      "fix": "Wykonać przedsionek zgodny z opisem w miejscu drzwi D2, z drzwiami E I 30 wyposażonymi w samozamykacze (§ 240 ust. 6), i ujednolicić opis z rysunkiem.",
+      "marker": {
+        "d": "R2",
+        "at": [
+          17.4,
+          13.2
+        ]
+      }
+    },
+    {
+      "id": "u3",
+      "kind": "błąd",
+      "weight": 2,
+      "act": "wt_2002",
+      "where": "opis, pkt 6; rys. 2 – rząd stanowisk przy ścianie południowej",
+      "title": "Za długie przejścia z południowo-wschodniej części garażu",
+      "is": "Projektant sprawdził tylko stanowisko w narożniku północno-wschodnim (37,3 m do drzwi D3). Środkowy rząd stanowisk sięga ściany wschodniej (pas 0,5 m przy ścianie nie jest przejściem – przejście ma co najmniej 0,9 m, § 237 ust. 10), a brama segmentowa B1 nie ma drzwi i nie może być wyjściem ewakuacyjnym (§ 240 ust. 3; wyjście musi być dostępne także przy zamkniętej bramie – § 278 ust. 4). Z drogi manewrowej południowej do drzwi D2 i D3 prowadzi więc tylko przejazd przy ścianie zachodniej. Z ostatniego stanowiska przy ścianie południowej, obok bramy, do drzwi D2 jest ok. 56 m najkrótszą drogą od najdalszego miejsca stanowiska, a ok. 63 m osiami dróg manewrowych, tak jak liczył projektant. Ponad 40 m ma najkrótszą drogą 7 stanowisk tego rzędu, a licząc osiami – wszystkie 9 stanowisk na wschód od hydrantu H33 przy ścianie południowej. Przejścia nie wyznacza się między samochodami zaparkowanymi w środkowym rzędzie: stanowisko postojowe nie jest drogą komunikacyjną, a odstęp między samochodami na stanowiskach szerokości 2,50 m jest zwykle węższy niż 0,9 m.",
+      "should": "Długość przejścia od stanowiska postojowego do najbliższego wyjścia ewakuacyjnego w garażu zamkniętym nie może przekraczać 40 m (§ 278 ust. 2 pkt 1). Powiększenie jest możliwe tylko na zasadach § 237 ust. 6 i 7: o 50% przy stałych samoczynnych urządzeniach gaśniczych wodnych i o 50% przy samoczynnych urządzeniach oddymiających uruchamianych systemem wykrywania dymu, przy czym przy wentylacji strumieniowej tego drugiego powiększenia nie stosuje się (§ 278 ust. 3). W projekcie nie ma żadnego z tych urządzeń.",
+      "basis": "§ 278 ust. 2 pkt 1, ust. 3 i 4 WT; § 237 ust. 6, 7 i 10 WT; § 240 ust. 3 WT",
+      "quote": "Długość przejścia od stanowiska postojowego do najbliższego wyjścia ewakuacyjnego nie może przekraczać: 1) w garażu zamkniętym – 40 m;",
+      "fix": "Drzwi ewakuacyjne w bramie B1 albo tuż obok niej, otwierane ręcznie i dostępne przy zamkniętej bramie: wyjazd może być wtedy jednym z wyjść (§ 278 ust. 1 i 4, § 240 ust. 5). Z rzędu przy ścianie południowej do najbliższego wyjścia będzie wtedy najwyżej ok. 31 m najkrótszą drogą (ok. 37 m osiami dróg manewrowych), a najdalszym stanowiskiem pozostanie narożnik północno-wschodni (37,3 m do drzwi D3 według projektanta). Inna możliwość: dodatkowe wyjście w części wschodniej garażu albo wydzielone przejście przez środkowy rząd.",
+      "marker": {
+        "d": "R2",
+        "at": [
+          63.85,
+          24.95
+        ]
+      }
+    },
+    {
+      "id": "u4",
+      "kind": "błąd",
+      "weight": 2,
+      "act": "rozp_ppoz_2010",
+      "where": "opis, pkt 7",
+      "title": "Za mała wydajność hydrantów 33 w garażu",
+      "is": "Hydranty 33 o wydajności 1,0 dm³/s.",
+      "should": "Minimalna wydajność na wylocie prądownicy wynosi dla hydrantu 33 – 1,5 dm³/s; ciśnienie na zaworze odcinającym ma zapewniać tę wydajność i nie może być mniejsze niż 0,2 MPa (§ 22 ust. 1 pkt 2 i ust. 2). Wartość 1,0 dm³/s dotyczy hydrantu 25. Hydranty 33 są wymagane, bo garaż jednokondygnacyjny zamknięty ma ponad 10 stanowisk (§ 19 ust. 2 pkt 1). Pozostałe parametry – jednoczesny pobór z dwóch sąsiednich hydrantów, przewody DN 50, rozmieszczenie i zasięg – są poprawne.",
+      "basis": "§ 22 ust. 1 pkt 2 i ust. 2 rozp. MSWiA z 7.06.2010; § 19 ust. 2 pkt 1 rozp. MSWiA z 7.06.2010",
+      "quote": "dla hydrantu 33 ‒ 1,5 dm3/s",
+      "fix": "Przyjąć 1,5 dm³/s na hydrancie przy jednoczesnym poborze z dwóch sąsiednich (razem 3,0 dm³/s) i sprawdzić, czy sieć miejska zapewni wymagane ciśnienie; jeżeli nie, potrzebna będzie pompownia przeciwpożarowa, która musi stanowić odrębną strefę pożarową (§ 212 ust. 9 WT).",
+      "marker": {
+        "d": "R2",
+        "at": [
+          44.6,
+          24.6
+        ]
+      }
+    },
+    {
+      "id": "u5",
+      "kind": "brak",
+      "weight": 2,
+      "act": "wt_2002",
+      "where": "opis, pkt 2 i 7",
+      "title": "Brak detekcji gazu propan-butan w garażu podziemnym",
+      "is": "W garażu podziemnym dopuszcza się parkowanie samochodów zasilanych gazem propan-butan, a wentylacją mechaniczną sterują tylko czujki tlenku węgla.",
+      "should": "W garażach, w których dopuszcza się parkowanie samochodów zasilanych gazem propan-butan i w których poziom podłogi jest poniżej poziomu terenu, stosuje się wentylację mechaniczną sterowaną czujkami niedopuszczalnego poziomu stężenia tego gazu (§ 108 ust. 1 pkt 4); czujki tlenku węgla są wymagane niezależnie od tego (§ 108 ust. 1 pkt 3). Przy wjeździe właściciel umieszcza czytelną informację o dopuszczeniu lub niedopuszczeniu takich samochodów (§ 4 ust. 2 pkt 5 rozp. MSWiA z 7.06.2010).",
+      "basis": "§ 108 ust. 1 pkt 3 i 4 WT; § 4 ust. 2 pkt 5 rozp. MSWiA z 7.06.2010",
+      "quote": "mechaniczną, sterowaną czujkami niedopuszczalnego poziomu stężenia gazu propan-butan",
+      "fix": "Dodać czujki gazu propan-butan sterujące wentylacją mechaniczną albo nie dopuszczać samochodów zasilanych tym gazem i oznakować to przy wjeździe.",
+      "marker": {
+        "d": "R2",
+        "at": [
+          58.5,
+          6.8
+        ]
+      }
+    },
+    {
+      "id": "u6",
+      "kind": "błąd",
+      "weight": 2,
+      "act": "wt_2002",
+      "where": "opis, pkt 5 – tabela",
+      "title": "Za niska klasa ścian oddzielających mieszkania",
+      "is": "Ściany między mieszkaniami oraz między mieszkaniami a korytarzem E I 15, jak ściany wewnętrzne w klasie „C”.",
+      "should": "W budynkach ZL IV przegrody oddzielające mieszkania od dróg komunikacji ogólnej i od innych mieszkań muszą mieć w budynku niskim i średniowysokim co najmniej E I 30 (§ 217 ust. 1 pkt 1 lit. a); tabela § 216 ust. 1 jest tu tylko wymaganiem minimalnym. Obudowa korytarzy jako poziomych dróg ewakuacyjnych ma klasę ścian wewnętrznych z uwzględnieniem § 217, czyli E I 30 tam, gdzie oddziela mieszkania (§ 241 ust. 1). Ścian wewnętrznych w obrębie mieszkań wymóg nie dotyczy (§ 217 ust. 3).",
+      "basis": "§ 217 ust. 1 pkt 1 lit. a i ust. 3 WT; § 241 ust. 1 WT",
+      "quote": "niskim i średniowysokim – E I 30",
+      "fix": "Przyjąć E I 30 dla ścian międzymieszkaniowych i ścian mieszkań od strony korytarzy.",
+      "marker": {
+        "d": "R3",
+        "at": [
+          4.7,
+          8.6
+        ]
+      }
+    },
+    {
+      "id": "u7",
+      "kind": "brak",
+      "weight": 1,
+      "act": "rozp_ppoz_2010",
+      "where": "opis, pkt 7",
+      "title": "Brak autonomicznych czujek dymu w mieszkaniach",
+      "is": "Autonomicznych czujek dymu w mieszkaniach nie przewiduje się, ponieważ budynek nie wymaga systemu sygnalizacji pożarowej.",
+      "should": "Zmiana rozporządzenia z 21.11.2024 r. (w mocy od 23.12.2024 r., poza tekstem jednolitym z 2023 r.) dodała § 28a: lokal mieszkalny wyposaża się w co najmniej jedną autonomiczną czujkę dymu spełniającą wymagania Polskiej Normy (§ 28a ust. 1). Zwolnienie dotyczy tylko lokali chronionych systemem sygnalizacji pożarowej albo stałym samoczynnym urządzeniem gaśniczym (§ 28a ust. 2); brak obowiązku stosowania SSP nie zwalnia. Termin 1.01.2030 r. dotyczy lokali użytkowanych w dniu wejścia zmiany w życie, a nie nowych (§ 2 ust. 2 rozporządzenia zmieniającego). Czujek tlenku węgla rzeczywiście nie trzeba, bo w mieszkaniach nie ma spalania paliwa (§ 28a ust. 3). Autonomiczne czujki nie muszą być wykonane według projektu uzgodnionego przez rzeczoznawcę (§ 3 ust. 3a), ale projekt nie może zakładać, że lokale nie będą w nie wyposażone – stąd usterka drobna, do usunięcia poprawką opisu.",
+      "basis": "§ 28a ust. 1, 2 i 3 rozp. MSWiA z 7.06.2010; § 3 ust. 3a rozp. MSWiA z 7.06.2010; § 2 ust. 2 rozp. MSWiA z 21.11.2024",
+      "quote": "lokal mieszkalny należy wyposażyć w co najmniej jedną autonomiczną czujkę dymu",
+      "fix": "Przewidzieć co najmniej jedną autonomiczną czujkę dymu w każdym z 30 mieszkań.",
+      "marker": {
+        "d": "R3",
+        "at": [
+          3.0,
+          25.4
+        ]
+      }
+    },
+    {
+      "id": "u8",
+      "kind": "błąd",
+      "weight": 2,
+      "act": "wt_2002",
+      "where": "rys. 3 – drzwi D1",
+      "title": "Drzwi wyjściowe z klatki K1 otwierane do wewnątrz",
+      "is": "Drzwi D1 (1,20 m), jedyne wyjście z budynku dla części mieszkalnej, otwierają się do wnętrza klatki.",
+      "should": "Drzwi stanowiące wyjście ewakuacyjne z budynku przeznaczonego dla więcej niż 50 osób powinny otwierać się na zewnątrz (§ 236 ust. 4); w budynku jest 78 mieszkańców, a wyjątki dotyczą tylko budynków wpisanych do rejestru zabytków (§ 236 ust. 4) oraz budynków na terenie zakładów karnych i aresztów śledczych (§ 211 ust. 2). Szerokość 1,20 m jest poprawna – nie mniejsza niż wymagana szerokość biegu (§ 239 ust. 4).",
+      "basis": "§ 236 ust. 4 WT; § 211 ust. 2 WT; § 239 ust. 4 WT",
+      "quote": "Drzwi stanowiące wyjście ewakuacyjne z budynku przeznaczonego dla więcej niż 50 osób powinny otwierać się na zewnątrz.",
+      "fix": "Zmienić kierunek otwierania drzwi D1 na zewnątrz, zachowując siłownik do napowietrzania klatki.",
+      "marker": {
+        "d": "R3",
+        "at": [
+          1.7,
+          10.0
+        ]
+      }
+    },
+    {
+      "id": "u9",
+      "kind": "błąd",
+      "weight": 2,
+      "act": "wt_2002",
+      "where": "rys. 3 – klatka K1, wymiar 1,10",
+      "title": "Za wąskie biegi klatki schodowej K1",
+      "is": "Na rys. 3 biegi klatki K1 mają szerokość 1,10 m (spocznik 1,60 m); opis odsyła do rysunku.",
+      "should": "W budynkach mieszkalnych wielorodzinnych minimalna szerokość użytkowa biegu wynosi 1,2 m, a spocznika 1,5 m (§ 68 ust. 1); szerokość mierzy się między poręczami albo między ścianą a poręczą (§ 68 ust. 4). Klatka K1 jest jedyną drogą ewakuacyjną z 6 kondygnacji i służy też ewakuacji z garażu przez piwnicę.",
+      "basis": "§ 68 ust. 1 i 4 WT",
+      "quote": "Budynki mieszkalne wielorodzinne, budynki zamieszkania zbiorowego*) oraz",
+      "fix": "Poszerzyć biegi do co najmniej 1,20 m szerokości użytkowej; klatka ma 5,20 m szerokości w świetle, więc mieści się to bez zmiany jej obrysu.",
+      "marker": {
+        "d": "R3",
+        "at": [
+          3.3,
+          15.6
+        ]
+      }
+    },
+    {
+      "id": "u10",
+      "kind": "niespójność",
+      "weight": 2,
+      "act": "woda_drogi_2009",
+      "where": "opis, pkt 9; rys. 1 – wymiar 3,50",
+      "title": "Droga pożarowa węższa niż 4 m wzdłuż budynku",
+      "is": "Opis: szerokość drogi pożarowej 4,0 m. Rys. 1: droga ma 3,50 m na całej długości, także wzdłuż ściany zachodniej.",
+      "should": "Tam, gdzie droga pożarowa przebiega wzdłuż budynku (§ 12 ust. 2), oraz na odcinkach 10 m przed i za tym miejscem szerokość drogi wynosi co najmniej 4 m, a spadek podłużny najwyżej 5% (§ 13 ust. 1 pkt 1). W innych miejscach w mieście wystarcza 3,5 m przy nacisku osi co najmniej 100 kN (§ 13 ust. 2), więc dalszy odcinek dojazdowy od ul. Projektowanej może mieć 3,5 m.",
+      "basis": "§ 13 ust. 1 pkt 1 i ust. 2 rozp. MSWiA z 24.07.2009; § 12 ust. 2 rozp. MSWiA z 24.07.2009",
+      "quote": "Minimalna szerokość drogi pożarowej powinna wynosić co najmniej 4 m, a jej nachylenie podłużne nie może przekraczać 5 %",
+      "fix": "Poszerzyć drogę do 4,0 m od placu manewrowego do punktu 10 m na południe od narożnika budynku i ujednolicić opis z rysunkiem.",
+      "marker": {
+        "d": "R1",
+        "at": [
+          24.0,
+          45.0
+        ]
+      }
+    },
+    {
+      "id": "u11",
+      "kind": "błąd",
+      "weight": 2,
+      "act": "woda_drogi_2009",
+      "where": "rys. 1 – hydrant HZ1",
+      "title": "Najbliższy hydrant zewnętrzny za daleko od budynku",
+      "is": "Jedyny hydrant HZ1 jest w ul. Projektowanej ok. 95 m od narożnika budynku; opis podaje tylko „położenie hydrantu według rys. 1”.",
+      "should": "Najbliższy hydrant zewnętrzny może być oddalony od chronionego obiektu budowlanego najwyżej o 75 m, od zewnętrznej krawędzi jezdni najwyżej o 15 m, a od ściany chronionego budynku co najmniej o 5 m (§ 10 ust. 6 pkt 2, 3 i 5). Ilość wody (10 dm³/s z jednego hydrantu DN 80) jest poprawna – opisano to w pozycji „poprawne”.",
+      "basis": "§ 10 ust. 6 pkt 2, 3 i 5 rozp. MSWiA z 24.07.2009",
+      "quote": "najbliższego hydrantu od chronionego obiektu budowlanego — do 75 m",
+      "fix": "Zaprojektować hydrant nadziemny DN 80 na sieci w ul. Projektowanej w odległości do 75 m od budynku, na przykład przy wjeździe na drogę pożarową.",
+      "marker": {
+        "d": "R1",
+        "at": [
+          9.0,
+          87.5
+        ]
+      }
+    },
+    {
+      "id": "u12",
+      "kind": "brak",
+      "weight": 1,
+      "act": "uzgadnianie_2023",
+      "where": "opis, pkt 7",
+      "title": "Brak scenariusza pożarowego mimo klapy oddymiającej",
+      "is": "Scenariusza pożarowego nie opracowano, bo w budynku nie ma SSP, stałych urządzeń gaśniczych ani oddymiania garażu; klatka K1 ma klapę oddymiającą uruchamianą czujkami dymu.",
+      "should": "Uzgodnienie polega między innymi na opracowaniu scenariusza pożarowego dla obiektu albo strefy pożarowej, w których przewidziano urządzenia oddymiające (§ 5 pkt 3). Urządzenia oddymiające to urządzenia i instalacje służące do usuwania dymu i ciepła (§ 2 pkt 2), a więc także klapa oddymiająca w klatce K1. Scenariusz powinien opisać jej działanie i współdziałanie z siłownikiem drzwi D1 i przyciskami oddymiania (§ 2 pkt 4).",
+      "basis": "§ 5 pkt 3 rozp. MSWiA z 5.08.2023; § 2 pkt 2 i 4 rozp. MSWiA z 5.08.2023",
+      "quote": "opracowaniu scenariusza pożarowego dla obiektu budowlanego lub jego części stanowiącej odrębną strefę pożarową",
+      "fix": "Opracować w toku uzgadniania scenariusz pożarowy dla strefy ZL IV, obejmujący oddymianie klatki K1."
+    },
+    {
+      "id": "p1",
+      "kind": "poprawne",
+      "weight": 1,
+      "act": "wt_2002",
+      "where": "opis, pkt 7; rys. 2",
+      "title": "Garaż bez wentylacji oddymiającej i bez systemu sygnalizacji pożarowej",
+      "is": "Strefa garażu 1 485,1 m² z bezpośrednim wyjazdem rampą odkrytą; bez wentylacji oddymiającej, SSP i stałych urządzeń gaśniczych; dwa wyjścia ewakuacyjne.",
+      "should": "Wentylacja oddymiająca jest wymagana, gdy strefa garażu zamkniętego nie ma bezpośredniego wjazdu lub wyjazdu z budynku albo ma ponad 1 500 m² (§ 277 ust. 4) – żaden warunek nie zachodzi. SSP w garażu podziemnym: strefa ponad 1 500 m² lub więcej niż jedna kondygnacja podziemna (§ 28 ust. 1 pkt 17 rozp. MSWiA z 7.06.2010) – nie zachodzi. Stałe samoczynne urządzenia gaśnicze wodne: ponad dwie kondygnacje podziemne albo poniżej drugiej (§ 277 ust. 3) – nie zachodzi. Przy ponad 25 stanowiskach bez oddymiania potrzebne są co najmniej dwa wyjścia (§ 278 ust. 1) – są drzwi D2 i D3. Powierzchnię potwierdza rys. 2: 54,6 × 27,2 m = 1 485,1 m²; nawet po doliczeniu obudowy wyjścia z klatki K2 nad stropem garażu (3,0 × 4,0 m) strefa ma mniej niż 1 500 m².",
+      "basis": "§ 277 ust. 3 i 4 WT; § 278 ust. 1 WT; § 28 ust. 1 pkt 17 rozp. MSWiA z 7.06.2010",
+      "quote": "w przypadku gdy ta strefa nie posiada bezpośredniego wjazdu lub wyjazdu z budynku lub gdy jej powierzchnia przekracza 1500 m2",
+      "fix": "Warto zastrzec w uzgodnieniu, że powiększenie strefy garażu ponad 1 500 m² pociągnie za sobą oddymianie, SSP, scenariusz pożarowy i odrębną podstawę uzgodnienia garażu (§ 3 ust. 1 pkt 6 lit. b i pkt 7 rozp. MSWiA z 5.08.2023).",
+      "marker": {
+        "d": "R2",
+        "at": [
+          64.6,
+          19.4
+        ]
+      }
+    },
+    {
+      "id": "p2",
+      "kind": "poprawne",
+      "weight": 1,
+      "act": "wt_2002",
+      "where": "opis, pkt 4 i 5; rys. 2 – piwnica",
+      "title": "Piwnica w strefie ZL IV, nieoddzielona od części nadziemnej",
+      "is": "Komórki lokatorskie, rowerownia i węzeł cieplny w piwnicy należą do strefy ZL IV o powierzchni 2 322,9 m²; piwnica nie jest oddzielona od kondygnacji nadziemnych elementami R E I 60, dźwig zjeżdża do piwnicy, drzwi przystankowe są bez klasy odporności ogniowej.",
+      "should": "Obowiązek oddzielenia piwnic stropami i ścianami R E I 60 i drzwiami E I 30 nie dotyczy budynków ZL IV niskich i średniowysokich (§ 250 ust. 1); przedsionek przed piwnicą jest wymagany tylko w budynkach wysokich i wysokościowych (§ 250 ust. 2). Strefa ZL obejmująca część podziemną może mieć najwyżej 50% powierzchni dopuszczalnej dla pierwszej kondygnacji nadziemnej (§ 227 ust. 2): 50% z 5 000 m² to 2 500 m², a strefa ma 2 322,9 m². Klasę ustala się dla sumy kondygnacji i wysokości części podziemnej i nadziemnej (§ 212 ust. 5): 7 kondygnacji i 21,85 m to nadal budynek średniowysoki, klasa „C”. Węzeł cieplny jest funkcjonalnie powiązany z częścią mieszkalną, więc nie musi stanowić odrębnej strefy (§ 212 ust. 8).",
+      "basis": "§ 250 ust. 1 i 2 WT; § 227 ust. 1 i 2 WT; § 212 ust. 5 i 8 WT",
+      "quote": "Piwnice powinny być oddzielone od pozostałej części budynku, z wyjątkiem budynków ZL IV niskich (N) i średniowysokich (SW)",
+      "fix": "Powiększenie strefy ponad 2 500 m², na przykład przez dodatkowe pomieszczenia w piwnicy, wymagałoby wydzielenia piwnicy jako odrębnej strefy pożarowej.",
+      "marker": {
+        "d": "R2",
+        "at": [
+          3.0,
+          25.3
+        ]
+      }
+    },
+    {
+      "id": "p3",
+      "kind": "poprawne",
+      "weight": 1,
+      "act": "woda_drogi_2009",
+      "where": "opis, pkt 9",
+      "title": "10 dm³/s z jednego hydrantu dla budynku o kubaturze 12 981 m³",
+      "is": "Woda do zewnętrznego gaszenia: 10 dm³/s z jednego hydrantu DN 80 na sieci obwodowej DN 150, przy kubaturze budynku 12 981 m³ i powierzchni wewnętrznej 3 808,0 m².",
+      "should": "Wymaganie 20 dm³/s z co najmniej dwóch hydrantów dla budynków ponad 5 000 m³ lub 1 000 m² (§ 5 ust. 1) dotyczy budynków użyteczności publicznej i zamieszkania zbiorowego. Dla budynku mieszkalnego w mieście wodę zapewnia się w ramach ilości dla jednostki osadniczej, nie mniej niż 10 dm³/s (§ 3 ust. 1 pkt 1 i ust. 2). Dla strefy garażu o gęstości obciążenia ogniowego 380 MJ/m² i powierzchni 1 485,1 m² tabela nr 2 (§ 6 ust. 3) daje 10 dm³/s. Hydrant nadziemny DN 80 ma wydajność nominalną 10 dm³/s przy 0,2 MPa (§ 10 ust. 8 pkt 1), a sieć obwodowa DN 150 spełnia § 9 ust. 3 i ust. 7 pkt 1 (w sieci obwodowej co najmniej DN 100). Usterką jest tylko odległość hydrantu od budynku.",
+      "basis": "§ 3 ust. 1 pkt 1 i ust. 2 rozp. MSWiA z 24.07.2009; § 5 ust. 1 rozp. MSWiA z 24.07.2009; § 6 ust. 3 i tabela nr 2 rozp. MSWiA z 24.07.2009; § 10 ust. 8 pkt 1 rozp. MSWiA z 24.07.2009; § 9 ust. 3 i ust. 7 pkt 1 rozp. MSWiA z 24.07.2009",
+      "quote": "Dla pozostałych obiektów budowlanych woda do celów przeciwpożarowych do zewnętrznego gaszenia pożaru jest zapewniana w ramach ilości wody przewidywanych dla jednostek osadniczych, nie mniejszej jednak niż 10 dm3/s",
+      "fix": ""
+    }
+  ],
+  "summary": "Projekt wymaga uzgodnienia (budynek średniowysoki ze strefą ZL IV oraz wewnętrzna droga pożarowa), ale w przedstawionej postaci nie spełnia wymagań ochrony przeciwpożarowej. Przesądzają o tym zaniżona klasa odporności pożarowej garażu („D” zamiast „C”) i połączenie garażu z piwnicą i klatką K1 bez przedsionka przeciwpożarowego; istotne są też za długie przejścia z południowo-wschodniej części garażu.\nPozostałe usterki – wydajność hydrantów 33, brak detekcji gazu propan-butan, klasa ścian oddzielających mieszkania, brak czujek dymu w mieszkaniach, drzwi D1 otwierane do wewnątrz, za wąskie biegi K1, za wąska droga pożarowa wzdłuż budynku, za daleki hydrant zewnętrzny i brak scenariusza pożarowego – usuwa się zmianą projektu, bez odstępstwa.\nRozwiązania, które wyglądają podejrzanie, są zgodne: garaż poniżej 1 500 m² z bezpośrednim wyjazdem nie wymaga oddymiania ani SSP, piwnicy w budynku ZL IV średniowysokim nie trzeba wydzielać, a 10 dm³/s z jednego hydrantu wystarcza dla budynku mieszkalnego z takim garażem.",
+  "review": {
+    "date": "2026-11-25",
+    "solverFound": 12,
+    "solverFoundA": 12,
+    "solverFoundB": 12,
+    "issues": 12,
+    "refuted": 7,
+    "note": "Pierwsza kontrola przeliczyła przejścia w garażu (u3), poprawiła sieć wodociągową w p3, odpowiedź do q6, rysunek klatki K2 i opis garażu oraz dopisała dane brakujące zdającym (drzwi K2, liczba osób, wysokość w świetle, fundament ściany oddzielenia), a druga uzgodniła liczby z geometrią (najdalsze stanowisko ok. 56 m, po naprawie ok. 31 m, zasięg H33 ok. 22 m, dojście z K2 ok. 47 m), doprowadziła pas dojścia od K2 do krawędzi placu manewrowego, rozsunęła hydranty i gaśnice przy ścianie południowej, uodporniła u1 na argument odrębnego budynku (§ 210), poprawiła wyjątki w u8 (§ 211 ust. 2), cytat w p3 (pominięte „nie”), dopisała § 3 ust. 3a w u7 oraz wyjaśniła w opisie i w q6, że drogę pożarową odnosi się do części nadziemnej, bo garaż leży w całości pod dziedzińcem."
+  }
+}

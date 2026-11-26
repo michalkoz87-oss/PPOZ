@@ -1,0 +1,2285 @@
+{
+  "id": "K04",
+  "title": "Kamienica: biura i poddasze w budynku istniejącym",
+  "level": 3,
+  "lead": "Kamienica w pierzei: dwa piętra mieszkań zamienianych na biura i nowe mieszkania na poddaszu. Co poprawić w projekcie, a co wymaga rozwiązań zamiennych?",
+  "tags": [
+    "budynek istniejący",
+    "ZL III i ZL IV",
+    "rozwiązania zamienne",
+    "ekspertyza",
+    "zabudowa pierzejowa"
+  ],
+  "topics": [
+    "W1",
+    "W2",
+    "W3",
+    "R1",
+    "R2",
+    "H1",
+    "H2",
+    "P2"
+  ],
+  "legal": "Wymagania budowlane podano według warunków technicznych z 2002 r. (tekst jednolity z 2022 r. ze zmianami z 2023 i 2024 r.). Rozporządzenie utraciło moc 21.09.2026, ale art. 102a Prawa budowlanego pozwala przez 18 miesięcy od 20.09.2026 sporządzić projekt według przepisów obowiązujących do 19.09.2026 po złożeniu oświadczenia inwestora. Do dnia sporządzenia kazusu nowych warunków technicznych nie ogłoszono; po ich ogłoszeniu klucz zostanie sprawdzony ponownie. Pozostałe podstawy obowiązują: rozporządzenia MSWiA z 24.07.2009, z 7.06.2010 (ze zmianą z 21.11.2024 o autonomicznych czujkach dymu i jej przepisami przejściowymi) i z 5.08.2023, ustawa o ochronie przeciwpożarowej (art. 6a–6e) i Prawo budowlane (art. 9 ust. 6, art. 71).",
+  "problem": "Inwestor chce zmienić sposób użytkowania I i II piętra istniejącej kamienicy z mieszkalnego na biurowy i zaadaptować poddasze na mieszkania. Projektant przekazał do uzgodnienia opis warunków ochrony przeciwpożarowej z proponowanymi rozwiązaniami zamiennymi oraz trzy rysunki.\nProszę wskazać niezgodności z wymaganiami ochrony przeciwpożarowej i rozdzielić je na te, które trzeba usunąć w projekcie, oraz te, które wymagają rozwiązań zamiennych. Proszę ocenić rozwiązania zamienne projektanta, zaproponować własne, określić, co ma wykazać ekspertyza techniczna, i opisać tryb postępowania.",
+  "doc": {
+    "title": "Kamienica przy ul. Fikcyjnej 14 – przebudowa ze zmianą sposobu użytkowania: warunki ochrony przeciwpożarowej",
+    "meta": [
+      [
+        "Inwestycja",
+        "Przebudowa kamienicy ze zmianą sposobu użytkowania I i II piętra z mieszkalnego na biurowy oraz adaptacją poddasza nieużytkowego na dwa mieszkania (dane fikcyjne)"
+      ],
+      [
+        "Adres",
+        "ul. Fikcyjna 14, dz. nr 58/2, śródmieście, zabudowa pierzejowa"
+      ],
+      [
+        "Inwestor",
+        "Spółka będąca właścicielem całego budynku (dane fikcyjne)"
+      ],
+      [
+        "Stadium",
+        "Projekt zagospodarowania działki i projekt architektoniczno-budowlany do wniosku o pozwolenie na budowę (przebudowa obejmuje m.in. wymianę konstrukcji dachu, nowe ścianki działowe na piętrach biurowych i instalacje)"
+      ],
+      [
+        "Przepisy techniczno-budowlane",
+        "Warunki techniczne z 12.04.2002 r.; inwestor złoży oświadczenie, o którym mowa w art. 102a ust. 1 Prawa budowlanego"
+      ],
+      [
+        "Zakres wyciągu",
+        "Opis warunków ochrony przeciwpożarowej; rys. 1 – plan zagospodarowania działki; rys. 2 – rzut II piętra (kondygnacja biurowa); rys. 3 – fragment rzutu parteru z klatką schodową i przejazdem bramowym"
+      ]
+    ],
+    "sections": [
+      {
+        "no": "1",
+        "h": "Stan istniejący i zakres zamierzenia",
+        "text": "Kamienica z 1908 r. w zabudowie pierzejowej, przylegająca ścianami szczytowymi do kamienic sąsiednich o tej samej wysokości. Budynek nie jest wpisany do rejestru zabytków ani do gminnej ewidencji zabytków i nie leży na obszarze objętym ochroną konserwatorską. Obecnie jest to budynek mieszkalny wielorodzinny: na parterze i na piętrach I–IV po dwa mieszkania, poddasze nieużytkowe (strych), w piwnicy komórki lokatorskie wydzielone ścianami murowanymi. Budynek ma jedną klatkę schodową K1, do której wchodzi się z przejazdu bramowego (przejazd jest otwarty od ulicy i od podwórza, bez wrót).\nZamierzenie:\n- zmiana sposobu użytkowania I i II piętra z mieszkalnego na biurowy: na każdym piętrze pięć lokali biurowych do wynajęcia, dostępnych z korytarza wspólnego (lokale x.2–x.5) albo bezpośrednio z klatki K1 (lokal x.1);\n- adaptacja poddasza na dwa mieszkania (M5.1 i M5.2) z wymianą konstrukcji dachu;\n- parter, III i IV piętro – mieszkania bez zmian; strop nad III piętrem wymieniono w 2010 r. na żelbetowy.\nOgrzewanie z miejskiej sieci ciepłowniczej; w budynku nie ma instalacji gazowej ani innych urządzeń spalających paliwo."
+      },
+      {
+        "no": "2",
+        "h": "Powierzchnia, kubatura, wysokość i liczba kondygnacji",
+        "text": "- Powierzchnia zabudowy: 377,0 m² (29,00 × 13,00 m).\n- Powierzchnia wewnętrzna: piwnica 297,6 m², parter 297,6 m² (bez przejazdu bramowego), I–IV piętro po 336,0 m², poddasze 336,0 m²; razem 2 275,2 m². Powierzchnia użytkowa budynku po przebudowie: 1 640 m².\n- Kubatura brutto: 9 030 m³.\n- Kondygnacje: 6 nadziemnych (parter, I–IV piętro, poddasze użytkowe) i 1 podziemna (piwnica).\n- Rzędne posadzek: piwnica −2,75 (2,60 m poniżej terenu), parter ±0,00 (0,15 m nad terenem przy wejściu z przejazdu bramowego), kolejne piętra co 3,60 m, poddasze +18,00.\n- Wysokość budynku (§ 6 WT): 21,35 m – budynek średniowysoki (SW)."
+      },
+      {
+        "no": "3",
+        "h": "Charakterystyka zagrożenia pożarowego",
+        "text": "Funkcje: biura (I i II piętro), mieszkania (parter, III i IV piętro, poddasze), komórki lokatorskie (piwnica). Materiały niebezpieczne pożarowo nie występują. Zagrożenie wybuchem nie występuje; w budynku nie ma pomieszczeń zagrożonych wybuchem. Wykończenie dróg ewakuacyjnych: tynki wapienne i cementowo-wapienne, posadzki kamienne i ceramiczne, sufity tynkowane; materiałów łatwo zapalnych na drogach ewakuacyjnych nie ma."
+      },
+      {
+        "no": "4",
+        "h": "Klasyfikacja pożarowa, kategorie zagrożenia ludzi i liczba osób",
+        "text": "I i II piętro – ZL III (biura); pozostałe kondygnacje – ZL IV (mieszkania, komórki lokatorskie).\nPrzewidywana liczba osób: na każdym piętrze biurowym do 30 osób (ograniczenie przyjęte jako rozwiązanie zamienne Z1, pkt 12; rozkład na lokale – rys. 2), w 8 mieszkaniach (po dwa na parterze, III i IV piętrze i na poddaszu) około 6 osób na kondygnacji, łącznie około 24 osoby. W budynku nie ma pomieszczeń przeznaczonych dla ponad 50 osób ani dla osób o ograniczonej zdolności poruszania się."
+      },
+      {
+        "no": "5",
+        "h": "Podział na strefy pożarowe",
+        "text": "Budynek wraz z piwnicą stanowi jedną strefę pożarową ZL III / ZL IV o powierzchni wewnętrznej 2 275,2 m². Dopuszczalna powierzchnia strefy pożarowej ZL obejmującej część podziemną w budynku średniowysokim wynosi 2 500 m² (§ 227 ust. 1 i 2 WT). Ściany szczytowe przylegające do kamienic sąsiednich (mury gr. 0,51 m, bez otworów, R E I 120) są ścianami oddzielenia przeciwpożarowego od budynków sąsiednich. Piwnica jest dostępna wyłącznie z podwórza (zejście zewnętrzne) i nie ma połączenia z klatką K1."
+      },
+      {
+        "no": "6",
+        "h": "Klasa odporności pożarowej i odporność ogniowa elementów",
+        "text": "Dla budynku mieszkalnego średniowysokiego przyjęto klasę „C” odporności pożarowej (§ 212 ust. 2 WT): część biurowa zajmuje tylko dwie kondygnacje, a mury nośne mają zapas odporności ogniowej. Stropy drewniane nad I, II i IV piętrem pozostają bez zmian; jako elementy istniejące nie podlegają wymaganiom § 216 WT. Elementy budynku nierozprzestrzeniające ognia; drewno nowej konstrukcji dachu impregnowane ogniochronnie (klasa reakcji na ogień B-s1, d0).",
+        "table": {
+          "head": [
+            "Element budynku",
+            "Klasa odporności ogniowej"
+          ],
+          "rows": [
+            [
+              "Główna konstrukcja nośna – mury z cegły pełnej gr. 0,40–0,64 m",
+              "R E I 120"
+            ],
+            [
+              "Stropy nad piwnicą i nad parterem (Kleina)",
+              "R E I 60"
+            ],
+            [
+              "Strop nad III piętrem (żelbetowy, 2010 r.)",
+              "R E I 60"
+            ],
+            [
+              "Stropy nad I, II i IV piętrem (drewniane belkowe z polepą, istniejące)",
+              "R E I 30"
+            ],
+            [
+              "Ściany zewnętrzne murowane; pasy międzykondygnacyjne wys. min. 1,40 m",
+              "E I 120 (o↔i)"
+            ],
+            [
+              "Ściany obudowy korytarzy biurowych (nowe, gipsowo-kartonowe)",
+              "E I 15"
+            ],
+            [
+              "Ściany między lokalami biurowymi (murowane z cegły pełnej)",
+              "E I 60"
+            ],
+            [
+              "Ściany oddzielające mieszkania na poddaszu od klatki K1 i od siebie",
+              "E I 60"
+            ],
+            [
+              "Obudowa klatki schodowej K1 (mury nośne gr. 0,40–0,51 m)",
+              "R E I 120"
+            ],
+            [
+              "Biegi i spoczniki klatki K1 (biegi kamienne, spoczniki na belkach stalowych otynkowanych)",
+              "R 60, niepalne"
+            ],
+            [
+              "Konstrukcja dachu (nowa, drewniana)",
+              "R 30"
+            ],
+            [
+              "Przekrycie dachu (deskowanie, dachówka ceramiczna, BROOF(t1))",
+              "R E 30"
+            ],
+            [
+              "Okładziny poddasza od strony konstrukcji i przekrycia dachu (płyty gipsowo-kartonowe ogniochronne)",
+              "E I 30"
+            ],
+            [
+              "Drzwi do klatki K1 z korytarzy biurowych i z lokali 1.1 i 2.1",
+              "E I 30"
+            ],
+            [
+              "Drzwi wejściowe do mieszkań na poddaszu",
+              "E I 30"
+            ],
+            [
+              "Drzwi wejściowe do mieszkań na parterze, III i IV piętrze (istniejące, bez zmian)",
+              "bez klasy odporności ogniowej i dymoszczelności"
+            ]
+          ]
+        }
+      },
+      {
+        "no": "7",
+        "h": "Warunki ewakuacji",
+        "text": "- Ewakuacja ze wszystkich kondygnacji nadziemnych odbywa się istniejącą klatką schodową K1 do przejazdu bramowego, a nim na ul. Fikcyjną albo na podwórze. Drzwi wyjściowe z klatki K1 do przejazdu bramowego otwierają się na zewnątrz klatki.\n- Klatka K1: obudowa z murów nośnych, wymiary w świetle 2,40 × 5,40 m, schody dwubiegowe; szerokość użytkowa biegów 1,10 m, spoczników 1,30 m; w każdym biegu 11 stopni o wysokości 0,164 m i szerokości 0,28 m. Na spocznikach międzypiętrowych okna od strony podwórza.\n- Na piętrach biurowych lokale x.2–x.5 są dostępne z korytarza o szerokości 1,40 m, oświetlonego wyłącznie światłem sztucznym; lokal x.1 – bezpośrednio z klatki K1. Drzwi do lokali mają szerokość 0,90 m i otwierają się do wnętrza lokali; drzwi z korytarza do klatki – 1,00 m, z samozamykaczem.\n- Najdłuższe dojście ewakuacyjne na piętrze biurowym (od drzwi lokalu 2.3 do drzwi klatki K1) wynosi 19,6 m i nie przekracza 20 m na poziomej drodze ewakuacyjnej (ZL III, jedno dojście – § 256 ust. 3 WT). Przejścia ewakuacyjne w lokalach nie przekraczają 13 m i prowadzą przez nie więcej niż dwa pomieszczenia.\n- Mieszkania na poddaszu mają wejścia z górnego spocznika klatki K1.\n- Zabezpieczenie klatki K1 przed zadymieniem – rozwiązanie zamienne Z2 (pkt 12).\n- Awaryjne oświetlenie ewakuacyjne na korytarzach biurowych, czas działania 1 h. Drogi i wyjścia ewakuacyjne części biurowej oznakowane znakami zgodnymi z Polskimi Normami. Instrukcja bezpieczeństwa pożarowego budynku zostanie opracowana przed rozpoczęciem użytkowania części biurowej."
+      },
+      {
+        "no": "8",
+        "h": "Urządzenia przeciwpożarowe, instalacje i gaśnice",
+        "text": "- Hydranty 25 z wężem półsztywnym o długości 30 m na każdej kondygnacji: w piwnicy przy zejściu z podwórza, na parterze i na kondygnacjach mieszkalnych na spocznikach klatki K1, na piętrach biurowych na korytarzu; szafki wnękowe; zasięg hydrantów (wąż 30 m i prąd rozproszony 3 m) obejmuje całą powierzchnię każdej kondygnacji. Wydajność 1,0 dm³/s, ciśnienie na zaworze odcinającym nie mniejsze niż 0,2 MPa, jednoczesny pobór wody z dwóch sąsiednich hydrantów; zasilanie bezpośrednio z miejskiej sieci wodociągowej, bez zestawu pompowego (według warunków gestora ciśnienie w sieci zapewnia co najmniej 0,2 MPa na zaworze najwyżej położonego hydrantu), pion stalowy ocynkowany w klatce K1.\n- Systemu sygnalizacji pożarowej i dźwiękowego systemu ostrzegawczego nie przewiduje się (§ 28 ust. 1 i § 29 ust. 1 rozp. MSWiA z 7.06.2010 – budynek nie jest wysoki).\n- Przeciwpożarowy wyłącznik prądu w przejeździe bramowym przy wejściu do klatki K1, obok złącza kablowego, oznakowany.\n- Autonomicznych czujek dymu nie przewiduje się w żadnym mieszkaniu: obowiązek z § 28a rozp. MSWiA z 7.06.2010 dotyczy lokali mieszkalnych od 1.01.2030 r.\n- Gaśnice proszkowe ABC 4 kg: po dwie na każdej kondygnacji (14 szt., 56 kg): przy klatce K1 i na korytarzach biurowych, a w piwnicy przy zejściu z podwórza; w płytkich wnękach ścian, tak aby nie zawężały dróg ewakuacyjnych; odległość dojścia do gaśnicy nie przekracza 30 m.\n- Instalacja odgromowa zgodna z Polską Normą. Dźwigu w budynku nie ma; dźwig dla ekip ratowniczych nie jest wymagany (posadzka najwyższej kondygnacji na +18,00)."
+      },
+      {
+        "no": "9",
+        "h": "Przygotowanie do działań ratowniczych",
+        "text": "- Droga pożarowa: ul. Fikcyjna – droga publiczna, jezdnia szerokości 7,0 m, nawierzchnia bitumiczna o nośności dla nacisku osi 100 kN, spadek podłużny 1%, przejazd bez cofania. Biegnie wzdłuż elewacji frontowej na całej jej długości; bliższa krawędź jezdni jest oddalona od ściany o 5,50 m. Między jezdnią a elewacją są tylko chodnik (3,00 m) i trawnik (2,50 m); stałych elementów zagospodarowania ani drzew wyższych niż 3 m nie ma. Wymagania § 12 ust. 2 i ust. 3 pkt 3 rozp. MSWiA z 24.07.2009 (dostęp do 100% elewacji frontowej w zabudowie pierzejowej) są spełnione.\n- Podwórze nie jest dostępne dla pojazdów pożarniczych: przejazd bramowy ma szerokość 3,20 m i wysokość 3,60 m.\n- Dojście od wyjścia z klatki K1 do jezdni: przejazdem bramowym, chodnikiem i utwardzonym przejściem przez trawnik, długość około 21 m, szerokość co najmniej 1,5 m.\n- Woda do zewnętrznego gaszenia pożaru: wymagane 20 dm³/s z co najmniej dwóch hydrantów DN 80 (§ 5 ust. 1 pkt 2 rozp. MSWiA z 24.07.2009 – kubatura ponad 5 000 m³). Zapewniają je hydranty nadziemne DN 80 na miejskiej sieci obwodowej DN 150: HZ1 na chodniku przed budynkiem i HZ2 w odległości około 36,5 m od budynku. Gestor sieci potwierdził wydajność 2 × 10 dm³/s przy jednoczesnym poborze z dwóch sąsiednich hydrantów i ciśnieniu 0,2 MPa."
+      },
+      {
+        "no": "10",
+        "h": "Usytuowanie z uwagi na bezpieczeństwo pożarowe",
+        "text": "Budynek przylega ścianami szczytowymi (oddzielenia przeciwpożarowego, bez otworów) do kamienic sąsiednich na działkach nr 58/1 i 58/3. Odległość elewacji podwórzowej od najbliższego budynku (na działce tylnej) wynosi 25,0 m, a elewacji frontowej od pierzei po drugiej stronie ulicy – 17,0 m. Ściany zewnętrzne murowane, otwory okienne zajmują nie więcej niż 25% ich powierzchni; przekrycie dachu nierozprzestrzeniające ognia. Budynki po drugiej stronie ulicy i na działce tylnej mają ściany zewnętrzne murowane, nierozprzestrzeniające ognia, z otworami zajmującymi nie więcej niż 30% ich powierzchni, i przekrycia dachów nierozprzestrzeniające ognia. Kamienice sąsiednie mają przy ścianach szczytowych murowane pasy ścian zewnętrznych bez otworów o szerokości co najmniej 2,0 m."
+      },
+      {
+        "no": "11",
+        "h": "Poddasze i konstrukcja dachu",
+        "text": "Nowa konstrukcja dachu drewniana (więźba z drewna litego impregnowanego ogniochronnie), przekrycie z deskowaniem i dachówką ceramiczną. Mieszkania na poddaszu oddzielono od konstrukcji i przekrycia dachu okładzinami z płyt gipsowo-kartonowych ogniochronnych w układzie E I 30, spełniającymi § 219 ust. 2 WT. Przestrzeń nad jętkami jest niedostępna z klatki K1 (rewizje z mieszkań). Klatka K1 kończy się na poziomie poddasza, nad nią jest dach."
+      },
+      {
+        "no": "12",
+        "h": "Rozwiązania zamienne",
+        "text": "Część istniejących rozwiązań nie spełnia warunków technicznych i nie może być zmieniona bez przebudowy konstrukcji. Na podstawie § 2 ust. 3a WT przyjęto:\n- Z1. Szerokość biegów 1,10 m i spoczników 1,30 m w klatce K1 (wymagane 1,20 m i 1,50 m – § 68 ust. 1 WT): ograniczenie liczby osób na każdym piętrze biurowym do 30 (zapis w instrukcji bezpieczeństwa pożarowego) oraz zabezpieczenie klatki przed zadymieniem według Z2.\n- Z2. Zabezpieczenie klatki K1 przed zadymieniem (§ 245 pkt 2 WT): okna na pięciu spocznikach międzypiętrowych, każde o powierzchni czynnej 0,9 m², otwierane ręcznie, oraz drzwi E I 30 z samozamykaczami z korytarzy biurowych i z lokali 1.1 i 2.1 do klatki. Systemu wykrywania dymu nie przewiduje się, ponieważ dla budynku nie jest wymagany system sygnalizacji pożarowej.\nBudynek w stanie istniejącym nie spełnia żadnej z przesłanek uznania go za zagrażający życiu ludzi (§ 16 ust. 2 rozp. MSWiA z 7.06.2010), więc rozwiązania Z1 i Z2 zapewniają niepogorszenie warunków ewakuacji. Rozwiązania zamienne uzasadnia niniejszy opis; rzeczoznawca do spraw zabezpieczeń przeciwpożarowych uzgodni je łącznie z projektem. Jeżeli organ administracji architektoniczno-budowlanej uzna to za konieczne, wystąpi do ministra o upoważnienie do udzielenia zgody na odstępstwo (art. 9 ust. 2 Prawa budowlanego)."
+      }
+    ]
+  },
+  "drawings": [
+    {
+      "id": "R1",
+      "title": "Plan zagospodarowania działki",
+      "scale": "1:500",
+      "kind": "pzt",
+      "size": [
+        100,
+        72
+      ],
+      "pad": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "font": 1.15,
+      "north": [
+        5,
+        6
+      ],
+      "note": "Wymiary w metrach. HZ1–HZ3: hydranty nadziemne DN 80 na miejskiej sieci wodociągowej obwodowej DN 150 w ul. Fikcyjnej. Pas zieleni między chodnikiem a jezdnią należy do pasa drogowego ul. Fikcyjnej. Korony lip nad jezdnią zaczynają się na wysokości ok. 5 m.",
+      "items": [
+        {
+          "t": "poly",
+          "k": "plot",
+          "pts": [
+            [
+              40,
+              10
+            ],
+            [
+              69,
+              10
+            ],
+            [
+              69,
+              48
+            ],
+            [
+              40,
+              48
+            ]
+          ]
+        },
+        {
+          "t": "rect",
+          "k": "neighbor",
+          "rect": [
+            40,
+            1,
+            29,
+            9
+          ],
+          "label": "budynek na działce tylnej (istniejący)",
+          "size": 0.85
+        },
+        {
+          "t": "rect",
+          "k": "neighbor",
+          "rect": [
+            12,
+            35,
+            28,
+            13
+          ],
+          "label": "kamienica sąsiednia\n5 kond. + poddasze",
+          "size": 0.85
+        },
+        {
+          "t": "rect",
+          "k": "neighbor",
+          "rect": [
+            69,
+            35,
+            27,
+            13
+          ],
+          "label": "kamienica sąsiednia\n5 kond. + poddasze",
+          "size": 0.85
+        },
+        {
+          "t": "rect",
+          "k": "building",
+          "rect": [
+            40,
+            35,
+            29,
+            13
+          ],
+          "label": "KAMIENICA (przebudowa)\n6 kond. nadziemnych, wys. 21,35 m",
+          "lo": [
+            1.2,
+            0.6
+          ],
+          "size": 0.85
+        },
+        {
+          "t": "rect",
+          "k": "paved",
+          "rect": [
+            40.5,
+            35,
+            3.2,
+            13
+          ]
+        },
+        {
+          "t": "rect",
+          "k": "paved",
+          "rect": [
+            0,
+            48,
+            100,
+            3
+          ]
+        },
+        {
+          "t": "rect",
+          "k": "green",
+          "rect": [
+            0,
+            51,
+            100,
+            2.5
+          ]
+        },
+        {
+          "t": "rect",
+          "k": "paved",
+          "rect": [
+            47.2,
+            51,
+            1.6,
+            2.5
+          ]
+        },
+        {
+          "t": "rect",
+          "k": "road",
+          "rect": [
+            0,
+            53.5,
+            100,
+            7
+          ],
+          "label": "ul. Fikcyjna – droga publiczna, jezdnia 7,0 m",
+          "lo": [
+            -31,
+            0.3
+          ]
+        },
+        {
+          "t": "rect",
+          "k": "green",
+          "rect": [
+            0,
+            60.5,
+            100,
+            1.5
+          ]
+        },
+        {
+          "t": "rect",
+          "k": "paved",
+          "rect": [
+            0,
+            62,
+            100,
+            3
+          ]
+        },
+        {
+          "t": "rect",
+          "k": "neighbor",
+          "rect": [
+            0,
+            65,
+            100,
+            6
+          ],
+          "label": "zabudowa pierzejowa po drugiej stronie ulicy",
+          "size": 0.85
+        },
+        {
+          "t": "sym",
+          "k": "TREE",
+          "at": [
+            12,
+            52.25
+          ],
+          "r": 3.25
+        },
+        {
+          "t": "sym",
+          "k": "TREE",
+          "at": [
+            20,
+            52.25
+          ],
+          "r": 3.25
+        },
+        {
+          "t": "sym",
+          "k": "TREE",
+          "at": [
+            28,
+            52.25
+          ],
+          "r": 3.25
+        },
+        {
+          "t": "sym",
+          "k": "TREE",
+          "at": [
+            36,
+            52.25
+          ],
+          "r": 3.25
+        },
+        {
+          "t": "sym",
+          "k": "TREE",
+          "at": [
+            44,
+            52.25
+          ],
+          "r": 3.25
+        },
+        {
+          "t": "sym",
+          "k": "TREE",
+          "at": [
+            52,
+            52.25
+          ],
+          "r": 3.25
+        },
+        {
+          "t": "sym",
+          "k": "TREE",
+          "at": [
+            60,
+            52.25
+          ],
+          "r": 3.25
+        },
+        {
+          "t": "sym",
+          "k": "TREE",
+          "at": [
+            68,
+            52.25
+          ],
+          "r": 3.25
+        },
+        {
+          "t": "sym",
+          "k": "TREE",
+          "at": [
+            84,
+            52.25
+          ],
+          "r": 3.25
+        },
+        {
+          "t": "sym",
+          "k": "TREE",
+          "at": [
+            92,
+            52.25
+          ],
+          "r": 3.25
+        },
+        {
+          "t": "leader",
+          "a": [
+            37,
+            64.2
+          ],
+          "b": [
+            36.4,
+            55.5
+          ],
+          "text": "lipy, wys. ok. 14 m, korony ok. 6,5 m",
+          "anchor": "start",
+          "lo": [
+            0.4,
+            0.2
+          ]
+        },
+        {
+          "t": "sym",
+          "k": "HZ",
+          "at": [
+            56.0,
+            49.5
+          ],
+          "label": " "
+        },
+        {
+          "t": "leader",
+          "a": [
+            62,
+            58.2
+          ],
+          "b": [
+            56.7,
+            50.4
+          ],
+          "text": "HZ1",
+          "anchor": "start",
+          "k": "fire",
+          "lo": [
+            0.3,
+            0.2
+          ]
+        },
+        {
+          "t": "sym",
+          "k": "HZ",
+          "at": [
+            6,
+            61.25
+          ],
+          "label": "HZ2",
+          "lo": [
+            2.8,
+            0.45
+          ]
+        },
+        {
+          "t": "sym",
+          "k": "HZ",
+          "at": [
+            96,
+            61.25
+          ],
+          "label": "HZ3",
+          "lo": [
+            -2.9,
+            0.45
+          ]
+        },
+        {
+          "t": "leader",
+          "a": [
+            47,
+            31.2
+          ],
+          "b": [
+            42.3,
+            38.5
+          ],
+          "text": "przejazd bramowy\nszer. 3,20 m, wys. 3,60 m",
+          "anchor": "start",
+          "lo": [
+            0.4,
+            -0.2
+          ]
+        },
+        {
+          "t": "leader",
+          "a": [
+            47,
+            27.6
+          ],
+          "b": [
+            43.9,
+            40.2
+          ],
+          "text": "wyjście z klatki K1 do przejazdu",
+          "anchor": "start",
+          "lo": [
+            0.4,
+            -0.2
+          ]
+        },
+        {
+          "t": "text",
+          "at": [
+            53,
+            17.5
+          ],
+          "text": "dz. nr 58/2 – podwórze\n(bez dojazdu dla pojazdów)"
+        },
+        {
+          "t": "text",
+          "at": [
+            26,
+            26
+          ],
+          "text": "dz. nr 58/1"
+        },
+        {
+          "t": "text",
+          "at": [
+            82.5,
+            26
+          ],
+          "text": "dz. nr 58/3"
+        },
+        {
+          "t": "dim",
+          "a": [
+            40,
+            37
+          ],
+          "b": [
+            69,
+            37
+          ],
+          "text": "29,00"
+        },
+        {
+          "t": "dim",
+          "a": [
+            67.5,
+            35
+          ],
+          "b": [
+            67.5,
+            48
+          ],
+          "text": "13,00"
+        },
+        {
+          "t": "dim",
+          "a": [
+            66,
+            10
+          ],
+          "b": [
+            66,
+            35
+          ],
+          "text": "25,00"
+        },
+        {
+          "t": "dim",
+          "a": [
+            72.5,
+            48
+          ],
+          "b": [
+            72.5,
+            51
+          ],
+          "text": "3,00"
+        },
+        {
+          "t": "dim",
+          "a": [
+            72.5,
+            51
+          ],
+          "b": [
+            72.5,
+            53.5
+          ],
+          "text": "2,50",
+          "tlo": [
+            1.45,
+            0
+          ]
+        },
+        {
+          "t": "dim",
+          "a": [
+            72.5,
+            53.5
+          ],
+          "b": [
+            72.5,
+            60.5
+          ],
+          "text": "7,00"
+        },
+        {
+          "t": "dim",
+          "a": [
+            76.3,
+            48
+          ],
+          "b": [
+            76.3,
+            53.5
+          ],
+          "text": "5,50",
+          "tlo": [
+            1.05,
+            0
+          ]
+        },
+        {
+          "t": "dim",
+          "a": [
+            54.4,
+            48
+          ],
+          "b": [
+            54.4,
+            49.5
+          ],
+          "text": "1,50"
+        },
+        {
+          "t": "dim",
+          "a": [
+            2.5,
+            48
+          ],
+          "b": [
+            2.5,
+            65
+          ],
+          "text": "17,00"
+        }
+      ]
+    },
+    {
+      "id": "R2",
+      "title": "Rzut II piętra (+7,20) – kondygnacja biurowa",
+      "scale": "1:100",
+      "kind": "rzut",
+      "size": [
+        29,
+        13
+      ],
+      "pad": [
+        2.6,
+        2.8,
+        1.5,
+        2.8
+      ],
+      "font": 0.42,
+      "note": "Wymiary w metrach. I piętro (+3,60) ma ten sam układ (lokale 1.1–1.5). Liczba osób według projektanta: 30 na kondygnacji. Ściany szczytowe – oddzielenia przeciwpożarowego od kamienic sąsiednich.",
+      "items": [
+        {
+          "t": "wall",
+          "k": "ext",
+          "w": 0.5,
+          "pts": [
+            [
+              0,
+              0.25
+            ],
+            [
+              29,
+              0.25
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "k": "ext",
+          "w": 0.5,
+          "pts": [
+            [
+              0,
+              12.75
+            ],
+            [
+              29,
+              12.75
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "k": "fire",
+          "w": 0.5,
+          "pts": [
+            [
+              0.25,
+              0
+            ],
+            [
+              0.25,
+              13
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "k": "fire",
+          "w": 0.5,
+          "pts": [
+            [
+              28.75,
+              0
+            ],
+            [
+              28.75,
+              13
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "w": 0.4,
+          "pts": [
+            [
+              0.5,
+              6.1
+            ],
+            [
+              28.5,
+              6.1
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "w": 0.4,
+          "pts": [
+            [
+              3.9,
+              0.5
+            ],
+            [
+              3.9,
+              5.9
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "w": 0.4,
+          "pts": [
+            [
+              6.7,
+              0.5
+            ],
+            [
+              6.7,
+              5.9
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              6.9,
+              4.4
+            ],
+            [
+              28.5,
+              4.4
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              13.6,
+              0.5
+            ],
+            [
+              13.6,
+              4.3
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              16.3,
+              0.5
+            ],
+            [
+              16.3,
+              4.3
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              9.4,
+              6.3
+            ],
+            [
+              9.4,
+              12.5
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "pts": [
+            [
+              19.1,
+              6.3
+            ],
+            [
+              19.1,
+              12.5
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "w": 0.3,
+          "pts": [
+            [
+              17.6,
+              5.75
+            ],
+            [
+              18.6,
+              5.75
+            ]
+          ]
+        },
+        {
+          "t": "window",
+          "at": [
+            2.1,
+            0.25
+          ],
+          "w": 1.2,
+          "th": 0.5
+        },
+        {
+          "t": "window",
+          "at": [
+            5.3,
+            0.25
+          ],
+          "w": 1.2,
+          "th": 0.5
+        },
+        {
+          "t": "window",
+          "at": [
+            8.7,
+            0.25
+          ],
+          "w": 1.3,
+          "th": 0.5
+        },
+        {
+          "t": "window",
+          "at": [
+            11.7,
+            0.25
+          ],
+          "w": 1.3,
+          "th": 0.5
+        },
+        {
+          "t": "window",
+          "at": [
+            14.9,
+            0.25
+          ],
+          "w": 0.8,
+          "th": 0.5
+        },
+        {
+          "t": "window",
+          "at": [
+            18.6,
+            0.25
+          ],
+          "w": 1.3,
+          "th": 0.5
+        },
+        {
+          "t": "window",
+          "at": [
+            22.4,
+            0.25
+          ],
+          "w": 1.3,
+          "th": 0.5
+        },
+        {
+          "t": "window",
+          "at": [
+            26.2,
+            0.25
+          ],
+          "w": 1.3,
+          "th": 0.5
+        },
+        {
+          "t": "window",
+          "at": [
+            2.3,
+            12.75
+          ],
+          "w": 1.3,
+          "th": 0.5
+        },
+        {
+          "t": "window",
+          "at": [
+            5.3,
+            12.75
+          ],
+          "w": 1.3,
+          "th": 0.5
+        },
+        {
+          "t": "window",
+          "at": [
+            8.0,
+            12.75
+          ],
+          "w": 1.3,
+          "th": 0.5
+        },
+        {
+          "t": "window",
+          "at": [
+            11.3,
+            12.75
+          ],
+          "w": 1.3,
+          "th": 0.5
+        },
+        {
+          "t": "window",
+          "at": [
+            14.3,
+            12.75
+          ],
+          "w": 1.3,
+          "th": 0.5
+        },
+        {
+          "t": "window",
+          "at": [
+            17.3,
+            12.75
+          ],
+          "w": 1.3,
+          "th": 0.5
+        },
+        {
+          "t": "window",
+          "at": [
+            21.0,
+            12.75
+          ],
+          "w": 1.3,
+          "th": 0.5
+        },
+        {
+          "t": "window",
+          "at": [
+            24.0,
+            12.75
+          ],
+          "w": 1.3,
+          "th": 0.5
+        },
+        {
+          "t": "window",
+          "at": [
+            27.0,
+            12.75
+          ],
+          "w": 1.3,
+          "th": 0.5
+        },
+        {
+          "t": "door",
+          "at": [
+            6.7,
+            5.2
+          ],
+          "w": 1.0,
+          "dir": "v",
+          "open": "e",
+          "cls": "EI 30",
+          "th": 0.4,
+          "lo": [
+            -0.75,
+            0.25
+          ]
+        },
+        {
+          "t": "door",
+          "at": [
+            3.9,
+            5.2
+          ],
+          "w": 0.9,
+          "dir": "v",
+          "open": "w",
+          "cls": "EI 30",
+          "th": 0.4,
+          "lo": [
+            0.75,
+            0.25
+          ]
+        },
+        {
+          "t": "door",
+          "at": [
+            2.1,
+            6.1
+          ],
+          "w": 0.9,
+          "open": "s",
+          "th": 0.4
+        },
+        {
+          "t": "door",
+          "at": [
+            8.2,
+            4.4
+          ],
+          "w": 0.9,
+          "open": "n"
+        },
+        {
+          "t": "door",
+          "at": [
+            15.6,
+            4.4
+          ],
+          "w": 0.9,
+          "open": "n"
+        },
+        {
+          "t": "door",
+          "at": [
+            27.8,
+            4.4
+          ],
+          "w": 0.9,
+          "open": "n"
+        },
+        {
+          "t": "door",
+          "at": [
+            10.6,
+            6.1
+          ],
+          "w": 0.9,
+          "open": "s",
+          "th": 0.4
+        },
+        {
+          "t": "door",
+          "at": [
+            25.4,
+            6.1
+          ],
+          "w": 0.9,
+          "open": "s",
+          "th": 0.4
+        },
+        {
+          "t": "room",
+          "rect": [
+            4.1,
+            0.5,
+            2.4,
+            5.4
+          ],
+          "no": "K1",
+          "flat": true,
+          "lo": [
+            0,
+            -2.2
+          ]
+        },
+        {
+          "t": "stair",
+          "rect": [
+            4.1,
+            1.8,
+            2.4,
+            2.8
+          ],
+          "n": 10,
+          "axis": "y"
+        },
+        {
+          "t": "room",
+          "rect": [
+            0.5,
+            0.5,
+            3.2,
+            5.4
+          ],
+          "no": "2.1",
+          "name": "Biuro",
+          "area": 17.3,
+          "lo": [
+            0,
+            -0.4
+          ]
+        },
+        {
+          "t": "room",
+          "rect": [
+            0.5,
+            6.3,
+            8.8,
+            6.2
+          ],
+          "no": "2.1",
+          "name": "Biuro",
+          "area": 54.6,
+          "note": "lokal 2.1: 8 os."
+        },
+        {
+          "t": "room",
+          "rect": [
+            9.5,
+            6.3,
+            9.5,
+            6.2
+          ],
+          "no": "2.2",
+          "name": "Biuro",
+          "area": 58.9,
+          "note": "6 os."
+        },
+        {
+          "t": "room",
+          "rect": [
+            19.2,
+            6.3,
+            9.3,
+            6.2
+          ],
+          "no": "2.3",
+          "name": "Biuro",
+          "area": 57.7,
+          "note": "6 os."
+        },
+        {
+          "t": "room",
+          "rect": [
+            6.9,
+            0.5,
+            6.6,
+            3.8
+          ],
+          "no": "2.4",
+          "name": "Biuro",
+          "area": 25.1,
+          "note": "3 os."
+        },
+        {
+          "t": "room",
+          "rect": [
+            13.7,
+            0.5,
+            2.5,
+            3.8
+          ],
+          "no": "2.6",
+          "name": "WC",
+          "area": 9.5,
+          "flat": true
+        },
+        {
+          "t": "room",
+          "rect": [
+            16.4,
+            0.5,
+            12.1,
+            3.8
+          ],
+          "no": "2.5",
+          "name": "Biuro",
+          "area": 46.0,
+          "note": "7 os."
+        },
+        {
+          "t": "room",
+          "rect": [
+            6.9,
+            4.5,
+            21.6,
+            1.4
+          ],
+          "no": "2.0",
+          "name": "Korytarz – bez okien",
+          "size": 0.85,
+          "lo": [
+            4.6,
+            -0.42
+          ]
+        },
+        {
+          "t": "sym",
+          "k": "H25",
+          "at": [
+            12.6,
+            5.62
+          ],
+          "label": " "
+        },
+        {
+          "t": "sym",
+          "k": "G",
+          "at": [
+            9.4,
+            4.78
+          ]
+        },
+        {
+          "t": "sym",
+          "k": "G",
+          "at": [
+            24.0,
+            5.62
+          ]
+        },
+        {
+          "t": "path",
+          "pts": [
+            [
+              25.4,
+              6.1
+            ],
+            [
+              25.4,
+              5.2
+            ],
+            [
+              6.7,
+              5.2
+            ]
+          ],
+          "label": "dojście 19,6 m",
+          "lo": [
+            -4.0,
+            -0.3
+          ]
+        },
+        {
+          "t": "leader",
+          "a": [
+            8.6,
+            -0.5
+          ],
+          "b": [
+            5.7,
+            1.25
+          ],
+          "text": "K1: biegi 1,10 m, spoczniki 1,30 m",
+          "anchor": "start"
+        },
+        {
+          "t": "leader",
+          "a": [
+            21.0,
+            7.45
+          ],
+          "b": [
+            18.3,
+            5.95
+          ],
+          "text": "pilaster – kanały wentylacyjne (czynne)",
+          "anchor": "start",
+          "lo": [
+            0.1,
+            0.1
+          ]
+        },
+        {
+          "t": "dim",
+          "a": [
+            0,
+            0
+          ],
+          "b": [
+            29,
+            0
+          ],
+          "off": -1.5,
+          "text": "29,00"
+        },
+        {
+          "t": "dim",
+          "a": [
+            0,
+            0
+          ],
+          "b": [
+            0,
+            13
+          ],
+          "off": 1.5,
+          "text": "13,00"
+        },
+        {
+          "t": "dim",
+          "a": [
+            14.2,
+            4.5
+          ],
+          "b": [
+            14.2,
+            5.9
+          ],
+          "text": "1,40"
+        },
+        {
+          "t": "dim",
+          "a": [
+            18.1,
+            4.5
+          ],
+          "b": [
+            18.1,
+            5.6
+          ],
+          "text": "1,10"
+        },
+        {
+          "t": "dim",
+          "a": [
+            27.8,
+            3.15
+          ],
+          "b": [
+            28.5,
+            3.15
+          ],
+          "text": "0,70"
+        },
+        {
+          "t": "dim",
+          "a": [
+            6.9,
+            13
+          ],
+          "b": [
+            28.5,
+            13
+          ],
+          "off": 1.3,
+          "text": "21,60 (długość korytarza)"
+        }
+      ]
+    },
+    {
+      "id": "R3",
+      "title": "Rzut parteru (±0,00) – fragment",
+      "scale": "1:100",
+      "kind": "rzut",
+      "size": [
+        12,
+        13
+      ],
+      "pad": [
+        2.6,
+        2.0,
+        1.2,
+        2.2
+      ],
+      "font": 0.42,
+      "note": "Wymiary w metrach. Przejazd bramowy otwarty od strony ulicy i podwórza, bez wrót. Piwnica dostępna wyłącznie z podwórza, bez połączenia z klatką K1.",
+      "items": [
+        {
+          "t": "wall",
+          "k": "fire",
+          "w": 0.5,
+          "pts": [
+            [
+              0.25,
+              0
+            ],
+            [
+              0.25,
+              13
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "w": 0.4,
+          "pts": [
+            [
+              3.9,
+              0
+            ],
+            [
+              3.9,
+              13
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "k": "ext",
+          "w": 0.5,
+          "pts": [
+            [
+              3.7,
+              0.25
+            ],
+            [
+              12,
+              0.25
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "k": "ext",
+          "w": 0.5,
+          "pts": [
+            [
+              3.7,
+              12.75
+            ],
+            [
+              12,
+              12.75
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "w": 0.4,
+          "pts": [
+            [
+              4.1,
+              6.1
+            ],
+            [
+              12,
+              6.1
+            ]
+          ]
+        },
+        {
+          "t": "wall",
+          "w": 0.4,
+          "pts": [
+            [
+              6.7,
+              0.5
+            ],
+            [
+              6.7,
+              5.9
+            ]
+          ]
+        },
+        {
+          "t": "line",
+          "a": [
+            12,
+            -0.4
+          ],
+          "b": [
+            12,
+            13.4
+          ],
+          "k": "thin"
+        },
+        {
+          "t": "window",
+          "at": [
+            5.3,
+            0.25
+          ],
+          "w": 1.2,
+          "th": 0.5
+        },
+        {
+          "t": "window",
+          "at": [
+            9.4,
+            0.25
+          ],
+          "w": 1.3,
+          "th": 0.5
+        },
+        {
+          "t": "window",
+          "at": [
+            8.2,
+            12.75
+          ],
+          "w": 1.3,
+          "th": 0.5
+        },
+        {
+          "t": "window",
+          "at": [
+            11.2,
+            12.75
+          ],
+          "w": 1.3,
+          "th": 0.5
+        },
+        {
+          "t": "door",
+          "at": [
+            3.9,
+            5.2
+          ],
+          "w": 0.9,
+          "dir": "v",
+          "open": "w",
+          "th": 0.4,
+          "label": "0,90",
+          "lo": [
+            -0.75,
+            0.8
+          ]
+        },
+        {
+          "t": "door",
+          "at": [
+            6.7,
+            5.2
+          ],
+          "w": 0.9,
+          "dir": "v",
+          "open": "e",
+          "th": 0.4
+        },
+        {
+          "t": "room",
+          "rect": [
+            0.5,
+            0,
+            3.2,
+            13
+          ],
+          "name": "Przejazd bramowy",
+          "note": "szer. 3,20 m, wys. 3,60 m",
+          "lo": [
+            0.55,
+            2.9
+          ]
+        },
+        {
+          "t": "room",
+          "rect": [
+            4.1,
+            0.5,
+            2.4,
+            5.4
+          ],
+          "no": "K1",
+          "flat": true,
+          "lo": [
+            0,
+            -2.2
+          ]
+        },
+        {
+          "t": "stair",
+          "rect": [
+            4.1,
+            1.8,
+            2.4,
+            2.8
+          ],
+          "n": 10,
+          "axis": "y"
+        },
+        {
+          "t": "room",
+          "rect": [
+            6.9,
+            0.5,
+            5.1,
+            5.4
+          ],
+          "no": "M0.1",
+          "name": "Mieszkanie",
+          "note": "bez zmian"
+        },
+        {
+          "t": "room",
+          "rect": [
+            4.1,
+            6.3,
+            7.9,
+            6.2
+          ],
+          "no": "M0.1",
+          "name": "Mieszkanie",
+          "note": "bez zmian"
+        },
+        {
+          "t": "sym",
+          "k": "PWP",
+          "at": [
+            3.0,
+            2.2
+          ],
+          "label": "przy złączu",
+          "lo": [
+            -0.75,
+            1.05
+          ]
+        },
+        {
+          "t": "sym",
+          "k": "H25",
+          "at": [
+            5.05,
+            5.62
+          ],
+          "label": " "
+        },
+        {
+          "t": "sym",
+          "k": "G",
+          "at": [
+            6.0,
+            5.62
+          ]
+        },
+        {
+          "t": "path",
+          "pts": [
+            [
+              5.0,
+              5.2
+            ],
+            [
+              1.3,
+              5.2
+            ],
+            [
+              1.3,
+              13.0
+            ]
+          ]
+        },
+        {
+          "t": "text",
+          "at": [
+            6.0,
+            14.3
+          ],
+          "text": "ul. Fikcyjna"
+        },
+        {
+          "t": "text",
+          "at": [
+            6.0,
+            -0.85
+          ],
+          "text": "podwórze"
+        },
+        {
+          "t": "dim",
+          "a": [
+            0.5,
+            12.3
+          ],
+          "b": [
+            3.7,
+            12.3
+          ],
+          "text": "3,20"
+        },
+        {
+          "t": "dim",
+          "a": [
+            0,
+            0
+          ],
+          "b": [
+            0,
+            13
+          ],
+          "off": 1.5,
+          "text": "13,00"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "kind": "ocena",
+      "q": "Proszę zakwalifikować budynek po zmianie sposobu użytkowania: grupa wysokości, kategorie zagrożenia ludzi, strefa pożarowa, klasa odporności pożarowej. Czy jedna strefa obejmująca biura, mieszkania i piwnicę jest dopuszczalna?",
+      "points": [
+        {
+          "t": "Wysokość 21,35 m i 6 kondygnacji nadziemnych: budynek średniowysoki według obu kryteriów (ponad 12 m do 25 m; mieszkalny ponad 4 do 9 kondygnacji).",
+          "basis": "§ 8 pkt 2 WT; § 6 WT"
+        },
+        {
+          "t": "Piwnica (ZL IV) nie jest oddzielona elementami R E I 120, więc do ustalenia klasy odporności pożarowej liczy się wysokość łącznie z częścią podziemną: 21,35 + 2,60 = 23,95 m – nadal nie więcej niż 25 m, czyli jak dla budynku średniowysokiego.",
+          "basis": "§ 212 ust. 5 WT; § 8 pkt 2 WT"
+        },
+        {
+          "t": "Biura – ZL III, mieszkania i komórki lokatorskie – ZL IV. Strefa zaliczona do dwóch kategorii ma spełniać wymagania każdej z nich.",
+          "basis": "§ 209 ust. 2 pkt 3 i 4 WT; § 209 ust. 5 WT"
+        },
+        {
+          "t": "Jedna strefa jest dopuszczalna: przepisy nie nakazują oddzielać biur od mieszkań. Limit dla strefy ZL w budynku średniowysokim to 5 000 m², z częścią podziemną 50%, czyli 2 500 m² – 2 275,2 m² się mieści. Z piwnicy wychodzi się bezpośrednio na zewnątrz, więc ograniczenie do 50% w ogóle nie obowiązuje.",
+          "basis": "§ 227 ust. 1, 2 i 3 WT"
+        },
+        {
+          "t": "Klasę ustala się dla kondygnacji odrębnie: I i II piętro (ZL III, SW) – „B”, kondygnacje mieszkalne (ZL IV, SW) – „C”. Parter i piwnica leżą pod piętrami biurowymi, więc też „B”. Projektant przyjął „C” dla całości.",
+          "basis": "§ 212 ust. 2, 6 i 7 WT"
+        },
+        {
+          "t": "Skutki klasy „B”: ściany wewnętrzne i obudowa korytarzy E I 30 (nie E I 15); stropy R E I 60 – to samo wymaganie obowiązuje w klasie „C”. Mury R E I 120 i ściany zewnętrzne murowane spełniają wymagania. Przyjęcie klasy „B” dla całego budynku (jedna strefa ZL III / ZL IV) nie zmieniłoby wymagań dla elementów kondygnacji mieszkalnych opisanych w projekcie.",
+          "basis": "§ 216 ust. 1 WT; § 241 ust. 1 WT; § 209 ust. 5 WT"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "kind": "zamienne",
+      "q": "Klatka K1 jest jedyną drogą ewakuacyjną. Jakie wymagania jej dotyczą po zmianie sposobu użytkowania, które z nich da się spełnić wprost, a które wymagają rozwiązań zamiennych? Czy rozwiązania Z1 i Z2 projektanta są wystarczające?",
+      "points": [
+        {
+          "t": "Warunki techniczne stosuje się przy zmianie sposobu użytkowania, także do części budynku o nowym przeznaczeniu; klatka K1 stała się drogą ewakuacyjną ze strefy ZL III.",
+          "basis": "§ 2 ust. 1 i 5 WT"
+        },
+        {
+          "t": "W budynku średniowysokim klatka ze strefy ZL III ma być obudowana, zamykana drzwiami dymoszczelnymi i wyposażona w urządzenia zapobiegające zadymieniu lub oddymiające, uruchamiane samoczynnie przez system wykrywania dymu. Da się to wykonać wprost: dach nad klatką jest przebudowywany (klapa dymowa, napowietrzanie przez drzwi wyjściowe, czujki dymu, drzwi E I 30 dymoszczelne do lokali i mieszkań).",
+          "basis": "§ 245 pkt 2 WT; § 270 ust. 1 WT"
+        },
+        {
+          "t": "Z2 jest niewystarczające: ręcznie otwierane okna bez wykrywania dymu, drzwi bez dymoszczelności, drzwi mieszkań bez klasy. Nie wykazano ograniczenia rozprzestrzeniania dymu ani zapewnienia ewakuacji. Brak obowiązku SSP z § 28 nie zwalnia z systemu wykrywania dymu wymaganego przez § 245.",
+          "basis": "art. 6a ust. 1 pkt 2 i 4 ustawy o ochronie ppoż.; § 28 ust. 1 pkt 10 rozp. MSWiA z 7.06.2010"
+        },
+        {
+          "t": "Bez tych urządzeń wyjście do klatki nie kończy dojścia ewakuacyjnego: z II piętra liczy się je aż do wyjścia z klatki i przekracza ono 30 m.",
+          "basis": "§ 256 ust. 2 i 3 WT"
+        },
+        {
+          "t": "Biegi 1,10 m i spoczniki 1,30 m (wymagane 1,20 i 1,50 m) nie dadzą się poprawić w obudowie 2,40 × 5,40 m: dwa biegi po 1,20 m zajęłyby całą szerokość 2,40 m, bez oczka i balustrad, a dłuższy bieg ma co najmniej ok. 2,57 m (stopnie do 0,175 m, 2h + s ≥ 0,60 m), co ze spocznikami 2 × 1,50 m daje 5,57 m. To przypadek na rozwiązanie zamienne.",
+          "basis": "§ 68 ust. 1 WT; § 69 ust. 4 WT"
+        },
+        {
+          "t": "Z1 jest dopuszczalne jako kierunek, ale niewystarczające: ograniczenie liczby osób nie zmienia minimów z § 68 ust. 1 i może być tylko warunkiem dodatkowym zgody, a jedyną kompensatą techniczną jest wadliwe Z2. Kompensatą powinno być skuteczne samoczynne zabezpieczenie klatki (np. nadciśnieniowe), wczesne wykrywanie dymu i drzwi dymoszczelne.",
+          "basis": "art. 6a ust. 1 i ust. 2 pkt 2 ustawy o ochronie ppoż."
+        },
+        {
+          "t": "Poprawne: obudowa R E I 120 (wymagane jak dla stropów, R E I 60), biegi niepalne R 60, 11 stopni w biegu, wysokość stopnia 0,164 m.",
+          "basis": "§ 249 ust. 1 i 3 WT; § 68 ust. 1 WT; § 69 ust. 1 WT"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "kind": "ocena",
+      "q": "Proszę ocenić na rysunkach 2 i 3 warunki ewakuacji z piętra biurowego: dojście, korytarz i wyjście z klatki K1.",
+      "points": [
+        {
+          "t": "Dojście mierzy się od drzwi pomieszczenia najdalszego od klatki, a jest nim lokal 2.5, nie 2.3: 0,8 + 21,1 = 21,9 m na poziomej drodze ewakuacyjnej. W ZL III przy jednym dojściu najwyżej 20 m na poziomej drodze. Wystarczy przesunąć drzwi lokalu tak, by ich oś była co najmniej 2,6 m od ściany szczytowej.",
+          "basis": "§ 256 ust. 1 i 3 WT"
+        },
+        {
+          "t": "Pilaster zwęża korytarz do 1,10 m; wymagane co najmniej 1,4 m (1,2 m tylko dla nie więcej niż 20 osób). Przepis dopuszcza lokalne obniżenie wysokości drogi, nie szerokości.",
+          "basis": "§ 242 ust. 1, 2 i 3 WT"
+        },
+        {
+          "t": "Drzwi z klatki K1 do przejazdu bramowego mają 0,90 m, a powinny mieć co najmniej szerokość biegu z § 68, czyli 1,20 m. Otwieranie na zewnątrz jest prawidłowe, bo budynek jest przeznaczony dla ponad 50 osób.",
+          "basis": "§ 239 ust. 4 WT; § 236 ust. 4 WT"
+        },
+        {
+          "t": "Liczba osób z wskaźnika 5 m² na osobę to ok. 52 na piętrze (259,6 m² biur); limit 30 osób jest elementem Z1. Dla szerokości korytarza i drzwi nie ma to znaczenia, bo decydują minima.",
+          "basis": "§ 236 ust. 6 pkt 3 WT"
+        },
+        {
+          "t": "Poprawne: przejścia w lokalach do 13 m (przy nieustalonym zagospodarowaniu lokali do wynajęcia dopuszczalne jest 80% z 40 m, czyli 32 m) i przez najwyżej dwa pomieszczenia, drzwi 0,90 m otwierane do lokali, drzwi z korytarza do klatki 1,00 m z samozamykaczem, oświetlenie awaryjne korytarza bez okien z czasem działania 1 h.",
+          "basis": "§ 237 ust. 1, 4 i 8 WT; § 239 ust. 1 i 5 WT; § 242 ust. 4 WT; § 181 ust. 3 pkt 2 lit. b i ust. 5 WT"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "kind": "ocena",
+      "q": "Jakie wymagania dotyczą stropów, poddasza i wyposażenia budynku (hydranty, wyłącznik prądu, gaśnice, czujki dymu)? Które rozwiązania z opisu są prawidłowe?",
+      "points": [
+        {
+          "t": "Stropy drewniane R E I 30 nad I, II i IV piętrem: wymagane R E I 60 (klasa „B” i „C”). Twierdzenie, że elementy istniejące nie podlegają § 216, jest błędne; wymaganie da się spełnić wprost okładziną ogniochronną.",
+          "basis": "§ 2 ust. 1 WT; § 216 ust. 1 WT"
+        },
+        {
+          "t": "Poddasze mieszkalne w budynku średniowysokim oddziela się od palnej konstrukcji i przekrycia dachu przegrodami E I 60, nie E I 30.",
+          "basis": "§ 219 ust. 2 pkt 2 WT"
+        },
+        {
+          "t": "Hydranty 25 na każdej kondygnacji: strefa ZL III ponad 200 m² w budynku średniowysokim; strefa ponad 500 m², więc jednoczesny pobór z dwóch hydrantów. Rozwiązanie projektanta jest prawidłowe.",
+          "basis": "§ 19 ust. 1 pkt 2 lit. b rozp. MSWiA z 7.06.2010; § 23 pkt 2 rozp. MSWiA z 7.06.2010"
+        },
+        {
+          "t": "Przeciwpożarowy wyłącznik prądu jest wymagany (strefa ponad 1000 m³); umieszczony przy złączu i oznakowany – prawidłowo.",
+          "basis": "§ 183 ust. 2 i 3 WT"
+        },
+        {
+          "t": "Gaśnice: 2 kg środka na każde 100 m² strefy ZL III; przy liczeniu całej strefy 2 275,2 m² to 46 kg, zaprojektowano 56 kg.",
+          "basis": "§ 32 ust. 3 pkt 1 lit. a rozp. MSWiA z 7.06.2010; § 33 ust. 2 rozp. MSWiA z 7.06.2010"
+        },
+        {
+          "t": "Autonomiczne czujki dymu: w nowych mieszkaniach na poddaszu wymagane już teraz; termin 1.01.2030 r. dotyczy tylko lokali użytkowanych jako mieszkalne w dniu wejścia w życie zmiany (23.12.2024 r.). W istniejących mieszkaniach brak czujek jest na dziś prawidłowy. Czujek tlenku węgla nie trzeba, bo w lokalach nie spala się paliwa.",
+          "basis": "§ 28a ust. 1 i 3 rozp. MSWiA z 7.06.2010; § 2 ust. 2 rozp. MSWiA z 21.11.2024"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "kind": "zamienne",
+      "q": "Czy ul. Fikcyjna może być drogą pożarową dla tego budynku? Czy przepisy przewidują zwolnienie, a jeśli nie – jakie rozwiązania zamienne można zaproponować i w jakim trybie? Proszę też ocenić zaopatrzenie w wodę.",
+      "points": [
+        {
+          "t": "Droga pożarowa jest wymagana: budynek średniowysoki ze strefą ZL III i ZL IV.",
+          "basis": "§ 12 ust. 1 pkt 2 rozp. MSWiA z 24.07.2009"
+        },
+        {
+          "t": "Parametry jezdni są poprawne: 7,0 m (min. 4 m), nacisk osi 100 kN, spadek 1% (do 5%), przejazd bez cofania, bliższa krawędź 5,50 m od ściany (5–15 m).",
+          "basis": "§ 13 ust. 1 i 2 rozp. MSWiA z 24.07.2009; § 12 ust. 2 i 9 rozp. MSWiA z 24.07.2009"
+        },
+        {
+          "t": "Między jezdnią a ścianą rośnie zwarty szpaler lip o wysokości ok. 14 m, z koronami od ok. 1 m przed elewacją – opis temu przeczy. Korony przesłaniają ok. 24 m z 29 m długości elewacji, a okna I–III piętra leżą poniżej ich wierzchołków. Poprowadzenie drogi tylko wzdłuż frontu w zabudowie pierzejowej wymaga spełnienia pozostałych warunków z ust. 2, w tym braku drzew wyższych niż 3 m.",
+          "basis": "§ 12 ust. 2 i ust. 3 pkt 3 rozp. MSWiA z 24.07.2009"
+        },
+        {
+          "t": "Zwolnień brak: ust. 7 dotyczy budynków do 3 kondygnacji i 12 m; ust. 6 wymaga, by klatka na kondygnacjach powyżej trzeciej nadziemnej miała okno dla ekip ratowniczych albo dostęp do takiego okna poziomą drogą ewakuacyjną do 50 m, z drogą pożarową 5–10 m od tych okien – okna K1 wychodzą na podwórze, na które nie da się wjechać (brama 3,20 × 3,60 m wobec 3,6 × 4,2 m), a na kondygnacjach mieszkalnych nie ma poziomej drogi do okien od ulicy. § 17 dotyczy tylko odległości krawędzi istniejącej drogi od ściany.",
+          "basis": "§ 12 ust. 6 i 7 rozp. MSWiA z 24.07.2009; § 14 ust. 1 pkt 1 i 2 rozp. MSWiA z 24.07.2009; § 17 rozp. MSWiA z 24.07.2009"
+        },
+        {
+          "t": "Drzewa są w pasie drogowym, poza działką inwestora: właściwa droga to rozwiązanie zamienne zapewniające niepogorszenie warunków ochrony, na wniosek właściciela, uzgodnione z komendantem wojewódzkim PSP – w formie postanowienia na wniosek uzasadniony ekspertyzą.",
+          "basis": "§ 13 ust. 4 rozp. MSWiA z 24.07.2009; art. 6a ust. 2 ustawy o ochronie ppoż."
+        },
+        {
+          "t": "Przykładowe kompensaty do wykazania w ekspertyzie: klatka K1 jako bezpieczna droga dojścia ekip (np. system nadciśnieniowy), instalacja z zaworami 52 na każdej kondygnacji zasilana z nasady od strony ulicy, wykrywanie dymu w częściach wspólnych, drzwi E I 30 dymoszczelne do lokali.",
+          "basis": "art. 6a ust. 1 pkt 4 i 5 ustawy o ochronie ppoż."
+        },
+        {
+          "t": "Woda: HZ1 stoi 1,5 m od ściany budynku, a hydrant ma być co najmniej 5 m od ściany chronionego budynku, więc nie może być wliczony. 20 dm³/s z dwóch hydrantów mogą zapewnić HZ2 (ok. 36,5 m) i HZ3 (ok. 30 m) – najbliższy do 75 m, drugi do 150 m, do 15 m od jezdni – po potwierdzeniu przez gestora jednoczesnego poboru z tej pary (potwierdzenie z opisu dotyczy hydrantów sąsiednich, a między HZ2 i HZ3 stoi HZ1). Przyjęcie 20 dm³/s jest po stronie bezpiecznej także przy kwalifikacji z § 3 ust. 2 (co najmniej 10 dm³/s).",
+          "basis": "§ 10 ust. 6 rozp. MSWiA z 24.07.2009; § 5 ust. 1 pkt 2 rozp. MSWiA z 24.07.2009; § 3 ust. 2 rozp. MSWiA z 24.07.2009"
+        },
+        {
+          "t": "Dojście od wyjścia z klatki do jezdni ok. 21 m (do 50 m) i szerokość co najmniej 1,5 m – prawidłowe.",
+          "basis": "§ 12 ust. 4 rozp. MSWiA z 24.07.2009"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "kind": "procedura",
+      "q": "Projektant twierdzi, że budynek w stanie istniejącym nie jest zagrażający życiu ludzi, i wyprowadza z tego niepogorszenie warunków ewakuacji. Czy ma rację i jakie znaczenie ma to dla trybu postępowania?",
+      "points": [
+        {
+          "t": "Kryteria z § 16 ust. 2 można stosować, bo budynek wzniesiono w 1908 r.; wyłączenie z § 45 dotyczy budynków wzniesionych według Prawa budowlanego z 1994 r.",
+          "basis": "§ 45 rozp. MSWiA z 7.06.2010"
+        },
+        {
+          "t": "Żadna przesłanka nie zachodzi: szerokości mniejsze o mniej niż jedną trzecią (biegi 8%, spoczniki 13%, drzwi wyjściowe 25%), dojście nie przekracza dopuszczalnego o ponad 100%, brak okładzin łatwo zapalnych, w istniejącym budynku mieszkalnym SW § 245 nie wymaga ochrony klatki przed dymem, a przesłanka oświetlenia dotyczy ZL I, ZL II i ZL V.",
+          "basis": "§ 16 ust. 2 pkt 1–6 rozp. MSWiA z 7.06.2010; § 245 WT"
+        },
+        {
+          "t": "Ocena stanu istniejącego jest więc prawidłowa, ale nie ma znaczenia dla zamierzenia: nie jest to dostosowanie budynku zagrażającego życiu ludzi (§ 16 ust. 3, § 207 ust. 2 WT), tylko zmiana sposobu użytkowania, przy której warunki techniczne stosuje się wprost.",
+          "basis": "§ 16 ust. 3 rozp. MSWiA z 7.06.2010; § 207 ust. 2 WT; § 2 ust. 1 WT"
+        },
+        {
+          "t": "Zmiana sposobu użytkowania tworzy strefę ZL III i nowe wymagania (np. § 245 pkt 2); rozwiązanie zamienne musi spełnić warunki z art. 6a ust. 1, a porównanie ze stanem istniejącym tego nie wykazuje.",
+          "basis": "art. 6a ust. 1 ustawy o ochronie ppoż."
+        },
+        {
+          "t": "Inny sposób spełnienia wymagań w istniejącym budynku o powierzchni użytkowej ponad 1000 m² dopuszcza się według wskazań ekspertyzy uzgodnionej z komendantem wojewódzkim PSP.",
+          "basis": "§ 2 ust. 2 i 3a WT"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "kind": "procedura",
+      "q": "Jaki jest tryb uzyskania zgody na rozwiązania zamienne i uzgodnienia projektu? Kto o czym rozstrzyga i co grozi, gdyby rzeczoznawca uzgodnił projekt w obecnej postaci?",
+      "points": [
+        {
+          "t": "Zmiana sposobu użytkowania wymagająca robót objętych pozwoleniem na budowę jest rozstrzygana w decyzji o pozwoleniu na budowę; przy samym zgłoszeniu zmiany wpływającej na bezpieczeństwo pożarowe dołącza się ekspertyzę rzeczoznawcy do spraw zabezpieczeń przeciwpożarowych.",
+          "basis": "art. 71 ust. 6 pkt 1 Prawa budowlanego; art. 71 ust. 2a Prawa budowlanego"
+        },
+        {
+          "t": "Przy przebudowie i zmianie sposobu użytkowania istniejącego obiektu rozwiązania zamienne stosuje się na podstawie postanowienia komendanta wojewódzkiego PSP, bez zgody na odstępstwo i bez udziału ministra.",
+          "basis": "art. 9 ust. 6 Prawa budowlanego"
+        },
+        {
+          "t": "Postanowienie wydaje się na uzasadniony ekspertyzą techniczną wniosek inwestora lub właściciela: zgoda, zgoda pod warunkami albo odmowa; przysługuje zażalenie.",
+          "basis": "art. 6a ust. 2 ustawy o ochronie ppoż."
+        },
+        {
+          "t": "Projekt wymaga uzgodnienia: budynek średniowysoki ze strefą ZL III i ZL IV, a przebudowa i zmiana sposobu użytkowania dotyczą warunków ochrony przeciwpożarowej.",
+          "basis": "§ 3 ust. 1 pkt 2 i ust. 2 rozp. MSWiA z 5.08.2023; art. 6b ustawy o ochronie ppoż."
+        },
+        {
+          "t": "Rzeczoznawca może uzgodnić projekt z rozwiązaniami innymi niż wynikające z przepisów tylko wtedy, gdy dołączono zgodę; projekt ma zawierać informację o rozwiązaniach zamiennych zastosowanych na jej podstawie. Opis projektanta tej zgody nie zastępuje.",
+          "basis": "art. 6c ustawy o ochronie ppoż.; § 4 ust. 1 pkt 2 lit. m rozp. MSWiA z 5.08.2023"
+        },
+        {
+          "t": "W toku uzgodnienia trzeba opracować scenariusz pożarowy, bo przewidziano urządzenia oddymiające lub zapobiegające zadymieniu; po uzgodnieniu zawiadomienie do komendanta wojewódzkiego PSP w ciągu 14 dni.",
+          "basis": "§ 5 pkt 3 rozp. MSWiA z 5.08.2023; art. 6d ust. 2 ustawy o ochronie ppoż."
+        },
+        {
+          "t": "Komendant wojewódzki PSP do dnia uzyskania pozwolenia na użytkowanie unieważnia (obowiązek) uzgodnienie projektu z rozwiązaniami niezgodnymi o istotnym wpływie na bezpieczeństwo pożarowe – w drodze postanowienia, na które przysługuje zażalenie – i informuje organ administracji architektoniczno-budowlanej oraz nadzór budowlany.",
+          "basis": "art. 6e ust. 1–3 ustawy o ochronie ppoż."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "kind": "ekspertyza",
+      "q": "Co musi wykazać ekspertyza, na której inwestor oprze wniosek o zgodę na rozwiązania zamienne, kto może ją sporządzić i jaki powinien być jej zakres w tym budynku?",
+      "points": [
+        {
+          "t": "Ustawa wymaga „ekspertyzy technicznej”; w zakresie ochrony przeciwpożarowej sporządza ją rzeczoznawca do spraw zabezpieczeń przeciwpożarowych, który ma do tego uprawnienie. Warunki techniczne mówią o ekspertyzie jednostki badawczo-rozwojowej albo rzeczoznawcy budowlanego oraz do spraw zabezpieczeń przeciwpożarowych, uzgodnionej z komendantem wojewódzkim PSP.",
+          "basis": "art. 11i ust. 1 pkt 3 ustawy o ochronie ppoż.; § 2 ust. 2 i 3a WT"
+        },
+        {
+          "t": "Ma wykazać, że rozwiązania ograniczają możliwość powstania pożaru, a w razie pożaru zapewniają: nośność konstrukcji przez określony czas, ograniczenie rozprzestrzeniania ognia i dymu w budynku, ograniczenie rozprzestrzeniania pożaru na sąsiednie obiekty, ewakuację ludzi lub ich uratowanie w inny sposób oraz bezpieczeństwo ekip ratowniczych.",
+          "basis": "art. 6a ust. 1 ustawy o ochronie ppoż."
+        },
+        {
+          "t": "Dla każdego odstępstwa od przepisu: jednostka redakcyjna i wartość wymagana, stan istniejący, uwarunkowania lokalne uniemożliwiające spełnienie wprost (obudowa klatki 2,40 × 5,40 m z murów nośnych; drzewa w pasie drogowym i podwórze bez dojazdu), proponowane rozwiązania i dowód niepogorszenia warunków ochrony.",
+          "basis": "§ 13 ust. 4 rozp. MSWiA z 24.07.2009; art. 6a ust. 1 ustawy o ochronie ppoż."
+        },
+        {
+          "t": "Zakres: tylko szerokość biegów i spoczników klatki K1 oraz dostęp z drogi pożarowej. Klasa odporności, stropy, oddzielenie poddasza, ochrona klatki przed dymem, dojście, korytarz, drzwi wyjściowe, hydranty zewnętrzne i czujki dymu da się poprawić w projekcie i nie powinny być przedmiotem zamiennych.",
+          "basis": "§ 2 ust. 1 WT; § 245 pkt 2 WT"
+        },
+        {
+          "t": "Ocena propozycji projektanta: Z2 nie spełnia art. 6a ust. 1 pkt 2 i 4; Z1 tylko z samoczynnym zabezpieczeniem klatki; ograniczenie do 30 osób może być warunkiem w postanowieniu i musi trafić do instrukcji bezpieczeństwa pożarowego wraz ze sposobem jego egzekwowania.",
+          "basis": "art. 6a ust. 2 pkt 2 ustawy o ochronie ppoż.; § 6 ust. 1 pkt 1 i 5 rozp. MSWiA z 7.06.2010"
+        }
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "u1",
+      "kind": "błąd",
+      "weight": 2,
+      "act": "wt_2002",
+      "where": "opis, pkt 6",
+      "title": "Klasa odporności pożarowej „C” przyjęta dla całego budynku",
+      "is": "Klasa „C” dla całego budynku jako mieszkalnego średniowysokiego; ścianki obudowy korytarzy biurowych E I 15.",
+      "should": "W budynku, którego kondygnacje należą do różnych kategorii ZL, klasę ustala się dla kondygnacji odrębnie. I i II piętro (ZL III w budynku średniowysokim) wymagają klasy „B”, kondygnacje mieszkalne (ZL IV) – „C”. Parter i piwnica leżą pod piętrami biurowymi, więc nie mogą mieć klasy niższej niż „B”. W klasie „B” ściany wewnętrzne, w tym obudowa poziomych dróg ewakuacyjnych, mają mieć E I 30, a nie E I 15. Mury R E I 120, ściany zewnętrzne murowane, ściany między lokalami E I 60 i stropy Kleina wymaganiom klasy „B” odpowiadają. Obniżenie z § 212 ust. 3 (jedna lub dwie kondygnacje) ani z § 214 (stałe samoczynne urządzenia gaśnicze wodne) nie ma zastosowania. Gdyby z uwagi na jedną strefę ZL III / ZL IV przyjąć klasę „B” dla całego budynku, wymagania dla elementów kondygnacji mieszkalnych opisanych w projekcie nie zmieniłyby się: stropy mają mieć R E I 60 w obu klasach, a konstrukcję i przekrycie dachu zaprojektowano jak dla „B”.",
+      "basis": "§ 212 ust. 2, 6 i 7 WT; § 209 ust. 5 WT; § 216 ust. 1 WT; § 241 ust. 1 WT",
+      "quote": "W budynku wielokondygnacyjnym, którego kondygnacje są zaliczone do różnych kategorii ZL lub PM",
+      "fix": "Przyjąć klasę „B” dla piwnicy, parteru oraz I i II piętra, klasę „C” dla III i IV piętra i poddasza; obudowę korytarzy wykonać jako E I 30."
+    },
+    {
+      "id": "u2",
+      "kind": "błąd",
+      "weight": 3,
+      "act": "wt_2002",
+      "where": "opis, pkt 6 (tabela)",
+      "title": "Stropy drewniane R E I 30 pod i nad kondygnacjami o zmienionym sposobie użytkowania",
+      "is": "Stropy drewniane nad I, II i IV piętrem mają R E I 30 i pozostają bez zmian, bo „jako elementy istniejące nie podlegają § 216 WT”.",
+      "should": "Warunki techniczne stosuje się przy przebudowie i przy zmianie sposobu użytkowania, także do części budynku o nowym przeznaczeniu. Stropy wymagają R E I 60 zarówno w klasie „B”, jak i „C”. Dotyczy to stropów nad I i II piętrem (część biurowa) oraz stropu nad IV piętrem, który staje się podłogą nowych mieszkań na poddaszu. Wymaganie można spełnić wprost (np. okładziną ogniochronną od spodu), więc trzeba je spełnić w projekcie; rozwiązanie zamienne nie jest tu potrzebne.",
+      "basis": "§ 2 ust. 1 i 5 WT; § 216 ust. 1 WT",
+      "quote": "Przepisy rozporządzenia stosuje się przy projektowaniu, budowie i przebudowie oraz przy zmianie sposobu",
+      "fix": "Podnieść odporność ogniową stropów do R E I 60, np. okładziną ogniochronną od spodu w systemie o potwierdzonej klasie dla stropu drewnianego, i potwierdzić, że strop pozostaje nierozprzestrzeniający ognia (§ 216 ust. 2)."
+    },
+    {
+      "id": "u3",
+      "kind": "błąd",
+      "weight": 2,
+      "act": "wt_2002",
+      "where": "opis, pkt 6 (tabela) i pkt 11",
+      "title": "Za słabe oddzielenie mieszkań na poddaszu od palnej konstrukcji dachu",
+      "is": "Okładziny poddasza od strony konstrukcji i przekrycia dachu: płyty gipsowo-kartonowe ogniochronne w układzie E I 30, uznane za zgodne z § 219 ust. 2.",
+      "should": "W budynkach ZL III, ZL IV i ZL V poddasze użytkowe na cele mieszkalne lub biurowe oddziela się od palnej konstrukcji i palnego przekrycia dachu przegrodami E I 60 w budynku średniowysokim; E I 30 wystarcza tylko w budynku niskim. Konstrukcja dachu jest drewniana.",
+      "basis": "§ 219 ust. 2 pkt 2 WT",
+      "quote": "w budynku średniowysokim i wysokim – E I 60",
+      "fix": "Zaprojektować okładziny w układzie o klasie E I 60."
+    },
+    {
+      "id": "u4",
+      "kind": "błąd",
+      "weight": 3,
+      "act": "wt_2002",
+      "where": "opis, pkt 6 (tabela), 7 i 12 (Z2); rys. 2 i 3 – klatka K1",
+      "marker": {
+        "d": "R2",
+        "at": [
+          5.95,
+          3.95
+        ]
+      },
+      "title": "Klatka K1 bez samoczynnego zabezpieczenia przed zadymieniem – rozwiązanie Z2 niewystarczające",
+      "is": "Z2: okna na spocznikach międzypiętrowych otwierane ręcznie, drzwi E I 30 z samozamykaczami z korytarzy i z lokali 1.1 i 2.1; bez systemu wykrywania dymu, „bo budynek nie wymaga SSP”. Drzwi istniejących mieszkań na parterze, III i IV piętrze bez klasy odporności ogniowej i dymoszczelności.",
+      "should": "Klatka służy ewakuacji ze strefy ZL III w budynku średniowysokim, więc ma być obudowana, zamykana drzwiami dymoszczelnymi i wyposażona w urządzenia zapobiegające zadymieniu lub służące do usuwania dymu, uruchamiane samoczynnie przez system wykrywania dymu. Z2 tego nie zapewnia: okna otwiera ręcznie ktoś stojący na spoczniku, nic nie wykrywa dymu, drzwi E I 30 nie mają dymoszczelności, drzwi mieszkań nie mają żadnej klasy. Nie wykazano warunków z art. 6a ust. 1 pkt 2 i 4. System wykrywania dymu z § 245 to co innego niż system sygnalizacji pożarowej z § 28 rozp. z 2010 r. Wymaganie da się spełnić wprost, bo dach nad klatką jest przebudowywany. Bez tych urządzeń wyjście do klatki nie kończy dojścia ewakuacyjnego, a dojście z II piętra liczone do wyjścia z klatki (z lokalu 2.5: 21,9 m korytarzem i ok. 18,6 m schodami przez dwie kondygnacje, razem ok. 40 m) przekracza 30 m.",
+      "basis": "§ 245 pkt 2 WT; § 256 ust. 2 i 3 WT; art. 6a ust. 1 ustawy o ochronie ppoż.",
+      "quote": "powinny być obudowane i zamykane drzwiami dymoszczelnymi oraz wyposażone w urządzenia zapobiegające",
+      "fix": "Spełnić wymaganie wprost: klapa dymowa w dachu nad klatką z napowietrzaniem przez samoczynnie otwierane drzwi wyjściowe (albo system nadciśnieniowy), czujki dymu w klatce, drzwi E I 30 dymoszczelne z samozamykaczami we wszystkich otworach klatki, także do mieszkań. Instalacja wymaga stałego dopływu powietrza uzupełniającego (§ 270 ust. 1 pkt 2), a w toku uzgodnienia – scenariusza pożarowego (§ 5 pkt 3 rozp. MSWiA z 5.08.2023). Klapę umieścić co najmniej 5 m od ściany szczytowej (klatka leży 3,6–6,0 m od niej) albo wyprowadzić tę ścianę co najmniej 0,3 m ponad górną krawędź klapy (§ 235 ust. 4 WT)."
+    },
+    {
+      "id": "u5",
+      "kind": "błąd",
+      "weight": 3,
+      "act": "wt_2002",
+      "where": "opis, pkt 7 i 12 (Z1); rys. 2 – klatka K1",
+      "marker": {
+        "d": "R2",
+        "at": [
+          4.65,
+          2.6
+        ]
+      },
+      "title": "Za wąskie biegi i spoczniki klatki K1 – rozwiązanie Z1 bez wystarczającej kompensacji i bez zgody",
+      "is": "Biegi 1,10 m, spoczniki 1,30 m. Z1: ograniczenie liczby osób na piętrze biurowym do 30 i zabezpieczenie klatki według Z2.",
+      "should": "W budynkach mieszkalnych wielorodzinnych i użyteczności publicznej bieg ma mieć co najmniej 1,20 m, spocznik 1,50 m. W istniejącej obudowie z murów nośnych (2,40 × 5,40 m) nie da się tego osiągnąć: dwa biegi po 1,20 m zajęłyby całą szerokość klatki, bez miejsca na oczko i balustrady, a przy stopniach do 0,175 m i warunku 2h + s ≥ 0,60 m dłuższy bieg ma co najmniej ok. 2,57 m, co ze spocznikami 2 × 1,50 m daje 5,57 m > 5,40 m. Rozwiązanie zamienne jest tu właściwą drogą, ale Z1 nie wystarcza: ograniczenie liczby osób nie zmienia minimów z § 68 ust. 1 (przelicznik 0,6 m na 100 osób z ust. 2 daje i dla 30, i dla 52 osób mniej niż 1,20 m, więc decyduje minimum), a jedyną kompensatą techniczną jest Z2, które samo nie spełnia § 245. Z wskaźnika 5 m² na osobę wynika ok. 52 osób na piętrze, więc limit 30 osób może być tylko warunkiem zgody zapisanym w instrukcji bezpieczeństwa pożarowego. Brak też ekspertyzy i postanowienia komendanta wojewódzkiego PSP.",
+      "basis": "§ 68 ust. 1 i 2 WT; § 69 ust. 4 WT; § 236 ust. 6 pkt 3 WT; art. 6a ust. 1 i 2 ustawy o ochronie ppoż.",
+      "quote": "przyjmując co najmniej 0,6 m szerokości na 100 osób, lecz nie mniej niż określono to w ust. 1",
+      "fix": "Wniosek o zgodę na rozwiązanie zamienne z ekspertyzą. Kompensata: samoczynne zabezpieczenie klatki przed zadymieniem o podwyższonej skuteczności (np. nadciśnieniowe), wykrywanie dymu w klatce i na korytarzach biurowych z alarmowaniem użytkowników, drzwi dymoszczelne do klatki, limit osób jako warunek zgody i zapis w IBP."
+    },
+    {
+      "id": "u6",
+      "kind": "niespójność",
+      "weight": 3,
+      "act": "woda_drogi_2009",
+      "where": "opis, pkt 9; rys. 1 – pas zieleni przed elewacją",
+      "marker": {
+        "d": "R1",
+        "at": [
+          48.0,
+          55.7
+        ]
+      },
+      "title": "Szpaler lip między jezdnią a elewacją – ul. Fikcyjna nie spełnia warunków drogi pożarowej",
+      "is": "Opis: między jezdnią a elewacją tylko chodnik i trawnik, bez drzew wyższych niż 3 m, warunki § 12 ust. 2 i ust. 3 pkt 3 spełnione. Rysunek: przed całą elewacją rośnie szpaler lip o wysokości ok. 14 m; korony o średnicy ok. 6,5 m niemal się stykają i sięgają od ok. 1 m przed elewacją do jezdni.",
+      "should": "Droga pożarowa jest wymagana (budynek średniowysoki z ZL III i ZL IV). Jezdnia spełnia warunki szerokości, nośności, spadku i odległości (bliższa krawędź 5,50 m od ściany), ale między drogą a ścianą nie mogą rosnąć drzewa wyższe niż 3 m, uniemożliwiające dostęp do elewacji podnośnikami i drabinami. Tak jest tutaj: korony przesłaniają ok. 24 m z 29 m długości elewacji, odstępy między nimi mają ok. 1,5 m, a okna I–III piętra (posadzki od +3,60 do +10,80) leżą poniżej wierzchołków koron (ok. 14 m), więc z jezdni nie da się do nich dotrzeć podnośnikiem ani drabiną. Poprowadzenie drogi w zabudowie pierzejowej tylko wzdłuż frontu jest dopuszczalne przy spełnieniu pozostałych wymagań z ust. 2, więc problemu nie usuwa. Zwolnienie z ust. 7 nie zachodzi (6 kondygnacji, 21,35 m), z ust. 6 – też nie: okna klatki K1 wychodzą na podwórze, na które nie da się wjechać (brama 3,20 × 3,60 m wobec wymaganych 3,6 × 4,2 m), a na kondygnacjach mieszkalnych powyżej trzeciej nadziemnej nie ma poziomej drogi ewakuacyjnej, którą można by dotrzeć do okna od strony ulicy. § 17 dotyczy tylko odległości krawędzi istniejącej drogi od ściany. Drzewa rosną w pasie drogowym, poza działką inwestora, więc potrzebne jest rozwiązanie zamienne.",
+      "basis": "§ 12 ust. 1 pkt 2, ust. 2, ust. 3 pkt 3, ust. 6 i 7 rozp. MSWiA z 24.07.2009; § 14 ust. 1 pkt 1 i 2 rozp. MSWiA z 24.07.2009; § 13 ust. 4 rozp. MSWiA z 24.07.2009",
+      "quote": "drzewa i krzewy o wysokości przekraczającej 3 m",
+      "fix": "Poprawić opis i wystąpić o zgodę na rozwiązanie zamienne (§ 13 ust. 4 rozp. z 2009 r., art. 6a ust. 2 ustawy) z ekspertyzą; przykładowe elementy: klatka K1 jako bezpieczna droga dojścia ekip (np. nadciśnienie), instalacja z zaworami 52 na każdej kondygnacji zasilana z nasady od strony ulicy, wykrywanie dymu w częściach wspólnych, drzwi E I 30 dymoszczelne do lokali. Poza trybem zamiennym pozostaje tylko usunięcie albo przesadzenie drzew przez zarządcę drogi."
+    },
+    {
+      "id": "u7",
+      "kind": "błąd",
+      "weight": 2,
+      "act": "wt_2002",
+      "where": "rys. 2 – lokal 2.5 na końcu korytarza; opis, pkt 7",
+      "marker": {
+        "d": "R2",
+        "at": [
+          26.95,
+          5.2
+        ]
+      },
+      "title": "Za długie dojście z lokalu 2.5 – projektant liczył od lokalu 2.3",
+      "is": "Najdłuższe dojście liczone od drzwi lokalu 2.3: 19,6 m. Drzwi lokalu 2.5 są na końcu korytarza, 0,70 m od ściany szczytowej.",
+      "should": "Dojście mierzy się wzdłuż osi drogi od wyjścia z pomieszczenia na drogę ewakuacyjną. Od drzwi lokalu 2.5 do drzwi klatki K1 jest 0,8 + 21,1 = 21,9 m, w całości na poziomej drodze ewakuacyjnej; w strefie ZL III przy jednym dojściu dopuszcza się 30 m, w tym nie więcej niż 20 m na poziomej drodze. To samo dotyczy lokalu 1.5 na I piętrze. Nawet po poprawce długość jest prawidłowa tylko wtedy, gdy klatka K1 spełni § 256 ust. 2 (pozycja 4).",
+      "basis": "§ 256 ust. 1 i 3 WT",
+      "quote": "W tym nie więcej niż 20 m na poziomej drodze ewakuacyjnej.",
+      "fix": "Przesunąć drzwi lokali 1.5 i 2.5 na zachód, tak aby oś drzwi była co najmniej 2,6 m od ściany szczytowej (dojście do 20 m). Powiększenie długości z § 256 ust. 4 wymagałoby tryskaczy w strefie albo samoczynnego oddymiania korytarza."
+    },
+    {
+      "id": "u8",
+      "kind": "błąd",
+      "weight": 2,
+      "act": "wt_2002",
+      "where": "rys. 2 – korytarz przy pilastrze, wymiar 1,10",
+      "marker": {
+        "d": "R2",
+        "at": [
+          19.25,
+          5.15
+        ]
+      },
+      "title": "Przewężenie korytarza przy pilastrze do 1,10 m",
+      "is": "Korytarz ma 1,40 m, ale pilaster z czynnymi kanałami wentylacyjnymi zwęża go na długości 1,0 m do 1,10 m.",
+      "should": "Szerokość poziomej drogi ewakuacyjnej: co najmniej 0,6 m na 100 osób, lecz nie mniej niż 1,4 m; 1,2 m tylko dla nie więcej niż 20 osób, a korytarzem ewakuuje się 22 osoby z lokali 2.2–2.5 według projektanta (ok. 38 według wskaźnika 5 m² na osobę z § 236 ust. 6). Przepis dopuszcza lokalne obniżenie wysokości drogi, nie jej szerokości.",
+      "basis": "§ 242 ust. 1, 2 i 3 WT",
+      "quote": "przyjmując co najmniej 0,6 m na 100 osób, lecz nie mniej niż 1,4 m",
+      "fix": "Przesunąć ściankę korytarza o 0,30 m na północ (korytarz 1,70 m, przy pilastrze 1,40 m) albo przełożyć kanały i usunąć pilaster."
+    },
+    {
+      "id": "u9",
+      "kind": "błąd",
+      "weight": 2,
+      "act": "wt_2002",
+      "where": "rys. 3 – drzwi z klatki K1 do przejazdu bramowego, wymiar 0,90",
+      "marker": {
+        "d": "R3",
+        "at": [
+          2.3,
+          6.6
+        ]
+      },
+      "title": "Za wąskie drzwi wyjściowe z klatki K1",
+      "is": "Drzwi z klatki K1 do przejazdu bramowego mają szerokość 0,90 m.",
+      "should": "Drzwi na drodze ewakuacyjnej z klatki schodowej prowadzące na zewnątrz budynku mają mieć szerokość nie mniejszą niż szerokość biegu określona w § 68 ust. 1 i 2, czyli 1,20 m – niezależnie od tego, że istniejące biegi mają 1,10 m. Kierunek otwierania na zewnątrz klatki jest prawidłowy, bo budynek jest przeznaczony dla ponad 50 osób.",
+      "basis": "§ 239 ust. 4 WT; § 68 ust. 1 WT; § 236 ust. 4 WT",
+      "quote": "nie mniejsza niż szerokość biegu klatki schodowej, określona zgodnie z § 68 ust. 1 i 2",
+      "fix": "Poszerzyć otwór w murze i osadzić drzwi o szerokości w świetle ościeżnicy co najmniej 1,20 m (przy drzwiach dwuskrzydłowych jedno nieblokowane skrzydło co najmniej 0,9 m – § 240 ust. 1)."
+    },
+    {
+      "id": "u10",
+      "kind": "błąd",
+      "weight": 1,
+      "act": "woda_drogi_2009",
+      "where": "rys. 1 – hydrant HZ1, wymiar 1,50; opis, pkt 9",
+      "marker": {
+        "d": "R1",
+        "at": [
+          58.7,
+          48.7
+        ]
+      },
+      "title": "Hydrant HZ1 za blisko ściany budynku",
+      "is": "Jako jeden z dwóch hydrantów zapewniających 20 dm³/s wskazano HZ1, stojący na chodniku 1,5 m od elewacji.",
+      "should": "Hydrant zewnętrzny powinien stać co najmniej 5 m od ściany chronionego budynku, więc HZ1 nie może być wliczony. Na rysunku są jednak hydranty HZ2 (ok. 36,5 m od budynku) i HZ3 (ok. 30 m), oba ponad 5 m od ściany i do 15 m od krawędzi jezdni, na tej samej sieci obwodowej; najbliższy jest do 75 m od budynku, drugi do 150 m, a odstęp między nimi (90 m) nie przekracza 150 m. Wymagane 20 dm³/s z dwóch hydrantów mogą więc zapewnić HZ2 i HZ3, ale potwierdzenie gestora dotyczy dwóch sąsiednich hydrantów, a HZ2 i HZ3 sąsiednie nie są (stoi między nimi HZ1), więc wydajność przy jednoczesnym poborze z tej pary trzeba potwierdzić. Przyjęcie 20 dm³/s jest po stronie bezpiecznej także wtedy, gdy budynek mieszany kwalifikować według § 3 ust. 2 (co najmniej 10 dm³/s).",
+      "basis": "§ 10 ust. 6 pkt 1–5 rozp. MSWiA z 24.07.2009; § 5 ust. 1 pkt 2 rozp. MSWiA z 24.07.2009; § 3 ust. 2 rozp. MSWiA z 24.07.2009",
+      "quote": "od ściany chronionego budynku — co najmniej",
+      "fix": "W opisie wskazać HZ2 i HZ3 i potwierdzić u gestora sieci jednoczesny pobór 2 × 10 dm³/s z tych hydrantów."
+    },
+    {
+      "id": "u11",
+      "kind": "błąd",
+      "weight": 3,
+      "act": "prawo_budowlane",
+      "where": "opis, pkt 12 (ostatni akapit)",
+      "title": "Błędny tryb: rozwiązania zamienne „uzgodni rzeczoznawca”, a w razie potrzeby odstępstwo ministra",
+      "is": "Rozwiązania Z1 i Z2 uzasadnia opis projektu; rzeczoznawca uzgodni je łącznie z projektem; organ administracji architektoniczno-budowlanej w razie potrzeby wystąpi do ministra o upoważnienie do zgody na odstępstwo.",
+      "should": "Przy przebudowie i zmianie sposobu użytkowania istniejącego obiektu rozwiązania zamienne w stosunku do wymagań ochrony przeciwpożarowej stosuje się na podstawie postanowienia komendanta wojewódzkiego PSP, bez zgody na odstępstwo. Postanowienie wydaje się na wniosek inwestora lub właściciela uzasadniony ekspertyzą techniczną (zgoda, zgoda pod warunkami albo odmowa; przysługuje zażalenie). Rzeczoznawca nie zatwierdza rozwiązań zamiennych: może uzgodnić projekt z rozwiązaniami innymi niż wynikające z przepisów dopiero wtedy, gdy dołączono zgodę, a projekt ma zawierać informację o rozwiązaniach zastosowanych na jej podstawie. Opis projektu nie zastępuje ekspertyzy, na której wskazaniach § 2 ust. 3a WT opiera inny sposób spełnienia wymagań w istniejącym budynku o powierzchni użytkowej ponad 1000 m², a brak przesłanek z § 16 ust. 2 rozp. z 2010 r. nie dowodzi niepogorszenia.",
+      "basis": "art. 9 ust. 6 Prawa budowlanego; art. 6a ust. 2 ustawy o ochronie ppoż.; art. 6c ustawy o ochronie ppoż.; § 2 ust. 3a WT; § 4 ust. 1 pkt 2 lit. m rozp. MSWiA z 5.08.2023",
+      "quote": "wymagań ochrony przeciwpożarowej stosuje się na podstawie zgody udzielonej w",
+      "fix": "Przed uzgodnieniem: ekspertyza rzeczoznawcy, wniosek inwestora do komendanta wojewódzkiego PSP, postanowienie dołączone do projektu i powołane w opisie."
+    },
+    {
+      "id": "u12",
+      "kind": "błąd",
+      "weight": 1,
+      "act": "rozp_ppoz_2010",
+      "where": "opis, pkt 8",
+      "title": "Brak autonomicznych czujek dymu w nowych mieszkaniach na poddaszu",
+      "is": "Czujek nie przewiduje się w żadnym mieszkaniu, bo obowiązek dotyczy lokali mieszkalnych od 1.01.2030 r.",
+      "should": "Lokal mieszkalny wyposaża się w co najmniej jedną autonomiczną czujkę dymu spełniającą wymagania Polskiej Normy (przepis obowiązuje od 23.12.2024 r.). Termin 1.01.2030 r. dotyczy tylko lokali użytkowanych jako mieszkalne w dniu wejścia w życie zmiany, a mieszkania na poddaszu dopiero powstają. Zwolnienie z § 28a ust. 2 (ochrona systemem sygnalizacji pożarowej albo stałym samoczynnym urządzeniem gaśniczym) nie zachodzi.",
+      "basis": "§ 28a ust. 1 i 2 rozp. MSWiA z 7.06.2010; § 2 ust. 2 rozp. MSWiA z 21.11.2024",
+      "quote": "W przypadku lokali mieszkalnych użytkowanych jako takie lokale w dniu wejścia w życie niniejszego rozporządzenia",
+      "fix": "Co najmniej jedna autonomiczna czujka dymu w każdym mieszkaniu na poddaszu."
+    },
+    {
+      "id": "p1",
+      "kind": "poprawne",
+      "weight": 1,
+      "act": "rozp_ppoz_2010",
+      "where": "opis, pkt 8",
+      "title": "Brak czujek dymu w istniejących mieszkaniach",
+      "is": "W mieszkaniach na parterze, III i IV piętrze autonomicznych czujek dymu nie przewiduje się.",
+      "should": "Dla lokali mieszkalnych użytkowanych jako takie w dniu wejścia w życie zmiany (23.12.2024 r.) wymaganie § 28a stosuje się od 1.01.2030 r. Czujek tlenku węgla nie wymaga się, bo w lokalach nie spala się paliwa.",
+      "basis": "§ 2 ust. 2 rozp. MSWiA z 21.11.2024; § 28a ust. 1 i 3 rozp. MSWiA z 7.06.2010",
+      "quote": "wymagania określone w § 28a rozporządzenia zmienianego w § 1, stosuje się od dnia 1 stycznia 2030 r.",
+      "fix": "Można zalecić montaż od razu; obowiązek powstanie 1.01.2030 r."
+    },
+    {
+      "id": "p2",
+      "kind": "poprawne",
+      "weight": 1,
+      "act": "wt_2002",
+      "where": "opis, pkt 5",
+      "title": "Jedna strefa pożarowa ZL III / ZL IV razem z piwnicą",
+      "is": "Cały budynek z piwnicą stanowi jedną strefę pożarową obejmującą biura (ZL III) i mieszkania (ZL IV), 2 275,2 m².",
+      "should": "Przepisy nie nakazują wydzielać biur od mieszkań w odrębne strefy; strefa zaliczona do kilku kategorii ma spełniać wymagania każdej z nich. Strefa ZL w budynku średniowysokim może mieć 5 000 m², a z częścią podziemną 2 500 m², więc 2 275,2 m² mieści się nawet w zmniejszonym limicie; ponieważ z piwnicy wychodzi się bezpośrednio na zewnątrz, zmniejszenie do 50% w ogóle nie obowiązuje i limit wynosi 5 000 m² (opis podaje 2 500 m² – bez wpływu na wynik). Skutki jednej strefy: hydranty 25 na każdej kondygnacji i wymagania ZL III dla wspólnej klatki – hydranty projektant przewidział.",
+      "basis": "§ 209 ust. 5 WT; § 227 ust. 1–3 WT; § 19 ust. 1 pkt 2 lit. b rozp. MSWiA z 7.06.2010",
+      "quote": "Zmniejszenie dopuszczalnej powierzchni strefy pożarowej, o której mowa w ust. 2, nie dotyczy przypadku",
+      "fix": ""
+    },
+    {
+      "id": "p3",
+      "kind": "poprawne",
+      "weight": 1,
+      "act": "rozp_ppoz_2010",
+      "where": "opis, pkt 12",
+      "title": "Budynek w stanie istniejącym nie jest zagrażający życiu ludzi",
+      "is": "Projektant stwierdza, że budynek w stanie istniejącym nie spełnia żadnej z przesłanek uznania go za zagrażający życiu ludzi.",
+      "should": "Kryteria § 16 ust. 2 stosuje się, bo budynek wzniesiono w 1908 r. (§ 45 wyłącza je tylko dla budynków wzniesionych według Prawa budowlanego z 1994 r.). Szerokości są mniejsze od wymaganych o mniej niż jedną trzecią (biegi 1,10 wobec 1,20 m, spoczniki 1,30 wobec 1,50 m, drzwi wyjściowe z klatki 0,90 wobec 1,20 m); dojście nie przekracza dopuszczalnego o ponad 100%; na drogach ewakuacyjnych nie ma okładzin łatwo zapalnych; w istniejącym budynku mieszkalnym średniowysokim § 245 nie wymaga ochrony klatki przed zadymieniem; przesłanka braku oświetlenia awaryjnego dotyczy stref ZL I, ZL II i ZL V. Błędny jest dopiero wniosek, że z tego powodu Z1 i Z2 zapewniają niepogorszenie (pozycje 4, 5 i 11).",
+      "basis": "§ 16 ust. 2 rozp. MSWiA z 7.06.2010; § 45 rozp. MSWiA z 7.06.2010; § 245 WT",
+      "quote": "mniejsza o ponad jedną trzecią od określonej w przepisach techniczno-budowlanych",
+      "fix": ""
+    }
+  ],
+  "summary": "Projekt wymaga uzgodnienia (budynek średniowysoki ze strefą ZL III i ZL IV, przebudowa i zmiana sposobu użytkowania), ale w przedstawionej postaci nie może być uzgodniony. Przesądzają o tym: brak samoczynnego zabezpieczenia klatki K1 przed zadymieniem (Z2 nie jest rozwiązaniem równoważnym), stropy R E I 30, brak postanowienia komendanta wojewódzkiego PSP o zgodzie na rozwiązania zamienne dla szerokości biegów i spoczników oraz dla drogi pożarowej i błędnie opisany tryb.\nW projekcie trzeba poprawić: klasę odporności pożarowej i obudowę korytarzy, stropy, oddzielenie poddasza od dachu, zabezpieczenie klatki przed zadymieniem z drzwiami dymoszczelnymi, położenie drzwi lokali 1.5 i 2.5, przewężenie korytarza, drzwi wyjściowe z klatki, wskazanie hydrantów zewnętrznych i czujki dymu w nowych mieszkaniach.\nRozwiązań zamiennych wymagają tylko dwie sprawy, których nie da się spełnić bez budowy nowej klatki albo poza działką inwestora: szerokość biegów i spoczników klatki K1 oraz dostęp do elewacji z drogi pożarowej. Trzeba je oprzeć na ekspertyzie rzeczoznawcy i postanowieniu komendanta wojewódzkiego PSP, uzyskanym przed uzgodnieniem projektu.",
+  "review": {
+    "date": "2026-11-25",
+    "solverFound": 12,
+    "solverFoundA": 12,
+    "solverFoundB": 12,
+    "issues": 12,
+    "refuted": 2,
+    "note": "Pierwsza kontrola potwierdziła klucz w przepisach, poprawiła pozycje 2, 4 i 10 oraz usunęła z opisu 13 niezamierzonych niejasności (m.in. zestaw pompowy, wysokość piwnicy, klasa drzwi mieszkań), a druga uzgodniła liczby z geometrią rysunków (dojście z klatki do jezdni ok. 21 m, HZ2 ok. 36,5 m, dojście przez klatkę ok. 40 m, korony lip 6,5 m), dopisała dane o ścianach budynków naprzeciwko i z tyłu, zasięg hydrantów 25 i wysokość koron nad jezdnią, przeniosła gaśnicę sprzed drzwi mieszkania w klatce K1 i powiększyła lokal 2.4 do 25,1 m²."
+  }
+}

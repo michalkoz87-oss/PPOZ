@@ -36,8 +36,10 @@ const base = 'http://localhost:8200/index.html', shots = process.argv[2], only =
       }
       if (w > 1000) { // pomiar: dwa kliknięcia na rysunku muszą dać odczyt w metrach
         await p.click('.dwg-bar button:has-text("Zmierz")');
-        const bb = await (await p.$('.dwg-scroll svg')).boundingBox();
-        await p.mouse.click(bb.x + bb.width * 0.3, bb.y + bb.height * 0.5); await p.mouse.click(bb.x + bb.width * 0.6, bb.y + bb.height * 0.5);
+        // klikamy w widoczną część rysunku: wysoki rysunek jest w przewijanym okienku .dwg-scroll
+        const bb = await (await p.$('.dwg-scroll svg')).boundingBox(), sb = await (await p.$('.dwg-scroll')).boundingBox();
+        const y = (Math.max(bb.y, sb.y) + Math.min(bb.y + bb.height, sb.y + sb.height)) / 2;
+        await p.mouse.click(bb.x + bb.width * 0.3, y); await p.mouse.click(bb.x + bb.width * 0.6, y);
         const read = await p.innerText('.dwg-read'); console.log(w, (id + ' pomiar').padEnd(22), read);
         if (!/Pomiar: \d+,\d m/.test(read)) errs.push('[' + w + '] ' + id + ': pomiar nie działa: ' + read);
       }
