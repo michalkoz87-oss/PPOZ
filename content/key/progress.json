@@ -121,6 +121,29 @@
       "flashcards": 80,
       "note": "Uruchomione bez narzędzia Workflow (osobni agenci z poleceniami z verify-block.js); przerwa na limit użycia w nocy. Arbiter: 244 (B; klasa B jako najniższa niezapalna i niekapiąca), 11 (B; klasy kabli ca), 41 (A; art. 56 ust. 1a PB w brzmieniu z 2016 r.), 174 (B; rozp. hotelarskie spoza korpusu, pobrane z ELI). Sceptyk niczego nie obalił; 135 – pewność wysoka po odczycie tabeli 1 zał. 3 WT z PDF (dopisany do INDEX.md). Pominięte (normy PN-EN 12845, 13501-2/-4 i akt z 2003 r. spoza korpusu): 24, 143, 208, 220, 264, 344, 382, 447, 472, 494, 524.",
       "tokens": 3010000
+    },
+    "D1": {
+      "date": "2026-11-28",
+      "questions": 63,
+      "confirmed": 53,
+      "skipped": 10,
+      "disputed": 12,
+      "skepticChangedAns": 0,
+      "skepticFixed": 6,
+      "conf": {
+        "wysoka": 27,
+        "średnia": 22,
+        "niska": 4
+      },
+      "stanNieustalone": 28,
+      "changedVsOldKey": 13,
+      "lessons": [
+        "T11",
+        "T16"
+      ],
+      "flashcards": 80,
+      "note": "Bez narzędzia Workflow (osobni agenci). 11 pytań o PKN-CEN/TS 54-14:2020 rozstrzygnięto ze źródeł wtórnych (WebSearch; promień czujki dymu 6,2 m, ciepła 4,5 m), pewność najwyżej średnia, stan nieustalony; 308 – zakaz RCD i AFDD w obwodach bezpieczeństwa (PN-HD 60364-5-56:2019). Brak tekstów: PN-EN ISO 7010 (wymaga pobrania), TS 54-14:2020, PN-EN 1838:2025, PN-HD 60364-5-56, PN-EN 54-x, N SEP-E-004/005, PN-EN 81-58, PN-EN 12845. Bez klucza: 1, 17, 76, 106, 127, 168, 172, 270, 310, 351.",
+      "tokens": 2800000
     }
   }
 }

@@ -1,0 +1,19 @@
+[
+ {
+  "id": 512,
+  "ans": "b",
+  "conf": "niska",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie powołuje się na aktualne wydanie PKN-CEN/TS 54-14:2020-09 (ang.; = CEN/TS 54-14:2018), którego tekstu nie ma w korpusie; w korpusie jest tylko projekt z 2006 r. Wartość ustalona ze źródeł wtórnych (artykuły branżowe), nie z tekstu normy.",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14 (wyd. 2006, A.6.5.1 d) – szczególna uwaga dla czujek bliżej niż 1 m od wlotu powietrza lub w strumieniu > 1 m/s; brzmienia wyd. 2020 nie potwierdzono",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "wietrza lub w przestrzeni, w której pr ę dkoś ć  powietrza jest wię ksza 1 m/s, nale ż y zwrócić  szczególną  uwag ę",
+  "expl": "Wydanie 2006 (A.6.5.1 d) każe zwrócić szczególną uwagę na czujki (wszystkie punktowe, nie tylko dymu) umieszczane bliżej niż 1 m od wlotu powietrza lub w strumieniu szybszym niż 1 m/s; z tego wynika odpowiedź 1 m, a 0,5 m to odstęp od ścian. Wątpliwość: to tylko zalecenie z wyd. 2006, a brzmienia wyd. 2018/2020 nie sprawdzono; jeśli nowe wydanie ogranicza ten wymóg do czujek dymu, poprawna byłaby odpowiedź c, a źródła wtórne podają różne odległości (0,5 m, 1,5 m). Pytanie sporne.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "verdict": "Odpowiedź b i niska pewność bez zmian. Poprawiono wyjaśnienie: J twierdził stanowczo, że c jest błędna, bo przepis nie wyłącza czujek ciepła, ale to wynika tylko z tekstu wyd. 2006 (i to z zalecenia „zwrócić szczególną uwagę”, nie z bezwzględnej odległości minimalnej). Rozbudowana opcja c, mówiąca, że wymóg nie dotyczy czujek ciepła, może odpowiadać brzmieniu wyd. 2020, którego nie ma w korpusie; ryzyko opisano w expl."
+ }
+]
