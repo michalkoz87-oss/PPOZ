@@ -59,6 +59,36 @@
 "verif": "zgodne",
 "alt": null
 },
+"11": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "U7",
+"basis": "PN-EN 13501-6 (klasyfikacja ogniowa kabli elektrycznych); § 10 ust. 10 (wymaganie dla kabli) rozp. MI z 16.05.2023 w sprawie warunków technicznych obiektów metra; zał. nr 3 ust. 44 rozp. MI z 24.06.2022 (drogi publiczne)",
+"quote": "Kable i przewody elektryczne oraz światłowodowe zainstalowane wewnątrz tunelu lub stacji metra mają klasę reakcji na",
+"expl": "Klasy z indeksem „ca” (Aca, B1ca, B2ca, Cca, Dca, Eca, Fca) z kryteriami dodatkowymi s (dym), d (płonące krople) i a (kwasowość) to klasy reakcji na ogień kabli elektrycznych wg PN-EN 13501-6; przepisy o metrze wymagają wprost dla kabli i przewodów co najmniej B2ca-s1, d0, a1. Konstrukcje kanałów kablowych klasyfikuje się w zakresie odporności ogniowej (np. EI), a systemy kominowe w zakresie odporności na pożar sadzy (klasa G), nie klasą „ca”.",
+"norms": [
+"PN-EN 13501-6"
+],
+"verif": "źródła",
+"alt": null
+},
+"13": {
+"ans": "b",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "W4",
+"basis": "§ 157 ust. 5 w zw. z § 8 pkt 2 rozp. MI z 12.04.2002 (WT)",
+"quote": "5. Instalacje gazowe zasilane gazem płynnym mogą być wykonywane tylko w budynkach niskich.",
+"expl": "Hala o wysokości 12,70 m to budynek średniowysoki (SW: ponad 12 m do 25 m), a instalacje zasilane gazem płynnym (także promienniki) wolno wykonywać wyłącznie w budynkach niskich (do 12 m). Decyduje wysokość budynku, nie wysokość zawieszenia promienników (odp. a), a opinia komendanta wojewódzkiego PSP (odp. c) dotyczy instalacji gazowych w budynkach powyżej 25 m (§ 157 ust. 4) i nie znosi zakazu z ust. 5.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "16": {
 "ans": "a",
 "ansNow": "=",
@@ -72,6 +102,20 @@
 "norms": [
 "PN-EN 12845"
 ],
+"verif": "źródła",
+"alt": null
+},
+"18": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "W dacie egzaminu obowiązywało rozp. MEN z 31.12.2014 (Dz.U. 2015 poz. 20); zastąpione od 1.09.2017 rozp. MEN z 25.08.2017 (t.j. Dz.U. 2020 poz. 1531), które w § 5 pkt 2 utrzymuje wymaganie EI 30 / EI 30 z samoczynnym zamykaniem.",
+"topic": "S6",
+"basis": "§ 5 pkt 2 rozp. MEN z 25.08.2017 (t.j. Dz.U. 2020 poz. 1531); poprzednio rozp. MEN z 31.12.2014",
+"quote": "EI 30, w których otwory mają zamknięcia o klasie odporności ogniowej co najmniej EI 30 i są wyposażone w urzą-",
+"expl": "Lokal kilkuoddziałowego przedszkola w budynku szkoły niespełniającym wymagań dla ZL II musi być oddzielony od reszty budynku ścianami co najmniej EI 30, a otwory w nich zamknięte zamknięciami co najmniej EI 30 z samoczynnym zamykaniem w razie pożaru. Wartości EI 60 (odp. b i c) są zawyżone i nie wynikają z rozporządzenia.",
+"norms": [],
 "verif": "źródła",
 "alt": null
 },
@@ -210,6 +254,20 @@
 "verif": "zgodne",
 "alt": null
 },
+"41": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "P2",
+"basis": "art. 56 ust. 1a Prawa budowlanego w brzmieniu z dnia egzaminu (t.j. Dz.U. 2016 poz. 290; ustęp dodany nowelizacją z 2015 r.); obecnie art. 56 ust. 1 pkt 2 Prawa budowlanego i art. 6 ust. 6 ustawy o ochronie ppoż.",
+"quote": "2)    Państwowej Straży Pożarnej, jeżeli projekt zagospodarowania działki lub terenu,",
+"expl": "Już w dacie egzaminu art. 56 ust. 1a PB stanowił, że obowiązek zawiadomienia PSP stosuje się również wtedy, gdy projekt budowlany obiektu nieobjętego obowiązkiem uzyskania pozwolenia na użytkowanie wymagał uzgodnienia pod względem ochrony przeciwpożarowej; dziś art. 56 ust. 1 pkt 2 PB wiąże ten obowiązek wyłącznie z wymogiem uzgodnienia ppoż. projektu. Odpowiedź a ignoruje ten przepis, a b jest fałszywa, bo przepisy nie przewidują, by organ nadzoru budowlanego „określał warunek” przedłożenia stanowiska PSP.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "42": {
 "ans": "c",
 "ansNow": "=",
@@ -234,6 +292,36 @@
 "basis": "§ 5 rozp. MSWiA z 7.06.2010 w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów",
 "quote": "§ 5. Właściciele lub zarządcy terenów utrzymują znajdujące się na nich drogi pożarowe w stanie umożliwiającym",
 "expl": "Obowiązek utrzymywania dróg pożarowych w stanie umożliwiającym korzystanie z nich przez pojazdy jednostek ochrony przeciwpożarowej nakłada § 5 rozporządzenia z 7.06.2010. Rozporządzenie z 24.07.2009 określa tylko parametry techniczne dróg pożarowych (do niego § 5 odsyła), a rozporządzenie o lasach dotyczy dróg leśnych jako dojazdów pożarowych.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"45": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "W1",
+"basis": "zał. nr 3 pkt 1.1 tabela 1 do rozp. MI z 12.04.2002 (WT); PN-EN 13501-1",
+"quote": "A2-s3, d0; A2-s3, d1; A2-s3, d2;",
+"expl": "Klasa A2 oznacza wyrób niepalny, d0 – brak płonących kropli (niekapiący), a s3 – dużą emisję dymu; w tabeli 1 zał. 3 WT A2-s3,d0 figuruje zarówno wśród niepalnych i niekapiących, jak i wśród intensywnie dymiących. Odp. b myli znaczenie s i d, a odp. c – „trudno zapalny” odpowiada klasom C, a nie A2.",
+"norms": [
+"PN-EN 13501-1"
+],
+"verif": "źródła",
+"alt": null
+},
+"46": {
+"ans": "b",
+"ansNow": "=",
+"conf": "średnia",
+"stan": "aktualne",
+"stanNote": "W dacie egzaminu rozp. MEN z 31.12.2014 (Dz.U. 2015 poz. 20); obecnie rozp. MEN z 25.08.2017 (t.j. Dz.U. 2020 poz. 1531): § 3 dopuszcza lokal w części budynku spełniającej wymagania ZL II albo przy zgodzie komendanta wojewódzkiego PSP na rozwiązania zamienne (art. 6a ustawy o ochronie ppoż.), bez ograniczenia do pierwszej kondygnacji.",
+"topic": "S6",
+"basis": "§ 3 i § 4 pkt 2 rozp. MEN z 25.08.2017 (t.j. Dz.U. 2020 poz. 1531); poprzednio rozp. MEN z 31.12.2014",
+"quote": "wej dla kategorii zagrożenia ludzi ZL II, określone w przepisach dotyczących ochrony przeciwpożarowej, z tym że do-",
+"expl": "Rozporządzenie nie zabrania lokalizacji przedszkola na drugiej kondygnacji nadziemnej, jeśli lokal spełnia wymagania dla ZL II albo wymagania uzgodnione z komendantem wojewódzkim PSP (dziś: zgoda na rozwiązania zamienne z art. 6a). Złagodzone warunki (do 25 dzieci, dwa wyjścia) z odp. c dotyczą tylko lokalu na pierwszej kondygnacji nadziemnej (§ 4 pkt 2), więc nie mogą uzasadnić drugiej kondygnacji.",
 "norms": [],
 "verif": "źródła",
 "alt": null
@@ -324,6 +412,48 @@
 "verif": "źródła",
 "alt": null
 },
+"68": {
+"ans": "b",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "P2",
+"basis": "art. 36a ust. 6 ustawy – Prawo budowlane (por. art. 36a ust. 5b pkt 2 lit. a)",
+"quote": "6. Projektant dokonuje kwalifikacji zamierzonego odstąpienia od projektu",
+"expl": "Kwalifikacji zamierzonego odstąpienia (istotne albo nieistotne) dokonuje zawsze projektant, także gdy dotyczy ono warunków ochrony przeciwpożarowej. Rzeczoznawca (odp. a) uzgadnia odstąpienie od projektowanych warunków ochrony ppoż. (art. 36a ust. 5b pkt 2 lit. a), ale go nie kwalifikuje, a organ administracji architektoniczno-budowlanej (odp. c) wydaje decyzję o zmianie pozwolenia tylko przy odstąpieniu istotnym.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"72": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "W4",
+"basis": "§ 157 ust. 5 w zw. z § 156 ust. 4 i § 8 pkt 3 rozp. MI z 12.04.2002 (WT)",
+"quote": "5. Instalacje gazowe zasilane gazem płynnym mogą być wykonywane tylko w budynkach niskich.",
+"expl": "Hotel o wysokości 26 m to budynek wysoki (ponad 25 m), a instalację z indywidualną butlą gazu płynnego WT zaliczają do instalacji zasilanych gazem płynnym (§ 156 ust. 4), dopuszczalnych tylko w budynkach niskich. Limit dwóch butli z § 177 pkt 1 (odp. b) stosuje się tylko tam, gdzie gaz płynny w ogóle jest dopuszczony, a opinia komendanta wojewódzkiego PSP (odp. c) dotyczy instalacji gazowych w budynkach powyżej 25 m, nie gazu płynnego.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"78": {
+"ans": "c",
+"ansNow": "=",
+"conf": "średnia",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "W2",
+"basis": "§ 227 ust. 1, 2 i 4 w zw. z § 8 pkt 2 rozp. MI z 12.04.2002 (WT)",
+"quote": "Przy jednoczesnym stosowaniu urządzeń wymienionych w pkt 1 i 2 dopuszcza się powiększenie powierzchni stref pożaro-",
+"expl": "Budynek o wysokości 20 m jest średniowysoki, więc dla ZL I dopuszcza się 5000 m2; strefa obejmująca kondygnację podziemną może mieć 50% tej wartości, czyli 2500 m2, a przy jednoczesnym zastosowaniu tryskaczy i oddymiania sterowanego wykrywaniem dymu powiększa się ją o 200%: 2500 × 3 = 7500 m2. Odp. a pomija powiększenia, a odp. b pomija redukcję dla części podziemnej; 30 000 m2 wymaga więc odstępstwa od 7500 m2.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "79": {
 "ans": "b",
 "ansNow": "=",
@@ -334,6 +464,20 @@
 "basis": "§ 6 ust. 3 i tabela nr 2 załącznika (przypis „Dla garaży nie więcej niż 20 dm3/s”) rozp. MSWiA z 24.07.2009",
 "quote": "* Dla garaży nie więcej niż 20 dm3/s.",
 "expl": "Strefę garażu traktuje się jak strefę produkcyjno-magazynową: ilość wody odczytuje się z tabeli nr 2 według gęstości obciążenia ogniowego i powierzchni strefy, a przypis ogranicza ją dla garaży do 20 dm3/s. Pytanie nie podaje gęstości; spośród progów z odpowiedzi tylko 2000 m2 jest w tabeli granicą przejścia z 10 na 20 dm3/s (wiersz 200–500 MJ/m2), więc klucz zakłada taką gęstość – przepis nie przypisuje jej garażom (przy 500–1000 MJ/m2 20 dm3/s wymaga się już powyżej 1000 m2). 1500 m2 nie jest progiem tabeli, a w wierszu do 200 MJ/m2 powyżej 3000 m2 wymaga się tylko 15 dm3/s (20 dm3/s dopiero powyżej 5000 m2).",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"80": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "Rozp. MG z 21.11.2005 uchylone od 9.09.2023; w obowiązującym rozp. MKiŚ z 24.07.2023 (Dz.U. poz. 1707) § 3 ust. 2 pkt 2 brzmi tak samo – wymiana odmierzacza nie jest przebudową.",
+"topic": "S1",
+"basis": "§ 3 ust. 1 i ust. 2 pkt 2 rozp. MG z 21.11.2005 (Dz.U. 2014 poz. 1853); obecnie § 3 ust. 2 pkt 2 rozp. MKiŚ z 24.07.2023",
+"quote": "wymiana stanowiska nalewczego lub odmierzacza paliw płynnych.",
+"expl": "Rozporządzenie stosuje się przy budowie i przebudowie stacji, a wymiana odmierzacza paliw płynnych z mocy przepisu nie jest przebudową, więc nie wymaga ani odstępstwa (odp. a), ani uzgodnienia z komendantem wojewódzkim PSP rozwiązań „w inny sposób” (odp. b). Ten tryb z § 3 ust. 4 dotyczy wyłącznie przebudowy.",
 "norms": [],
 "verif": "źródła",
 "alt": null
@@ -349,6 +493,22 @@
 "quote": "sokości i szerokości nie mniejszej niż 4,5 m.",
 "expl": "§ 15: wiadukty, estakady, przejścia i inne stałe elementy nad drogą pożarową muszą zapewniać prześwit o wysokości i szerokości co najmniej 4,5 m. Szerokości 3,6 m i 4 m dotyczą przejazdów na dziedzińce (§ 14) i samej drogi pożarowej (§ 13), a nie prześwitu pod estakadą.",
 "norms": [],
+"verif": "źródła",
+"alt": null
+},
+"84": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "W1",
+"basis": "zał. nr 3 pkt 1.2 tabela 2 do rozp. MI z 12.04.2002 (WT); PN-EN 13501-1",
+"quote": "czącym posadzek (w tym wykładzin podłogowych) odpowiadają klasy reakcji na ogień",
+"expl": "Indeks „fl” (floorings) oznacza klasy reakcji na ogień wyrobów podłogowych, a WT stosują tabelę 2 z klasami Afl–Ffl do posadzek, w tym wykładzin podłogowych. Cfl-s2 dotyczy więc obu wyrobów; wybór tylko posadzki albo tylko wykładziny jest niepełny.",
+"norms": [
+"PN-EN 13501-1"
+],
 "verif": "źródła",
 "alt": null
 },
@@ -538,6 +698,34 @@
 "verif": "źródła",
 "alt": null
 },
+"114": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "P2",
+"basis": "art. 6a ust. 1 ustawy o ochronie ppoż. (w dacie egzaminu analogiczne brzmienie w rozp. MSWiA z 7.06.2010)",
+"quote": "wymagań ochrony przeciwpożarowej ograniczają możliwość powstania pożaru,",
+"expl": "Rozwiązania zamienne muszą ograniczać możliwość powstania pożaru, a w razie pożaru zapewniać m.in. możliwość ewakuacji ludzi lub ich uratowania w inny sposób oraz uwzględniać bezpieczeństwo ekip ratowniczych. W odp. b i c celowo zamieniono czasowniki: ewakuację trzeba „zapewnić”, a nie tylko „uwzględnić”, a bezpieczeństwo ekip ratowniczych trzeba „uwzględnić”, a nie „zapewnić”.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"115": {
+"ans": "c",
+"ansNow": "=",
+"conf": "średnia",
+"stan": "aktualne",
+"stanNote": "Rozp. MSWiA z 2.12.2015 uchylone; w obowiązującym rozp. MSWiA z 5.08.2023 § 3 ust. 1 pkt 3, 5 lit. a–b i pkt 10 zachowano te same progi (ZL III ponad 1000 m2, PM ponad 1000/2000 m2 przy ponad 500 MJ/m2, tunel ponad 100 m).",
+"topic": "P2",
+"basis": "§ 3 ust. 1 pkt 3, 5 i 10 rozp. MSWiA z 2.12.2015 w sprawie uzgadniania projektu budowlanego; obecnie § 3 ust. 1 pkt 3, 5 i 10 rozp. MSWiA z 5.08.2023",
+"quote": "powierzchnia wewnętrzna obiektu budowlanego przekracza 2000 m2 i gęstość obciążenia ogniowego przekracza",
+"expl": "Obiekt PM o powierzchni ponad 2000 m2 i gęstości obciążenia ogniowego ponad 500 MJ/m2 wymaga uzgodnienia, a komisja zakłada gęstość rzędu 1000 MJ/m2 (przy gęstości do 500 MJ/m2 obowiązek by nie powstał). Tunel musi mieć ponad 100 m (100 m nie wystarcza), a niski budynek ZL III – strefę przekraczającą 1000 m2 obejmującą kondygnację wyższą niż pierwsza; obie te odpowiedzi to pułapki na progach.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "116": {
 "ans": "a",
 "ansNow": "=",
@@ -698,6 +886,36 @@
 "verif": "źródła",
 "alt": null
 },
+"135": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "W1",
+"basis": "zał. nr 3 pkt 1.1 tabela 1 do rozp. MI z 12.04.2002 w sprawie warunków technicznych (WT; odczyt tabeli wg oficjalnego PDF Dz.U. 2022 poz. 1225)",
+"quote": "A2-s1, d0; A2-s2, d0; A2-s3, d0;",
+"expl": "W tabeli 1 zał. nr 3 do WT za niepalne uznaje się tylko A1 oraz A2-s1,d0, A2-s2,d0 i A2-s3,d0; klasy A2 z kryterium d1 lub d2 (płonące krople) WT zaliczają do niezapalnych, czyli palnych. A2-s1,d1 nie jest więc niepalny, mimo dobrej klasy dymienia s1. O niepalności w WT decyduje kapanie (d0), a nie dymienie: A2-s3,d0 (odp. b) jest niepalny, choć intensywnie dymiący, a A1 (odp. c) jest zawsze niepalny.",
+"norms": [
+"PN-EN 13501-1"
+],
+"verif": "źródła",
+"alt": null
+},
+"137": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "P3",
+"basis": "art. 10 ust. 1 w zw. z art. 5 ust. 1 ustawy z 16.04.2004 o wyrobach budowlanych",
+"quote": "w art. 5 ust. 1, wykonane według indywidualnej dokumentacji technicznej,",
+"expl": "Z jednostkowego zastosowania wyłączone są wyroby z art. 5 ust. 1, czyli objęte normą zharmonizowaną lub zgodne z wydaną dla nich europejską oceną techniczną; mogą one trafiać na rynek wyłącznie zgodnie z rozporządzeniem 305/2011. Krajowa ocena techniczna (odp. b) nie wyłącza jednostkowego zastosowania, więc odp. b i c są błędne.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "144": {
 "ans": "b",
 "ansNow": "=",
@@ -788,6 +1006,20 @@
 "verif": "zgodne",
 "alt": null
 },
+"164": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "P3",
+"basis": "art. 10 ust. 1 w zw. z art. 5 ust. 1 ustawy z 16.04.2004 o wyrobach budowlanych",
+"quote": "budowlanym są wyroby budowlane, z wyłączeniem wyrobów, o których mowa",
+"expl": "Jednostkowe zastosowanie nie obejmuje wyrobów objętych normą zharmonizowaną (lub z europejską oceną techniczną), które wprowadza się do obrotu zgodnie z rozporządzeniem 305/2011, także gdy służą bezpieczeństwu pożarowemu. Odp. b jest błędna przez „w każdym przypadku”, a odp. a wymyśla związek z rozwiązaniami zamiennymi z art. 6a, którego ustawa nie przewiduje.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "167": {
 "ans": "a",
 "ansNow": "=",
@@ -826,6 +1058,20 @@
 "basis": "zał. nr 1 pkt 8 rozp. MI z 17.06.2011 (metro, uchylone); obecnie zał. nr 1 ust. 7 rozp. MI z 16.05.2023",
 "quote": "8. Okładziny, przezroczyste przekrycia, obudowy schodów, ścianki działowe, osłony i przegrody powinny być co najmniej klasy reakcji na ogień B-s1, d0.",
 "expl": "Obudowy schodów (obok okładzin, przezroczystych przekryć, ścianek działowych, osłon i przegród) muszą mieć klasę reakcji na ogień co najmniej B-s1, d0. Klasa A2-s1, d0 jest wymagana dla okładzin sufitów, sufitów podwieszanych i przewodów wentylacyjnych, a same schody i posadzki peronów wykonuje się z materiałów A1fl.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"174": {
+"ans": "a",
+"ansNow": "=",
+"conf": "średnia",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "P1",
+"basis": "§ 4 ust. 2 pkt 2 rozp. MGiP z 19.08.2004 w sprawie obiektów hotelarskich i innych obiektów, w których są świadczone usługi hotelarskie (t.j. Dz.U. 2017 poz. 2166; brzmienie od 16.04.2016 nadane Dz.U. 2015 poz. 1626) w zw. z art. 11i ust. 1 pkt 4 i art. 4 ust. 2a ustawy o ochronie ppoż.",
+"quote": "wykonywania czynności, o których mowa w art. 4 ust. 2a.",
+"expl": "Od 16.04.2016 spełnianie wymagań ppoż. w innych obiektach, w których świadczy się usługi hotelarskie, dokumentuje się opinią komendanta powiatowego (miejskiego) PSP lub osoby wykonującej czynności z art. 4 ust. 2a ustawy o ochronie ppoż.; rzeczoznawca jest z mocy art. 11i ust. 1 pkt 4 uprawniony do czynności z art. 4 ust. 2a, więc może taką opinię wydać. Odpowiedź b jest błędna, bo komendant nie ma wyłączności (tak było tylko do 2016 r.), a c jest pułapką, bo uprawnienie osób z art. 4 ust. 2a przysługuje także rzeczoznawcy.",
 "norms": [],
 "verif": "źródła",
 "alt": null
@@ -1004,6 +1250,20 @@
 "verif": "źródła",
 "alt": null
 },
+"209": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "P2",
+"basis": "art. 6e ust. 4 pkt 2 ustawy o ochronie ppoż. (w dacie egzaminu analogiczny przepis o unieważnieniu uzgodnienia)",
+"quote": "w drodze postanowienia uzgodnić poprawiony lub opracowany na nowo",
+"expl": "Po unieważnieniu uzgodnienia komendant wojewódzki PSP „może na wniosek inwestora” uzgodnić, w drodze postanowienia, poprawiony lub opracowany na nowo projekt. Przepis mówi „może” i wymaga wniosku inwestora, więc nie jest to obowiązek organu (odp. a); rzeczoznawca, którego uzgodnienie unieważniono (odp. b), nie ma w tym trybie żadnej roli.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "211": {
 "ans": "a",
 "ansNow": "=",
@@ -1031,6 +1291,51 @@
 "quote": "3)   kinach o liczbie miejsc powyżej 600;",
 "expl": "SSP jest wymagany w kinach o liczbie miejsc powyżej 600, więc spośród podanych wartości tylko 700 przekracza próg. Próg 300 miejsc (a) dotyczy teatrów, a 500 miejsc (b) nie jest progiem w § 28.",
 "norms": [],
+"verif": "źródła",
+"alt": null
+},
+"213": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "P3",
+"basis": "art. 9 ust. 1 pkt 1 ustawy z 16.04.2004 o wyrobach budowlanych",
+"quote": "nieobjętego zakresem przedmiotowym Polskiej Normy wyrobu, albo",
+"expl": "Dla wyrobu nieobjętego Polską Normą wyrobu w krajowym systemie wydaje się krajową ocenę techniczną (od 1.01.2017). Krajowa aprobata techniczna (odp. b) to dokument z poprzedniego stanu prawnego, a „krajowy certyfikat techniczny” (odp. c) nie istnieje w ustawie.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"216": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "Rozp. z 2.12.2015 uchylone; obowiązujące rozp. MSWiA z 5.08.2023 ma w § 3 ust. 1 pkt 1–3 te same kryteria — odpowiedź bez zmian.",
+"topic": "P2",
+"basis": "§ 3 ust. 1 pkt 1–3 rozp. MSWiA z 2.12.2015 w sprawie uzgadniania projektu budowlanego pod względem ochrony ppoż. (obecnie § 3 ust. 1 pkt 1–3 rozp. MSWiA z 5.08.2023); § 8 pkt 1 WT (grupa N)",
+"quote": "budynek niski zawierający strefę pożarową o powierzchni przekraczającej 1000 m2, zakwalifikowaną do kategorii",
+"expl": "Budynek niski ZL III wymaga uzgodnienia dopiero, gdy strefa ZL III przekracza 1000 m2 i obejmuje kondygnację nadziemną inną niż pierwsza; budynek mieszkalny do 4 kondygnacji nadziemnych jest niski (N), a ZL IV w budynku N i strefa ZL III 1000 m2 na parterze nie spełniają żadnego kryterium, więc projekt z wariantu c nie wymaga uzgodnienia. Biurowiec z wariantu a ma jedną strefę 2 × 750 = 1500 m2 obejmującą drugą kondygnację, a hotel (ZL V) wymaga uzgodnienia niezależnie od wielkości.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"217": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "W1",
+"basis": "§ 208a ust. 3 rozp. MI z 12.04.2002 (WT) w zw. z zał. nr 1 (PN-B-02867:2013-06)",
+"quote": "a przy działaniu ognia od zewnątrz budynku określa się zgodnie z Polską Normą dotyczącą metody badania stopnia",
+"expl": "Dla ścian zewnętrznych z ociepleniem i okładziną stopień rozprzestrzeniania ognia przy działaniu ognia od zewnątrz określa się wg PN-B-02867 (metoda badania stopnia rozprzestrzeniania ognia przez ściany zewnętrzne, NRO/SRO/SIRO). PN-EN 13501-1 (wraz z zał. 3 WT) służy do oceny przy działaniu ognia od wewnątrz budynku, a norma PN-EN 13501-7 w podanym brzmieniu nie istnieje.",
+"norms": [
+"PN-B-02867",
+"PN-EN 13501-1"
+],
 "verif": "źródła",
 "alt": null
 },
@@ -1090,6 +1395,20 @@
 "expl": "Powiększenie stref ZL (o 100% za SUG wodne, o 100% za oddymianie uruchamiane wykrywaniem dymu) nie dotyczy stref w wielokondygnacyjnych budynkach wysokich (W) i wysokościowych (WW). Urządzenia mgłowe są SUG wodnymi, ale w takim budynku powiększenie i tak nie przysługuje.",
 "norms": [],
 "verif": "zgodne",
+"alt": null
+},
+"227": {
+"ans": "b",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "R1",
+"basis": "§ 17a ust. 2 rozp. MSWiA z 7.06.2010 w zw. z art. 4 ust. 2a ustawy o ochronie ppoż.",
+"quote": "dokonywane są z udziałem rzeczoznawcy do spraw zabezpieczeń",
+"expl": "Praktyczne sprawdzenie ewakuacji w escape roomach przeprowadza się z udziałem rzeczoznawcy ds. zabezpieczeń ppoż. lub osoby z art. 4 ust. 2a ustawy, czyli inżyniera pożarnictwa albo absolwenta SGSP (dziś także Akademii Pożarniczej) w specjalności inżynieria bezpieczeństwa pożarowego. Funkcjonariusz PSP nie bierze udziału, komendanta powiatowego PSP tylko się powiadamia (co najmniej 7 dni wcześniej). Inspektor ochrony ppoż. to kwalifikacja z art. 4 ust. 2b, która tu nie wystarcza.",
+"norms": [],
+"verif": "źródła",
 "alt": null
 },
 "228": {
@@ -1204,6 +1523,22 @@
 "verif": "źródła",
 "alt": null
 },
+"244": {
+"ans": "b",
+"ansNow": "=",
+"conf": "średnia",
+"stan": "aktualne",
+"stanNote": "WT z 2002 r. utraciły moc 21.09.2026 bez następcy; § 262 ust. 1 i zał. nr 3 tabela 1 w ostatnim brzmieniu przyjęto jako przepisy odniesienia (bez zmian względem t.j. Dz.U. 2019 poz. 1065 obowiązującego w dacie egzaminu).",
+"topic": "W1",
+"basis": "§ 262 ust. 1 w zw. z § 208a ust. 1 i zał. nr 3 pkt 1.1 tabela 1 rozp. MI z 12.04.2002 w sprawie warunków technicznych (WT)",
+"quote": "Okładziny sufitów oraz sufity podwieszone należy wykonywać z materiałów niepalnych lub niezapalnych,",
+"expl": "§ 262 ust. 1 WT wymaga okładzin sufitów i sufitów podwieszonych z materiałów niepalnych lub niezapalnych, niekapiących i nieodpadających pod wpływem ognia (poza mieszkaniami). W tabeli 1 zał. nr 3 WT „niezapalne” to wszystkie klasy B oraz klasy A2 z d1 lub d2, a cała klasa C (także C-sX, d0) to wyroby „trudno zapalne”; najniższa klasa niezapalna i zarazem niekapiąca (d0) to więc B-s3, d0, czyli w klasyfikacji podstawowej B. Odpowiedź C jest błędna, bo C to wyroby trudno zapalne, a A2 to wymaganie wyższe niż minimalne.",
+"norms": [
+"PN-EN 13501-1"
+],
+"verif": "źródła",
+"alt": null
+},
 "253": {
 "ans": "b",
 "ansNow": "=",
@@ -1228,6 +1563,20 @@
 "basis": "§ 284 pkt 2 i 3 WT (rozp. MI z 12.04.2002)",
 "quote": "w bezściółkowym chowie bydła, trzody chlewnej i owiec, jeżeli liczba bydła i trzody chlewnej nie przekracza 15 sztuk, a owiec – 200 sztuk, należy stosować co najmniej jedno wyjście ewakuacyjne",
 "expl": "Przy bezściółkowym chowie owiec jedno wyjście ewakuacyjne wystarcza, jeśli liczba owiec nie przekracza 200 sztuk – 180 owiec mieści się w tym limicie. Dwa wyjścia są wymagane dopiero przy większej liczbie zwierząt (powyżej 200 owiec albo powyżej 15 sztuk bydła lub trzody chlewnej).",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"255": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "S4",
+"basis": "art. 42 ust. 4b pkt 1 lit. a ustawy z 14.12.2012 o odpadach",
+"quote": "rzeczoznawcę do spraw zabezpieczeń przeciwpożarowych, o którym",
+"expl": "Gdy zezwolenie wydaje marszałek województwa (lub RDOŚ), operat przeciwpożarowy sporządza wyłącznie rzeczoznawca ds. zabezpieczeń ppoż. Osoba z art. 4 ust. 2a ustawy o ochronie ppoż. (np. inżynier pożarnictwa) może go sporządzić tylko wtedy, gdy organem jest starosta, dlatego odpowiedzi b i c są błędne.",
 "norms": [],
 "verif": "źródła",
 "alt": null
@@ -1418,6 +1767,20 @@
 "basis": "§ 249 ust. 3 i 4 WT (pytanie cytuje t.j. Dz.U. 2019 poz. 1065; ostatni t.j. Dz.U. 2022 poz. 1225 – brzmienie bez zmian)",
 "quote": "Wymaganie klasy odporności ogniowej, o którym mowa w ust. 3, nie dotyczy klatek schodowych wydzielonych na każdej kondygnacji przedsionkami przeciwpożarowymi oraz schodów na antresolę w pomieszczeniu, w którym się ona znajduje, jeżeli antresola ta jest przeznaczona do użytku nie więcej niż 10 osób.",
 "expl": "Zasadą z § 249 ust. 3 jest, że biegi i spoczniki schodów ewakuacyjnych wykonuje się z materiałów niepalnych i w klasie R 60 (budynki klasy „A”, „B”, „C”) albo R 30 („D”, „E”). Ust. 4 wyłącza jednak wymaganie klasy odporności ogniowej dla klatek wydzielonych na każdej kondygnacji przedsionkami przeciwpożarowymi – pozostaje więc tylko wymóg niepalności. Odpowiedź R 60 byłaby poprawna dla budynku wysokiego (klasa „B”) bez przedsionków na każdej kondygnacji.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"285": {
+"ans": "b",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "W4",
+"basis": "§ 157 ust. 4 WT (ust. 3 dotyczy budynków o wysokości > 35 m)",
+"quote": "Zastosowanie instalacji gazowej w budynkach o wysokości ponad 25 m wymaga uzyskania pozytywnej opinii",
+"expl": "Budynek wysoki ma ponad 25 m, więc instalacja gazowa wymaga pozytywnej opinii właściwego komendanta wojewódzkiego PSP (§ 157 ust. 4). Ograniczenie do pomieszczeń technicznych z urządzeniami gazowymi (odpowiedź c) dotyczy dopiero budynków wyższych niż 35 m, a całkowitego zakazu (odpowiedź a) WT nie przewidują.",
 "norms": [],
 "verif": "źródła",
 "alt": null
@@ -2026,6 +2389,20 @@
 "verif": "sporne",
 "alt": "b"
 },
+"377": {
+"ans": "b",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "W4",
+"basis": "§ 157 ust. 3 i 4 WT",
+"quote": "Instalacja gazowa w budynku o wysokości większej niż 35 m ponad poziomem terenu może być doprowadzona",
+"expl": "Ograniczenie z § 157 ust. 3 (gaz tylko do pomieszczeń technicznych) dotyczy budynków o wysokości WIĘKSZEJ niż 35 m, więc budynku o wysokości dokładnie 35 m nie obejmuje. Ponieważ budynek ma ponad 25 m, stosuje się § 157 ust. 4, czyli potrzebna jest pozytywna opinia komendanta wojewódzkiego PSP; odstępstwo z art. 9 Prawa budowlanego nie jest konieczne.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "378": {
 "ans": "b",
 "ansNow": "=",
@@ -2040,6 +2417,20 @@
 "PN-EN 12845"
 ],
 "verif": "zgodne",
+"alt": null
+},
+"381": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "P2",
+"basis": "§ 9 ust. 2 rozp. MRPiT z 11.09.2020 w sprawie szczegółowego zakresu i formy projektu budowlanego",
+"quote": "lub dymoszczelności elementów oddzielenia przeciwpożarowego i innych elementów obiektu",
+"expl": "Na części rysunkowej PAB i PT oznacza się klasy odporności ogniowej lub dymoszczelności elementów oddzielenia ppoż. oraz innych elementów, w których przejścia instalacyjne muszą być zabezpieczone, a także drzwi, bram i innych zamknięć ppoż. Odpowiedzi a i b są niepełne: pomijają przejścia instalacyjne i zamknięcia, a obudowy dróg ewakuacyjnych nie są w przepisie wyodrębnione.",
+"norms": [],
+"verif": "źródła",
 "alt": null
 },
 "382": {
@@ -2168,6 +2559,20 @@
 "basis": "§ 12 ust. 6 pkt 1 rozp. MSWiA z 24.07.2009",
 "quote": "i 60 cm, lub ma zapewnione dotarcie do takiego",
 "expl": "Gdy okna dla ekip ratowniczych zastępują drogę pożarową wzdłuż budynku, każda klatka schodowa służąca ewakuacji ma mieć takie okno lub zapewnione dotarcie do niego poziomą drogą ewakuacyjną nie dłuższą niż 50 m. Okna nie muszą więc być w każdej klatce ewakuacyjnej (b), a tym bardziej w klatkach nieewakuacyjnych (a); wystarczy tyle okien, by do każdego dało się dojść w 50 m.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
+"395": {
+"ans": "b",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "P2",
+"basis": "§ 3 ust. 1 pkt 6 lit. c rozp. MSWiA z 17.09.2021 (obecnie tak samo § 3 ust. 1 pkt 6 lit. c rozp. MSWiA z 5.08.2023)",
+"quote": "zawierający w strefie pożarowej stanowiska postojowe przeznaczone dla więcej niż 20 samochodów",
+"expl": "Uzgodnienia wymaga garaż, który w strefie pożarowej ma więcej niż 20 stanowisk wielopoziomowych, a 30 stanowisk przekracza ten próg; punkty ładowania pojazdów elektrycznych nie mają tu znaczenia. Budynek N z ZL III wymaga uzgodnienia dopiero przy strefie ponad 1000 m2 obejmującej kondygnację inną niż pierwsza (800 m2 nie spełnia), a strefa PM 4000 m2 przy 200 MJ/m2 nie przekracza progów: 1000 m2 i 500 MJ/m2 lub 5000 m2.",
 "norms": [],
 "verif": "źródła",
 "alt": null
@@ -2316,6 +2721,20 @@
 "verif": "źródła",
 "alt": null
 },
+"423": {
+"ans": "b",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "X1",
+"basis": "§ 222 ust. 1 i 2 WT",
+"quote": "nich instalacji i urządzeń przeciwwybuchowych, uzgodnionych z właściwym komendantem wojewódzkim Państwowej",
+"expl": "Pomieszczenie zagrożone wybuchem sytuuje się na najwyższej kondygnacji, chyba że budynek jest na terenie zamkniętym. Inne usytuowanie, np. na parterze budynku dwukondygnacyjnego, jest dopuszczalne po zastosowaniu instalacji i urządzeń przeciwwybuchowych uzgodnionych z komendantem wojewódzkim PSP. Wskaźnik 0,065 m2/m3 z § 221 ust. 2 zwalnia tylko z wymogu lekkiego dachu, a nie z wymogu usytuowania.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "425": {
 "ans": "c",
 "ansNow": "=",
@@ -2408,6 +2827,20 @@
 "verif": "źródła",
 "alt": null
 },
+"439": {
+"ans": "b",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "P2",
+"basis": "§ 3 ust. 1 pkt 3, 6 lit. a, 7 i 10 rozp. MSWiA z 17.09.2021 w sprawie uzgadniania (to samo w § 3 ust. 1 rozp. z 5.08.2023) w zw. z § 28 ust. 1 pkt 1 lit. a i § 27 ust. 2 pkt 1 rozp. MSWiA z 7.06.2010",
+"quote": "zagrożenia ludzi ZL III, obejmującą kondygnację nadziemną inną niż pierwsza;",
+"expl": "Budynek N ze strefą ZL III podlega uzgodnieniu tylko wtedy, gdy strefa ponad 1000 m2 obejmuje kondygnację nadziemną inną niż pierwsza, a parterowy pawilon tego warunku nie spełnia. Nie łapie go też pkt 7: SSP w jednokondygnacyjnym budynku handlowym jest wymagany przy strefie powyżej 5000 m2 (tu jest dokładnie 5000 m2), a SUG i DSO dotyczą stref ZL I powyżej 8000 m2. Garaż dwukondygnacyjny jest wielokondygnacyjny (pkt 6 lit. a), a tunel pieszy o długości 150 m mieści się w pkt 10.",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "443": {
 "ans": "b",
 "ansNow": "=",
@@ -2419,6 +2852,23 @@
 "quote": "W budynkach wyposażonych w stałe samoczynne urządzenia gaśnicze wodne, z wyjątkiem budynków ZL II oraz wielokondygnacyjnych budynków wysokich (W) i wysokościowych (WW), dopuszcza się: 1) obniżenie klasy odporności pożarowej budynku o jedną w stosunku do wynikającej z § 212;",
 "expl": "Dom dla osób starszych to ZL II, a § 214 wprost wyłącza budynki ZL II z możliwości obniżenia klasy odporności pożarowej dzięki tryskaczom – odpowiedź a) jest więc błędna, mimo że powiększenie o 50% przejść (§ 237 ust. 6) i dojść (§ 256 ust. 4) jest dopuszczalne. Natomiast § 227 ust. 4 pkt 1 pozwala powiększyć powierzchnię strefy pożarowej o 100% przy stałych samoczynnych urządzeniach gaśniczych wodnych, z wyjątkiem wielokondygnacyjnych budynków W i WW – budynek średniowysoki z tego korzysta. Skoro a) jest fałszywa, odpada też c).",
 "norms": [],
+"verif": "źródła",
+"alt": null
+},
+"445": {
+"ans": "a",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "W1",
+"basis": "zał. nr 3 pkt 4.1 ppkt 2 WT",
+"quote": "4.1. Nierozprzestrzeniającym ognia przekryciom dachów odpowiadają przekrycia:",
+"expl": "Według zał. 3 pkt 4.1 WT za nierozprzestrzeniające ognia uznaje się zarówno przekrycia BROOF(t1) badane wg PN-ENV 1187 (badanie 1), jak i przekrycia klasy BROOF uznane bez badań na podstawie decyzji KE. Słabo rozprzestrzeniające ogień są przekrycia spełniające tylko kryteria grupy b, a silnie rozprzestrzeniające – FROOF(t1).",
+"norms": [
+"PN-EN 13501-5",
+"PN-ENV 1187"
+],
 "verif": "źródła",
 "alt": null
 },
@@ -2508,6 +2958,20 @@
 "PN-EN 12845"
 ],
 "verif": "zgodne",
+"alt": null
+},
+"460": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "P3",
+"basis": "art. 10 ust. 1 ustawy z 16.04.2004 o wyrobach budowlanych (por. art. 20 ust. 1 pkt 3a Prawa budowlanego)",
+"quote": "sporządzonej przez projektanta obiektu lub z nim uzgodnionej, dla których",
+"expl": "Wyrób dopuszczony do jednostkowego zastosowania wykonuje się według indywidualnej dokumentacji technicznej sporządzonej przez projektanta obiektu lub z nim uzgodnionej, a producent wydaje oświadczenie o zgodności. Przepis nie wymaga uzgodnienia tej dokumentacji z rzeczoznawcą ds. zabezpieczeń ppoż., także dla wyrobów służących bezpieczeństwu pożarowemu.",
+"norms": [],
+"verif": "źródła",
 "alt": null
 },
 "461": {
@@ -2614,6 +3078,20 @@
 "verif": "źródła",
 "alt": null
 },
+"487": {
+"ans": "c",
+"ansNow": "=",
+"conf": "wysoka",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "P2",
+"basis": "§ 3 ust. 1 pkt 3, 4 i 10 rozp. MSWiA z 5.08.2023 w sprawie uzgadniania projektu …",
+"quote": "10) tunel o długości ponad 100 m przeznaczony do ruchu pojazdów lub pieszych;",
+"expl": "Uzgodnienia wymaga tylko tunel dłuższy niż 100 m przeznaczony do ruchu pojazdów lub pieszych, więc tunel technologiczny nie jest objęty tym obowiązkiem. Budynek N ze strefą ZL III ponad 1000 m2 (tu 1500 m2) na kondygnacji innej niż pierwsza wymaga uzgodnienia. Wymaga go też obiekt inny niż budynek, w którym w strefie jest ponad 50 osób (tu 80) na powierzchni do 2000 m2 (tu 1800 m2).",
+"norms": [],
+"verif": "źródła",
+"alt": null
+},
 "491": {
 "ans": "c",
 "ansNow": "=",
@@ -2683,6 +3161,25 @@
 "quote": "czerpania wody o wymiarach zapewniaj",
 "expl": "Przy hydrancie do intensywnego czerpania wody (sieć ≥ DN 250) przewiduje się stanowisko czerpania wody o wymiarach zapewniających swobodny dostęp do hydrantu (§ 10 ust. 9 pkt 5). Średnica hydrantu ma wynosić DN 100 lub DN 150 (DN 125 to minimalna średnica przewodu sieci rozgałęzieniowej z § 9 ust. 7), a wydajność przy 0,2 MPa co najmniej 20 dm3/s, nie 15 dm3/s.",
 "norms": [],
+"verif": "źródła",
+"alt": null
+},
+"506": {
+"ans": "a",
+"ansNow": "=",
+"conf": "średnia",
+"stan": "aktualne",
+"stanNote": "",
+"topic": "P3",
+"basis": "załącznik do rozp. MSWiA z 20.06.2007 (w brzmieniu rozp. z 27.04.2010), pkt 10 i 11 wymagań techniczno-użytkowych",
+"quote": "10.5. RĘCZNE OSTRZEGACZE POŻAROWE (ROP)",
+"expl": "Wykaz wyrobów wymagających świadectwa dopuszczenia CNBOP-PIB obejmuje z SSP m.in. centrale, panele dla straży pożarnej, urządzenia transmisji alarmów i ręczne ostrzegacze pożarowe (pkt 10.5), a z elementów alarmowych sygnalizatory akustyczne i optyczne (pkt 11.4 i 11.5). Czujek pożarowych w wykazie nie ma (oznacza się je znakiem CE według zharmonizowanej EN 54-7), więc nie wymagają świadectwa dopuszczenia. Zmiany z 2018, 2022 i 2026 r. tych pozycji nie dotyczyły.",
+"norms": [
+"PN-EN 54-7",
+"PN-EN 54-11",
+"PN-EN 54-3",
+"PN-EN 54-23"
+],
 "verif": "źródła",
 "alt": null
 },

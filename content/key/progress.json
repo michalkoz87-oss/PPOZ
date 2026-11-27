@@ -100,6 +100,27 @@
       ],
       "note": "Pierwszy blok ze sceptykiem: żadnej odpowiedzi nie obalił, poprawił 7 wyjaśnień (m.in. 29 – odwrócone rozumowanie o promieniu łuku, 367 – klasa E ściany a 16 m, 170 – 150 m między punktami alarmowymi). Niepewne: 175 (głębokość 2 m czy 3 m przy zamarzaniu) i 194 (żadna opcja nie powtarza § 12 ust. 5); 371, 474, 529 zależą od wykresu PN-B-02852 spoza korpusu.",
       "tokens": 1966294
+    },
+    "P": {
+      "date": "2026-11-27",
+      "questions": 45,
+      "confirmed": 34,
+      "skipped": 11,
+      "disputed": 4,
+      "skepticChangedAns": 0,
+      "skepticFixed": 2,
+      "conf": {
+        "wysoka": 28,
+        "średnia": 6
+      },
+      "changedVsOldKey": 9,
+      "lessons": [
+        "T01",
+        "T02"
+      ],
+      "flashcards": 80,
+      "note": "Uruchomione bez narzędzia Workflow (osobni agenci z poleceniami z verify-block.js); przerwa na limit użycia w nocy. Arbiter: 244 (B; klasa B jako najniższa niezapalna i niekapiąca), 11 (B; klasy kabli ca), 41 (A; art. 56 ust. 1a PB w brzmieniu z 2016 r.), 174 (B; rozp. hotelarskie spoza korpusu, pobrane z ELI). Sceptyk niczego nie obalił; 135 – pewność wysoka po odczycie tabeli 1 zał. 3 WT z PDF (dopisany do INDEX.md). Pominięte (normy PN-EN 12845, 13501-2/-4 i akt z 2003 r. spoza korpusu): 24, 143, 208, 220, 264, 344, 382, 447, 472, 494, 524.",
+      "tokens": 3010000
     }
   }
 }
