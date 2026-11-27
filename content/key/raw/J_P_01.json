@@ -1,0 +1,23 @@
+[
+{"id":11,"ans":"a","conf":"wysoka","ansNow":"=","stan":"aktualne","stanNote":"","topic":"U7",
+"basis":"PN-EN 13501-6 (klasyfikacja ogniowa kabli elektrycznych); § 10 ust. 10 (wymaganie dla kabli) rozp. MI z 16.05.2023 w sprawie warunków technicznych obiektów metra; zał. nr 3 ust. 44 rozp. MI z 24.06.2022 (drogi publiczne)",
+"src":"akty/metro_2023.txt",
+"quote":"Kable i przewody elektryczne oraz światłowodowe zainstalowane wewnątrz tunelu lub stacji metra mają klasę reakcji na",
+"expl":"Klasy z indeksem „ca” (Aca, B1ca, B2ca, Cca, Dca, Eca, Fca) z kryteriami dodatkowymi s (dym), d (płonące krople) i a (kwasowość) to klasy reakcji na ogień kabli elektrycznych wg PN-EN 13501-6; przepisy o metrze wymagają wprost dla kabli i przewodów co najmniej B2ca-s1, d0, a1. Konstrukcje kanałów kablowych klasyfikuje się w zakresie odporności ogniowej (np. EI), a systemy kominowe w zakresie odporności na pożar sadzy (klasa G), nie klasą „ca”.",
+"norms":["PN-EN 13501-6"],
+"verdict":"Rację ma B (a). A pominął pytanie; tymczasem rozporządzenia z korpusu (metro_2023 linia 1046–1047, drogi_2022 linia 2308) przypisują klasę B2ca-s1, d0(, a1) wprost kablom i przewodom, więc pytanie da się rozstrzygnąć ze źródeł."},
+{"id":41,"ans":"c","conf":"wysoka","ansNow":"=","stan":"aktualne","stanNote":"","topic":"P2",
+"basis":"art. 56 ust. 1a Prawa budowlanego w brzmieniu z dnia egzaminu (t.j. Dz.U. 2016 poz. 290; ustęp dodany nowelizacją z 2015 r.); obecnie art. 56 ust. 1 pkt 2 Prawa budowlanego i art. 6 ust. 6 ustawy o ochronie ppoż.",
+"src":"akty/prawo_budowlane.txt",
+"quote":"2)    Państwowej Straży Pożarnej, jeżeli projekt zagospodarowania działki lub terenu,",
+"expl":"Już w dacie egzaminu art. 56 ust. 1a PB stanowił, że obowiązek zawiadomienia PSP stosuje się również wtedy, gdy projekt budowlany obiektu nieobjętego obowiązkiem uzyskania pozwolenia na użytkowanie wymagał uzgodnienia pod względem ochrony przeciwpożarowej; dziś art. 56 ust. 1 pkt 2 PB wiąże ten obowiązek wyłącznie z wymogiem uzgodnienia ppoż. projektu. Odpowiedź a ignoruje ten przepis, a b jest fałszywa, bo przepisy nie przewidują, by organ nadzoru budowlanego „określał warunek” przedłożenia stanowiska PSP.",
+"norms":[],
+"verdict":"Rację ma A (c). B przyjął z pamięci, że w ok. 2016 r. art. 56 ust. 1 PB dotyczył tylko obiektów z pozwoleniem na użytkowanie; pominął jednak ust. 1a (t.j. Dz.U. 2016 poz. 290, sprawdzony w oficjalnym PDF), który obejmował dokładnie stan faktyczny z pytania. Odpowiedź c jest więc poprawna wtedy i dziś."},
+{"id":174,"ans":"a","conf":"średnia","ansNow":"=","stan":"aktualne","stanNote":"","topic":"P1",
+"basis":"§ 4 ust. 2 pkt 2 rozp. MGiP z 19.08.2004 w sprawie obiektów hotelarskich i innych obiektów, w których są świadczone usługi hotelarskie (t.j. Dz.U. 2017 poz. 2166; brzmienie od 16.04.2016 nadane Dz.U. 2015 poz. 1626) w zw. z art. 11i ust. 1 pkt 4 i art. 4 ust. 2a ustawy o ochronie ppoż.",
+"src":"akty/ustawa_ppoz.txt",
+"quote":"wykonywania czynności, o których mowa w art. 4 ust. 2a.",
+"expl":"Od 16.04.2016 spełnianie wymagań ppoż. w innych obiektach, w których świadczy się usługi hotelarskie, dokumentuje się opinią komendanta powiatowego (miejskiego) PSP lub osoby wykonującej czynności z art. 4 ust. 2a ustawy o ochronie ppoż.; rzeczoznawca jest z mocy art. 11i ust. 1 pkt 4 uprawniony do czynności z art. 4 ust. 2a, więc może taką opinię wydać. Odpowiedź b jest błędna, bo komendant nie ma wyłączności (tak było tylko do 2016 r.), a c jest pułapką, bo uprawnienie osób z art. 4 ust. 2a przysługuje także rzeczoznawcy.",
+"norms":[],
+"verdict":"Rację ma B (a). Rozporządzenia hotelarskiego nie ma w korpusie; jego brzmienie sprawdziłem w oficjalnych PDF (Dz.U. 2015 poz. 1626 i t.j. Dz.U. 2017 poz. 2166, § 4 ust. 2 pkt 2), a zmiana Dz.U. 2026 poz. 1150 nie dotyczy tego przepisu. Pewność średnia, bo odpowiedź wynika z połączenia dwóch przepisów, a rozporządzenia nie ma w korpusie."}
+]
