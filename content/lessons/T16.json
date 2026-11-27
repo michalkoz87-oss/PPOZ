@@ -61,7 +61,7 @@
   },
   {
    "h": "Parametry oświetlenia ewakuacyjnego według PN-EN 1838:2013-11",
-   "text": "Norma podaje wartości minimalne liczone na koniec okresu trwałości urządzeń, z pominięciem światła odbitego (pkt 4.1.1). Oprawy i znaki na drodze ewakuacyjnej umieszcza się co najmniej 2 m nad podłogą (pkt 4.1.1).\nPunkty o szczególnym znaczeniu (pkt 4.1.2) to m.in.: drzwi wyjściowe, schody (każdy stopień oświetlony bezpośrednio), inne zmiany poziomu, zmiany kierunku, skrzyżowania korytarzy, wyjście końcowe i teren na zewnątrz do miejsca bezpiecznego, punkty pierwszej pomocy, sprzęt pożarowy i przyciski alarmowe, sprzęt ewakuacyjny i miejsca schronienia dla osób niepełnosprawnych. „W pobliżu” oznacza do 2 m w poziomie (pkt 4.1.2, UWAGA 1). Na sprzęcie pożarowym, przyciskach alarmowych, centrali sygnalizacji pożaru i apteczce trzeba zapewnić 5 lx w płaszczyźnie pionowej (pkt 4.1.2 h, i).\nOświetlenie strefy otwartej jest wymagane w toaletach dla osób niepełnosprawnych (pkt 4.3.8). Drogi szersze niż 2 m można traktować jak kilka dróg o szerokości 2 m albo oświetlić jak strefę otwartą (pkt 4.2.1). Oświetlenie zapasowe o natężeniu niższym niż podstawowe służy tylko do przerwania lub zakończenia czynności (pkt 4.5).\nAktualne wydanie PN-EN 1838:2025-05 nie zostało sprawdzone; w pytaniu z 2025 r. o strefę otwartą komisja cytowała już to wydanie.",
+   "text": "Norma podaje wartości minimalne liczone na koniec okresu trwałości urządzeń, z pominięciem światła odbitego (pkt 4.1.1). Oprawy i znaki na drodze ewakuacyjnej umieszcza się co najmniej 2 m nad podłogą (pkt 4.1.1).\nPunkty o szczególnym znaczeniu (pkt 4.1.2) to m.in.: drzwi wyjściowe, schody (każdy stopień oświetlony bezpośrednio), inne zmiany poziomu, zmiany kierunku, skrzyżowania korytarzy, wyjście końcowe i teren na zewnątrz do miejsca bezpiecznego, punkty pierwszej pomocy, sprzęt pożarowy i przyciski alarmowe, sprzęt ewakuacyjny i miejsca schronienia dla osób niepełnosprawnych. „W pobliżu” oznacza do 2 m w poziomie (pkt 4.1.2, UWAGA 1). Na sprzęcie pożarowym, przyciskach alarmowych, centrali sygnalizacji pożaru i apteczce trzeba zapewnić 5 lx w płaszczyźnie pionowej (pkt 4.1.2 h, i).\nOświetlenie strefy otwartej jest wymagane w toaletach dla osób niepełnosprawnych (pkt 4.3.8). Drogi szersze niż 2 m można traktować jak kilka dróg o szerokości 2 m albo oświetlić jak strefę otwartą (pkt 4.2.1). Oświetlenie zapasowe o natężeniu niższym niż podstawowe służy tylko do przerwania lub zakończenia czynności (pkt 4.5).\nAktualne wydanie PN-EN 1838:2025-05 nie zostało sprawdzone, a w pytaniach egzaminacyjnych raz powołano już to wydanie; wartości z tabeli trzeba w nim potwierdzić (do sprawdzenia w normie).",
    "table": {
     "head": [
      "Parametr",
@@ -105,7 +105,7 @@
   },
   {
    "h": "Znaki bezpieczeństwa: obowiązek oznakowania i wymagania normy",
-   "text": "Właściciele, zarządcy i użytkownicy budynków (z wyjątkiem mieszkalnych jednorodzinnych) oznakowują znakami zgodnymi z Polskimi Normami m.in.: drogi i wyjścia ewakuacyjne (z wyłączeniem budynków mieszkalnych) oraz pomieszczenia, w których wymagane są co najmniej 2 wyjścia ewakuacyjne; miejsca usytuowania urządzeń przeciwpożarowych, gaśnic i elementów sterujących urządzeniami; nasady zasilające instalację wodociągową ppoż., kurki główne gazu; pomieszczenia z materiałami niebezpiecznymi pożarowo; drabiny ewakuacyjne, rękawy, maski ucieczkowe, miejsca zbiórki, klucze do wyjść; dźwigi dla straży pożarnej; zbiorniki i punkty poboru wody; drzwi przeciwpożarowe; drogi pożarowe; strefy zagrożenia wybuchem (rozp. MSWiA § 4 ust. 2 pkt 4 lit. a–k).\nZmianą z 2024 r. dodano obowiązek oznakowania, w budynkach handlowych, produkcyjnych i magazynowych ze ścianą oddzielenia przeciwpożarowego między strefami po co najmniej 2000 m² każda, gdy ściany zewnętrzne lub dach choć jednej strefy nie są z materiałów niepalnych albo gęstość obciążenia ogniowego w jednej ze stref przekracza 1000 MJ/m², miejsce połączenia ściany oddzielenia przeciwpożarowego ze ścianą zewnętrzną i dachem (§ 4 ust. 2 pkt 6; dla budynków istniejących i projektowanych wcześniej stosowany od 1.01.2026 według § 2 ust. 1 rozporządzenia zmieniającego z 2024 r.), a od zmiany z 28.09.2026 punkty schronienia według załącznika nr 1a (§ 4 ust. 2 pkt 7; termin dla punktów już zidentyfikowanych: 31.12.2026).\nWedług PN-EN 1838:2013-11 znaki ewakuacyjne mają spełniać ISO 3864-1, ISO 3864-4 i EN ISO 7010 (pkt 5.1, 5.3) i być oświetlone zewnętrznie lub wewnętrznie (pkt 5.1). Odległość widzenia liczy się ze wzoru l = z × h, gdzie z = 100 dla znaku oświetlonego zewnętrznie i 200 dla oświetlonego wewnętrznie (pkt 5.5); znak montuje się nie wyżej niż 20° nad poziomą linią wzroku (pkt 5.5). Tekstu PN-EN ISO 7010 nie ma w korpusie.",
+   "text": "Właściciele, zarządcy i użytkownicy budynków (z wyjątkiem mieszkalnych jednorodzinnych) oznakowują znakami zgodnymi z Polskimi Normami m.in.: drogi i wyjścia ewakuacyjne (z wyłączeniem budynków mieszkalnych) oraz pomieszczenia, w których wymagane są co najmniej 2 wyjścia ewakuacyjne; miejsca usytuowania urządzeń przeciwpożarowych, gaśnic i elementów sterujących urządzeniami; nasady zasilające instalację wodociągową ppoż., kurki główne gazu; pomieszczenia z materiałami niebezpiecznymi pożarowo; drabiny ewakuacyjne, rękawy, maski ucieczkowe, miejsca zbiórki, klucze do wyjść; dźwigi dla straży pożarnej; zbiorniki i punkty poboru wody; drzwi przeciwpożarowe; drogi pożarowe; strefy zagrożenia wybuchem (rozp. MSWiA § 4 ust. 2 pkt 4 lit. a–k).\nZmianą z 2024 r. dodano obowiązek oznakowania, w budynkach handlowych, produkcyjnych i magazynowych ze ścianą oddzielenia przeciwpożarowego między strefami po co najmniej 2000 m² każda, gdy ściany zewnętrzne lub dach choć jednej strefy nie są z materiałów niepalnych albo gęstość obciążenia ogniowego w jednej ze stref przekracza 1000 MJ/m², miejsce połączenia ściany oddzielenia przeciwpożarowego ze ścianą zewnętrzną i dachem (§ 4 ust. 2 pkt 6; dla budynków istniejących i projektowanych wcześniej stosowany od 1.01.2026 według § 2 ust. 1 rozporządzenia zmieniającego z 2024 r.), a od zmiany z 28.09.2026 punkty schronienia według załącznika nr 1a (§ 4 ust. 2 pkt 7; termin dla punktów już zidentyfikowanych: 31.12.2026).\nWedług PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) znaki ewakuacyjne mają spełniać ISO 3864-1, ISO 3864-4 i EN ISO 7010 (pkt 5.1, 5.3) i być oświetlone zewnętrznie lub wewnętrznie (pkt 5.1). Odległość widzenia liczy się ze wzoru l = z × h, gdzie z = 100 dla znaku oświetlonego zewnętrznie i 200 dla oświetlonego wewnętrznie (pkt 5.5); znak montuje się nie wyżej niż 20° nad poziomą linią wzroku (pkt 5.5). Tekstu PN-EN ISO 7010 nie ma w korpusie.",
    "table": {
     "head": [
      "Wymaganie dla znaku",
@@ -116,7 +116,7 @@
      [
       "Luminancja każdej części barwnej",
       "co najmniej 2 cd/m²",
-      "PN-EN 1838:2013, pkt 5.4.1"
+      "PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05), pkt 5.4.1"
      ],
      [
       "Stosunek luminancji max/min w obrębie jednej barwy",
@@ -152,7 +152,7 @@
   },
   {
    "h": "Przewody, kable i zespoły kablowe (WT § 187, § 232, § 259)",
-   "text": "Przewody i kable prowadzi się tak, aby można je było wymienić bez naruszania konstrukcji; przewody wtynkowe pokrywa się tynkiem o grubości co najmniej 5 mm (§ 187 ust. 1–2).\nZespoły kablowe (przewody i kable elektryczne oraz światłowodowe wraz z zamocowaniami) w systemach zasilania i sterowania urządzeniami przeciwpożarowymi mają zapewnić ciągłość dostawy energii lub sygnału przez czas wymagany do uruchomienia i działania urządzenia; ocenę wykonuje się według normy badania odporności ogniowej z uwzględnieniem podłoża i mocowania (§ 187 ust. 3). Czas ten może być ograniczony do 30 minut, gdy zespoły kablowe znajdują się w przestrzeniach chronionych stałymi samoczynnymi urządzeniami gaśniczymi wodnymi (§ 187 ust. 7).\nW pomieszczeniach chronionych stałymi wodnymi urządzeniami gaśniczymi zespoły kablowe muszą być odporne na wodę; ułożenie w ognioochronnych kanałach kablowych uznaje się za spełnienie tego wymagania (§ 187 ust. 4). Kable w obwodach alarmu pożaru, oświetlenia awaryjnego i łączności mają mieć klasę PH odpowiednią do czasu działania urządzeń (§ 187 ust. 5; załącznik nr 1 poz. 47 powołuje PN-EN 50200:2003, aktualne wydanie PN-EN 50200:2016-01). Zespół kablowy nie może przerwać zasilania z powodu oddziaływania elementów budynku lub wyposażenia (§ 187 ust. 6).\nW przedsionku przeciwpożarowym osłony i obudowy przewodów mają klasę co najmniej EI 60, z wyjątkiem przewodów wykorzystywanych w przedsionku i zespołów kablowych z § 187 ust. 3 (§ 232 ust. 3).\nPN-EN 50575 (klasy reakcji na ogień kabli) i PN-HD 60364-5-56 (instalacje bezpieczeństwa) nie są w korpusie. O PN-HD 60364-5-56 pytano trzykrotnie: przez jakie strefy obwody bezpieczeństwa nie mogą przechodzić (BE2/BE3/BD4), kiedy wymagane są obwody ognioodporne oraz czy obwody bezpieczeństwa zabezpiecza się wyłącznikami RCD lub AFDD.",
+   "text": "Przewody i kable prowadzi się tak, aby można je było wymienić bez naruszania konstrukcji; przewody wtynkowe pokrywa się tynkiem o grubości co najmniej 5 mm (§ 187 ust. 1–2).\nZespoły kablowe (przewody i kable elektryczne oraz światłowodowe wraz z zamocowaniami) w systemach zasilania i sterowania urządzeniami przeciwpożarowymi mają zapewnić ciągłość dostawy energii lub sygnału przez czas wymagany do uruchomienia i działania urządzenia; ocenę wykonuje się według normy badania odporności ogniowej z uwzględnieniem podłoża i mocowania (§ 187 ust. 3). Czas ten może być ograniczony do 30 minut, gdy zespoły kablowe znajdują się w przestrzeniach chronionych stałymi samoczynnymi urządzeniami gaśniczymi wodnymi (§ 187 ust. 7).\nW pomieszczeniach chronionych stałymi wodnymi urządzeniami gaśniczymi zespoły kablowe muszą być odporne na wodę; ułożenie w ognioochronnych kanałach kablowych uznaje się za spełnienie tego wymagania (§ 187 ust. 4). Kable w obwodach alarmu pożaru, oświetlenia awaryjnego i łączności mają mieć klasę PH odpowiednią do czasu działania urządzeń (§ 187 ust. 5; załącznik nr 1 poz. 47 powołuje PN-EN 50200:2003, aktualne wydanie PN-EN 50200:2016-01). Zespół kablowy nie może przerwać zasilania z powodu oddziaływania elementów budynku lub wyposażenia (§ 187 ust. 6).\nW przedsionku przeciwpożarowym osłony i obudowy przewodów mają klasę co najmniej EI 60, z wyjątkiem przewodów wykorzystywanych w przedsionku i zespołów kablowych z § 187 ust. 3 (§ 232 ust. 3).\nPN-EN 50575 (klasy reakcji na ogień kabli) i PN-HD 60364-5-56 (instalacje bezpieczeństwa) nie są w korpusie. O PN-HD 60364-5-56 pytano trzykrotnie: przez jakie strefy obwody bezpieczeństwa nie mogą przechodzić (BE2/BE3/BD4), kiedy wymagane są obwody ognioodporne oraz czy obwody bezpieczeństwa zabezpiecza się wyłącznikami RCD lub AFDD (do sprawdzenia w normie).",
    "table": {
     "head": [
      "Sytuacja",
@@ -194,7 +194,7 @@
   },
   {
    "h": "PN-EN 81-72:2020-12: dźwig dla straży pożarnej",
-   "text": "Łącznik dźwigu dla straży pożarnej znajduje się na poziomie dostępu dla straży pożarnej, na zewnątrz szybu, opcjonalnie także w kabinie (pkt 3.7). Umieszcza się go w obszarze bezpiecznym, w odległości poziomej nie większej niż 2 m od dźwigu, na wysokości od 1,4 m do 2,0 m, i oznakowuje piktogramem z załącznika G (pkt 5.8.1). Uruchamia się go kluczem z trójkątnym profilem do odryglowania; położenia są bistabilne i oznaczone „1” i „0” (pkt 5.8.2).\nFaza 1 to priorytetowe przywołanie na poziom dostępu (ręcznie lub automatycznie), z oświetleniem szybu, skasowaniem dyspozycji, włączeniem łączności i postojem z otwartymi drzwiami (pkt 5.8.7). Gdy drzwi pozostają otwarte dłużej niż 15 s, urządzenia zabezpieczające drzwi wrażliwe na ciepło i dym wyłącza się, a drzwi zamykają się ze zmniejszoną energią (pkt 5.8.7 h). Faza 2 to sterowanie wyłącznie z kabiny przez straż (pkt 5.8.8).\nPrzed każdymi drzwiami przystankowymi używanymi do gaszenia przewiduje się obszar bezpieczny, roletę lub drzwi przeciwpożarowe (pkt 5.1.1). Dźwig ma źródło zasilania rezerwowego, które z przełącznikiem umieszcza się w obszarze zabezpieczonym przeciwpożarowo (pkt 5.1.5, 5.1.7); rezerwa wystarcza na jazdę z udźwigiem i prędkością nominalną przez okres odporności ogniowej konstrukcji (pkt 5.9.2). W szybie i przestrzeniach napędowo-sterujących nie instaluje się tryskaczy (pkt 5.2.9). Dźwigi niebędące dźwigami dla straży, umieszczone w tym samym szybie, powinny mieć przywołanie pożarowe według EN 81-73 (pkt 5.2.8).",
+   "text": "Łącznik dźwigu dla straży pożarnej znajduje się na poziomie dostępu dla straży pożarnej, na zewnątrz szybu, opcjonalnie także w kabinie (pkt 3.7). Umieszcza się go w obszarze bezpiecznym, w odległości poziomej nie większej niż 2 m od dźwigu, na wysokości od 1,4 m do 2,0 m, i oznakowuje piktogramem z załącznika G (pkt 5.8.1). Uruchamia się go kluczem z trójkątnym profilem do odryglowania; położenia są bistabilne i oznaczone „1” i „0” (pkt 5.8.2).\nFaza 1 to priorytetowe przywołanie na poziom dostępu (ręcznie lub automatycznie), z oświetleniem szybu, skasowaniem dyspozycji, włączeniem łączności i postojem z otwartymi drzwiami (pkt 5.8.7). Gdy drzwi pozostają otwarte dłużej niż 15 s, urządzenia zabezpieczające drzwi wrażliwe na ciepło i dym wyłącza się, a drzwi zamykają się ze zmniejszoną energią (pkt 5.8.7 h). Faza 2 to sterowanie wyłącznie z kabiny przez straż (pkt 5.8.8).\nPrzed każdymi drzwiami przystankowymi wykorzystywanymi do operacji gaszenia pożaru jest obszar bezpieczny, a przed każdymi drzwiami przystankowymi zapewnia się obszar bezpieczny, roletę przeciwpożarową lub drzwi przeciwpożarowe (pkt 5.1.1); drzwi nieprzeznaczone dla straży i bez obszaru bezpiecznego chroni roleta lub drzwi przeciwpożarowe (pkt 5.1.4). Dźwig ma źródło zasilania rezerwowego, które z przełącznikiem umieszcza się w obszarze zabezpieczonym przeciwpożarowo (pkt 5.1.5, 5.1.7); rezerwa wystarcza na jazdę z udźwigiem i prędkością nominalną przez okres odporności ogniowej konstrukcji (pkt 5.9.2). W szybie i przestrzeniach napędowo-sterujących nie instaluje się tryskaczy (pkt 5.2.9). Dźwigi niebędące dźwigami dla straży, umieszczone w tym samym szybie, zaleca się wyposażyć w przywołanie pożarowe według EN 81-73 (pkt 5.2.8, zalecenie).",
    "table": {
     "head": [
      "Parametr",
@@ -269,7 +269,7 @@
   {
    "label": "Czas działania awaryjnego oświetlenia ewakuacyjnego",
    "value": "co najmniej 1 h",
-   "ref": "WT § 181 ust. 5; PN-EN 1838:2013 pkt 4.2.5"
+   "ref": "WT § 181 ust. 5; PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 4.2.5"
   },
   {
    "label": "Sale audytoryjne, konferencyjne, czytelnie, lokale rozrywkowe, sportowe z oświetleniem ewakuacyjnym",
@@ -339,37 +339,37 @@
   {
    "label": "Droga ewakuacyjna do 2 m szerokości",
    "value": "1 lx na linii środkowej, 0,5 lx (50 %) w pasie centralnym",
-   "ref": "PN-EN 1838:2013 pkt 4.2.1"
+   "ref": "PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 4.2.1"
   },
   {
    "label": "Strefa otwarta",
    "value": "0,5 lx na podłodze, bez pasa obwodowego 0,5 m",
-   "ref": "PN-EN 1838:2013 pkt 4.3.1"
+   "ref": "PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 4.3.1"
   },
   {
    "label": "Strefa wysokiego ryzyka",
    "value": "10 % natężenia eksploatacyjnego, nie mniej niż 15 lx; w 0,5 s",
-   "ref": "PN-EN 1838:2013 pkt 4.4.1, 4.4.6"
+   "ref": "PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 4.4.1, 4.4.6"
   },
   {
    "label": "Czas załączenia na drodze ewakuacyjnej",
    "value": "50 % w 5 s, 100 % w 60 s",
-   "ref": "PN-EN 1838:2013 pkt 4.2.6"
+   "ref": "PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 4.2.6"
   },
   {
    "label": "Oświetlenie pionowe sprzętu pożarowego, ROP, centrali, apteczki",
    "value": "5 lx",
-   "ref": "PN-EN 1838:2013 pkt 4.1.2 h, i"
+   "ref": "PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 4.1.2 h, i"
   },
   {
    "label": "Odległość widzenia znaku",
    "value": "l = 100 × h (zewnętrznie), l = 200 × h (wewnętrznie)",
-   "ref": "PN-EN 1838:2013 pkt 5.5"
+   "ref": "PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 5.5"
   },
   {
    "label": "Luminancja barwnej części znaku",
    "value": "co najmniej 2 cd/m²",
-   "ref": "PN-EN 1838:2013 pkt 5.4.1"
+   "ref": "PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 5.4.1"
   },
   {
    "label": "Szerokość wejścia do kabiny dźwigu dla straży",
@@ -410,11 +410,11 @@
  "traps": [
   "W muzeum oświetlenie ewakuacyjne jest wymagane w każdym pomieszczeniu wystawowym bez progu powierzchni i liczby osób; progi 100 m², 300 m² czy 50 osób z odpowiedzi to dystraktory (WT § 181 ust. 3 pkt 1 lit. c).",
   "Próg 1000 m² dotyczy tylko garaży oświetlonych wyłącznie światłem sztucznym; w budynku magazynowym, produkcyjnym, UP i ZZ próg wynosi ponad 2000 m² netto (WT § 181 ust. 3 pkt 1 lit. d i e).",
-  "W pasie centralnym drogi ewakuacyjnej o szerokości do 2 m wymagane jest 50 % z 1 lx, czyli 0,5 lx, a nie 1 lx; 1 lx dotyczy linii środkowej (PN-EN 1838:2013 pkt 4.2.1).",
-  "Na drodze ewakuacyjnej 100 % natężenia trzeba osiągnąć w 60 s (50 % w 5 s); czas 0,5 s dotyczy strefy wysokiego ryzyka (PN-EN 1838:2013 pkt 4.2.6 i 4.4.6).",
-  "W strefie wysokiego ryzyka obowiązuje 10 % natężenia eksploatacyjnego, ale nie mniej niż 15 lx; samo 10 lx lub 5 lx jest błędne (PN-EN 1838:2013 pkt 4.4.1).",
-  "Znak oświetlony wewnętrznie widać z dwa razy większej odległości niż oświetlony zewnętrznie: znak 15 cm daje 30 m, a nie 15 m (PN-EN 1838:2013 pkt 5.5).",
-  "Obowiązek oprawy dotyczy toalet dla osób niepełnosprawnych (oświetlenie strefy otwartej), a nie wszystkich toalet (PN-EN 1838:2013 pkt 4.3.8).",
+  "W pasie centralnym drogi ewakuacyjnej o szerokości do 2 m wymagane jest 50 % z 1 lx, czyli 0,5 lx, a nie 1 lx; 1 lx dotyczy linii środkowej (PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 4.2.1).",
+  "Na drodze ewakuacyjnej 100 % natężenia trzeba osiągnąć w 60 s (50 % w 5 s); czas 0,5 s dotyczy strefy wysokiego ryzyka (PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 4.2.6 i 4.4.6).",
+  "W strefie wysokiego ryzyka obowiązuje 10 % natężenia eksploatacyjnego, ale nie mniej niż 15 lx; samo 10 lx lub 5 lx jest błędne (PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 4.4.1).",
+  "Znak oświetlony wewnętrznie widać z dwa razy większej odległości niż oświetlony zewnętrznie: znak 15 cm daje 30 m, a nie 15 m (PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 5.5).",
+  "Obowiązek oprawy dotyczy toalet dla osób niepełnosprawnych (oświetlenie strefy otwartej), a nie wszystkich toalet (PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 4.3.8).",
   "Wymóg dźwigu dla ekip ratowniczych w ZL IV zależy od kwalifikacji do WW, a nie od kryterium 25 m, które dotyczy ZL I, II, III i V (WT § 253 ust. 1).",
   "Czas dojazdu dźwigu dla straży (60 s) liczy się od zamknięcia drzwi, a nie od uruchomienia łącznika; dla toru jazdy 120 m nie ma dodatku czasu (PN-EN 81-72:2020 pkt 5.2.4).",
   "Klapa 0,4 × 0,5 m to wyjątek tylko dla dźwigu 630 kg; dla pozostałych obowiązuje 0,5 × 0,7 m (PN-EN 81-72:2020 pkt 5.4.1.1).",
@@ -428,7 +428,7 @@
     "Hala ponad 2000 m² netto w budynku magazynowym wymaga oświetlenia ewakuacyjnego (WT § 181 ust. 3 pkt 1 lit. e), podobnie drogi ewakuacyjne z niej (pkt 2 lit. a).",
     "Korytarz bez okien to droga oświetlona wyłącznie światłem sztucznym, więc też wymaga oświetlenia (WT § 181 ust. 3 pkt 2 lit. b); biuro dla 20 osób samo nie spełnia żadnego kryterium.",
     "Czas działania co najmniej 1 h (WT § 181 ust. 5); wykonanie według Polskich Norm (ust. 7).",
-    "Na drodze do 2 m: 1 lx na linii środkowej, 50 % w pasie centralnym, Ud co najmniej 1:40, 50 % w 5 s i 100 % w 60 s (PN-EN 1838:2013 pkt 4.2.1, 4.2.2, 4.2.6); w hali jako strefie otwartej 0,5 lx (pkt 4.3.1).",
+    "Na drodze do 2 m: 1 lx na linii środkowej, 50 % w pasie centralnym, Ud co najmniej 1:40, 50 % w 5 s i 100 % w 60 s (PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 4.2.1, 4.2.2, 4.2.6); w hali jako strefie otwartej 0,5 lx (pkt 4.3.1).",
     "Oprawy przy wyjściach, zmianach kierunku, sprzęcie pożarowym i ROP (5 lx w pionie) (pkt 4.1.2); znaki zgodne z EN ISO 7010, luminancja co najmniej 2 cd/m² (pkt 5.3, 5.4.1).",
     "Zastrzeżenie: wartości podano według wycofanego wydania 2013-11; aktualne jest PN-EN 1838:2025-05."
    ]
@@ -467,7 +467,7 @@
    "q": "Strażak przejmuje dźwig dla straży pożarnej. Opisz działanie łącznika, fazy 1 i 2 oraz najważniejsze parametry kabiny według PN-EN 81-72.",
    "points": [
     "Łącznik w obszarze bezpiecznym na poziomie dostępu, do 2 m od dźwigu, 1,4–2,0 m nad podłogą, klucz trójkątny, położenia „1” i „0” (pkt 5.8.1, 5.8.2).",
-    "Faza 1: priorytetowe przywołanie, skasowanie dyspozycji, oświetlenie szybu, włączenie łączności, postój z otwartymi drzwiami; po 15 s otwarcia wyłączenie zabezpieczeń drzwi wrażliwych na ciepło i dym (pkt 5.8.7).",
+    "Faza 1: priorytetowe przywołanie na poziom dostępu, skasowanie dyspozycji, oświetlenie szybu, włączenie łączności, potem postój na poziomie dostępu z otwartymi drzwiami (pkt 5.8.7 a–i); dźwig stojący na innym przystanku zamyka drzwi, a gdy pozostają otwarte ponad 15 s, zabezpieczenia drzwi wrażliwe na ciepło i dym wyłączają się i drzwi zamykają się ze zmniejszoną energią (pkt 5.8.7 h 1).",
     "Faza 2: sterowanie wyłącznie z kabiny, jedna dyspozycja naraz (pkt 5.8.8).",
     "Kabina co najmniej 1100 × 1400 mm i 630 kg, wejście co najmniej 800 mm; przy ewakuacji z noszami 1000 kg i 1100 × 2100 mm (pkt 5.2.2, 5.2.3).",
     "Dojazd do najwyższego przystanku w 60 s od zamknięcia drzwi, przy torze ponad 200 m plus 1 s na 3 m (pkt 5.2.4); klapa awaryjna 0,5 × 0,7 m (630 kg: 0,4 × 0,5 m) (pkt 5.4.1.1)."
@@ -480,7 +480,7 @@
     "Sygnał z ręcznego urządzenia albo automatycznie z BMS lub systemu wykrywania pożaru (pkt 5.1.3); przerwa w interfejsie też inicjuje jazdę pożarową (pkt 5.2).",
     "Ręczne urządzenie jest bistabilne, chronione przed niewłaściwym użyciem i umieszczone w centrum zarządzania budynkiem lub na wyznaczonym przystanku (pkt 5.1.4).",
     "Na wyznaczonym przystanku drzwi otwierają się, potem zamykają najpóźniej po 20 s i dźwig wyłącza się z ruchu, albo parkuje otwarty, jeżeli pozwalają na to przepisy krajowe i jest obszar bezpieczny (pkt 5.3.5).",
-    "Znak P020 co najmniej 50 mm na wszystkich przystankach (pkt 5.1.6); dźwigi w szybie wspólnym z dźwigiem dla straży powinny mieć tę funkcję (PN-EN 81-72 pkt 5.2.8)."
+    "Znak P020 co najmniej 50 mm na wszystkich przystankach (pkt 5.1.6); dźwigi w szybie wspólnym z dźwigiem dla straży zaleca się wyposażyć w tę funkcję (PN-EN 81-72 pkt 5.2.8, zalecenie)."
    ]
   },
   {
@@ -489,7 +489,7 @@
     "Pomieszczenia wystawowe w muzeach zawsze wymagają oświetlenia ewakuacyjnego, a także drogi ewakuacyjne z nich (WT § 181 ust. 3 pkt 1 lit. c, pkt 2 lit. a).",
     "Brak wymaganego oświetlenia awaryjnego w strefie ZL I może być podstawą uznania budynku za zagrażający życiu ludzi (rozp. MSWiA § 16 ust. 2 pkt 6); wtedy § 181 stosuje się także do budynku istniejącego (WT § 207 ust. 2).",
     "Właściciel ma oznakować drogi i wyjścia ewakuacyjne znakami zgodnymi z PN (rozp. MSWiA § 4 ust. 2 pkt 4 lit. a).",
-    "Znaki powinny być oświetlone, z luminancją co najmniej 2 cd/m² i czasem 1 h (PN-EN 1838:2013 pkt 5.1, 5.4.1, 5.4.5).",
+    "Znaki powinny być oświetlone, z luminancją co najmniej 2 cd/m² i czasem 1 h (PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 5.1, 5.4.1, 5.4.5).",
     "Właściciel lub zarządca wprowadza rozwiązania według przepisów techniczno-budowlanych (rozp. MSWiA § 16 ust. 3)."
    ]
   }

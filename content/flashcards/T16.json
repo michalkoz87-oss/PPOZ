@@ -67,7 +67,7 @@
   "topic": "U3",
   "front": "Jakie minimalne natężenie wymagane jest na linii środkowej drogi ewakuacyjnej o szerokości do 2 m?",
   "back": "Co najmniej 1 lx na podłodze.",
-  "ref": "PN-EN 1838:2013 pkt 4.2.1",
+  "ref": "PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 4.2.1",
   "conf": "średnia",
   "week": 16
  },
@@ -76,7 +76,7 @@
   "topic": "U3",
   "front": "Jakie natężenie wymagane jest w pasie centralnym drogi ewakuacyjnej o szerokości do 2 m?",
   "back": "Co najmniej 50 % wartości dla linii środkowej, czyli 0,5 lx.",
-  "ref": "PN-EN 1838:2013 pkt 4.2.1",
+  "ref": "PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 4.2.1",
   "conf": "średnia",
   "week": 16
  },
@@ -85,7 +85,7 @@
   "topic": "U3",
   "front": "W jakim czasie oświetlenie drogi ewakuacyjnej musi osiągnąć 100 % wymaganego natężenia?",
   "back": "W ciągu 60 s (50 % w ciągu 5 s).",
-  "ref": "PN-EN 1838:2013 pkt 4.2.6",
+  "ref": "PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 4.2.6",
   "conf": "średnia",
   "week": 16
  },
@@ -94,7 +94,7 @@
   "topic": "U3",
   "front": "Jakie minimalne natężenie wymagane jest w strefie otwartej (antypanicznej)?",
   "back": "0,5 lx na podłodze, z wyłączeniem pasa obwodowego o szerokości 0,5 m.",
-  "ref": "PN-EN 1838:2013 pkt 4.3.1",
+  "ref": "PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 4.3.1",
   "conf": "średnia",
   "week": 16
  },
@@ -103,7 +103,7 @@
   "topic": "U3",
   "front": "Jakie natężenie oświetlenia wymagane jest w strefie wysokiego ryzyka?",
   "back": "Co najmniej 10 % natężenia eksploatacyjnego dla danej czynności, nie mniej niż 15 lx.",
-  "ref": "PN-EN 1838:2013 pkt 4.4.1",
+  "ref": "PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 4.4.1",
   "conf": "średnia",
   "week": 16
  },
@@ -112,7 +112,7 @@
   "topic": "U3",
   "front": "W jakim czasie oświetlenie strefy wysokiego ryzyka musi dać pełne natężenie?",
   "back": "Stale lub w ciągu 0,5 s, zależnie od zastosowania.",
-  "ref": "PN-EN 1838:2013 pkt 4.4.6",
+  "ref": "PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 4.4.6",
   "conf": "średnia",
   "week": 16
  },
@@ -121,7 +121,7 @@
   "topic": "U3",
   "front": "Jaki jest minimalny stosunek Ud natężenia minimalnego do maksymalnego na drodze ewakuacyjnej?",
   "back": "1:40.",
-  "ref": "PN-EN 1838:2013 pkt 4.2.2",
+  "ref": "PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 4.2.2",
   "conf": "średnia",
   "week": 16
  },
@@ -130,7 +130,7 @@
   "topic": "U3",
   "front": "Jakie natężenie pionowe trzeba zapewnić na ręcznym ostrzegaczu pożarowym i sprzęcie pożarowym?",
   "back": "5 lx.",
-  "ref": "PN-EN 1838:2013 pkt 4.1.2 i",
+  "ref": "PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 4.1.2 i",
   "conf": "średnia",
   "week": 16
  },
@@ -139,7 +139,7 @@
   "topic": "U3",
   "front": "Jaką odległość oznacza określenie „w pobliżu” przy punktach o szczególnym znaczeniu?",
   "back": "Do 2 m, mierzone w poziomie.",
-  "ref": "PN-EN 1838:2013 pkt 4.1.2, UWAGA 1",
+  "ref": "PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 4.1.2, UWAGA 1",
   "conf": "średnia",
   "week": 16
  },
@@ -148,7 +148,7 @@
   "topic": "U3",
   "front": "Czy oprawę oświetlenia awaryjnego trzeba przewidzieć w toalecie dla osób niepełnosprawnych?",
   "back": "Tak, wymagane jest tam oświetlenie strefy otwartej.",
-  "ref": "PN-EN 1838:2013 pkt 4.3.8",
+  "ref": "PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 4.3.8",
   "conf": "średnia",
   "week": 16
  },
@@ -157,7 +157,7 @@
   "topic": "U3",
   "front": "Jaki jest współczynnik z we wzorze na odległość widzenia znaku oświetlonego wewnętrznie?",
   "back": "z = 200 (dla oświetlonego zewnętrznie z = 100).",
-  "ref": "PN-EN 1838:2013 pkt 5.5",
+  "ref": "PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 5.5",
   "conf": "średnia",
   "week": 16
  },
@@ -166,7 +166,7 @@
   "topic": "U3",
   "front": "Z jakiej odległości jest czytelny oświetlony wewnętrznie znak ewakuacyjny o wysokości 15 cm?",
   "back": "30 m (200 × 0,15 m).",
-  "ref": "PN-EN 1838:2013 pkt 5.5",
+  "ref": "PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 5.5",
   "conf": "średnia",
   "week": 16
  },
@@ -175,7 +175,7 @@
   "topic": "U3",
   "front": "Jaka jest minimalna luminancja każdej barwnej części znaku bezpieczeństwa?",
   "back": "Co najmniej 2 cd/m².",
-  "ref": "PN-EN 1838:2013 pkt 5.4.1",
+  "ref": "PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 5.4.1",
   "conf": "średnia",
   "week": 16
  },
@@ -184,7 +184,7 @@
   "topic": "U3",
   "front": "Na jakiej wysokości co najmniej umieszcza się oprawy i znaki na drodze ewakuacyjnej?",
   "back": "Co najmniej 2 m nad podłogą.",
-  "ref": "PN-EN 1838:2013 pkt 4.1.1",
+  "ref": "PN-EN 1838:2013-11 (wycofana, aktualna: PN-EN 1838:2025-05) pkt 4.1.1",
   "conf": "średnia",
   "week": 16
  },
@@ -209,7 +209,7 @@
  {
   "id": "T16-24",
   "topic": "U3",
-  "front": "Do kiedy trzeba oznakować punkty schronienia zidentyfikowane przed zmianą z 28.09.2026?",
+  "front": "Do kiedy trzeba oznakować punkty schronienia zidentyfikowane przed wejściem w życie zmiany z 28.09.2026 (30.09.2026)?",
   "back": "Niezwłocznie, najpóźniej do 31 grudnia 2026 r.",
   "ref": "Rozp. zmieniające z 28.09.2026 § 2",
   "conf": "wysoka",
