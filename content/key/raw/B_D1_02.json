@@ -1,0 +1,278 @@
+[
+ {
+  "stanNote": "Sprawdzono PKN-CEN/TS 54-14:2006 (wycofana); aktualna jest PKN-CEN/TS 54-14:2020-09, której treści nie dało się sprawdzić.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "quote": "a) powierzchnia u ż ytkowa jednej strefy nie powinna przekraczać  1 600 m2;",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "id": 195,
+  "ans": "c",
+  "conf": "wysoka",
+  "topic": "U1",
+  "basis": "A.6.3.2 a) PKN-CEN/TS 54-14:2006",
+  "expl": "Według TS 54-14 powierzchnia użytkowa strefy dozorowej nie powinna przekraczać 1600 m², a gdy strefa obejmuje więcej niż jedną strefę pożarową, 400 m². Adresowalność czujek ani klasa linii nie zwiększają tego limitu; wartości 6000 m² i 1000 m² nie występują w TS jako limit strefy dozorowej."
+ },
+ {
+  "stanNote": "",
+  "norms": [],
+  "ansNow": "=",
+  "stan": "aktualne",
+  "quote": "na wielkość obciążenia ogniowego – 100 m.",
+  "src": "akty/wt_2002.txt",
+  "id": 196,
+  "ans": "b",
+  "conf": "średnia",
+  "topic": "W3",
+  "basis": "§ 237 ust. 1 pkt 3, ust. 5, 6 pkt 1 i ust. 7 WT 2002",
+  "expl": "W jednokondygnacyjnym budynku PM przejście ewakuacyjne może mieć 100 m bez względu na obciążenie ogniowe. Dolicza się 25% za wysokość ponad 5 m i 50% za tryskacze, a powiększenia się sumuje: 100 m × 1,75 = 175 m. SSP nie daje premii (daje ją tylko oddymianie), więc 225 m jest błędne, a 150 m pomija dodatek za wysokość."
+ },
+ {
+  "stanNote": "",
+  "norms": [],
+  "ansNow": "=",
+  "stan": "aktualne",
+  "quote": "wyniku których następuje zmiana parametrów użytkowych lub technicznych",
+  "src": "akty/prawo_budowlane.txt",
+  "id": 215,
+  "ans": "b",
+  "conf": "średnia",
+  "topic": "P2",
+  "basis": "art. 3 pkt 7a i 8 ustawy Prawo budowlane",
+  "expl": "Dźwig montowany w duszy istniejącej klatki schodowej zmienia parametry użytkowe budynku, ale nie zmienia kubatury, powierzchni zabudowy, wysokości, długości, szerokości ani liczby kondygnacji, więc jest to przebudowa. Remont to tylko odtworzenie stanu pierwotnego, a rozbudowa zmienia parametry charakterystyczne."
+ },
+ {
+  "stanNote": "",
+  "norms": [],
+  "ansNow": "=",
+  "stan": "aktualne",
+  "quote": "dzeń alarmowych akustycznych służących alarmowaniu użytkowników tego obiektu, poza służbami dozoru lub ochrony.",
+  "src": "akty/rozp_ppoz_2010.txt",
+  "id": 218,
+  "ans": "c",
+  "conf": "wysoka",
+  "topic": "R2",
+  "basis": "§ 29 ust. 2 rozp. MSWiA z 7.06.2010",
+  "expl": "Gdy w obiekcie jest DSO, innych akustycznych pożarowych urządzeń alarmowych nie stosuje się do alarmowania użytkowników; wyjątkiem są wyłącznie służby dozoru lub ochrony. Przepis nie przewiduje wyjątku ani dla pomieszczenia, w którym powstał pożar, ani dla stref handlowych."
+ },
+ {
+  "stanNote": "Sprawdzono PKN-CEN/TS 54-14:2006 (wycofana); aktualna jest PKN-CEN/TS 54-14:2020-09, której treści nie dało się sprawdzić.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "quote": "przepierzenia lub regały, si ę gaj ą ce bli ż ej ni ż  0,3 m od stropu, to przegrody powinny być  traktowane jako do-",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "id": 235,
+  "ans": "a",
+  "conf": "wysoka",
+  "topic": "U1",
+  "basis": "A.6.5.1 c) PKN-CEN/TS 54-14:2006",
+  "expl": "Przegrodę sięgającą bliżej niż 0,3 m od stropu traktuje się jak ścianę do stropu, a powstałe części pomieszczenia jak osobne pomieszczenia. 0,5 m to minimalna odległość czujki od ścian i wolna przestrzeń pod czujką, a 5% wysokości to kryterium dla wykształceń stropu, nie dla przegród."
+ },
+ {
+  "stanNote": "Sprawdzono PKN-CEN/TS 54-14:2006 (wycofana); aktualna jest PKN-CEN/TS 54-14:2020-09, której treści nie dało się sprawdzić.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "quote": "wię kszyć  o 1 % na ka ż dy 1° pochylenia stropu, a ż  do maksymalnie 25 %. W przypadku zakrzywienia stropu,",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "id": 240,
+  "ans": "c",
+  "conf": "średnia",
+  "topic": "U1",
+  "basis": "tablica A.1 i A.6.5.1 b) PKN-CEN/TS 54-14:2006",
+  "expl": "W kalenicy stropu pochyłego promień z tablicy A.1 zwiększa się o 1% na każdy stopień nachylenia, najwyżej o 25%. Dla 10° to 7,5 m × 1,10 = 8,25 m. 7,5 m to promień dla stropu płaskiego, a 5 m dotyczy czujek ciepła."
+ },
+ {
+  "stanNote": "Sprawdzono PKN-CEN/TS 54-14:2006 (wycofana); aktualna jest PKN-CEN/TS 54-14:2020-09, której treści nie dało się sprawdzić.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "quote": "Stropy z wykształceniami o wysokoś ci mniejszej ni ż  5 % wysokoś ci pomieszczenia powinny być  traktowane",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "id": 248,
+  "ans": "c",
+  "conf": "średnia",
+  "topic": "U1",
+  "basis": "A.6.5.1 f) PKN-CEN/TS 54-14:2006",
+  "expl": "5% wysokości 5 m to 0,25 m, a belki mają 0,24 m, czyli mniej, więc strop traktuje się jak płaski i stosuje promień 7,5 m. Reguły „czujka w każdym polu” lub „w co drugim polu” (porównanie D z 0,25(H − h)) dotyczą tylko belek wyższych niż 5% wysokości pomieszczenia."
+ },
+ {
+  "stanNote": "",
+  "norms": [],
+  "ansNow": "=",
+  "stan": "aktualne",
+  "quote": "§ 35. 1. Strefę pożarową z odpadami stałymi o gęstości obciążenia ogniowego przekraczającej 2000 MJ/m2 i powierzch-",
+  "src": "akty/odpady_ppoz_2020.txt",
+  "id": 258,
+  "ans": "b",
+  "conf": "średnia",
+  "topic": "S4",
+  "basis": "§ 34 ust. 1, § 35 ust. 1, § 37 ust. 1 rozp. MSWiA z 19.02.2020",
+  "expl": "Przy 1500 MJ/m² i 3000 m² potrzebny jest SSP (próg: ponad 1000 MJ/m² i ponad 2000 m²) oraz samoczynne oddymianie (próg: ponad 1000 MJ/m² i ponad 1000 m²). Stałe urządzenia gaśnicze wymagane są dopiero powyżej 2000 MJ/m², więc odpada a. Klasa odporności pożarowej „C” nie zmienia tych progów."
+ },
+ {
+  "stanNote": "Sprawdzono PKN-CEN/TS 54-14:2006 (wycofana); aktualna jest PKN-CEN/TS 54-14:2020-09, której treści nie dało się sprawdzić.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "quote": "W przypadku czujek punktowych, pozioma odległoś ć  dowolnego punktu na zabezpieczanym obszarze od",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "id": 261,
+  "ans": "b",
+  "conf": "średnia",
+  "topic": "U1",
+  "basis": "tablica A.1 i A.6.5.1 a) PKN-CEN/TS 54-14:2006",
+  "expl": "Przy wysokości 4 m promień działania czujki dymu wynosi 7,5 m, więc każdy punkt sali musi być najwyżej 7,5 m od czujki. Siatka 2 × 3 (pola 10 × 10 m, półprzekątna około 7,07 m) spełnia ten warunek. Przy 4 czujkach pola 10 × 15 m mają półprzekątną około 9 m, czyli za dużo, a 8 czujek to więcej niż minimum."
+ },
+ {
+  "stanNote": "Sprawdzono PN-EN 1838:2013-11 (wycofana, wartości jak w wydaniu 2005); aktualna jest PN-EN 1838:2025-05, której treści nie dało się sprawdzić. Pytanie cytuje wydanie 2005; zmiany w 2013 (przedmowa) nie dotyczą pkt 4.4.",
+  "norms": [
+   "PN-EN 1838"
+  ],
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "quote": "4.4.1 W strefach wysokiego ryzyka utrzymywane natężenia oświetlenia na płaszczyźnie odniesienia powinno",
+  "src": "normy/PN-EN_1838_2013-11_WYCOFANA.txt",
+  "id": 271,
+  "ans": "c",
+  "conf": "wysoka",
+  "topic": "U3",
+  "basis": "pkt 4.4.1 PN-EN 1838 (wydanie 2005, w 2013 bez zmian)",
+  "expl": "W strefie wysokiego ryzyka natężenie musi wynosić co najmniej 10% natężenia wymaganego dla danej czynności, ale nie mniej niż 15 lx. 1 lx dotyczy dróg ewakuacyjnych, a 0,5 lx stref otwartych; wartości 5 lx i 10 lx nie są kryterium dla tej strefy."
+ },
+ {
+  "stanNote": "Sprawdzono PN-EN 1838:2013-11 (wycofana, wartości jak w wydaniu 2005); aktualna jest PN-EN 1838:2025-05, której treści nie dało się sprawdzić.",
+  "norms": [
+   "PN-EN 1838"
+  ],
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "quote": "z jest to współczynnik odległości (z to stała: 100 dla znaków oświetlonych zewnętrznie; 200 dla znaków",
+  "src": "normy/PN-EN_1838_2013-11_WYCOFANA.txt",
+  "id": 272,
+  "ans": "c",
+  "conf": "średnia",
+  "topic": "U3",
+  "basis": "pkt 5.5 PN-EN 1838:2013-11 (l = z × h)",
+  "expl": "Odległość widzenia to współczynnik z razy wysokość znaku; dla znaku oświetlonego wewnętrznie z = 200, więc 200 × 0,15 m = 30 m. 15 m wychodzi z z = 100, czyli dla znaku oświetlonego zewnętrznie."
+ },
+ {
+  "stanNote": "",
+  "norms": [
+   "PN-HD 60364-5-56"
+  ],
+  "ansNow": "=",
+  "stan": "aktualne",
+  "quote": "",
+  "src": "",
+  "id": 308,
+  "ans": "b",
+  "conf": "niska",
+  "topic": "U7",
+  "basis": "PN-HD 60364-5-56:2019-01 (zabezpieczenie obwodów instalacji bezpieczeństwa)",
+  "expl": "Wydanie 2018/2019 wprowadziło zasadę, że obwodów instalacji bezpieczeństwa nie zabezpiecza się ani RCD, ani AFDD, ponieważ w pożarze mogłyby zbędnie wyłączyć zasilanie urządzeń. Dlatego a (stosować RCD) jest błędne, a c (AFDD dopuszczone) przeczy zakazowi; z podanych opcji tylko b jest zgodne z normą."
+ },
+ {
+  "stanNote": "",
+  "norms": [
+   "PN-EN 54-23"
+  ],
+  "ansNow": "=",
+  "stan": "aktualne",
+  "quote": "",
+  "src": "",
+  "id": 311,
+  "ans": "c",
+  "conf": "średnia",
+  "topic": "U1",
+  "basis": "PN-EN 54-23:2010 (typy środowiskowe sygnalizatorów optycznych)",
+  "expl": "Typ A to sygnalizatory przeznaczone głównie do zastosowań wewnętrznych, a typ B głównie do zewnętrznych; typ B bada się w ostrzejszych warunkach klimatycznych. Odpowiedź b opisuje typ A, a słowo „wyłącznie” w a nie występuje w żadnej definicji."
+ },
+ {
+  "stanNote": "",
+  "norms": [
+   "PN-EN 81-73"
+  ],
+  "ansNow": "=",
+  "stan": "aktualne",
+  "quote": "d) zlokalizowane w centrum zarządzania budynkiem lub na wyznaczonym przystanku oraz",
+  "src": "normy/PN-EN_81-73_2020-12.txt",
+  "id": 318,
+  "ans": "a",
+  "conf": "wysoka",
+  "topic": "U7",
+  "basis": "pkt 5.1.4 d) PN-EN 81-73:2020-12",
+  "expl": "Ręczne urządzenie przywołania (np. łącznik kluczykowy) ma być w centrum zarządzania budynkiem albo na wyznaczonym przystanku, czyli na kondygnacji, z której można bezpiecznie wyjść z budynku. Norma nie wiąże go ani z pierwszą kondygnacją nadziemną, ani z głównym wejściem do budynku."
+ },
+ {
+  "stanNote": "Sprawdzono PN-EN 1838:2013-11 (wycofana, wartości jak w wydaniu 2005); aktualna jest PN-EN 1838:2025-05, której treści nie dało się sprawdzić.",
+  "norms": [
+   "PN-EN 1838"
+  ],
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "quote": "4.2.6 Oświetlenie awaryjne drogi ewakuacyjnej powinno osiągnąć 50 % wymaganej wartości natężenia",
+  "src": "normy/PN-EN_1838_2013-11_WYCOFANA.txt",
+  "id": 319,
+  "ans": "c",
+  "conf": "wysoka",
+  "topic": "U3",
+  "basis": "pkt 4.2.6 PN-EN 1838:2013-11",
+  "expl": "Oświetlenie drogi ewakuacyjnej musi dać 50% wymaganego natężenia w ciągu 5 s, a 100% w ciągu 60 s. 0,5 s to wymóg dla strefy wysokiego ryzyka (pkt 4.4.6), a 5 s dotyczy tylko połowy natężenia."
+ },
+ {
+  "stanNote": "",
+  "norms": [],
+  "ansNow": "=",
+  "stan": "aktualne",
+  "quote": "5. W pomieszczeniach o wysokości przekraczającej 5 m długość przejść, o których mowa w ust. 1 i 2, może być po-",
+  "src": "akty/wt_2002.txt",
+  "id": 330,
+  "ans": "b",
+  "conf": "średnia",
+  "topic": "W3",
+  "basis": "§ 237 ust. 1 pkt 1, ust. 5, 6 pkt 1 i ust. 7 WT 2002",
+  "expl": "W ZL przejście ewakuacyjne ma najwyżej 40 m; za wysokość ponad 5 m dolicza się 25%, za tryskacze 50%, a powiększenia się sumuje: 40 m × 1,75 = 70 m. SSP sama nie powiększa długości (premię daje tylko oddymianie uruchamiane przez system wykrywania dymu), stąd 80 m jest błędne."
+ },
+ {
+  "stanNote": "",
+  "norms": [],
+  "ansNow": "=",
+  "stan": "aktualne",
+  "quote": "b) okładziny ściennej z materiału łatwo zapalnego na drodze ewakuacyjnej, jeżeli nie zapewniono dwóch kierun-",
+  "src": "akty/rozp_ppoz_2010.txt",
+  "id": 334,
+  "ans": "b",
+  "conf": "wysoka",
+  "topic": "R1",
+  "basis": "§ 16 ust. 2 pkt 3 lit. b, pkt 1 i 6 rozp. MSWiA z 7.06.2010",
+  "expl": "Okładzina ścienna łatwo zapalna (D-s2,d0) na drodze ewakuacyjnej jest podstawą do uznania budynku za zagrażający życiu tylko wtedy, gdy nie ma dwóch kierunków ewakuacji, więc b nie stanowi takiej podstawy. Brak oświetlenia ewakuacyjnego w salach wystawowych muzeum (ZL I, wymagane wg § 181 ust. 3 WT) to podstawa z pkt 6, a wyjście 0,9 m w szpitalu wobec wymaganych 1,4 m (szerokość biegu wg § 68 i § 239 ust. 4 WT) jest węższe o ponad 1/3 (pkt 1)."
+ },
+ {
+  "stanNote": "",
+  "norms": [
+   "PN-EN 54-5"
+  ],
+  "ansNow": "=",
+  "stan": "aktualne",
+  "quote": "",
+  "src": "",
+  "id": 362,
+  "ans": "c",
+  "conf": "średnia",
+  "topic": "U1",
+  "basis": "PN-EN 54-5 (klasy czujek ciepła, przyrostek S)",
+  "expl": "Litera S po klasie (np. A1S) oznacza czujkę statyczną: nie zadziała poniżej swojej statycznej temperatury zadziałania nawet przy bardzo szybkim wzroście temperatury. Odpowiedź a opisuje przyrostek R (różniczkowy), a b dotyczy czujek dymu, nie ciepła."
+ }
+]
