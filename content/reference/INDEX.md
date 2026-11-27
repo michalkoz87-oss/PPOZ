@@ -15,6 +15,17 @@ Pliki tekstowe w katalogu `akty/` (konwersja PDF→tekst, układ zachowany; tabe
 8. **Ustawa o ochronie ppoż.**: tekst ujednolicony (t.j. 2025 poz. 188 + zm. 2026 poz. 815).
 9. **Normy**: aktualne wydania — patrz `NORMY_AKTUALNE.md` (stan wg wyszukiwarki PKN). Wiele wydań cytowanych w starszych pytaniach jest WYCOFANYCH (np. PN-EN 12845:2015-10 i +A1:2020-05 → PN-EN 12845+A2:2026-09; PN-EN 1838:2013-11 → :2025-05; PN-EN 15004-1:2019-06 → :2025-05; PN-EN 12101-6:2007 → :2022-09; PN-B-02877-4:2001 → :2025-07; PN-EN 60849:2001 → PN-EN 50849:2017-04; PN-EN 60079-10-1:2016-02 → PN-EN IEC 60079-10-1:2021-09; PKN-CEN/TS 54-14:2006 → :2020-09). Tekstów norm NIE MA w korpusie (prawa autorskie PKN).
 
+## UWAGA: TABELA 1 ZAŁĄCZNIKA NR 3 DO WT (określenia palności a klasy PN-EN 13501-1)
+
+W pliku akty/wt_2002.txt tabela straciła granice komórek i czyta się ją niejednoznacznie. Odczyt z oficjalnego PDF
+(Dz.U. 2022 poz. 1225, zał. nr 3, tabela 1):
+- niepalne: A1; A2-s1,d0; A2-s2,d0; A2-s3,d0;
+- niezapalne (palne): A2-s1..s3 z d1 lub d2; wszystkie klasy B (B-s1..s3, d0..d2);
+- trudno zapalne (palne): wszystkie klasy C (C-s1..s3, d0..d2); D-s1,d0; D-s1,d1; D-s1,d2;
+- łatwo zapalne (palne): D-s2 i D-s3 (d0..d2); E-d2; E; F;
+- niekapiące: klasy z d0 (A1, A2, B, C, D z d0); samogasnące: co najmniej E;
+- intensywnie dymiące: wszystkie z s3 (A2, B, C, D), E-d2, E, F.
+
 ## PLIKI
 
 | plik | akt | status | skład | tematy |
