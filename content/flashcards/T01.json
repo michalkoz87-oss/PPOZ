@@ -1,0 +1,362 @@
+[
+ {
+  "id": "T01-01",
+  "topic": "P1",
+  "front": "Ile pytań ma test w części pisemnej egzaminu i ile trwa?",
+  "back": "40 pytań, 40 minut liczonych od rozdania testu wszystkim zdającym.",
+  "ref": "§ 12 rozp. MSWiA z 2.12.2015",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-02",
+  "topic": "P1",
+  "front": "Ile punktów daje błędna odpowiedź w teście?",
+  "back": "Minus 1 punkt.",
+  "ref": "§ 14 ust. 2 pkt 2 rozp. MSWiA z 2.12.2015",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-03",
+  "topic": "P1",
+  "front": "Ile punktów trzeba uzyskać, aby zaliczyć część pisemną?",
+  "back": "Co najmniej 21 punktów po odjęciu punktów ujemnych.",
+  "ref": "§ 14 ust. 3–4 rozp. MSWiA z 2.12.2015",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-04",
+  "topic": "P1",
+  "front": "Ile razy wolno zmienić zakreśloną odpowiedź w teście?",
+  "back": "Raz i tylko w jednym pytaniu, z potwierdzeniem parafą.",
+  "ref": "§ 13 ust. 2 rozp. MSWiA z 2.12.2015",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-05",
+  "topic": "P1",
+  "front": "Ile punktów dostaje pytanie, w którym zmieniono odpowiedź bez parafy?",
+  "back": "0 punktów.",
+  "ref": "§ 13 ust. 3 rozp. MSWiA z 2.12.2015",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-06",
+  "topic": "P1",
+  "front": "Ile czasu ma zdający na przygotowanie się do pracy z dokumentacją w części ustnej?",
+  "back": "20 minut od przedstawienia problemu i przekazania dokumentacji.",
+  "ref": "§ 16 ust. 2 rozp. MSWiA z 2.12.2015",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-07",
+  "topic": "P1",
+  "front": "Czy w części ustnej wolno korzystać z tekstów przepisów i norm?",
+  "back": "Tak, z tekstów aktów prawnych, Polskich Norm i innych opracowań.",
+  "ref": "§ 17 rozp. MSWiA z 2.12.2015",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-08",
+  "topic": "P1",
+  "front": "Jaki jest skutek negatywnego wyniku części pisemnej?",
+  "back": "Negatywny wynik całego egzaminu.",
+  "ref": "art. 11c ust. 5 ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-09",
+  "topic": "P1",
+  "front": "Z ilu co najmniej członków składa się komisja egzaminacyjna?",
+  "back": "Z co najmniej 7 członków powołanych spośród rzeczoznawców.",
+  "ref": "art. 11c ust. 2 ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-10",
+  "topic": "P1",
+  "front": "Jaka praktyka może zwolnić z części pisemnej egzaminu?",
+  "back": "Co najmniej 10-letnia praktyka w dziedzinie wymienionej w art. 11c ust. 6.",
+  "ref": "art. 11c ust. 6 ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-11",
+  "topic": "P1",
+  "front": "Komu nie przysługuje zwolnienie z części pisemnej mimo wymaganej praktyki?",
+  "back": "Osobie, która już raz uzyskała negatywny wynik egzaminu.",
+  "ref": "art. 11c ust. 7 ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-12",
+  "topic": "P1",
+  "front": "Ile wynosi opłata za przeprowadzenie egzaminu?",
+  "back": "15% przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej z roku poprzedzającego egzamin.",
+  "ref": "art. 11d ust. 1 ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-13",
+  "topic": "P1",
+  "front": "Ile wynosi opłata, gdy zdający przystępuje tylko do części ustnej?",
+  "back": "10% kwoty bazowej z art. 11d ust. 1 (przeciętnego miesięcznego wynagrodzenia).",
+  "ref": "art. 11d ust. 2 ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-14",
+  "topic": "P1",
+  "front": "Najpóźniej kiedy składa się do KG PSP wniosek o przyznanie prawa do wykonywania zawodu rzeczoznawcy?",
+  "back": "Co najmniej 30 dni przed wyznaczonym terminem egzaminu.",
+  "ref": "art. 11f ust. 1 ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-15",
+  "topic": "P1",
+  "front": "Czy rzeczoznawca może uzgodnić projekt urządzenia przeciwpożarowego, którego jest autorem?",
+  "back": "Nie.",
+  "ref": "art. 11i ust. 3 ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-16",
+  "topic": "P1",
+  "front": "Jak długo rzeczoznawca przechowuje ewidencję uzgodnionych projektów?",
+  "back": "5 lat.",
+  "ref": "art. 11i ust. 2 pkt 1 ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-17",
+  "topic": "P1",
+  "front": "Najpóźniej kiedy rzeczoznawca musi przystąpić do sprawdzianu?",
+  "back": "W piątym roku po roku powołania albo ostatniego pozytywnego sprawdzianu.",
+  "ref": "art. 11j ust. 3 ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-18",
+  "topic": "P1",
+  "front": "Ile punktów ze szkoleń dla rzeczoznawców daje pozytywny wynik sprawdzianu?",
+  "back": "20 punktów, jeśli rzeczoznawca zawiadomi KG PSP co najmniej 14 dni przed sprawdzianem.",
+  "ref": "art. 11j ust. 8 ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-19",
+  "topic": "P1",
+  "front": "Ile najwięcej punktów można przypisać jednemu szkoleniu dla rzeczoznawców?",
+  "back": "5 punktów.",
+  "ref": "art. 11j ust. 11 ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-20",
+  "topic": "P1",
+  "front": "Jaki jest skutek nieprzystąpienia do sprawdzianu w wymaganym terminie?",
+  "back": "Zawieszenie prawa do wykonywania zawodu postanowieniem KG PSP, bez wniosku o ponowne rozpatrzenie.",
+  "ref": "art. 11k ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-21",
+  "topic": "P1",
+  "front": "Czy obowiązkowe OC rzeczoznawcy obejmuje uzgadnianie projektów urządzeń przeciwpożarowych?",
+  "back": "Tak.",
+  "ref": "art. 11m ust. 1 pkt 1 ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-22",
+  "topic": "P1",
+  "front": "W jakim terminie rzeczoznawca wysyła komendantowi wojewódzkiemu zawiadomienie o uzgodnieniu projektu architektoniczno-budowlanego?",
+  "back": "W 14 dni od dnia uzgodnienia.",
+  "ref": "art. 6d ust. 2 ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-23",
+  "topic": "P1",
+  "front": "Jak potwierdza się uzgodnienie projektu sporządzonego w postaci elektronicznej?",
+  "back": "Kwalifikowanym podpisem elektronicznym i kartą uzgodnienia opatrzoną tym podpisem.",
+  "ref": "art. 6d ust. 1 pkt 2 ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-24",
+  "topic": "P1",
+  "front": "Jakim podpisem rzeczoznawca może opatrzyć plik z zawiadomieniem o uzgodnieniu projektu?",
+  "back": "Kwalifikowanym podpisem elektronicznym, podpisem osobistym albo podpisem zaufanym.",
+  "ref": "§ 9 ust. 3 rozp. MSWiA z 5.08.2023",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-25",
+  "topic": "P1",
+  "front": "Do kiedy komendant wojewódzki może unieważnić uzgodnienie projektu?",
+  "back": "Do dnia uzyskania pozwolenia na użytkowanie obiektu.",
+  "ref": "art. 6e ust. 1 ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-26",
+  "topic": "P1",
+  "front": "Kto może uzgodnić poprawiony projekt po unieważnieniu uzgodnienia?",
+  "back": "Komendant wojewódzki, na wniosek inwestora, w drodze postanowienia.",
+  "ref": "art. 6e ust. 4 pkt 2 ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-27",
+  "topic": "P1",
+  "front": "W jakiej formie komendant wojewódzki wyraża zgodę na zastosowanie rozwiązań zamiennych?",
+  "back": "Postanowienia, na które służy zażalenie.",
+  "ref": "art. 6a ust. 2 ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-28",
+  "topic": "P1",
+  "front": "Po jakim czasie od uzyskania informacji o nieprawidłowościach nie wszczyna się postępowania wyjaśniającego wobec rzeczoznawcy?",
+  "back": "Po upływie 6 miesięcy.",
+  "ref": "art. 11n ust. 8 ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-29",
+  "topic": "P1",
+  "front": "Po jakim czasie od zawieszenia KG PSP cofa prawo do wykonywania zawodu, jeśli przyczyny zawieszenia nie ustały?",
+  "back": "Po upływie 2 lat.",
+  "ref": "art. 11s pkt 2 ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-30",
+  "topic": "P1",
+  "front": "Po ilu latach od cofnięcia prawa za nieprawidłowości można ponownie przystąpić do egzaminu?",
+  "back": "Po 3 latach.",
+  "ref": "art. 11t ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-31",
+  "topic": "P1",
+  "front": "W jakiej formie KG PSP cofa prawo do wykonywania zawodu rzeczoznawcy za nieprawidłowości?",
+  "back": "Decyzji administracyjnej podlegającej natychmiastowemu wykonaniu.",
+  "ref": "art. 11r ust. 4 ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-32",
+  "topic": "P1",
+  "front": "Na jak długo nabywa się uprawnienia inspektora ochrony przeciwpożarowej?",
+  "back": "Na 5 lat od dnia wystawienia zaświadczenia o ukończeniu szkolenia.",
+  "ref": "art. 4a ust. 1 i 3 ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-33",
+  "topic": "P1",
+  "front": "Kto odpowiada za obowiązki przeciwpożarowe właściciela, gdy nie zawarto umowy ustanawiającej zarząd lub użytkowanie?",
+  "back": "Faktycznie władający budynkiem, obiektem budowlanym lub terenem.",
+  "ref": "art. 4 ust. 1a ustawy o ochronie ppoż.",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-34",
+  "topic": "P1",
+  "front": "Ile dni przed rozpoczęciem czynności kontrolno-rozpoznawczych doręcza się upoważnienie w trybie zwykłym?",
+  "back": "Co najmniej 7 dni.",
+  "ref": "art. 23 ust. 7 ustawy o PSP",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-35",
+  "topic": "P1",
+  "front": "Ile dni przed rozpoczęciem czynności doręcza się upoważnienie, gdy podstawą jest zgłoszenie obiektu wymagającego opinii lub stanowiska PSP?",
+  "back": "Co najmniej 3 dni.",
+  "ref": "art. 23 ust. 7 ustawy o PSP",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-36",
+  "topic": "P1",
+  "front": "Które decyzje komendanta powiatowego z art. 26 ust. 1 podlegają natychmiastowemu wykonaniu?",
+  "back": "Wstrzymanie robót i zakazy używania lub eksploatacji z pkt 2.",
+  "ref": "art. 26 ust. 2 ustawy o PSP",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-37",
+  "topic": "P1",
+  "front": "Kto jest organem odwoławczym od decyzji komendanta powiatowego wydanej po czynnościach kontrolno-rozpoznawczych?",
+  "back": "Komendant wojewódzki PSP.",
+  "ref": "art. 27 ustawy o PSP",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-38",
+  "topic": "P1",
+  "front": "Jaki najkrótszy okres służby stałej musi mieć strażak PSP upoważniany do czynności kontrolno-rozpoznawczych?",
+  "back": "Co najmniej sześć miesięcy.",
+  "ref": "§ 11 ust. 1 pkt 1 rozp. MSWiA z 24.10.2005",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-39",
+  "topic": "P1",
+  "front": "Kto musi uczestniczyć w praktycznym sprawdzeniu ewakuacji w escape roomie?",
+  "back": "Rzeczoznawca albo osoba z art. 4 ust. 2a ustawy o ochronie ppoż.",
+  "ref": "§ 17a ust. 2 rozp. MSWiA z 7.06.2010",
+  "conf": "wysoka",
+  "week": 1
+ },
+ {
+  "id": "T01-40",
+  "topic": "P1",
+  "front": "Kto wykonuje operat przeciwpożarowy, gdy zezwolenie na zbieranie odpadów wydaje marszałek województwa?",
+  "back": "Rzeczoznawca do spraw zabezpieczeń przeciwpożarowych.",
+  "ref": "art. 42 ust. 4b pkt 1 lit. a ustawy o odpadach",
+  "conf": "wysoka",
+  "week": 1
+ }
+]

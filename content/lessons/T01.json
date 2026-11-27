@@ -1,0 +1,579 @@
+{
+ "intro": "Lekcja obejmuje ustawę o ochronie przeciwpożarowej (tekst ujednolicony: t.j. Dz. U. z 2025 r. poz. 188, zm. z 2026 r. poz. 815) w zakresie obowiązków właściciela, rozwiązań zamiennych i uzgadniania (art. 3–6g) oraz zawodu rzeczoznawcy (rozdział 2a, art. 11b–11t), rozporządzenie MSWiA z 2.12.2015 w sprawie egzaminu (obowiązuje w brzmieniu pierwotnym), art. 23–27 ustawy o PSP i rozporządzenie MSWiA z 24.10.2005 w sprawie czynności kontrolno-rozpoznawczych ze zmianą z 2023 r. Szczegółowy tryb uzgadniania z rozporządzenia MSWiA z 5.08.2023 (rozporządzenia z 2015 i 2021 r. są uchylone, ale cytują je starsze arkusze) rozwija lekcja T02; tu potrzebne są z niego tylko przepisy o podpisie i zawiadomieniu. Lekcja nie opiera się na żadnej normie. Komisja łapie przede wszystkim na zamianie organu (komendant powiatowy, wojewódzki, Komendant Główny), formy (postanowienie, decyzja, opinia), terminu (7, 14, 30 dni) i czasownika w przepisie oraz na różnicy między rzeczoznawcą a osobą z art. 4 ust. 2a.",
+ "sections": [
+  {
+   "h": "Egzamin na rzeczoznawcę: zasady gry (art. 11b–11g ustawy, rozp. MSWiA z 2.12.2015)",
+   "text": "Rzeczoznawcą może zostać osoba, która ma kwalifikacje inżyniera pożarnictwa albo tytuł inżyniera lub magistra inżyniera i zdała egzamin z wynikiem pozytywnym (art. 11b ust. 1). Egzamin sprawdza znajomość przepisów i zasad wiedzy technicznej oraz umiejętność doboru zabezpieczeń (art. 11b ust. 2). Składa się z części pisemnej i ustnej; do ustnej dopuszcza tylko pozytywny wynik pisemnej, a negatywny wynik pisemnej jest negatywnym wynikiem całego egzaminu (art. 11c ust. 3 i 5). Prawo do wykonywania zawodu przyznaje Komendant Główny PSP w drodze powołania (art. 11g).\nCzęść pisemna to test z 40 pytań na 40 minut, liczonych od rozdania testu wszystkim zdającym (§ 12). W każdym pytaniu zakreśla się jedną z trzech odpowiedzi (§ 13 ust. 1). Prawidłowa odpowiedź daje 1 punkt, błędna minus 1 punkt, brak odpowiedzi 0 (§ 14 ust. 2); do zaliczenia trzeba co najmniej 21 punktów po odjęciu punktów ujemnych (§ 14 ust. 3–4). Z tej punktacji wynika strategia:\n- strzał spośród trzech odpowiedzi ma oczekiwaną wartość ujemną (1/3 − 2/3 = −1/3 punktu), więc pytanie, w którym nie umiesz niczego odrzucić, zostaw puste;\n- po pewnym odrzuceniu jednej odpowiedzi wartość oczekiwana spada do zera, więc opłaca się odpowiadać dopiero wtedy, gdy rozumiesz, dlaczego dwie odpowiedzi są złe;\n- 21 punktów to np. 21 dobrych odpowiedzi bez błędów albo 25 dobrych i 4 błędne przy 11 pustych.\nZmiana zakreślonej odpowiedzi jest dozwolona raz i tylko w jednym pytaniu, z parafą; druga zmiana albo brak parafy daje 0 punktów za to pytanie (§ 13 ust. 2–3). Podczas testu nie wolno korzystać z materiałów pomocniczych ani mieć urządzeń do przekazu informacji (§ 9–10), a naruszenie tych zakazów prowadzi do wykluczenia (§ 11 ust. 1). Test diagnostyczny (arkusz nr 1) rozwiąż w tych samych warunkach.\nCzęść ustna obejmuje odpowiedzi na pytania komisji i samodzielną pracę z dokumentacją: ocenę zgodności rozwiązań projektowych z wymaganiami ochrony ppoż., określanie rozwiązań zamiennych oraz sporządzanie ekspertyz i opracowań technicznych (§ 16 ust. 1). Na przygotowanie jest 20 minut od przedstawienia problemu i przekazania dokumentacji (§ 16 ust. 2); wolno korzystać z tekstów aktów prawnych, Polskich Norm i innych opracowań (§ 17). Wynik ustala się na posiedzeniu komisji bezpośrednio po części ustnej (§ 18).",
+   "table": {
+    "head": [
+     "Element",
+     "Wartość",
+     "Podstawa"
+    ],
+    "rows": [
+     [
+      "Częstotliwość egzaminu",
+      "co najmniej raz w roku",
+      "art. 11c ust. 1 ustawy o ochronie ppoż."
+     ],
+     [
+      "Skład komisji",
+      "co najmniej 7 członków powołanych spośród rzeczoznawców; powołuje ich KG PSP i wyznacza przewodniczącego, zastępcę i sekretarza",
+      "art. 11c ust. 2 ustawy o ochronie ppoż."
+     ],
+     [
+      "Obecność komisji przy egzaminie",
+      "co najmniej 5 członków, w tym przewodniczący lub zastępca",
+      "§ 6 ust. 1 rozp. MSWiA z 2.12.2015"
+     ],
+     [
+      "Wybór pytań na egzamin i sprawdzian",
+      "komisja w składzie co najmniej 3 osób",
+      "§ 4 rozp. MSWiA z 2.12.2015"
+     ],
+     [
+      "Rozstrzygnięcie o wyniku",
+      "zwykła większość głosów; przy równej liczbie decyduje przewodniczący, a pod jego nieobecność zastępca",
+      "art. 11c ust. 8 ustawy o ochronie ppoż."
+     ],
+     [
+      "Sprawdzanie testu",
+      "odrębnie przez dwóch członków komisji",
+      "§ 14 ust. 5 rozp. MSWiA z 2.12.2015"
+     ],
+     [
+      "Nieobecność lub spóźnienie",
+      "uważa się za rezygnację, bez względu na przyczynę",
+      "§ 6 ust. 4 rozp. MSWiA z 2.12.2015"
+     ],
+     [
+      "Opłata za egzamin",
+      "15% przeciętnego miesięcznego wynagrodzenia z roku poprzedzającego; za samą część ustną 10% tej kwoty bazowej",
+      "art. 11d ust. 1–2 ustawy o ochronie ppoż."
+     ],
+     [
+      "Wpłata opłaty",
+      "najpóźniej 30 dni przed egzaminem",
+      "§ 22 rozp. MSWiA z 2.12.2015"
+     ],
+     [
+      "Ogłoszenie terminu w BIP KG PSP",
+      "co najmniej 60 dni przed egzaminem",
+      "art. 11e ustawy o ochronie ppoż."
+     ],
+     [
+      "Wniosek do KG PSP",
+      "co najmniej 30 dni przed egzaminem; braki uzupełnia się w 7 dni od wezwania",
+      "art. 11f ust. 1 i 4 ustawy o ochronie ppoż."
+     ],
+     [
+      "Lista dopuszczonych w BIP",
+      "nie później niż 7 dni przed egzaminem",
+      "art. 11f ust. 5 ustawy o ochronie ppoż."
+     ],
+     [
+      "Zwrot opłaty",
+      "niedopuszczenie; wycofanie wniosku najpóźniej 14 dni przed częścią pisemną; przyczyny losowe i wniosek w 7 dni od daty egzaminu; zwrot w 30 dni",
+      "art. 11d ust. 3 ustawy o ochronie ppoż.; § 23 ust. 2 rozp. MSWiA z 2.12.2015"
+     ],
+     [
+      "Zwolnienie z części pisemnej",
+      "co najmniej 10-letnia praktyka w jednej z dziedzin z art. 11c ust. 6; nie przysługuje osobie, która raz nie zdała",
+      "art. 11c ust. 6–7 ustawy o ochronie ppoż."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Uprawnienia, obowiązki i sprawdzian rzeczoznawcy (art. 11h–11m)",
+   "text": "Rzeczoznawca jest uprawniony do (art. 11i ust. 1):\n- uzgadniania projektów z art. 6b: projektu zagospodarowania działki lub terenu (PZT), architektoniczno-budowlanego (PAB), technicznego (PT) i projektu urządzenia przeciwpożarowego (pkt 1);\n- uzgadniania projektów innych niż określone w art. 6b (pkt 2);\n- sporządzania ekspertyz technicznych i innych opracowań technicznych z zakresu ochrony ppoż. (pkt 3);\n- wykonywania czynności z art. 4 ust. 2a, czyli czynności z zakresu ochrony ppoż., do których ustawa wymaga kwalifikacji inżyniera pożarnictwa (pkt 4).\nNie może uzgadniać opracowanego przez siebie PZT, PAB, PT ani projektu urządzenia przeciwpożarowego (art. 11i ust. 3).\nObowiązki (art. 11i ust. 2): ewidencja uzgodnionych PZT, PAB i PT oraz kopii zawiadomień z dowodami wysłania, przechowywana 5 lat (pkt 1); udostępnianie jej na żądanie komendanta wojewódzkiego (właściwego dla obiektu albo dla miejsca zamieszkania rzeczoznawcy), KG PSP lub osób przez nich upoważnionych (pkt 2); zawiadomienie KG PSP i komendantów wojewódzkich nowego i poprzedniego miejsca zamieszkania o jego zmianie w 30 dni (pkt 3); samodzielne podnoszenie kwalifikacji (pkt 4). Ewidencja zawiera autora, rodzaj i nazwę projektu, nazwę i adres inwestycji, datę uzgodnienia, datę wysłania zawiadomienia i uwagi (art. 11i ust. 4); nie wpisuje się do niej projektów z klauzulą „tajne” albo „ściśle tajne” (art. 11i ust. 5).\nPodnoszenie kwalifikacji potwierdza pozytywny wynik sprawdzianu (art. 11j ust. 2). Sprawdzian przeprowadza komisja w składzie co najmniej 3 osób w formie testu z 40 pytań, według zasad testu egzaminacyjnego (§ 21 ust. 1 rozp. MSWiA z 2.12.2015). Zamiast pisać sprawdzian można zebrać 20 punktów ze szkoleń dla rzeczoznawców i zawiadomić o tym KG PSP co najmniej 14 dni przed sprawdzianem (art. 11j ust. 8). Nieprzystąpienie w terminie albo wynik negatywny oznacza zawieszenie prawa do wykonywania zawodu postanowieniem KG PSP, na które nie przysługuje wniosek o ponowne rozpatrzenie (art. 11k).\nObowiązkowe ubezpieczenie OC obejmuje szkody związane z uzgadnianiem PZT, PAB, PT i projektów urządzeń przeciwpożarowych oraz z ekspertyzami i opracowaniami technicznymi (art. 11m ust. 1); nie dotyczy rzeczoznawców, którzy tych czynności nie wykonują (art. 11m ust. 2). Uzgadniania „projektów innych niż w art. 6b” w tym katalogu nie ma. Minimalnej sumy gwarancyjnej ustawa nie podaje: odsyła do rozporządzenia ministra właściwego do spraw instytucji finansowych (art. 11m ust. 3), którego tekstu nie ma w korpusie.",
+   "table": {
+    "head": [
+     "Sprawa",
+     "Wartość",
+     "Podstawa"
+    ],
+    "rows": [
+     [
+      "Termin sprawdzianu",
+      "najpóźniej w piątym roku po roku powołania albo ostatniego pozytywnego sprawdzianu",
+      "art. 11j ust. 3 ustawy o ochronie ppoż."
+     ],
+     [
+      "Członek komisji egzaminacyjnej",
+      "termin liczy się od roku następującego po roku zaprzestania pełnienia funkcji",
+      "art. 11j ust. 4 ustawy o ochronie ppoż."
+     ],
+     [
+      "Częstotliwość sprawdzianów",
+      "co najmniej 2 razy w roku, w odstępie co najmniej 3 miesięcy",
+      "art. 11j ust. 5 ustawy o ochronie ppoż."
+     ],
+     [
+      "Ogłoszenie sprawdzianu w BIP",
+      "co najmniej 45 dni przed terminem",
+      "art. 11j ust. 5 ustawy o ochronie ppoż."
+     ],
+     [
+      "Zawiadomienie o zamiarze przystąpienia",
+      "co najmniej 14 dni przed sprawdzianem",
+      "art. 11j ust. 6 ustawy o ochronie ppoż."
+     ],
+     [
+      "Zaliczenie szkoleniami",
+      "20 punktów i zawiadomienie co najmniej 14 dni przed sprawdzianem",
+      "art. 11j ust. 8 ustawy o ochronie ppoż."
+     ],
+     [
+      "Punkty za jedno szkolenie",
+      "najwyżej 5",
+      "art. 11j ust. 11 ustawy o ochronie ppoż."
+     ],
+     [
+      "Opłata za szkolenie dla rzeczoznawców",
+      "do 2% przeciętnego wynagrodzenia za jednostkę 45-minutową, łącznie najwyżej 30%",
+      "art. 11j ust. 15 ustawy o ochronie ppoż."
+     ],
+     [
+      "Ewidencja uzgodnionych projektów",
+      "przechowywanie przez 5 lat",
+      "art. 11i ust. 2 pkt 1 ustawy o ochronie ppoż."
+     ],
+     [
+      "Zmiana miejsca zamieszkania",
+      "zawiadomienie w 30 dni",
+      "art. 11i ust. 2 pkt 3 ustawy o ochronie ppoż."
+     ],
+     [
+      "Upomnienie w wykazie rzeczoznawców",
+      "usuwa się po 2 latach od udzielenia",
+      "art. 11h ust. 2 ustawy o ochronie ppoż."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Nadzór nad rzeczoznawcami i sankcje (art. 11n–11t)",
+   "text": "Nadzór sprawuje Komendant Główny PSP przy pomocy komendantów wojewódzkich (art. 11n ust. 1). Obejmuje uzgadnianie projektów, ekspertyzy i opinie wymagane przepisami ochrony ppoż. oraz obowiązki z art. 6d ust. 2 i art. 11i ust. 2 pkt 1 i 3 (art. 11n ust. 2). Komendant wojewódzki nadzoruje czynności dotyczące obiektów w województwie i obowiązki rzeczoznawców w nim zamieszkałych (art. 11n ust. 3); KG nadzoruje rzeczoznawców będących komendantami wojewódzkimi, zatrudnionych w KG PSP albo mieszkających za granicą (art. 11n ust. 4).\nOrgan nadzoru może żądać wyjaśnień i dokumentów od rzeczoznawcy oraz potwierdzonych kopii projektów od autora, organu administracji architektoniczno-budowlanej (AAB) lub nadzoru budowlanego (NB); termin wynosi 14 dni od doręczenia żądania (art. 11n ust. 5–6). Postępowania wyjaśniającego nie wszczyna się po 6 miesiącach od uzyskania informacji o możliwych nieprawidłowościach, a administracyjnego po 5 latach od zakończenia robót, zawiadomienia o zakończeniu budowy albo pozwolenia na użytkowanie; przy urządzeniu realizowanym poza tym trybem 5 lat liczy się od rozpoczęcia jego użytkowania (art. 11n ust. 8). Z postępowania prowadzonego przez komendanta wojewódzkiego sporządza się protokół (art. 11n ust. 9).",
+   "table": {
+    "head": [
+     "Organ",
+     "Środek",
+     "Forma i skutek",
+     "Podstawa"
+    ],
+    "rows": [
+     [
+      "Komendant wojewódzki",
+      "upomnienie na piśmie albo przekazanie materiału KG PSP, gdy potrzebny jest powtórny egzamin lub cofnięcie prawa",
+      "po postępowaniu wyjaśniającym; o upomnieniu informuje KG PSP",
+      "art. 11o ustawy o ochronie ppoż."
+     ],
+     [
+      "KG PSP",
+      "upomnienie na piśmie",
+      "bez stosowania KPA",
+      "art. 11r ust. 1 pkt 1 i ust. 2 ustawy o ochronie ppoż."
+     ],
+     [
+      "KG PSP",
+      "skierowanie na egzamin",
+      "decyzja administracyjna; prawo do wykonywania zawodu zostaje zawieszone",
+      "art. 11r ust. 1 pkt 2 i ust. 3 ustawy o ochronie ppoż."
+     ],
+     [
+      "KG PSP",
+      "cofnięcie prawa za nieprawidłowości",
+      "decyzja administracyjna podlegająca natychmiastowemu wykonaniu",
+      "art. 11r ust. 1 pkt 3 i ust. 4 ustawy o ochronie ppoż."
+     ],
+     [
+      "KG PSP",
+      "cofnięcie obligatoryjne",
+      "wykonywanie zawodu mimo zawieszenia; upływ 2 lat od zawieszenia bez ustania przyczyn; wniosek rzeczoznawcy",
+      "art. 11s ustawy o ochronie ppoż."
+     ],
+     [
+      "KG PSP",
+      "zawieszenie po sprawdzianie",
+      "postanowienie, bez wniosku o ponowne rozpatrzenie",
+      "art. 11k ustawy o ochronie ppoż."
+     ],
+     [
+      "–",
+      "karencja",
+      "po cofnięciu za nieprawidłowości lub za pracę mimo zawieszenia egzamin najwcześniej po 3 latach",
+      "art. 11t ustawy o ochronie ppoż."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Obowiązki właściciela, kwalifikacje i proces inwestycyjny (art. 3–9, 30)",
+   "text": "Kto korzysta ze środowiska, budynku, obiektu lub terenu, musi zabezpieczyć je przed zagrożeniem pożarowym lub innym miejscowym zagrożeniem (art. 3 ust. 1). Właściciel budynku, obiektu budowlanego lub terenu ma siedem obowiązków (art. 4 ust. 1):\n- przestrzegać przeciwpożarowych wymagań techniczno-budowlanych, instalacyjnych i technologicznych;\n- wyposażyć obiekt w wymagane urządzenia przeciwpożarowe i gaśnice;\n- zapewnić przeglądy techniczne, konserwacje i naprawy urządzeń i gaśnic;\n- zapewnić osobom przebywającym w obiekcie bezpieczeństwo i możliwość ewakuacji;\n- przygotować obiekt do prowadzenia akcji ratowniczej;\n- zapoznać pracowników z przepisami przeciwpożarowymi;\n- ustalić sposoby postępowania na wypadek pożaru, klęski żywiołowej lub innego miejscowego zagrożenia.\nOdpowiedzialność za te obowiązki przejmuje w całości lub w części zarządca lub użytkownik na podstawie umowy cywilnoprawnej ustanawiającej zarząd lub użytkowanie; bez takiej umowy odpowiada faktycznie władający obiektem (art. 4 ust. 1a). Koszty urządzeń, gaśnic i połączenia SSP z PSP ponosi w pełni właściciel, zarządca lub użytkownik (art. 30), a korzystanie z usług z zakresu ochrony ppoż. jest dobrowolne (art. 8).\nKwalifikacje osób spoza jednostek ochrony ppoż. z art. 15 pkt 1a–5 i 8: kto wykonuje czynności polegające na zapobieganiu powstawaniu i rozprzestrzenianiu się pożaru, musi mieć tytuł inżyniera pożarnictwa lub magistra inżyniera pożarnictwa albo tytuł inżyniera z dyplomem SGSP lub Akademii Pożarniczej w zakresie inżynierii bezpieczeństwa pożarowego (art. 4 ust. 2a). Do czynności wyłącznie w zakresie art. 4 ust. 1 wystarczy co najmniej wykształcenie średnie lub średnie branżowe i uprawnienia inspektora ochrony ppoż. albo kwalifikacje technika pożarnictwa (art. 4 ust. 2b). Uprawnienia inspektora nabywa się na 5 lat od dnia wystawienia zaświadczenia, a szkolenie aktualizujące trzeba ukończyć w okresie ich ważności (art. 4a ust. 1, 3 i 4).\nObiekt objęty obowiązkowym SSP z urządzeniami sygnalizacyjno-alarmowymi, w którym nie działa własna jednostka ratownicza, łączy się z obiektem komendy PSP albo obiektem wskazanym przez komendanta powiatowego (art. 5). Wyroby z wykazu z art. 7 (m.in. podręczny sprzęt gaśniczy) wymagają dopuszczenia wydawanego przez instytut badawczy PSP na czas nie dłuższy niż 5 lat (art. 7 ust. 1–3); wykaz omawia lekcja T02.\nArt. 6 dotyczy procesu inwestycyjnego: autorzy dokumentacji projektowej odpowiadają za jej zgodność z wymaganiami ochrony ppoż. (ust. 2), eksploatację nowego, przebudowanego lub wyremontowanego obiektu wolno rozpocząć dopiero po spełnieniu wymagań i zapewnieniu skutecznej ochrony (ust. 5), a inwestor zawiadamia komendanta powiatowego o zakończeniu budowy obiektu istotnego ze względu na ochronę ppoż. w celu zajęcia stanowiska z art. 56 Prawa budowlanego (ust. 6). Komendant powiatowy niezwłocznie informuje komendanta wojewódzkiego, organ AAB i organ NB o zastrzeżeniach do projektu uzgodnionego przez rzeczoznawcę (ust. 7). Według art. 56 ust. 1 pkt 2 PB zawiadomienie PSP jest wymagane, gdy projekt wymagał uzgodnienia pod względem ochrony ppoż.; niezajęcie stanowiska w 14 dni traktuje się jak niezgłoszenie sprzeciwu lub uwag (art. 56 ust. 2 PB)."
+  },
+  {
+   "h": "Rozwiązania zamienne i uzgadnianie w ustawie (art. 6a–6g)",
+   "text": "Rozwiązanie zamienne jest dopuszczalne tylko w przypadkach określonych w przepisach dotyczących ochrony ppoż. (art. 6a ust. 1). Musi ograniczać możliwość powstania pożaru, a na wypadek pożaru:\n- zapewniać zachowanie nośności konstrukcji przez określony czas (pkt 1);\n- zapewniać ograniczenie rozprzestrzeniania się ognia i dymu wewnątrz obiektu (pkt 2);\n- zapewniać ograniczenie rozprzestrzeniania się pożaru na sąsiednie obiekty i tereny przyległe (pkt 3);\n- zapewniać możliwość ewakuacji ludzi lub ich uratowania w inny sposób (pkt 4);\n- uwzględniać bezpieczeństwo ekip ratowniczych (pkt 5).\nZgodę wydaje komendant wojewódzki właściwy dla miejsca lokalizacji inwestycji, na wniosek inwestora albo właściciela obiektu lub terenu uzasadniony ekspertyzą techniczną, w drodze postanowienia, na które służy zażalenie: zgoda, zgoda pod warunkiem spełnienia dodatkowych wymagań albo odmowa (art. 6a ust. 2). Te same zasady stosuje się do rozwiązań zamiennych przy odstępstwie z art. 9 PB (art. 6a ust. 3). Zgody na odstępstwo udziela postanowieniem organ AAB po upoważnieniu ministra (art. 9 ust. 2 PB), a przy odstępstwie od przepisów bezpieczeństwa pożarowego wniosek o upoważnienie zawiera ekspertyzę rzeczoznawcy oraz, dla obiektów istotnych w rozumieniu rozporządzenia z art. 6g, postanowienie z art. 6a ust. 2 (art. 9 ust. 3 pkt 5 PB).\nUzgodnienia z rzeczoznawcą wymagają PZT, PAB i PT obiektu istotnego ze względu na ochronę ppoż. oraz projekt urządzenia przeciwpożarowego (art. 6b). Projekt z rozwiązaniami innymi niż przepisowe rzeczoznawca może uzgodnić tylko wtedy, gdy dołączono zgodę na odstępstwo z art. 9 PB albo zgodę na rozwiązania zamienne, także warunkową (art. 6c). Uzgodnienie jest bez uwag albo z uwagami; w postaci papierowej potwierdza się je pieczęcią i podpisem, w elektronicznej kwalifikowanym podpisem elektronicznym i kartą uzgodnienia opatrzoną tym podpisem (art. 6d ust. 1). Zawiadomienie o uzgodnieniu PZT, PAB lub PT rzeczoznawca wysyła do komendanta wojewódzkiego właściwego dla lokalizacji w 14 dni (art. 6d ust. 2); nie sporządza się go dla projektu z klauzulą „tajne” albo „ściśle tajne” (art. 6d ust. 4). Plik z zawiadomieniem może być podpisany kwalifikowanym podpisem elektronicznym, podpisem osobistym albo zaufanym i trafia do komendanta przez elektroniczną skrzynkę podawczą (§ 9 ust. 3 i 5 rozp. MSWiA z 5.08.2023).\nKomendant wojewódzki unieważnia uzgodnienie PZT, PAB lub PT z rozwiązaniami niezgodnymi, mającymi istotny wpływ na bezpieczeństwo pożarowe, ale tylko do dnia uzyskania pozwolenia na użytkowanie; robi to postanowieniem z zażaleniem i informuje organy AAB i NB (art. 6e ust. 1–3). Na wniosek inwestora może wtedy dopuścić inny sposób spełnienia wymagań, jeśli wykazano warunki z art. 6a ust. 1, albo sam uzgodnić postanowieniem poprawiony lub nowy projekt (art. 6e ust. 4); projekt papierowy składa się w co najmniej 4 egzemplarzach (art. 6e ust. 5). Projekt uzgodniony przez komendanta opatruje się pieczęcią organu albo jego kwalifikowanym podpisem elektronicznym (art. 6f ust. 1). Rodzaje obiektów, dane i sposób uzgadniania określa rozporządzenie wydane na podstawie art. 6g, czyli dziś rozporządzenie MSWiA z 5.08.2023 (lekcja T02).",
+   "table": {
+    "head": [
+     "Akt",
+     "Co można spełnić inaczej",
+     "Kto uzgadnia",
+     "Podstawa"
+    ],
+    "rows": [
+     [
+      "Rozp. MSWiA z 7.06.2010",
+      "§ 19, § 23, § 24, § 25 ust. 1, 2, 5 i 6, § 27 ust. 1 i 2, § 28 ust. 1, § 29 ust. 1, § 38 ust. 1; przy uwarunkowaniach lokalnych wskazanych w ekspertyzie rzeczoznawcy i niepogorszeniu warunków ochrony",
+      "komendant wojewódzki",
+      "§ 1 ust. 2 rozp. MSWiA z 7.06.2010"
+     ],
+     [
+      "Rozp. MSWiA z 24.07.2009",
+      "przeciwpożarowe zaopatrzenie w wodę, na wniosek właściciela",
+      "komendant wojewódzki",
+      "§ 8 ust. 3"
+     ],
+     [
+      "Rozp. MSWiA z 24.07.2009",
+      "doprowadzenie drogi pożarowej, na wniosek właściciela",
+      "komendant wojewódzki",
+      "§ 13 ust. 4"
+     ],
+     [
+      "Rozp. MSWiA z 19.02.2020 (odpady)",
+      "wymagania rozporządzenia, według ekspertyzy rzeczoznawcy lub CNBOP-PIB, w trybie art. 6a ustawy",
+      "komendant wojewódzki",
+      "§ 2"
+     ],
+     [
+      "WT z 12.04.2002 (przepisy odniesienia)",
+      "wymagania przy nadbudowie, rozbudowie, przebudowie i zmianie sposobu użytkowania, według ekspertyzy m.in. rzeczoznawcy budowlanego oraz do spraw zabezpieczeń ppoż.",
+      "komendant wojewódzki albo PWIS, zależnie od przedmiotu ekspertyzy",
+      "§ 2 ust. 2 i 3a"
+     ],
+     [
+      "Prawo budowlane",
+      "odstępstwo od przepisów techniczno-budowlanych",
+      "organ AAB po upoważnieniu ministra, postanowieniem",
+      "art. 9 ust. 2–3 PB"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Czynności kontrolno-rozpoznawcze i decyzje PSP (art. 23–27 ustawy o PSP, rozp. MSWiA z 24.10.2005)",
+   "text": "PSP przeprowadza czynności kontrolno-rozpoznawcze w celu rozpoznawania zagrożeń, nadzoru nad przestrzeganiem przepisów przeciwpożarowych i przygotowania do działań ratowniczych (art. 23 ust. 1). Podstawą jest roczny plan, przepisy Prawa ochrony środowiska o zakładach ZZR i ZDR, zlecenie starosty, polecenie sądu, prokuratora lub NIK, zgłoszenie obiektu wymagającego opinii lub stanowiska PSP, zawiadomienie wójta (burmistrza, prezydenta miasta) o zagrożeniu albo istotne nowe okoliczności (art. 23 ust. 2). Zakres obejmuje m.in. kontrolę przestrzegania przepisów, ocenę rozwiązań technicznych, ocenę zgodności wykonania obiektu z projektem, rozpoznawanie warunków działań ratowniczych, wstępne ustalanie nieprawidłowości, które przyczyniły się do pożaru, oraz ocenę miejsc gospodarowania odpadami (art. 23 ust. 3).\nCzynności prowadzą strażacy upoważnieni przez właściwego komendanta (art. 23 ust. 4), a inne osoby po upoważnieniu przez komendanta wojewódzkiego (art. 23 ust. 5). Upoważnienie doręcza się co najmniej 7 dni przed rozpoczęciem, a przy zgłoszeniu obiektu (ust. 2 pkt 5) co najmniej 3 dni. W chwili przystąpienia wolno je doręczyć, gdy powzięto informację o zagrożeniu życia ludzi, bezpośrednim niebezpieczeństwie pożaru lub poważnej awarii albo gdy trzeba ustalić przyczyny pożaru lub zebrać dane do analizy poważnej awarii (art. 23 ust. 7). Kontrolujący okazuje legitymację (strażak) albo dokument tożsamości (inna osoba) (art. 23 ust. 9); strażak może nałożyć grzywnę w drodze mandatu karnego (art. 23 ust. 6). Uprawnieni do tych czynności korzystają z ochrony prawnokarnej przewidzianej dla funkcjonariuszy publicznych (art. 27 pkt 1 ustawy o ochronie ppoż.).\nKontrolowany musi m.in. udzielić informacji i wyjaśnień, zgodzić się na dokumentację fotograficzną, udostępnić obiekty, dokumentację i ewidencje, umożliwić kopie, zapewnić warunki pracy i środki łączności (art. 23 ust. 10). Prawo wstępu nie obejmuje części mieszkalnych ani obiektów MON, Policji, ABW, AW, SOP, CBA, Straży Marszałkowskiej, Straży Granicznej i misji dyplomatycznych (art. 23 ust. 11). Protokół podpisują kontrolujący i kontrolowany, który może wnieść zastrzeżenia przed podpisaniem; odmowę podpisu odnotowuje się w protokole; oryginał trafia do komendanta powiatowego, kopia do kontrolowanego, a przy działalności odpadowej także do wojewódzkiego inspektora ochrony środowiska (art. 23 ust. 13–16).\nPo stwierdzeniu naruszenia przepisów komendant powiatowy wydaje decyzję nakazującą usunięcie uchybień w ustalonym terminie albo, gdy uchybienia mogą powodować zagrożenie życia ludzi lub bezpośrednie niebezpieczeństwo powstania pożaru, wstrzymującą roboty lub zakazującą używania maszyn, urządzeń, środków transportu i eksploatacji pomieszczeń lub obiektów (art. 26 ust. 1). Natychmiastowemu wykonaniu podlegają tylko te drugie decyzje (art. 26 ust. 2). Organem odwoławczym jest komendant wojewódzki (art. 27). Do kontroli działalności gospodarczej przedsiębiorcy stosuje się rozdział 5 Prawa przedsiębiorców (art. 23a); tekstu tej ustawy nie ma w korpusie.",
+   "table": {
+    "head": [
+     "Zagadnienie",
+     "Reguła",
+     "Podstawa"
+    ],
+    "rows": [
+     [
+      "Roczny plan czynności",
+      "sporządza komendant powiatowy do końca roku poprzedzającego; terminy z dokładnością co najmniej do kwartału",
+      "§ 2 ust. 1–2 rozp. MSWiA z 24.10.2005"
+     ],
+     [
+      "Próby urządzeń przeciwpożarowych",
+      "gdy wynikają z planu albo są niezbędne do oceny stanu ochrony",
+      "§ 3 ust. 2 pkt 1 rozp. MSWiA z 24.10.2005"
+     ],
+     [
+      "Miejsce i czas",
+      "siedziba kontrolowanego i miejsca jego działalności; przy zagrożeniu życia lub bezpośrednim niebezpieczeństwie pożaru także w dni wolne i poza godzinami pracy",
+      "§ 4 rozp. MSWiA z 24.10.2005"
+     ],
+     [
+      "Obowiązki kontrolowanego",
+      "natychmiast po zażądaniu, a gdy to niemożliwe, w terminie wyznaczonym przez kontrolującego",
+      "§ 5 rozp. MSWiA z 24.10.2005"
+     ],
+     [
+      "Oświadczenia innych osób",
+      "kontrolujący nie może odmówić przyjęcia oświadczenia związanego z zakresem czynności",
+      "§ 7 rozp. MSWiA z 24.10.2005"
+     ],
+     [
+      "Kogo można upoważnić",
+      "strażaka PSP z co najmniej sześciomiesięczną służbą stałą i wyższym wykształceniem albo stopniem aspiranckim; inną osobę z wyższym wykształceniem i przydatną wiedzą",
+      "§ 11 ust. 1 rozp. MSWiA z 24.10.2005"
+     ],
+     [
+      "Kierownictwo",
+      "strażak ze stopniem aspiranckim bez wyższego wykształcenia i osoba spoza PSP działają tylko pod kierownictwem strażaka z wyższym wykształceniem",
+      "§ 11 ust. 2 rozp. MSWiA z 24.10.2005"
+     ],
+     [
+      "Kto upoważnia",
+      "KG – strażaków KG, Akademii Pożarniczej, szkół i instytutów PSP; komendant wojewódzki – strażaków KW i osoby spoza PSP; komendant powiatowy – strażaków KP",
+      "§ 12 ust. 1 rozp. MSWiA z 24.10.2005"
+     ],
+     [
+      "Czynności poza terenem komendy",
+      "upoważnia KG na terenie kraju, komendant wojewódzki na terenie województwa",
+      "§ 12 ust. 2 rozp. MSWiA z 24.10.2005"
+     ],
+     [
+      "Zestawienia wyników",
+      "KP do KW: do 20 lipca i 20 stycznia; KW do KG: do 10 sierpnia i 10 lutego",
+      "§ 14 ust. 1–2 rozp. MSWiA z 24.10.2005"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Rzeczoznawca w innych przepisach: o to pytano",
+   "text": "Komisja sprawdza, kiedy przepis wymaga właśnie rzeczoznawcy, a kiedy wystarcza osoba z art. 4 ust. 2a ustawy o ochronie ppoż. Inspektor ochrony ppoż. z art. 4 ust. 2b nie jest osobą z art. 4 ust. 2a.\n- Escape room: praktyczne sprawdzenie organizacji ewakuacji i spełniania wymagań ochrony ppoż. przed rozpoczęciem działalności i co najmniej raz na 2 lata, z udziałem rzeczoznawcy albo osoby z art. 4 ust. 2a; komendanta powiatowego powiadamia się co najmniej 7 dni wcześniej, a protokół składa w komendzie powiatowej w 7 dni (§ 17a ust. 1–5 rozp. MSWiA z 7.06.2010; pyt. 227).\n- Operat przeciwpożarowy do wniosku o zezwolenie na zbieranie lub przetwarzanie odpadów wykonuje rzeczoznawca, gdy organem jest marszałek województwa albo regionalny dyrektor ochrony środowiska, a osoba z art. 4 ust. 2a, gdy organem jest starosta; warunki uzgadnia postanowieniem komendant powiatowy (art. 42 ust. 4b–4c ustawy o odpadach; pyt. 255). Operat jest opinią z art. 11n ust. 2 pkt 2 ustawy o ochronie ppoż., więc podlega nadzorowi KG i komendantów wojewódzkich (art. 42 ust. 4e ustawy o odpadach).\n- Rozwiązania zamienne z § 1 ust. 2 rozp. MSWiA z 7.06.2010 opierają się na ekspertyzie rzeczoznawcy, a wniosek o odstępstwo od przepisów bezpieczeństwa pożarowego zawiera ekspertyzę rzeczoznawcy (art. 9 ust. 3 pkt 5 lit. a PB). Sam art. 6a ust. 2 mówi tylko o „ekspertyzie technicznej”.\n- Urządzenia przeciwpożarowe wykonuje się według projektu uzgodnionego przez rzeczoznawcę i dopuszcza do użytkowania po próbach i badaniach (§ 3 ust. 1 rozp. MSWiA z 7.06.2010); obowiązek uzgodnienia projektu urządzenia wynika z art. 6b ustawy (pyt. 116).\n- Pytano też, czy rzeczoznawca może opinią potwierdzać spełnianie wymagań ppoż. w obiektach innych niż hotelarskie, w których świadczy się usługi hotelarskie (pyt. 174). Tekstu ustawy o usługach hotelarskich nie ma w korpusie, więc lekcja tej odpowiedzi nie przesądza."
+  }
+ ],
+ "keyValues": [
+  {
+   "label": "Test w części pisemnej",
+   "value": "40 pytań, 40 minut od rozdania testu",
+   "ref": "§ 12 rozp. MSWiA z 2.12.2015"
+  },
+  {
+   "label": "Punktacja pytania testowego",
+   "value": "+1 prawidłowa, −1 błędna, 0 brak odpowiedzi",
+   "ref": "§ 14 ust. 2 rozp. MSWiA z 2.12.2015"
+  },
+  {
+   "label": "Próg zaliczenia części pisemnej",
+   "value": "co najmniej 21 punktów po odjęciu punktów ujemnych",
+   "ref": "§ 14 ust. 3–4 rozp. MSWiA z 2.12.2015"
+  },
+  {
+   "label": "Zmiana zakreślonej odpowiedzi",
+   "value": "raz, w jednym pytaniu, z parafą; inaczej 0 punktów za to pytanie",
+   "ref": "§ 13 ust. 2–3 rozp. MSWiA z 2.12.2015"
+  },
+  {
+   "label": "Przygotowanie do pracy z dokumentacją",
+   "value": "20 minut od przekazania problemu i dokumentacji",
+   "ref": "§ 16 ust. 2 rozp. MSWiA z 2.12.2015"
+  },
+  {
+   "label": "Materiały w części ustnej",
+   "value": "teksty aktów prawnych, Polskie Normy, inne opracowania",
+   "ref": "§ 17 rozp. MSWiA z 2.12.2015"
+  },
+  {
+   "label": "Komisja egzaminacyjna",
+   "value": "co najmniej 7 członków spośród rzeczoznawców",
+   "ref": "art. 11c ust. 2 ustawy o ochronie ppoż."
+  },
+  {
+   "label": "Obecność komisji przy egzaminie",
+   "value": "co najmniej 5 członków, w tym przewodniczący lub zastępca",
+   "ref": "§ 6 ust. 1 rozp. MSWiA z 2.12.2015"
+  },
+  {
+   "label": "Opłata za egzamin",
+   "value": "15% przeciętnego miesięcznego wynagrodzenia; sama część ustna 10% tej kwoty",
+   "ref": "art. 11d ust. 1–2 ustawy o ochronie ppoż."
+  },
+  {
+   "label": "Wniosek o przyznanie prawa do wykonywania zawodu",
+   "value": "co najmniej 30 dni przed egzaminem",
+   "ref": "art. 11f ust. 1 ustawy o ochronie ppoż."
+  },
+  {
+   "label": "Zwolnienie z części pisemnej",
+   "value": "co najmniej 10-letnia praktyka; nie dla osoby, która raz nie zdała",
+   "ref": "art. 11c ust. 6–7 ustawy o ochronie ppoż."
+  },
+  {
+   "label": "Ewidencja uzgodnionych projektów",
+   "value": "przechowywanie 5 lat",
+   "ref": "art. 11i ust. 2 pkt 1 ustawy o ochronie ppoż."
+  },
+  {
+   "label": "Zmiana miejsca zamieszkania rzeczoznawcy",
+   "value": "zawiadomienie KG PSP i komendantów wojewódzkich w 30 dni",
+   "ref": "art. 11i ust. 2 pkt 3 ustawy o ochronie ppoż."
+  },
+  {
+   "label": "Sprawdzian rzeczoznawcy",
+   "value": "najpóźniej w piątym roku po roku powołania lub ostatniego sprawdzianu",
+   "ref": "art. 11j ust. 3 ustawy o ochronie ppoż."
+  },
+  {
+   "label": "Szkolenia zamiast sprawdzianu",
+   "value": "20 punktów, najwyżej 5 za szkolenie, zawiadomienie 14 dni przed",
+   "ref": "art. 11j ust. 8 i 11 ustawy o ochronie ppoż."
+  },
+  {
+   "label": "Zawiadomienie o uzgodnieniu PZT, PAB, PT",
+   "value": "do komendanta wojewódzkiego w 14 dni od uzgodnienia",
+   "ref": "art. 6d ust. 2 ustawy o ochronie ppoż."
+  },
+  {
+   "label": "Termin na wyjaśnienia w nadzorze",
+   "value": "14 dni od doręczenia żądania",
+   "ref": "art. 11n ust. 6 ustawy o ochronie ppoż."
+  },
+  {
+   "label": "Postępowanie wyjaśniające wobec rzeczoznawcy",
+   "value": "nie wszczyna się po 6 miesiącach od uzyskania informacji",
+   "ref": "art. 11n ust. 8 ustawy o ochronie ppoż."
+  },
+  {
+   "label": "Postępowanie administracyjne wobec rzeczoznawcy",
+   "value": "nie wszczyna się po 5 latach od zakończenia robót, zawiadomienia lub pozwolenia na użytkowanie",
+   "ref": "art. 11n ust. 8 pkt 1 ustawy o ochronie ppoż."
+  },
+  {
+   "label": "Cofnięcie prawa po zawieszeniu",
+   "value": "po 2 latach, jeśli przyczyny zawieszenia nie ustały",
+   "ref": "art. 11s pkt 2 ustawy o ochronie ppoż."
+  },
+  {
+   "label": "Karencja po cofnięciu prawa",
+   "value": "egzamin najwcześniej po 3 latach",
+   "ref": "art. 11t ustawy o ochronie ppoż."
+  },
+  {
+   "label": "Unieważnienie uzgodnienia przez komendanta wojewódzkiego",
+   "value": "tylko do dnia uzyskania pozwolenia na użytkowanie",
+   "ref": "art. 6e ust. 1 ustawy o ochronie ppoż."
+  },
+  {
+   "label": "Projekt papierowy do uzgodnienia przez komendanta wojewódzkiego",
+   "value": "co najmniej 4 egzemplarze",
+   "ref": "art. 6e ust. 5 pkt 1 ustawy o ochronie ppoż."
+  },
+  {
+   "label": "Uprawnienia inspektora ochrony ppoż.",
+   "value": "5 lat od dnia wystawienia zaświadczenia",
+   "ref": "art. 4a ust. 1 i 3 ustawy o ochronie ppoż."
+  },
+  {
+   "label": "Dopuszczenie wyrobu przez instytut badawczy PSP",
+   "value": "na czas nie dłuższy niż 5 lat",
+   "ref": "art. 7 ust. 3 ustawy o ochronie ppoż."
+  },
+  {
+   "label": "Doręczenie upoważnienia do czynności kontrolno-rozpoznawczych",
+   "value": "co najmniej 7 dni przed; przy zgłoszeniu obiektu co najmniej 3 dni",
+   "ref": "art. 23 ust. 7 ustawy o PSP"
+  },
+  {
+   "label": "Stanowisko PSP po zawiadomieniu o zakończeniu budowy",
+   "value": "14 dni; brak stanowiska oznacza brak sprzeciwu lub uwag",
+   "ref": "art. 56 ust. 2 Prawa budowlanego"
+  },
+  {
+   "label": "Strażak upoważniany do czynności kontrolno-rozpoznawczych",
+   "value": "co najmniej sześciomiesięczna służba stała",
+   "ref": "§ 11 ust. 1 pkt 1 rozp. MSWiA z 24.10.2005"
+  }
+ ],
+ "traps": [
+  "Rzeczoznawca może być autorem instrukcji bezpieczeństwa pożarowego jako opracowania technicznego, ale nie może uzgodnić projektu, którego jest autorem, ani projektu z rozwiązaniami nieprzepisowymi bez dołączonej zgody na odstępstwo lub rozwiązania zamienne (art. 11i ust. 1 pkt 3–4 i ust. 3, art. 6c ustawy o ochronie ppoż.; pyt. 103).",
+  "Obowiązkowe OC obejmuje uzgadnianie PZT, PAB, PT i projektów urządzeń przeciwpożarowych oraz ekspertyzy i opracowania, ale nie uzgadnianie innej dokumentacji projektowej, choć rzeczoznawca jest do niego uprawniony (art. 11m ust. 1, art. 11i ust. 1 pkt 2 ustawy o ochronie ppoż.; pyt. 128).",
+  "Według art. 6a ust. 1 rozwiązanie zamienne ma ograniczać możliwość powstania pożaru, zapewniać możliwość ewakuacji i uwzględniać bezpieczeństwo ekip ratowniczych; komisja zamienia czasowniki „zapewniać” i „uwzględniać”, więc porównuj odpowiedź z brzmieniem przepisu słowo po słowie (pyt. 114).",
+  "Po unieważnieniu uzgodnienia poprawiony projekt może uzgodnić komendant wojewódzki, ale tylko na wniosek inwestora i w drodze postanowienia; przepis nie nakłada tego obowiązku ani na organ, ani na rzeczoznawcę, który uzgodnił projekt pierwotnie (art. 6e ust. 4 pkt 2 ustawy o ochronie ppoż.; pyt. 209).",
+  "Uzgodnienie projektu w postaci elektronicznej wymaga kwalifikowanego podpisu elektronicznego i karty uzgodnienia, a podpis zaufany lub osobisty wolno zastosować tylko do pliku z zawiadomieniem o uzgodnieniu (art. 6d ust. 1 pkt 2 ustawy o ochronie ppoż.; § 7 ust. 1 i § 9 ust. 3 rozp. MSWiA z 5.08.2023; pyt. 448).",
+  "Przy sprawdzeniu ewakuacji w escape roomie wystarczy rzeczoznawca albo osoba z art. 4 ust. 2a (inżynier pożarnictwa albo inżynier z dyplomem SGSP lub Akademii Pożarniczej w zakresie inżynierii bezpieczeństwa pożarowego); nie trzeba funkcjonariusza PSP, a inspektor ochrony ppoż. z art. 4 ust. 2b nie wystarcza (§ 17a ust. 2 rozp. MSWiA z 7.06.2010; pyt. 227).",
+  "Operat przeciwpożarowy wykonuje rzeczoznawca, gdy zezwolenie wydaje marszałek województwa albo regionalny dyrektor ochrony środowiska; osoba z art. 4 ust. 2a wystarcza tylko wtedy, gdy organem jest starosta (art. 42 ust. 4b pkt 1 ustawy o odpadach; pyt. 255).",
+  "Inwestor zawiadamia PSP o zakończeniu budowy, gdy projekt wymagał uzgodnienia pod względem ochrony ppoż., także wtedy, gdy obiekt nie wymaga pozwolenia na użytkowanie (art. 56 ust. 1 pkt 2 Prawa budowlanego, art. 6 ust. 6 ustawy o ochronie ppoż.; pyt. 41).",
+  "Kwalifikacji zamierzonego odstąpienia od zatwierdzonego projektu dokonuje projektant, a nie rzeczoznawca ani organ AAB; odstąpienie od projektowanych warunków ochrony ppoż., które uzgodniono pod względem ochrony ppoż., nie staje się istotne z powodu art. 36a ust. 5 pkt 6 (art. 36a ust. 5b pkt 2 lit. a i ust. 6 Prawa budowlanego; pyt. 68).",
+  "Obowiązek uzgodnienia projektu urządzenia przeciwpożarowego wynika z ustawy, a rozporządzenie wydane na podstawie art. 6g określa tylko rodzaje obiektów, dane i szczegółowy sposób uzgadniania (art. 6b i 6g ustawy o ochronie ppoż.; pyt. 116).",
+  "Ustawa nie zna „pozytywnej opinii komendanta wojewódzkiego” jako trybu dopuszczenia innego rozwiązania: zgoda na rozwiązania zamienne to postanowienie komendanta wojewódzkiego, a zgoda na odstępstwo to postanowienie organu AAB po upoważnieniu ministra; wariant z opinią wraca w pytaniach o instalacje gazowe (art. 6a ust. 2 ustawy o ochronie ppoż., art. 9 ust. 2 Prawa budowlanego; pyt. 13, 72, 285, 377)."
+ ],
+ "oral": [
+  {
+   "q": "Kazus: inwestor hali magazynowej chce zastąpić wymagane hydranty wewnętrzne innym rozwiązaniem, bo lokalna sieć wodociągowa nie zapewnia wymaganego ciśnienia. Opisz drogę formalną od ekspertyzy do uzgodnienia projektu.",
+   "points": [
+    "Rozwiązanie zamienne jest możliwe tylko tam, gdzie dopuszcza je przepis (art. 6a ust. 1 ustawy); § 1 ust. 2 rozp. MSWiA z 7.06.2010 obejmuje § 19 (hydranty) przy uwarunkowaniach lokalnych wskazanych w ekspertyzie rzeczoznawcy i niepogorszeniu warunków ochrony.",
+    "Ekspertyza musi wykazać warunki z art. 6a ust. 1: ograniczenie możliwości powstania pożaru, nośność konstrukcji, ograniczenie rozprzestrzeniania ognia i dymu oraz pożaru na sąsiednie obiekty, możliwość ewakuacji i uwzględnienie bezpieczeństwa ekip ratowniczych.",
+    "Wniosek składa inwestor albo właściciel do komendanta wojewódzkiego właściwego dla miejsca lokalizacji inwestycji (art. 6a ust. 2).",
+    "Komendant wydaje postanowienie: zgoda, zgoda pod warunkiem dodatkowych wymagań albo odmowa; przysługuje zażalenie (art. 6a ust. 2).",
+    "Rzeczoznawca może uzgodnić projekt tylko z dołączoną zgodą (art. 6c pkt 2); w PAB muszą być informacje o zastosowanych rozwiązaniach zamiennych (§ 4 ust. 1 pkt 2 lit. m rozp. MSWiA z 5.08.2023), a w karcie uzgodnienia i w pkt 8 zawiadomienia zaznacza się rozwiązania zamienne i dane postanowienia (załączniki nr 2 i 3 do tego rozporządzenia).",
+    "Zakaz z art. 11i ust. 3 dotyczy projektu opracowanego przez rzeczoznawcę, a nie ekspertyzy; projekt uzgadnia się w trakcie jego sporządzania, we współpracy projektanta z rzeczoznawcą (§ 5 rozp. MSWiA z 5.08.2023)."
+   ]
+  },
+  {
+   "q": "Kazus: komendant powiatowy, zajmując stanowisko po zakończeniu budowy hotelu, stwierdza, że projekt uzgodniony przez rzeczoznawcę nie przewiduje wymaganego urządzenia przeciwpożarowego. Co dzieje się z uzgodnieniem, z inwestorem i z rzeczoznawcą?",
+   "points": [
+    "Komendant powiatowy niezwłocznie zawiadamia komendanta wojewódzkiego, organ AAB i organ NB o zastrzeżeniach do projektu (art. 6 ust. 7 ustawy); na stanowisko ma 14 dni, inaczej traktuje się to jak brak sprzeciwu (art. 56 ust. 2 PB).",
+    "Komendant wojewódzki unieważnia uzgodnienie, jeśli niezgodność istotnie wpływa na bezpieczeństwo pożarowe, ale tylko do dnia uzyskania pozwolenia na użytkowanie (art. 6e ust. 1), postanowieniem z zażaleniem (ust. 2), i informuje organy AAB i NB (ust. 3).",
+    "Na wniosek inwestora komendant wojewódzki może dopuścić inny sposób spełnienia wymagań przy warunkach z art. 6a ust. 1 albo uzgodnić postanowieniem poprawiony lub nowy projekt (art. 6e ust. 4); projekt papierowy w co najmniej 4 egzemplarzach (ust. 5), opatrzony potem pieczęcią albo kwalifikowanym podpisem organu (art. 6f ust. 1).",
+    "Wobec rzeczoznawcy komendant wojewódzki może prowadzić postępowanie wyjaśniające (art. 11n ust. 7), ale nie później niż 6 miesięcy od uzyskania informacji (art. 11n ust. 8), i może żądać wyjaśnień oraz kopii projektu z terminem 14 dni (art. 11n ust. 5–6).",
+    "Komendant wojewódzki może udzielić upomnienia albo przekazać sprawę KG PSP (art. 11o); KG może upomnieć, skierować na egzamin decyzją z zawieszeniem prawa albo cofnąć prawo decyzją natychmiast wykonalną (art. 11r).",
+    "Szkody związane z uzgadnianiem PAB i PT są objęte obowiązkowym OC rzeczoznawcy (art. 11m ust. 1 pkt 1)."
+   ]
+  },
+  {
+   "q": "Uzgodniłeś projekt techniczny budynku biurowego w postaci elektronicznej, obejmujący też instalację tryskaczową. Jakie czynności i dokumenty musisz wykonać po uzgodnieniu?",
+   "points": [
+    "Pliki projektu opatrujesz kwalifikowanym podpisem elektronicznym, a kartę uzgodnienia sporządzasz w PDF i podpisujesz tym podpisem tego samego dnia (art. 6d ust. 1 pkt 2 ustawy; § 7 ust. 1 rozp. MSWiA z 5.08.2023); pliki znakuje się kwalifikowanym znacznikiem czasu (§ 7 ust. 3).",
+    "Karta zawiera nazwę, rodzaj i datę projektu, lokalizację, datę uzgodnienia, stwierdzenie zgodności bez uwag albo z uwagami i treść uwag (art. 6d ust. 1a).",
+    "Uzgodnienie PT zastępuje uzgodnienie projektu urządzenia tylko wtedy, gdy PT zawiera dane o urządzeniu z § 8 pkt 1, a rzeczoznawca zamieści adnotację, których urządzeń dotyczy (§ 8 pkt 2 rozp. MSWiA z 5.08.2023).",
+    "Zawiadomienie o uzgodnieniu PT wysyłasz do komendanta wojewódzkiego właściwego dla lokalizacji w 14 dni (art. 6d ust. 2), jako PDF z nazwą ZoUZG_PT_x_y_z, podpisany kwalifikowanym, osobistym albo zaufanym podpisem, przez elektroniczną skrzynkę podawczą (§ 9 ust. 1, 3–5).",
+    "Zawiadomienia nie sporządza się, jeśli projekt ma klauzulę „tajne” albo „ściśle tajne” (art. 6d ust. 4).",
+    "Projekt wpisujesz do ewidencji (art. 11i ust. 4) i przechowujesz ją 5 lat z kopią zawiadomienia i dowodem wysłania (art. 11i ust. 2 pkt 1), udostępniając na żądanie organów nadzoru (art. 11i ust. 2 pkt 2)."
+   ]
+  },
+  {
+   "q": "Kazus: strażak komendy powiatowej przychodzi bez zapowiedzi do galerii handlowej po zgłoszeniu, że wyjścia ewakuacyjne są zastawione towarem. Zarządca odmawia wejścia na zaplecze, a potem podpisania protokołu. Oceń sytuację i możliwe rozstrzygnięcia.",
+   "points": [
+    "Zasadą jest doręczenie upoważnienia co najmniej 7 dni przed czynnościami, ale przy informacji o zagrożeniu życia ludzi lub bezpośrednim niebezpieczeństwie pożaru wolno je doręczyć w chwili przystąpienia (art. 23 ust. 7 pkt 1 ustawy o PSP); czynności mogą wtedy odbywać się także w dni wolne i poza godzinami pracy (§ 4 rozp. MSWiA z 24.10.2005).",
+    "Kontrolujący okazuje legitymację (art. 23 ust. 9), a upoważnienie musi zawierać elementy z art. 23 ust. 8, w tym zakres czynności i pouczenie.",
+    "Zarządca musi umożliwić dostęp do obiektów i dokumentacji (art. 23 ust. 10 pkt 2–3) natychmiast po zażądaniu (§ 5 rozp. MSWiA z 24.10.2005); galeria nie należy do wyłączeń z prawa wstępu (art. 23 ust. 11).",
+    "Zarządca może wnieść zastrzeżenia przed podpisaniem protokołu; odmowę podpisu kontrolujący odnotowuje w protokole, a oryginał doręcza komendantowi powiatowemu (art. 23 ust. 14–16).",
+    "Za naruszenie przepisów przeciwpożarowych strażak może nałożyć mandat karny (art. 23 ust. 6).",
+    "Komendant powiatowy może decyzją nakazać usunięcie uchybień w terminie albo, skoro zastawione wyjścia mogą zagrażać życiu ludzi, zakazać eksploatacji obiektu lub jego części; tylko ta druga decyzja jest natychmiast wykonalna (art. 26 ust. 1–2), a odwołanie rozpatruje komendant wojewódzki (art. 27)."
+   ]
+  },
+  {
+   "q": "Właściciel hali wynajął ją w całości firmie logistycznej. Kto odpowiada za obowiązki z art. 4 ust. 1 ustawy i kto może prowadzić sprawy ochrony przeciwpożarowej u najemcy?",
+   "points": [
+    "Art. 4 ust. 1 wymienia siedem obowiązków właściciela, m.in. wyposażenie w urządzenia i gaśnice, ich przeglądy, zapewnienie ewakuacji i przygotowanie obiektu do akcji ratowniczej.",
+    "Zarządca lub użytkownik przejmuje odpowiedzialność w całości lub w części na podstawie umowy cywilnoprawnej ustanawiającej zarząd lub użytkowanie; bez takiej umowy odpowiada faktycznie władający obiektem (art. 4 ust. 1a).",
+    "Czynności polegające na zapobieganiu powstawaniu i rozprzestrzenianiu się pożaru wykonuje osoba z art. 4 ust. 2a (inżynier pożarnictwa lub równoważny dyplom), a czynności wyłącznie z art. 4 ust. 1 może wykonywać inspektor ochrony ppoż. albo technik pożarnictwa z co najmniej średnim wykształceniem (art. 4 ust. 2b).",
+    "Uprawnienia inspektora trwają 5 lat od wystawienia zaświadczenia, a szkolenie aktualizujące trzeba ukończyć przed ich upływem (art. 4a ust. 1, 3 i 4).",
+    "Rzeczoznawca może wykonywać czynności z art. 4 ust. 2a (art. 11i ust. 1 pkt 4).",
+    "Jeśli hala ma obowiązkowy SSP z urządzeniami sygnalizacyjno-alarmowymi i nie ma własnej jednostki ratowniczej, trzeba ją połączyć z PSP (art. 5); koszty ponosi właściciel, zarządca lub użytkownik (art. 30), a za naruszenie przepisów odpowiadają na zasadach z innych ustaw (art. 3 ust. 2)."
+   ]
+  },
+  {
+   "q": "Rzeczoznawca powołany w 2021 r. nie przystąpił jeszcze do sprawdzianu. Do kiedy musi to zrobić, czy może zastąpić sprawdzian szkoleniami i co grozi mu za niedotrzymanie terminu?",
+   "points": [
+    "Sprawdzian trzeba zaliczyć najpóźniej w piątym roku po roku powołania (art. 11j ust. 3), czyli przy powołaniu w 2021 r. najpóźniej w 2026 r.; dla członka komisji egzaminacyjnej termin liczy się od roku następującego po zakończeniu funkcji (art. 11j ust. 4).",
+    "Sprawdziany odbywają się co najmniej 2 razy w roku w odstępie co najmniej 3 miesięcy, ogłasza się je w BIP co najmniej 45 dni wcześniej, a zamiar przystąpienia zgłasza się co najmniej 14 dni przed terminem (art. 11j ust. 5–6).",
+    "Sprawdzian to test z 40 pytań przed komisją w składzie co najmniej 3 osób, oceniany jak test egzaminacyjny (§ 21 ust. 1 rozp. MSWiA z 2.12.2015).",
+    "Zamiast sprawdzianu wystarczy 20 punktów ze szkoleń dla rzeczoznawców, po najwyżej 5 punktów za szkolenie, i zawiadomienie KG PSP co najmniej 14 dni przed sprawdzianem (art. 11j ust. 8 i 11).",
+    "Nieprzystąpienie w terminie oznacza zawieszenie prawa postanowieniem KG PSP bez wniosku o ponowne rozpatrzenie (art. 11k); informację o tym wpisuje się do wykazu (art. 11h ust. 1 pkt 10–11).",
+    "Praca mimo zawieszenia albo upływ 2 lat od zawieszenia bez ustania jego przyczyn prowadzi do cofnięcia prawa (art. 11s pkt 1–2); po cofnięciu za pracę mimo zawieszenia egzamin można zdawać dopiero po 3 latach (art. 11t)."
+   ]
+  },
+  {
+   "q": "Przedsiębiorca otwiera escape room w lokalu usługowym i prosi cię o „odbiór przeciwpożarowy”. Co musisz wykonać i jakie terminy go obowiązują?",
+   "points": [
+    "Przed rozpoczęciem działalności i co najmniej raz na 2 lata trzeba praktycznie sprawdzić organizację ewakuacji w miejsce bezpieczne, na zewnątrz albo do sąsiedniej strefy pożarowej, oraz spełnianie wymagań ochrony ppoż.; obowiązek dotyczy też podobnej działalności pod inną nazwą (§ 17a ust. 1 rozp. MSWiA z 7.06.2010).",
+    "Sprawdzenie odbywa się z udziałem rzeczoznawcy albo osoby z art. 4 ust. 2a ustawy (§ 17a ust. 2).",
+    "Właściciel, zarządca lub użytkownik powiadamia komendanta powiatowego o terminie co najmniej 7 dni wcześniej (§ 17a ust. 3).",
+    "Ze sprawdzenia sporządza się protokół z oceną organizacji ewakuacji i spełnienia wymagań ochrony ppoż. (§ 17a ust. 4).",
+    "Protokół składa się w komendzie powiatowej w 7 dni od sprawdzenia (§ 17a ust. 5).",
+    "Przepis nie przewiduje „odbioru”: sprawdzenie i protokół nie zastępują czynności kontrolno-rozpoznawczych PSP, które komendant może przeprowadzić na podstawie art. 23 ust. 2 ustawy o PSP."
+   ]
+  }
+ ],
+ "selfCheck": [
+  "Dlaczego odpowiedź na pytanie, w którym nie umiesz odrzucić żadnej odpowiedzi, obniża oczekiwany wynik testu, i ile punktów potrzeba do zaliczenia?",
+  "Które warunki z art. 6a ust. 1 rozwiązanie zamienne ma „zapewniać”, a który ma „uwzględniać”?",
+  "Czym różni się zgoda na rozwiązania zamienne od zgody na odstępstwo pod względem organu, formy i podstawy prawnej?",
+  "Których projektów dotyczy obowiązek zawiadomienia komendanta wojewódzkiego o uzgodnieniu i kiedy zawiadomienia się nie sporządza?",
+  "Jakie środki nadzoru ma komendant wojewódzki, a jakie tylko Komendant Główny PSP, i w jakiej formie zapadają?",
+  "W jakich sytuacjach upoważnienie do czynności kontrolno-rozpoznawczych można doręczyć dopiero w chwili przystąpienia do nich?",
+  "Kogo spoza PSP można upoważnić do czynności kontrolno-rozpoznawczych, kto go upoważnia i pod czyim kierownictwem działa?",
+  "Kiedy przepis wymaga rzeczoznawcy, a kiedy wystarcza osoba z art. 4 ust. 2a? Podaj dwa przykłady spoza ustawy o ochronie ppoż.",
+  "Do jakiego momentu można unieważnić uzgodnienie projektu i jakie możliwości ma wtedy inwestor?",
+  "Jakie terminy obowiązują kandydata przed egzaminem: ogłoszenie w BIP, wniosek, opłata, lista dopuszczonych, wycofanie wniosku z prawem do zwrotu?"
+ ]
+}
