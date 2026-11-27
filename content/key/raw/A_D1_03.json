@@ -1,0 +1,330 @@
+[
+ {
+  "stanNote": "Rozp. z 2000 r. uchylone od 21.09.2022; następca (rozp. MI z 24.06.2022 w sprawie przepisów techniczno-budowlanych dotyczących dróg publicznych, zał. nr 3 pkt 46 pkt 2) utrzymuje 90 min dla obwodów urządzeń ppoż.",
+  "norms": [],
+  "src": "akty/doi_2000_uchylone.txt",
+  "quote": "90 minut – w przypadku obwodów urządzeń służących ochronie przeciwpożarowej",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "id": 366,
+  "ans": "b",
+  "conf": "wysoka",
+  "topic": "S2",
+  "basis": "§ 321a ust. 2 pkt 2 rozp. MTiGM z 30.05.2000 (drogowe obiekty inżynierskie); obecnie pkt 46 pkt 2 zał. nr 3 do rozp. MI z 24.06.2022",
+  "expl": "Dla przewodów i kabli w tunelu przepis rozróżnia dwa czasy: 30 min dla sterowania zasilaniem, znaków, monitoringu i nagłośnienia oraz 90 min dla obwodów urządzeń służących ochronie przeciwpożarowej. 60 min i 120 min nie występują w tym przepisie, a długość tunelu 1,5 km nie zmienia wymagania."
+ },
+ {
+  "stanNote": "",
+  "norms": [
+   "PN-EN 81-72"
+  ],
+  "src": "normy/PN-EN_81-72_2020-12.txt",
+  "quote": "Szerokość w świetle wejścia do kabiny powinna wynosić minimum 800 mm.",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "id": 374,
+  "ans": "a",
+  "conf": "wysoka",
+  "topic": "U7",
+  "basis": "pkt 5.2.2 PN-EN 81-72:2020-12",
+  "expl": "PN-EN 81-72 wymaga szerokości wejścia do kabiny dźwigu dla straży pożarnej w świetle co najmniej 800 mm (pkt 5.2.2); kabina min. 1100 × 1400 mm przy 630 kg. Wartość 1,1 m to szerokość kabiny, a nie drzwi; 0,9 m nie występuje w normie."
+ },
+ {
+  "stanNote": "Sprawdzono PN-EN 1838:2013-11 (wycofana); aktualna jest PN-EN 1838:2025-05, której tekstu nie ma w korpusie — nie zweryfikowano, czy czasy 5 s/60 s pozostały bez zmian.",
+  "norms": [
+   "PN-EN 1838"
+  ],
+  "src": "normy/PN-EN_1838_2013-11_WYCOFANA.txt",
+  "quote": "4.2.6 Oświetlenie awaryjne drogi ewakuacyjnej powinno osiągnąć 50 % wymaganej wartości natężenia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "id": 394,
+  "ans": "b",
+  "conf": "wysoka",
+  "topic": "U3",
+  "basis": "pkt 4.2.6 PN-EN 1838:2013-11",
+  "expl": "Oświetlenie drogi ewakuacyjnej musi osiągnąć 50 % wymaganego natężenia w ciągu 5 s i 100 % w ciągu 60 s (pkt 4.2.6). 30 s to wartość nieprawidłowa, a pełne natężenie w 5 s (lub 0,5 s) dotyczy innego przypadku — strefa wysokiego ryzyka wymaga pełnego natężenia w 0,5 s."
+ },
+ {
+  "stanNote": "Sprawdzono tylko PKN-CEN/TS 54-14:2006 (projekt, wycofana); aktualne wydanie PKN-CEN/TS 54-14:2020-09 (na które powołuje się pytanie) nie jest dostępne w korpusie — wartości nie dało się zweryfikować.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "id": 398,
+  "ans": "b",
+  "conf": "niska",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2020-09 (promień działania punktowej czujki dymu); w wyd. 2006 tabl. A.1 — 7,5 m",
+  "expl": "W wydaniu 2006 (tabl. A.1) promień działania punktowej czujki dymu do wysokości 11 m wynosił 7,5 m; pytania z wydania 2020 (odległość od ściany 4,4 m, kalenica 7,75 m) wskazują, że to wydanie przyjmuje 6,2 m. Odpowiedź 6,2 m przyjęto z tych wyliczeń, bez tekstu normy z 2020 r. — wymaga weryfikacji."
+ },
+ {
+  "stanNote": "Sprawdzono tylko PKN-CEN/TS 54-14:2006 (projekt, wycofana); aktualne wydanie PKN-CEN/TS 54-14:2020-09 (na które powołuje się pytanie) nie jest dostępne w korpusie — wartości nie dało się zweryfikować.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "id": 432,
+  "ans": "c",
+  "conf": "niska",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2020-09 (graniczne wysokości dla czujek ciepła wg klas EN 54-5)",
+  "expl": "Wg typowego podziału czujki ciepła klasy A1 dopuszcza się do wysokości pomieszczenia 7,5 m, pozostałe klasy do 6 m. W wydaniu 2006 podano tylko jedną klasę z granicą 8 m, więc wydanie 2020 nie zostało sprawdzone; odpowiedź ustalono z praktyki, wymaga weryfikacji."
+ },
+ {
+  "stanNote": "Sprawdzono tylko PKN-CEN/TS 54-14:2006 (projekt, wycofana); aktualne wydanie PKN-CEN/TS 54-14:2020-09 (na które powołuje się pytanie) nie jest dostępne w korpusie — wartości nie dało się zweryfikować.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "id": 436,
+  "ans": "a",
+  "conf": "niska",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2020-09 (zasysające czujki dymu w magazynach wysokiego składowania); brak odpowiednika w wyd. 2006",
+  "expl": "W wydaniu 2006 nie ma wymagań dotyczących rozstawu otworów próbkujących w magazynach powyżej 9 m. Wybrano 6,2 m, bo tyle wynosi promień punktowej czujki dymu przyjęty w wydaniu 2020. To przypuszczenie, nie odczyt z normy — wymaga weryfikacji."
+ },
+ {
+  "stanNote": "",
+  "norms": [],
+  "src": "akty/wt_2002.txt",
+  "quote": "wystawowych w muzeach",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "id": 442,
+  "ans": "a",
+  "conf": "wysoka",
+  "topic": "U3",
+  "basis": "§ 181 ust. 3 pkt 1 lit. c i pkt 2 lit. a WT 2002",
+  "expl": "WT wymagają awaryjnego oświetlenia ewakuacyjnego w pomieszczeniach wystawowych muzeów i na drogach ewakuacyjnych z nich. Próg 1000 m² dotyczy garaży oświetlonych tylko światłem sztucznym, a dla budynków użyteczności publicznej próg to ponad 2000 m², więc odpowiedź b jest błędna. Odpowiedź c obejmuje b, więc też jest błędna."
+ },
+ {
+  "stanNote": "Sprawdzono tylko PKN-CEN/TS 54-14:2006 (projekt, wycofana); aktualne wydanie PKN-CEN/TS 54-14:2020-09 (na które powołuje się pytanie) nie jest dostępne w korpusie — wartości nie dało się zweryfikować.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "id": 444,
+  "ans": "b",
+  "conf": "niska",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2020-09 (rozmieszczenie czujek ciepła w układzie kwadratowym); obliczenie R/√2",
+  "expl": "W układzie kwadratowym odległość czujki od ściany to połowa boku kwadratu, czyli R/√2. Przy promieniu czujki ciepła 4,5 m daje to ok. 3,2 m. 4,5 m to sam promień (właściwy dla narożnika), a 2,25 m to połowa promienia. Promienia 4,5 m nie potwierdzono w tekście normy z 2020 r. (w wydaniu 2006 było 5 m)."
+ },
+ {
+  "stanNote": "Sprawdzono tylko PKN-CEN/TS 54-14:2006 (projekt, wycofana); aktualne wydanie PKN-CEN/TS 54-14:2020-09 (na które powołuje się pytanie) nie jest dostępne w korpusie — wartości nie dało się zweryfikować.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "lub czujek dymu) powinien wynosić  12,5 % wysokoś ci czujki nad najbardziej prawdopodobnym",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "id": 463,
+  "ans": "a",
+  "conf": "średnia",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14 (wyd. 2006, zał. A, A.6.5.1 i): efektywny promień czujek poza stropem = 12,5 % wysokości nad ogniskiem",
+  "expl": "Dla czujek zamontowanych poza stropem, np. drugiego poziomu czujek liniowych w wysokich pomieszczeniach, efektywny promień działania wynosi 12,5 % wysokości czujki nad najbardziej prawdopodobnym miejscem pożaru: 0,125 × 10 m = 1,25 m. 6,2 m to promień czujki na stropie, a 3,1 m to jego połowa — żadna z tych wartości nie jest właściwa dla czujki dodatkowej."
+ },
+ {
+  "stanNote": "Sprawdzono tylko PKN-CEN/TS 54-14:2006 (projekt, wycofana); aktualne wydanie PKN-CEN/TS 54-14:2020-09 (na które powołuje się pytanie) nie jest dostępne w korpusie — wartości nie dało się zweryfikować.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "id": 465,
+  "ans": "a",
+  "conf": "niska",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2020-09 (odległość elementu czujnikowego od stropu); w wyd. 2006 tylko zasada górnych 5 % wysokości",
+  "expl": "Element czujnikowy czujki ciepła powinien znajdować się blisko stropu — przyjmuje się maks. 150 mm, bo gorąca warstwa podstropowa jest cienka. Do 600 mm dopuszcza się tylko czujki dymu. Wydanie 2006 podaje jedynie zasadę górnych 5 % wysokości pomieszczenia, więc wartości 150 mm nie potwierdzono w tekście."
+ },
+ {
+  "stanNote": "",
+  "norms": [
+   "PN-EN 81-72"
+  ],
+  "src": "normy/PN-EN_81-72_2020-12.txt",
+  "quote": "5.2.4 Od chwili zamknięcia drzwi dźwigu, dźwig dla straży pożarnej powinien być w stanie docierać",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "id": 475,
+  "ans": "a",
+  "conf": "wysoka",
+  "topic": "U7",
+  "basis": "pkt 5.2.4 PN-EN 81-72:2020-12",
+  "expl": "Dźwig dla straży pożarnej ma dojechać od poziomu dostępu do najwyższego przystanku w ciągu 60 s, liczonych od zamknięcia drzwi (pkt 5.2.4). Czas można wydłużyć (1 s na każde 3 m) dopiero powyżej 200 m wysokości toru jazdy, więc przy 120 m nadal obowiązuje 60 s. Moment uruchomienia łącznika ani 120 s nie wynikają z normy."
+ },
+ {
+  "stanNote": "",
+  "norms": [],
+  "src": "akty/rozp_ppoz_2010.txt",
+  "quote": "jednokondygnacyjnych, w strefie pożarowej zakwalifikowanej do kategorii zagrożenia ludzi ZL I o powierzchni",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "id": 480,
+  "ans": "c",
+  "conf": "średnia",
+  "topic": "R2",
+  "basis": "§ 27 ust. 2 pkt 1 lit. a i pkt 2 oraz § 29 ust. 1 pkt 1 lit. a i pkt 3 rozp. MSWiA z 7.06.2010",
+  "expl": "Tryskacze i DSO w jednokondygnacyjnym budynku handlowym wymagane są przy strefie ZL I powyżej 8000 m². Tu obie strefy mają po 7500 m², więc próg nie jest przekroczony. Tryskacze dla gastronomii wymagane są powyżej 600 miejsc (jest 500), a DSO dla kin powyżej 600 miejsc (jest 400), więc nie wymaga się ani SUG wodnego, ani DSO (SSP jest wymagany, bo strefa przekracza 5000 m²)."
+ },
+ {
+  "stanNote": "Sprawdzono tylko PKN-CEN/TS 54-14:2006 (projekt, wycofana); aktualne wydanie PKN-CEN/TS 54-14:2020-09 (na które powołuje się pytanie) nie jest dostępne w korpusie — wartości nie dało się zweryfikować.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "id": 489,
+  "ans": "b",
+  "conf": "niska",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2020-09; obliczenie R/√2 dla układu kwadratowego",
+  "expl": "W układzie kwadratowym największa odległość czujki od ściany wynosi R/√2. Przy promieniu czujki dymu 6,2 m daje to ok. 4,4 m. 3,2 m to analogiczna wartość dla czujki ciepła (R = 4,5 m), a 6,4 m przekracza promień. Promienia 6,2 m nie potwierdzono w tekście normy z 2020 r. (w wydaniu 2006 było 7,5 m)."
+ },
+ {
+  "stanNote": "Pytanie powołuje wydanie PN-EN 1838:2025-05 (aktualne), którego tekstu nie ma w korpusie; sprawdzono wycofane wydanie 2013-11 (0,5 lx bez wyjątków).",
+  "norms": [
+   "PN-EN 1838"
+  ],
+  "src": "normy/PN-EN_1838_2013-11_WYCOFANA.txt",
+  "quote": "4.3.1 Natężenie oświetlenia poziomego powinno być nie mniejsze niż 0,5 lx na poziomie podłogi, na nieza-",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "id": 510,
+  "ans": "a",
+  "conf": "średnia",
+  "topic": "U3",
+  "basis": "pkt 4.3.1 PN-EN 1838 (sprawdzono wyd. 2013-11)",
+  "expl": "W strefie otwartej (antypanicznej) natężenie na podłodze ma wynosić co najmniej 0,5 lx, z pominięciem pasa obwodowego 0,5 m. Norma nie przewiduje osobnych wartości 5 lx ani 15 lx dla sal przeznaczonych dla ponad 200 osób. Te warianty łączą listę pomieszczeń z § 181 WT (gdzie oświetlenie jest wymagane) z wartościami, których norma nie zawiera; 15 lx dotyczy strefy wysokiego ryzyka."
+ },
+ {
+  "stanNote": "Sprawdzono tylko PKN-CEN/TS 54-14:2006 (projekt, wycofana); aktualne wydanie PKN-CEN/TS 54-14:2020-09 (na które powołuje się pytanie) nie jest dostępne w korpusie — wartości nie dało się zweryfikować.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "id": 512,
+  "ans": "b",
+  "conf": "niska",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2020-09 (odległość czujek punktowych od nawiewu); wyd. 2006 A.6.5.1 d) — szczególna uwaga przy < 1 m lub > 1 m/s",
+  "expl": "Wydanie 2006 zwraca szczególną uwagę na czujki punktowe bliżej niż 1 m od wlotu powietrza lub w strumieniu o prędkości ponad 1 m/s. Dotyczy to czujek punktowych w ogóle, nie tylko dymu, więc odpowiedź c jest błędna. 1 m przyjęto jako minimalną odległość, ale brzmienia wydania 2020 nie zweryfikowano."
+ },
+ {
+  "stanNote": "",
+  "norms": [
+   "PN-EN 81-72"
+  ],
+  "src": "normy/PN-EN_81-72_2020-12.txt",
+  "quote": "0,5 m × 0,7 m, z wyjątkiem dźwigu 630 kg, w którym klapa ma 0,4 m × 0,5 m. Wymiary otworu w świetle",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "id": 519,
+  "ans": "a",
+  "conf": "wysoka",
+  "topic": "U7",
+  "basis": "pkt 5.4.1.1 PN-EN 81-72:2020-12",
+  "expl": "Klapa awaryjna w dachu kabiny ma mieć otwór w świetle co najmniej 0,5 × 0,7 m, z wyjątkiem dźwigu 630 kg, dla którego wystarcza 0,4 × 0,5 m (pkt 5.4.1.1). Pytanie dotyczy właśnie 630 kg, więc odpowiedź c to wymiar ogólny, a 0,6 × 0,6 m w normie nie występuje."
+ },
+ {
+  "stanNote": "",
+  "norms": [],
+  "src": "akty/wt_2002.txt",
+  "quote": "2)   W tym nie więcej niż 20 m na poziomej drodze ewakuacyjnej.",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "id": 527,
+  "ans": "a",
+  "conf": "średnia",
+  "topic": "W3",
+  "basis": "§ 256 ust. 3 (tabela, przypis 2) i ust. 4 pkt 1 WT 2002",
+  "expl": "Dla PM > 500 MJ/m² (także > 4000 MJ/m²) bez zagrożenia wybuchem dojście przy jednym dojściu wynosi 30 m, w tym nie więcej niż 20 m na poziomej drodze ewakuacyjnej. Tryskacze pozwalają powiększyć tę długość o 50 %, czyli do 30 m na drodze poziomej (całe dojście do 45 m). Sam SSP nie wydłuża dojścia — potrzebne byłoby oddymianie; odpowiedź c to długość całego dojścia, nie odcinka poziomego."
+ },
+ {
+  "stanNote": "Sprawdzono tylko PKN-CEN/TS 54-14:2006 (projekt, wycofana); aktualne wydanie PKN-CEN/TS 54-14:2020-09 (na które powołuje się pytanie) nie jest dostępne w korpusie — wartości nie dało się zweryfikować.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "id": 535,
+  "ans": "c",
+  "conf": "niska",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2020-09 (graniczna wysokość dla czujek płomienia); wyd. 2006 A.6.5.3 — brak zaleceń",
+  "expl": "Czujki płomienia nie potrzebują stropu do wykrycia pożaru, bo wykrywają promieniowanie rozchodzące się prostoliniowo (pkt 6.4.4 wyd. 2006). Dlatego dopuszcza się je w najwyższych pomieszczeniach — do 45 m. 9 m i 25 m to granice dla czujek ciepła i dymu; wydanie 2006 nie podaje wartości, a 2020 nie zweryfikowano."
+ },
+ {
+  "stanNote": "Sprawdzono tylko PKN-CEN/TS 54-14:2006 (projekt, wycofana); aktualne wydanie PKN-CEN/TS 54-14:2020-09 (na które powołuje się pytanie) nie jest dostępne w korpusie — wartości nie dało się zweryfikować.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "id": 550,
+  "ans": "c",
+  "conf": "niska",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2020-09 (promień działania czujki ciepła)",
+  "expl": "Odległość od narożnika (najdalszego punktu) nie może przekraczać promienia działania czujki, który dla czujki ciepła przyjęto jako 4,5 m. 3,2 m to dopuszczalna odległość od ściany w układzie kwadratowym (R/√2), a 4,4 m to analogiczna wartość dla czujki dymu. Promienia 4,5 m nie potwierdzono w tekście normy z 2020 r."
+ },
+ {
+  "stanNote": "Sprawdzono tylko PKN-CEN/TS 54-14:2006 (projekt, wycofana); aktualne wydanie PKN-CEN/TS 54-14:2020-09 (na które powołuje się pytanie) nie jest dostępne w korpusie — wartości nie dało się zweryfikować.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "wię kszyć  o 1 % na ka ż dy 1° pochylenia stropu, a ż  do maksymalnie 25 %. W przypadku zakrzywienia stropu,",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "id": 556,
+  "ans": "b",
+  "conf": "niska",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14 (wyd. 2006, A.6.5.1 b): +1 % promienia na każdy 1° nachylenia, maks. 25 %",
+  "expl": "Przy czujkach w kalenicy promień można powiększyć o 1 % na każdy stopień nachylenia, ale najwyżej o 25 %, więc przy 30° obowiązuje limit 25 %: 6,2 × 1,25 = 7,75 m. 8,06 m to błędne +30 % bez limitu, a 6,2 m pomija powiększenie. Zasadę potwierdza wydanie 2006; podstawowy promień 6,2 m przyjęto z wydania 2020 bez weryfikacji tekstu."
+ },
+ {
+  "stanNote": "",
+  "norms": [
+   "PN-EN 81-72"
+  ],
+  "src": "normy/PN-EN_81-72_2020-12.txt",
+  "quote": "Szerokość w świetle wejścia do kabiny powinna wynosić minimum 800 mm.",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "id": 559,
+  "ans": "a",
+  "conf": "wysoka",
+  "topic": "U7",
+  "basis": "pkt 5.2.2 PN-EN 81-72:2020-12",
+  "expl": "PN-EN 81-72 wymaga szerokości wejścia do kabiny dźwigu dla straży pożarnej w świetle co najmniej 800 mm (pkt 5.2.2); kabina min. 1100 × 1400 mm przy 630 kg. Wartość 1,1 m to szerokość kabiny, a nie drzwi; 0,9 m nie występuje w normie."
+ }
+]
