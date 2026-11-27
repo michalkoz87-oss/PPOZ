@@ -1,0 +1,214 @@
+[
+ {
+  "id": 30,
+  "ans": "a",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Sprawdzono PN-EN 1838:2013-11 (wycofana); aktualna jest PN-EN 1838:2025-05, której tekstu nie sprawdzono.",
+  "topic": "U3",
+  "basis": "PN-EN 1838:2013-11, pkt 4.3.8 (oświetlenie strefy otwartej w toaletach dla osób niepełnosprawnych)",
+  "src": "normy/PN-EN_1838_2013-11_WYCOFANA.txt",
+  "quote": "4.3.8 Oświetlenie strefy otwartej wymagane jest w toaletach dla osób niepełnosprawnych.",
+  "expl": "Norma wprost wymaga oświetlenia awaryjnego (strefy otwartej) w toaletach dla osób niepełnosprawnych, a nie we wszystkich toaletach. Wariant c jest błędny, bo o obowiązku stosowania oświetlenia ewakuacyjnego decyduje § 181 ust. 3 WT, który obejmuje drogi oświetlone wyłącznie światłem sztucznym, a nie wszystkie drogi ewakuacyjne.",
+  "norms": [
+   "PN-EN 1838"
+  ]
+ },
+ {
+  "id": 40,
+  "ans": "b",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Sprawdzono PKN-CEN/TS 54-14:2006 (projekt, wycofana); aktualna jest PKN-CEN/TS 54-14:2020-09, której tekstu nie sprawdzono.",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2006, pkt A.6.6.2 a) (poziomy natężenia dźwięku)",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "alarm po ż arowy powinien obudzić  ś pi ą ce osoby, to poziom natę ż enia d ź wi ę ku na wysokoś ci łó ż ka powinien",
+  "expl": "Gdy alarm ma obudzić śpiące osoby (pokoje hotelowe), wymagany poziom 75 dB(A) musi być zapewniony na wysokości łóżka. Pomiar przy sygnalizatorze lub przy podłodze nie odzwierciedla tego, co słyszy śpiący, dlatego warianty a i c są błędne.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ]
+ },
+ {
+  "id": 49,
+  "ans": "b",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Sprawdzono PKN-CEN/TS 54-14:2006 (projekt, wycofana); aktualna jest PKN-CEN/TS 54-14:2020-09, której tekstu nie sprawdzono.",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2006, pkt A.6.5.1 c) (ściany, przepierzenia i przeszkody)",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "powinna być  zachowana wolna przestrze ń , co najmniej 0,5 m we wszystkich kierunkach.",
+  "expl": "Pod każdą czujką należy zachować wolną przestrzeń co najmniej 0,5 m we wszystkich kierunkach (ta sama wartość co minimalna odległość czujki od ścian). Wartość 0,3 m w specyfikacji dotyczy przegród sięgających blisko stropu, a nie wolnej przestrzeni pod czujką, stąd błędne a i c.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ]
+ },
+ {
+  "id": 62,
+  "ans": "a",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "S2",
+  "basis": "§ 321 ust. 5a rozp. MTiGM z 30.05.2000 (drogowe obiekty inżynierskie, uchylone); dziś: załącznik do rozp. MI z 24.06.2022 (drogi publiczne), pkt 60",
+  "src": "akty/doi_2000_uchylone.txt",
+  "quote": "„5a. Tunel o długości większej niż 500 m powinien być wyposażony w system sygnalizacji pożarowej.",
+  "expl": "System sygnalizacji pożarowej jest wymagany w tunelu dłuższym niż 500 m (oraz w każdym tunelu z wentylacją mechaniczną oddymiającą), z wyjątkiem tunelu z wentylacją naturalną. Obowiązujące rozp. z 2022 r. (pkt 60 załącznika) utrzymuje próg 500 m, więc 1000 m ani brak obowiązku nie są poprawne.",
+  "norms": []
+ },
+ {
+  "id": 83,
+  "ans": "c",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "W4",
+  "basis": "§ 259 ust. 2 WT (rozp. MI z 12.04.2002)",
+  "src": "akty/wt_2002.txt",
+  "quote": "podłogowej podłogi podniesionej i w przestrzeni ponad sufitami podwieszonymi, wykorzystywanej do wentylacji lub ogrze-",
+  "expl": "§ 259 ust. 2 wymaga osłony EI 30 (EI 60 w WW lub przy Q > 4000 MJ/m2) dla palnych przewodów w przestrzeni podpodłogowej, jeśli przestrzeń ta służy do wentylacji lub ogrzewania; przepis nie stawia warunku wysokości. Próg 0,2 m dotyczy wyłącznie konstrukcji podłogi i sektorów z ust. 1, a WW i 4000 MJ/m2 decydują tylko o klasie EI 60, nie o samym obowiązku.",
+  "norms": []
+ },
+ {
+  "id": 105,
+  "ans": "b",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "U7",
+  "basis": "§ 253 ust. 1 WT (rozp. MI z 12.04.2002)",
+  "src": "akty/wt_2002.txt",
+  "quote": "ponad poziomem terenu przy najniżej położonym wejściu do budynku oraz w budynku wysokościowym (WW) ZL IV przy-",
+  "expl": "Kryterium 25 m dotyczy budynków ZL I, ZL II, ZL III i ZL V; dla ZL IV (mieszkalnych) dźwig dla ekip ratowniczych jest wymagany dopiero w budynku wysokościowym (WW). Budynek wysoki ZL IV ani posadzka powyżej 25 m nie rodzą tego obowiązku.",
+  "norms": [
+   "PN-EN 81-72"
+  ]
+ },
+ {
+  "id": 108,
+  "ans": "c",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Sprawdzono PKN-CEN/TS 54-14:2006 (projekt, wycofana); aktualna jest PKN-CEN/TS 54-14:2020-09, której tekstu nie sprawdzono.",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2006, pkt A.6.3.2 a) (strefy dozorowe)",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "a) powierzchnia u ż ytkowa jednej strefy nie powinna przekraczać  1 600 m2;",
+  "expl": "Specyfikacja ogranicza powierzchnię użytkową jednej strefy dozorowej do 1600 m2, niezależnie od adresacji czujek i klasy linii. Wartość 400 m2 dotyczy tylko strefy dozorowej obejmującej więcej niż jedną strefę pożarową, a 1000 m2 nie występuje w tym punkcie.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ]
+ },
+ {
+  "id": 109,
+  "ans": "a",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Sprawdzono PN-EN 1838:2013-11 (wycofana); aktualna jest PN-EN 1838:2025-05, której tekstu nie sprawdzono.",
+  "topic": "U3",
+  "basis": "PN-EN 1838:2013-11, pkt 4.2.1 (oświetlenie drogi ewakuacyjnej do 2 m szerokości)",
+  "src": "normy/PN-EN_1838_2013-11_WYCOFANA.txt",
+  "quote": "mujący mniej niż połowę szerokości drogi, natężenie oświetlenia powinno wynosić co najmniej 50 % podanej",
+  "expl": "Na osi drogi ewakuacyjnej o szerokości do 2 m wymagane jest co najmniej 1 lx, a w pasie centralnym co najmniej 50 % tej wartości, czyli 0,5 lx. Wartość 1 lx dotyczy linii środkowej, a nie pasa centralnego; 0,75 lx nie wynika z normy.",
+  "norms": [
+   "PN-EN 1838"
+  ]
+ },
+ {
+  "id": 122,
+  "ans": "c",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "W4",
+  "basis": "§ 176 ust. 9 WT (rozp. MI z 12.04.2002)",
+  "src": "akty/wt_2002.txt",
+  "quote": "rego nie mogą być zasilane pozostałe urządzenia gazowe w tym budynku.",
+  "expl": "Do pomieszczenia technicznego z kotłami o łącznej mocy powyżej 60 kW do 2000 kW w budynku o innym przeznaczeniu doprowadza się odrębny przewód gazowy, z którego nie wolno zasilać innych urządzeń gazowych. Przepis nie przewiduje wyjątku z urządzeniem sygnalizacyjno-odcinającym, więc a i b są błędne.",
+  "norms": []
+ },
+ {
+  "id": 124,
+  "ans": "a",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Sprawdzono PKN-CEN/TS 54-14:2006 (projekt, wycofana); aktualna jest PKN-CEN/TS 54-14:2020-09, której tekstu nie sprawdzono.",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2006, pkt A.6.5.1 d) (wentylacja i prądy powietrza)",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "Gdy dopływ powietrza nastę puje przez sufit perforowany, to w promieniu co najmniej 0,6 m wokół każ dej",
+  "expl": "Przy nawiewie przez sufit perforowany perforację zaślepia się w promieniu co najmniej 0,6 m wokół każdej czujki. Wartość 1 m w tym punkcie dotyczy odległości czujki od wlotu powietrza, a nie promienia zaślepienia, stąd błędne b i c.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ]
+ },
+ {
+  "id": 129,
+  "ans": "b",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Sprawdzono PKN-CEN/TS 54-14:2006 (projekt, wycofana); aktualna jest PKN-CEN/TS 54-14:2020-09, której tekstu nie sprawdzono.",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2006, pkt A.6.5.1 a) (stropy płaskie)",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "winny być  tak usytuowane, aby ich elementy detekcyjne znajdowały się  w granicach górnych 5 % wysokoś ci",
+  "expl": "Przy stropie płaskim elementy detekcyjne czujek powinny leżeć w górnych 5 % wysokości pomieszczenia. Wymóg montażu bezpośrednio na stropie ani stała odległość 0,5 m nie wynikają z tego punktu (czujek nie należy też wpuszczać w strop z powodu zimnej warstwy granicznej).",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ]
+ },
+ {
+  "id": 140,
+  "ans": "c",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "U7",
+  "basis": "§ 187 ust. 4 WT (rozp. MI z 12.04.2002)",
+  "src": "akty/wt_2002.txt",
+  "quote": "to wówczas wymaganie odporności na działanie wody uznaje się za spełnione.",
+  "expl": "Zespoły kablowe w pomieszczeniach chronionych wodnymi urządzeniami gaśniczymi muszą być odporne na wodę; wymaganie uznaje się za spełnione, gdy przewody ułożono w ognioochronnych kanałach kablowych. Samo umieszczenie powyżej tryskaczy lub nad sufitem podwieszonym nie jest w przepisie uznane za równoważne.",
+  "norms": []
+ },
+ {
+  "id": 148,
+  "ans": "c",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "U3",
+  "basis": "§ 181 ust. 3 pkt 1 lit. c i pkt 2 lit. a WT (rozp. MI z 12.04.2002)",
+  "src": "akty/wt_2002.txt",
+  "quote": "c)   wystawowych w muzeach,",
+  "expl": "Awaryjne oświetlenie ewakuacyjne stosuje się w pomieszczeniach wystawowych w muzeach bez progu powierzchni czy liczby osób oraz na drogach ewakuacyjnych z tych pomieszczeń. Progi 200 osób i 1000/2000 m2 dotyczą innych rodzajów pomieszczeń, a warunek oświetlenia wyłącznie sztucznego dotyczy innej grupy dróg (pkt 2 lit. b).",
+  "norms": []
+ },
+ {
+  "id": 173,
+  "ans": "c",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "",
+  "topic": "U3",
+  "basis": "§ 181 ust. 3 pkt 1 lit. e WT (rozp. MI z 12.04.2002)",
+  "src": "akty/wt_2002.txt",
+  "quote": "o powierzchni netto ponad 2000 m2 w budynkach użyteczności publicznej, budynkach zamieszkania zbiorowego",
+  "expl": "W budynkach produkcyjnych i magazynowych awaryjne oświetlenie ewakuacyjne jest wymagane w pomieszczeniach o powierzchni netto ponad 2000 m2. Próg 1000 m2 dotyczy garaży oświetlonych wyłącznie światłem sztucznym, a 200 osób – audytoriów, sal konferencyjnych, sportowych itp.",
+  "norms": []
+ }
+]
