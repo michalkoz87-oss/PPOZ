@@ -1,0 +1,19 @@
+[
+ {
+  "id": 244,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "aktualne",
+  "stanNote": "WT z 2002 r. utraciły moc 21.09.2026 bez następcy; § 262 ust. 1 i zał. nr 3 tabela 1 w ostatnim brzmieniu przyjęto jako przepisy odniesienia (bez zmian względem t.j. Dz.U. 2019 poz. 1065 obowiązującego w dacie egzaminu).",
+  "topic": "W1",
+  "basis": "§ 262 ust. 1 w zw. z § 208a ust. 1 i zał. nr 3 pkt 1.1 tabela 1 rozp. MI z 12.04.2002 w sprawie warunków technicznych (WT)",
+  "src": "akty/wt_2002.txt",
+  "quote": "Okładziny sufitów oraz sufity podwieszone należy wykonywać z materiałów niepalnych lub niezapalnych,",
+  "expl": "§ 262 ust. 1 WT wymaga okładzin sufitów i sufitów podwieszonych z materiałów niepalnych lub niezapalnych, niekapiących i nieodpadających pod wpływem ognia (poza mieszkaniami). W tabeli 1 zał. nr 3 WT „niezapalne” to wszystkie klasy B oraz klasy A2 z d1 lub d2, a cała klasa C (także C-sX, d0) to wyroby „trudno zapalne”; najniższa klasa niezapalna i zarazem niekapiąca (d0) to więc B-s3, d0, czyli w klasyfikacji podstawowej B. Odpowiedź C jest błędna, bo C to wyroby trudno zapalne, a A2 to wymaganie wyższe niż minimalne.",
+  "norms": [
+   "PN-EN 13501-1"
+  ],
+  "verdict": "Odpowiedź b potwierdzona. Poprawiono tylko wyjaśnienie: arbiter napisał, że „niezapalne” to wyłącznie klasy B, a według tabeli 1 zał. nr 3 WT (odczyt z oficjalnego PDF, Dz.U. 2022 poz. 1225, INDEX.md) niezapalne są też klasy A2-s1…s3 z d1 lub d2. Nie zmienia to minimum: najniższa klasa niezapalna i niekapiąca to B (B-sX, d0)."
+ }
+]
