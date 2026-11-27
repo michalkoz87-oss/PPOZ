@@ -1,0 +1,362 @@
+[
+ {
+  "id": "T11-01",
+  "topic": "U1",
+  "front": "Od jakiej powierzchni strefy pożarowej jednokondygnacyjny budynek handlowy wymaga SSP?",
+  "back": "Strefa pożarowa ponad 5000 m².",
+  "ref": "§ 28 ust. 1 pkt 1 lit. a",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-02",
+  "topic": "U1",
+  "front": "Od jakiej powierzchni strefy pożarowej wielokondygnacyjny budynek handlowy wymaga SSP?",
+  "back": "Strefa pożarowa ponad 2500 m².",
+  "ref": "§ 28 ust. 1 pkt 1 lit. b",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-03",
+  "topic": "U1",
+  "front": "Od ilu miejsc teatr wymaga SSP?",
+  "back": "Ponad 300 miejsc.",
+  "ref": "§ 28 ust. 1 pkt 2",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-04",
+  "topic": "U1",
+  "front": "Od ilu miejsc kino wymaga SSP?",
+  "back": "Ponad 600 miejsc.",
+  "ref": "§ 28 ust. 1 pkt 3",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-05",
+  "topic": "U1",
+  "front": "Od ilu miejsc gastronomicznych budynek wymaga SSP?",
+  "back": "Ponad 300 miejsc służących celom gastronomicznym.",
+  "ref": "§ 28 ust. 1 pkt 4",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-06",
+  "topic": "U1",
+  "front": "Od ilu łóżek w budynku szpital psychiatryczny wymaga SSP?",
+  "back": "Ponad 100 łóżek w budynku.",
+  "ref": "§ 28 ust. 1 pkt 7",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-07",
+  "topic": "U1",
+  "front": "Od ilu miejsc noclegowych budynek zamieszkania zbiorowego z pobytem tych samych osób ponad 3 doby wymaga SSP?",
+  "back": "Ponad 200 miejsc noclegowych.",
+  "ref": "§ 28 ust. 1 pkt 11",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-08",
+  "topic": "U1",
+  "front": "Od ilu miejsc noclegowych inny budynek zamieszkania zbiorowego (pobyt do 3 dób) wymaga SSP?",
+  "back": "Ponad 50 miejsc noclegowych.",
+  "ref": "§ 28 ust. 1 pkt 12",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-09",
+  "topic": "U1",
+  "front": "Kiedy garaż podziemny wymaga SSP?",
+  "back": "Gdy strefa pożarowa przekracza 1500 m² lub garaż ma więcej niż jedną kondygnację podziemną.",
+  "ref": "§ 28 ust. 1 pkt 17",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-10",
+  "topic": "U1",
+  "front": "Kiedy bank wymaga SSP?",
+  "back": "Gdy strefa pożarowa z salą operacyjną ma ponad 500 m².",
+  "ref": "§ 28 ust. 1 pkt 20",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-11",
+  "topic": "U1",
+  "front": "Kiedy obiekt ze stałymi urządzeniami gaśniczymi nie może zrezygnować z SSP?",
+  "back": "Gdy SSP jest niezbędny do uruchamiania urządzeń przewidzianych do działania podczas pożaru.",
+  "ref": "§ 30 ust. 2",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-12",
+  "topic": "U1",
+  "front": "Kto i z kim uzgadnia sposób połączenia SSP z obiektem komendy PSP?",
+  "back": "Właściciel, zarządca lub użytkownik z komendantem powiatowym (miejskim) PSP.",
+  "ref": "§ 31",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-13",
+  "topic": "U2",
+  "front": "Od jakiej powierzchni strefy ZL I jednokondygnacyjny budynek handlowy wymaga DSO?",
+  "back": "Strefa ZL I ponad 8000 m².",
+  "ref": "§ 29 ust. 1 pkt 1 lit. a",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-14",
+  "topic": "U2",
+  "front": "Od jakiej powierzchni strefy ZL I wielokondygnacyjny budynek handlowy wymaga DSO?",
+  "back": "Strefa ZL I ponad 5000 m².",
+  "ref": "§ 29 ust. 1 pkt 1 lit. b",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-15",
+  "topic": "U2",
+  "front": "Od ilu miejsc kina i teatry wymagają DSO?",
+  "back": "Ponad 600 miejsc.",
+  "ref": "§ 29 ust. 1 pkt 3",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-16",
+  "topic": "U2",
+  "front": "Których pomieszczeń szpitala ponad 200 łóżek nie obejmuje obowiązek DSO?",
+  "back": "Pomieszczeń intensywnej opieki medycznej, sal operacyjnych i sal z chorymi.",
+  "ref": "§ 29 ust. 1 pkt 4",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-17",
+  "topic": "U2",
+  "front": "Komu wolno sygnalizować alarm innymi akustycznymi urządzeniami w obiekcie z DSO?",
+  "back": "Tylko służbom dozoru lub ochrony.",
+  "ref": "§ 29 ust. 2",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-18",
+  "topic": "U2",
+  "front": "Czy budynek z gastronomią ponad 600 miejsc wymaga DSO z tego tytułu?",
+  "back": "Nie; § 29 ust. 1 nie wymienia gastronomii (wymaga ona SSP i tryskaczy).",
+  "ref": "§ 29 ust. 1",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-19",
+  "topic": "U1",
+  "front": "Jaka jest największa powierzchnia strefy dozorowej według wytycznych z 2006 r.?",
+  "back": "1600 m² powierzchni użytkowej.",
+  "ref": "PKN-CEN/TS 54-14:2006, A.6.3.2 a",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-20",
+  "topic": "U1",
+  "front": "Jaka jest największa powierzchnia strefy dozorowej obejmującej więcej niż jedną strefę pożarową?",
+  "back": "400 m², z granicami zgodnymi z granicami stref pożarowych.",
+  "ref": "PKN-CEN/TS 54-14:2006, A.6.3.2 c",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-21",
+  "topic": "U1",
+  "front": "Poniżej jakiej powierzchni całego budynku strefa dozorowa może obejmować kilka kondygnacji?",
+  "back": "Poniżej 300 m² powierzchni użytkowej budynku.",
+  "ref": "PKN-CEN/TS 54-14:2006, A.6.3.2 d",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-22",
+  "topic": "U1",
+  "front": "Jaki jest promień działania punktowej czujki dymu w pomieszczeniu o wysokości do 11 m?",
+  "back": "7,5 m.",
+  "ref": "PKN-CEN/TS 54-14:2006, tabl. A.1",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-23",
+  "topic": "U1",
+  "front": "Jaki jest promień działania czujki ciepła klasy 1 w pomieszczeniu o wysokości do 8 m?",
+  "back": "5 m.",
+  "ref": "PKN-CEN/TS 54-14:2006, tabl. A.1",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-24",
+  "topic": "U1",
+  "front": "W jakim pasie pod stropem płaskim powinien znajdować się element detekcyjny czujki?",
+  "back": "W górnych 5% wysokości pomieszczenia.",
+  "ref": "PKN-CEN/TS 54-14:2006, A.6.5.1 a",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-25",
+  "topic": "U1",
+  "front": "O ile można powiększyć promień czujki w kalenicy stropu pochyłego?",
+  "back": "O 1% na każdy 1° nachylenia, najwyżej o 25%.",
+  "ref": "PKN-CEN/TS 54-14:2006, A.6.5.1 b",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-26",
+  "topic": "U1",
+  "front": "Jaka wolna przestrzeń ma pozostać pod czujką?",
+  "back": "Co najmniej 0,5 m we wszystkich kierunkach.",
+  "ref": "PKN-CEN/TS 54-14:2006, A.6.5.1 c",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-27",
+  "topic": "U1",
+  "front": "Od jakiej odległości od stropu przegrodę lub regał traktuje się jak ścianę dochodzącą do stropu?",
+  "back": "Gdy sięga bliżej niż 0,3 m od stropu.",
+  "ref": "PKN-CEN/TS 54-14:2006, A.6.5.1 c",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-28",
+  "topic": "U1",
+  "front": "W jakim promieniu wokół czujki zaślepia się perforację sufitu nawiewnego?",
+  "back": "Co najmniej 0,6 m.",
+  "ref": "PKN-CEN/TS 54-14:2006, A.6.5.1 d",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-29",
+  "topic": "U1",
+  "front": "Od jakiej wysokości belka stropowa wymaga traktowania jej jak ściany?",
+  "back": "Gdy jest wyższa niż 5% wysokości pomieszczenia.",
+  "ref": "PKN-CEN/TS 54-14:2006, A.6.5.1 f",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-30",
+  "topic": "U1",
+  "front": "Przy jakim rozstawie belek wystarczy czujka w co drugim polu?",
+  "back": "Gdy D < 0,25(H − h).",
+  "ref": "PKN-CEN/TS 54-14:2006, A.6.5.1 f",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-31",
+  "topic": "U1",
+  "front": "Jaki efektywny promień przyjmuje się dla czujki działającej bez stropu?",
+  "back": "12,5% wysokości czujki nad najbardziej prawdopodobnym ogniskiem.",
+  "ref": "PKN-CEN/TS 54-14:2006, A.6.5.1 i",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-32",
+  "topic": "U1",
+  "front": "Jaka jest najdłuższa droga do najbliższego ręcznego ostrzegacza pożarowego?",
+  "back": "30 m (krótsza przy osobach o ograniczonej zdolności poruszania się).",
+  "ref": "PKN-CEN/TS 54-14:2006, A.6.5.4",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-33",
+  "topic": "U1",
+  "front": "Na jakiej wysokości montuje się zwykle ręczne ostrzegacze pożarowe?",
+  "back": "Od 1,2 m do 1,6 m nad podłogą.",
+  "ref": "PKN-CEN/TS 54-14:2006, A.6.5.4",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-34",
+  "topic": "U1",
+  "front": "Gdzie mierzy się poziom dźwięku alarmu, który ma obudzić śpiących, i ile ma wynosić?",
+  "back": "Na wysokości łóżka; 75 dB(A).",
+  "ref": "PKN-CEN/TS 54-14:2006, A.6.6.2 a",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-35",
+  "topic": "U1",
+  "front": "Jaki jest minimalny poziom dźwięku alarmu pożarowego w strefach, w których ma być słyszany?",
+  "back": "65 dB(A) lub 5 dB(A) ponad szum trwający dłużej niż 30 s, zależnie od tego, która wartość jest większa.",
+  "ref": "PKN-CEN/TS 54-14:2006, A.6.6.2 a",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-36",
+  "topic": "U2",
+  "front": "O ile komunikat głosowy powinien przekraczać inne dźwięki trwające dłużej niż 30 s?",
+  "back": "O co najmniej 10 dB(A).",
+  "ref": "PKN-CEN/TS 54-14:2006, A.6.6.2 e",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-37",
+  "topic": "U1",
+  "front": "Na jak długo zasilanie rezerwowe SSP ma podtrzymać instalację?",
+  "back": "Co najmniej 72 h, a potem jeszcze co najmniej 30 min alarmowania.",
+  "ref": "PKN-CEN/TS 54-14:2006, A.6.8.3",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-38",
+  "topic": "U1",
+  "front": "Ile urządzeń może najwyżej przestać działać przy pojedynczym zwarciu lub przerwie obwodu?",
+  "back": "32 urządzenia, z tej samej strefy i o tej samej funkcji.",
+  "ref": "PKN-CEN/TS 54-14:2006, A.6.2.2.1",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-39",
+  "topic": "U1",
+  "front": "Jaką odporność na ogień mają kable SSP potrzebne dłużej niż 1 min po wykryciu pożaru?",
+  "back": "Co najmniej 30 min albo równoważne zabezpieczenie.",
+  "ref": "PKN-CEN/TS 54-14:2006, A.6.11.2 a",
+  "conf": "wysoka",
+  "week": 11
+ },
+ {
+  "id": "T11-40",
+  "topic": "U1",
+  "front": "Gdzie umieszcza się ręczne urządzenie przywołania dźwigu na wypadek pożaru?",
+  "back": "W centrum zarządzania budynkiem lub na wyznaczonym przystanku.",
+  "ref": "PN-EN 81-73:2020-12, 5.1.4 d",
+  "conf": "wysoka",
+  "week": 11
+ }
+]
