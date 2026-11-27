@@ -1,0 +1,189 @@
+[
+ {
+  "id": 398,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie powołuje się na aktualne wydanie PKN-CEN/TS 54-14:2020-09 (ang.; = CEN/TS 54-14:2018), którego tekstu nie ma w korpusie; w korpusie jest tylko projekt z 2006 r. Wartość ustalona ze źródeł wtórnych (artykuły branżowe), nie z tekstu normy.",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2020-09, zał. A (promień czujek na płaskim stropie) – wg źródła wtórne: zabezpieczenia.com.pl „Rozmieszczanie czujek pożarowych na płaskim stropie” cz. 1; quality07.com.pl „Zmiany w projektowaniu SSP zgodnie z PKN-CEN/TS 54-14:2018”; elektro.info.pl „Nowe wymagania dotyczące projektowania instalacji SSP”",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "",
+  "expl": "Wydanie 2018/2020 zmniejszyło promień działania punktowej czujki dymu z 7,5 m (wyd. 2006) do 6,2 m; przy wysokości 3 m obowiązuje ten promień niezależnie od tego, że budynek jest wysokościowy (WW nie zmienia promienia). 7,5 m to wartość z wycofanego wydania 2006, 4,5 m to promień czujki ciepła. Wartość 6,2 m potwierdzają zgodnie artykuły branżowe, nie sam tekst normy.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "verdict": "Rację ma A (b). Kilka niezależnych źródeł wtórnych podaje zmianę 7,5 m → 6,2 m dla czujek dymu w wyd. 2018/2020; stary klucz (c) odpowiada wyd. 2006."
+ },
+ {
+  "id": 432,
+  "ans": "c",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie powołuje się na aktualne wydanie PKN-CEN/TS 54-14:2020-09 (ang.; = CEN/TS 54-14:2018), którego tekstu nie ma w korpusie; w korpusie jest tylko projekt z 2006 r. Wartość ustalona ze źródeł wtórnych (artykuły branżowe), nie z tekstu normy.",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2020-09, zał. A (graniczne wysokości czujek ciepła wg klas EN 54-5) – wg źródła wtórne: zabezpieczenia.com.pl „Rozmieszczanie czujek pożarowych na płaskim stropie” cz. 1; quality07.com.pl „Zmiany w projektowaniu SSP zgodnie z PKN-CEN/TS 54-14:2018”; elektro.info.pl „Nowe wymagania dotyczące projektowania instalacji SSP”",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "",
+  "expl": "Wg wydania 2018/2020 punktowe czujki ciepła klasy A1 stosuje się w pomieszczeniach do 7,5 m, a klas A2–G tylko do 6 m. 6 m jest więc granicą dla pozostałych klas, a 5 m – nie występuje jako granica dla A1. Wartość pochodzi z artykułów branżowych omawiających zmiany w specyfikacji, nie z tekstu normy.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "verdict": "Rację ma A (c); potwierdzają to artykuły branżowe (A1 do 7,5 m, A2–G do 6 m)."
+ },
+ {
+  "id": 436,
+  "ans": "b",
+  "conf": "niska",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie powołuje się na aktualne wydanie PKN-CEN/TS 54-14:2020-09 (ang.; = CEN/TS 54-14:2018), którego tekstu nie ma w korpusie; w korpusie jest tylko projekt z 2006 r. Wartość ustalona ze źródeł wtórnych (artykuły branżowe), nie z tekstu normy.",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2020-09, pkt dot. magazynów wysokiego składowania (wg materiałów producentów zasysających czujek dymu powołujących się na CEN/TS 54-14:2018)",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "",
+  "expl": "Materiały producentów systemów zasysających (Stratos/Quality07) powołujące się na CEN/TS 54-14:2018 podają, że w magazynach wysokiego składowania (towar powyżej 9 m) odległość między punktami poboru próbek, mierzona w pionie i w poziomie, nie powinna przekraczać 6,5 m. 6,2 m to promień punktowej czujki dymu, a 7,5 m – promień z wyd. 2006. Wątpliwość: żadne źródło nie cytuje dosłownie punktu normy łączącego próg 9 m z wartością 6,5 m.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "verdict": "A (a, 6,2 m) zgadywał przez analogię do promienia czujki punktowej; źródła wtórne wskazują 6,5 m, więc zmieniono na b, ale z niską pewnością."
+ },
+ {
+  "id": 444,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie powołuje się na aktualne wydanie PKN-CEN/TS 54-14:2020-09 (ang.; = CEN/TS 54-14:2018), którego tekstu nie ma w korpusie; w korpusie jest tylko projekt z 2006 r. Wartość ustalona ze źródeł wtórnych (artykuły branżowe), nie z tekstu normy.",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2020-09, zał. A – promień czujki ciepła 4,5 m; w układzie kwadratowym odległość od ściany = R/√2",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "",
+  "expl": "Przy promieniu czujki ciepła 4,5 m (wyd. 2018/2020, wg artykułów branżowych) bok kwadratu rozstawu wynosi 4,5·√2 ≈ 6,36 m, a odległość od ściany to połowa boku, ok. 3,2 m. 4,5 m to sam promień (dopuszczalna odległość do narożnika), 2,25 m to połowa promienia. Promień 4,5 m potwierdzają źródła wtórne, nie tekst normy.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "verdict": "Obaj (A i B) mieli rację (b); podniesiono pewność do średniej, bo promień 4,5 m potwierdzają źródła wtórne."
+ },
+ {
+  "id": 463,
+  "ans": "a",
+  "conf": "niska",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie powołuje się na aktualne wydanie PKN-CEN/TS 54-14:2020-09 (ang.; = CEN/TS 54-14:2018), którego tekstu nie ma w korpusie; w korpusie jest tylko projekt z 2006 r. Wartość ustalona ze źródeł wtórnych (artykuły branżowe), nie z tekstu normy.",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14 (wyd. 2006, A.6.5.1 i): efektywny promień czujek poza stropem = 12,5 % wysokości nad ogniskiem; brzmienia wyd. 2020 nie potwierdzono",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "lub czujek dymu) powinien wynosić  12,5 % wysokoś ci czujki nad najbardziej prawdopodobnym",
+  "expl": "Dla czujek umieszczonych poza stropem (np. drugi poziom czujek liniowych w wysokim pomieszczeniu) efektywny promień działania przyjmuje się jako 12,5 % wysokości czujki nad najbardziej prawdopodobnym miejscem pożaru: 0,125 × 10 m = 1,25 m. 6,2 m to promień czujki na stropie, a 3,1 m to jego połowa. Wątpliwość: regułę 12,5 % potwierdza tylko wydanie 2006; w źródłach wtórnych o wyd. 2018/2020 jej nie znaleziono.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "verdict": "Rację ma A (a) co do mechanizmu z wyd. 2006; pewność obniżona do niskiej, bo nie udało się potwierdzić reguły w wyd. 2020. Stary klucz (c) bez podstaw."
+ },
+ {
+  "id": 465,
+  "ans": "a",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie powołuje się na aktualne wydanie PKN-CEN/TS 54-14:2020-09 (ang.; = CEN/TS 54-14:2018), którego tekstu nie ma w korpusie; w korpusie jest tylko projekt z 2006 r. Wartość ustalona ze źródeł wtórnych (artykuły branżowe), nie z tekstu normy.",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2020-09 (położenie elementu czujnikowego pod stropem: 10 % wysokości, ale czujki ciepła maks. 150 mm, czujki dymu maks. 600 mm) – wg źródła wtórne: zabezpieczenia.com.pl „Rozmieszczanie czujek pożarowych na płaskim stropie” cz. 1; quality07.com.pl „Zmiany w projektowaniu SSP zgodnie z PKN-CEN/TS 54-14:2018”; elektro.info.pl „Nowe wymagania dotyczące projektowania instalacji SSP”",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "",
+  "expl": "Wydanie 2018/2020 przyjmuje, że element czujnikowy ma być w górnych 10 % wysokości pomieszczenia, ale czujka ciepła nie dalej niż 150 mm poniżej stropu, a czujka dymu nie dalej niż 600 mm. 600 mm to więc limit dla czujek dymu, a 300 mm nie występuje. Wartość potwierdzają artykuły branżowe, nie tekst normy.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "verdict": "Rację ma A (a); artykuł zabezpieczenia.com.pl podaje wprost 150 mm dla czujek ciepła i 600 mm dla czujek dymu."
+ },
+ {
+  "id": 489,
+  "ans": "b",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie powołuje się na aktualne wydanie PKN-CEN/TS 54-14:2020-09 (ang.; = CEN/TS 54-14:2018), którego tekstu nie ma w korpusie; w korpusie jest tylko projekt z 2006 r. Wartość ustalona ze źródeł wtórnych (artykuły branżowe), nie z tekstu normy.",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2020-09, zał. A – promień czujki dymu 6,2 m; układ kwadratowy: odległość od ściany = R/√2",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "",
+  "expl": "Przy promieniu czujki dymu 6,2 m bok kwadratu rozstawu to 6,2·√2 ≈ 8,77 m, więc odległość od ściany to ok. 4,4 m. 3,2 m to analogiczna wartość dla czujki ciepła (R = 4,5 m), a 6,4 m przekracza nawet sam promień. Promień 6,2 m potwierdzają źródła wtórne, nie tekst normy.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "verdict": "Obaj (A i B) mieli rację (b); pewność podniesiona do średniej, bo promień 6,2 m potwierdzają źródła wtórne."
+ },
+ {
+  "id": 512,
+  "ans": "b",
+  "conf": "niska",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie powołuje się na aktualne wydanie PKN-CEN/TS 54-14:2020-09 (ang.; = CEN/TS 54-14:2018), którego tekstu nie ma w korpusie; w korpusie jest tylko projekt z 2006 r. Wartość ustalona ze źródeł wtórnych (artykuły branżowe), nie z tekstu normy.",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14 (wyd. 2006, A.6.5.1 d) – szczególna uwaga dla czujek bliżej niż 1 m od wlotu powietrza lub w strumieniu > 1 m/s; brzmienia wyd. 2020 nie potwierdzono",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "wietrza lub w przestrzeni, w której pr ę dkoś ć  powietrza jest wię ksza 1 m/s, nale ż y zwrócić  szczególną  uwag ę",
+  "expl": "Wydanie 2006 każe zwrócić szczególną uwagę na czujki (wszystkie punktowe, nie tylko dymu) umieszczane bliżej niż 1 m od wlotu powietrza lub w strumieniu powietrza szybszym niż 1 m/s; komisja najpewniej oczekuje 1 m. Odpowiedź c jest błędna, bo przepis nie wyłącza czujek ciepła. Wątpliwość: źródła wtórne o wyd. 2018/2020 podają różne odległości (0,5 m, 1,5 m) i nie potwierdzają brzmienia z 1 m/s.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "verdict": "A (b) przyjęty; pewność pozostaje niska — źródła wtórne są niespójne, a tekstu wyd. 2020 nie ma."
+ },
+ {
+  "id": 535,
+  "ans": "c",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie powołuje się na aktualne wydanie PKN-CEN/TS 54-14:2020-09 (ang.; = CEN/TS 54-14:2018), którego tekstu nie ma w korpusie; w korpusie jest tylko projekt z 2006 r. Wartość ustalona ze źródeł wtórnych (artykuły branżowe), nie z tekstu normy.",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2020-09, zał. A (graniczne wysokości: czujki płomienia do 45 m) – wg prezentacji W. Wnęka (SITP Katowice 2025) i artykułu zabezpieczenia.com.pl",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "",
+  "expl": "Czujki płomienia wykrywają promieniowanie, które rozchodzi się prostoliniowo i nie potrzebuje stropu, dlatego wydanie 2018/2020 dopuszcza je do 45 m (tak jak czujki zasysające klasy A). 25 m i 9 m to granice dla innych typów czujek. Wartość 45 m podają zestawienia z prezentacji szkoleniowych, nie tekst normy (wyd. 2006 nie podawało granicy).",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "verdict": "Rację ma A (c); wartość 45 m dla czujek płomienia potwierdza zestawienie szkoleniowe dr. W. Wnęka i artykuł branżowy."
+ },
+ {
+  "id": 550,
+  "ans": "c",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie powołuje się na aktualne wydanie PKN-CEN/TS 54-14:2020-09 (ang.; = CEN/TS 54-14:2018), którego tekstu nie ma w korpusie; w korpusie jest tylko projekt z 2006 r. Wartość ustalona ze źródeł wtórnych (artykuły branżowe), nie z tekstu normy.",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14:2020-09, zał. A – promień czujki ciepła 4,5 m; każdy punkt (także narożnik) w zasięgu promienia",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "",
+  "expl": "Każdy punkt chronionego obszaru, w tym narożnik, musi leżeć w odległości poziomej nie większej niż promień działania czujki, a dla czujki ciepła w wyd. 2018/2020 wynosi on 4,5 m. 3,2 m to odległość od ściany w układzie kwadratowym (R/√2), a 4,4 m – analogiczna wartość dla czujki dymu. Promień 4,5 m potwierdzają źródła wtórne.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "verdict": "Obaj (A i B) mieli rację (c); pewność podniesiona do średniej."
+ },
+ {
+  "id": 556,
+  "ans": "b",
+  "conf": "niska",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Pytanie powołuje się na aktualne wydanie PKN-CEN/TS 54-14:2020-09 (ang.; = CEN/TS 54-14:2018), którego tekstu nie ma w korpusie; w korpusie jest tylko projekt z 2006 r. Wartość ustalona ze źródeł wtórnych (artykuły branżowe), nie z tekstu normy.",
+  "topic": "U1",
+  "basis": "PKN-CEN/TS 54-14 (wyd. 2006, A.6.5.1 b): +1 % promienia na każdy 1° nachylenia, maks. 25 %; promień bazowy 6,2 m wg wyd. 2020 (źródła wtórne)",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "wię kszyć  o 1 % na ka ż dy 1° pochylenia stropu, a ż  do maksymalnie 25 %. W przypadku zakrzywienia stropu,",
+  "expl": "Przy czujkach w kalenicy promień zwiększa się o 1 % na każdy stopień nachylenia, ale najwyżej o 25 %, więc przy 30° obowiązuje limit: 6,2 m × 1,25 = 7,75 m. 8,06 m (6,2 × 1,30) pomija limit 25 %, a 6,2 m pomija całe zwiększenie. Wątpliwość: regułę 1 %/1° i 25 % potwierdza tylko wyd. 2006; w źródłach wtórnych o wyd. 2018/2020 jej nie znaleziono (artykuły wspominają jedynie pkt o stropach pochyłych).",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "verdict": "Obaj (A i B) mieli rację (b) przy założeniu, że reguła z wyd. 2006 przetrwała; pewność pozostaje niska."
+ }
+]
