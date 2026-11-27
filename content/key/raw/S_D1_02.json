@@ -1,0 +1,53 @@
+[
+ {
+  "id": 235,
+  "ans": "a",
+  "conf": "wysoka",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Sprawdzono PKN-CEN/TS 54-14:2006 (wycofana); aktualna jest PKN-CEN/TS 54-14:2020-09, której treści nie dało się sprawdzić.",
+  "topic": "U1",
+  "basis": "A.6.5.1 c) PKN-CEN/TS 54-14:2006",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "przepierzenia lub regały, si ę gaj ą ce bli ż ej ni ż  0,3 m od stropu, to przegrody powinny być  traktowane jako do-",
+  "expl": "Przegrodę sięgającą bliżej niż 0,3 m od stropu traktuje się jak ścianę do stropu, a powstałe części pomieszczenia jak osobne pomieszczenia. 0,5 m to minimalna odległość czujki od ścian i wolna przestrzeń pod czujką, a 5% wysokości to kryterium dla wykształceń stropu, nie dla przegród.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "verdict": "Podstawa u A błędnie wskazywała A.6.4.2 c); w PKN-CEN/TS 54-14:2006 A.6.4 brzmi „Brak dalszych zaleceń”, a reguła 0,3 m jest w A.6.5.1 c). Odpowiedź a potwierdzona."
+ },
+ {
+  "id": 240,
+  "ans": "c",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Sprawdzono PKN-CEN/TS 54-14:2006 (wycofana); aktualna jest PKN-CEN/TS 54-14:2020-09, której treści nie dało się sprawdzić.",
+  "topic": "U1",
+  "basis": "tablica A.1 i A.6.5.1 b) PKN-CEN/TS 54-14:2006",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "wię kszyć  o 1 % na ka ż dy 1° pochylenia stropu, a ż  do maksymalnie 25 %. W przypadku zakrzywienia stropu,",
+  "expl": "W kalenicy stropu pochyłego promień z tablicy A.1 zwiększa się o 1% na każdy stopień nachylenia, najwyżej o 25%. Dla 10° to 7,5 m × 1,10 = 8,25 m. 7,5 m to promień dla stropu płaskiego, a 5 m dotyczy czujek ciepła.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "verdict": "Podstawa u A błędnie wskazywała A.6.4.2 b); reguła +1%/1° (maks. 25%) jest w A.6.5.1 b) PKN-CEN/TS 54-14:2006, promień 7,5 m w tablicy A.1. Obliczenie 7,5 × 1,10 = 8,25 m potwierdzone."
+ },
+ {
+  "id": 248,
+  "ans": "c",
+  "conf": "średnia",
+  "ansNow": "=",
+  "stan": "nieustalone",
+  "stanNote": "Sprawdzono PKN-CEN/TS 54-14:2006 (wycofana); aktualna jest PKN-CEN/TS 54-14:2020-09, której treści nie dało się sprawdzić.",
+  "topic": "U1",
+  "basis": "A.6.5.1 f) PKN-CEN/TS 54-14:2006",
+  "src": "normy/PKN-CEN-TS_54-14_2006_projekt_WYCOFANA.txt",
+  "quote": "Stropy z wykształceniami o wysokoś ci mniejszej ni ż  5 % wysokoś ci pomieszczenia powinny być  traktowane",
+  "expl": "5% wysokości 5 m to 0,25 m, a belki mają 0,24 m, czyli mniej, więc strop traktuje się jak płaski i stosuje promień 7,5 m. Reguły „czujka w każdym polu” lub „w co drugim polu” (porównanie D z 0,25(H − h)) dotyczą tylko belek wyższych niż 5% wysokości pomieszczenia.",
+  "norms": [
+   "PKN-CEN/TS 54-14"
+  ],
+  "verdict": "Podstawa u A błędnie wskazywała A.6.4.2 f); reguła 5% wysokości jest w A.6.5.1 f) PKN-CEN/TS 54-14:2006. 0,24 m < 0,05 × 5 m = 0,25 m – strop płaski, odpowiedź c potwierdzona."
+ }
+]
