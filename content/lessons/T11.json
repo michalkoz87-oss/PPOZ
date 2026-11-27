@@ -73,7 +73,7 @@
      ],
      [
       "Archiwa, muzea i zabytki wyznaczone; biblioteki z narodowym zasobem",
-      "zawsze (z wyznaczenia)",
+      "archiwa, muzea i zabytki — gdy wyznaczone; biblioteki — gdy zbiory tworzą narodowy zasób biblioteczny",
       "§ 28 ust. 1 pkt 13, 14, 21"
      ],
      [
@@ -111,7 +111,7 @@
   },
   {
    "h": "Gdzie DSO jest obowiązkowy (§ 29) i porównanie z SSP",
-   "text": "DSO rozgłasza sygnały ostrzegawcze i komunikaty głosowe nadawane automatycznie po otrzymaniu sygnału z SSP, a także przez operatora (§ 29 ust. 1). Nie ma więc DSO bez SSP. Progi DSO są wyższe niż progi SSP i dla handlu liczą się tylko strefy ZL I.\nW obiekcie z DSO nie stosuje się innych akustycznych pożarowych urządzeń alarmowych do alarmowania użytkowników, z wyjątkiem alarmowania służb dozoru lub ochrony (§ 29 ust. 2). Obowiązek z § 29 ust. 1 pkt 6 (zamieszkanie zbiorowe) nie dotyczy terenów zamkniętych obronności państwa i zakwaterowania osadzonych (§ 29 ust. 3).\nPrzepis przejściowy: § 29 ust. 1 pkt 1 nie stosuje się do istniejących budynków handlowych i wystawowych ze strefą ZL I ponad 8000 m² do 10 000 m² (jednokondygnacyjnych) albo ponad 5000 m² do 8000 m² (wielokondygnacyjnych) (§ 44 pkt 4). Ten sam przepis dotyczy tryskaczy z § 27 ust. 2 pkt 1, których progi handlowe są takie same jak dla DSO (§ 27 ust. 2 pkt 1).",
+   "text": "DSO rozgłasza sygnały ostrzegawcze i komunikaty głosowe nadawane automatycznie po otrzymaniu sygnału z SSP, a także przez operatora (§ 29 ust. 1). Nie ma więc DSO bez SSP. Progi DSO są dla handlu i teatrów wyższe niż progi SSP, a dla sal widowiskowych i sportowych, szpitali, metra i dworców takie same; dla handlu liczą się tylko strefy ZL I.\nW obiekcie z DSO nie stosuje się innych akustycznych pożarowych urządzeń alarmowych do alarmowania użytkowników, z wyjątkiem alarmowania służb dozoru lub ochrony (§ 29 ust. 2). Obowiązek z § 29 ust. 1 pkt 6 (zamieszkanie zbiorowe) nie dotyczy terenów zamkniętych obronności państwa i zakwaterowania osadzonych (§ 29 ust. 3).\nPrzepis przejściowy: § 29 ust. 1 pkt 1 nie stosuje się do istniejących budynków handlowych i wystawowych ze strefą ZL I ponad 8000 m² do 10 000 m² (jednokondygnacyjnych) albo ponad 5000 m² do 8000 m² (wielokondygnacyjnych) (§ 44 pkt 4). Ten sam przepis dotyczy tryskaczy z § 27 ust. 2 pkt 1, których progi handlowe są takie same jak dla DSO (§ 27 ust. 2 pkt 1).",
    "table": {
     "head": [
      "Obiekt",
@@ -173,7 +173,7 @@
    }
   },
   {
-   "h": "Strefy dozorowe, alarmowe i skutki uszkodzeń (wytyczne 2006)",
+   "h": "Strefy dozorowe, alarmowe i skutki uszkodzeń (wytyczne PKN-CEN/TS 54-14:2006, wycofana; aktualna PKN-CEN/TS 54-14:2020-09)",
    "text": "Budynek dzieli się na strefy dozorowe tak, aby ze wskazań urządzeń sygnalizacyjnych szybko ustalić miejsce alarmu; podział na strefy alarmowe zależy od planu postępowania w razie alarmu (PKN-CEN/TS 54-14:2006, 6.3.2–6.3.3). Zalecenia A.6.3.2 można zmienić w uzgodnieniach wg 5.2 i zapisać w dokumentacji.\nOgraniczenia okablowania i obwodów (A.6.2.2.1):\n- pojedyncze uszkodzenie przewodu nie może wyłączyć więcej niż jednej funkcji (wykrywanie, ROP, alarmowanie, wejścia i wyjścia, urządzenia pomocnicze);\n- pojedyncze zwarcie lub przerwa wyłącza najwyżej 32 urządzenia, wszystkie z tej samej strefy i o tej samej funkcji;\n- dwa uszkodzenia w jednym obwodzie nie mogą wyłączyć ochrony na powierzchni ponad 10 000 m² lub w więcej niż pięciu strefach pożarowych, zależnie od tego, która powierzchnia jest mniejsza.\nKable, które muszą działać dłużej niż 1 min po wykryciu pożaru (np. centrala–zasilacze, centrala–tablice równoległe), mają odporność na ogień i skutki gaszenia co najmniej 30 min albo równoważne zabezpieczenie (A.6.11.2 a).",
    "table": {
     "head": [
@@ -206,7 +206,7 @@
    }
   },
   {
-   "h": "Rozmieszczenie czujek punktowych i liniowych (A.6.5.1)",
+   "h": "Rozmieszczenie czujek punktowych i liniowych (A.6.5.1) — PKN-CEN/TS 54-14:2006, wycofana; aktualna PKN-CEN/TS 54-14:2020-09",
    "text": "Elementy detekcyjne czujek ciepła i dymu na stropie płaskim mają się znajdować w górnych 5% wysokości pomieszczenia; czujek nie wpuszcza się w strop z powodu zimnej warstwy granicznej (A.6.5.1 a). Pozioma odległość dowolnego punktu od najbliższej czujki nie może przekroczyć promienia z tablicy A.1. Każde chronione pomieszczenie lub zamknięta przestrzeń ma co najmniej jedną czujkę (A.6.5.2).\nStropy i przeszkody:\n- przy czujce w kalenicy stropu pochyłego promień rośnie o 1% na każdy 1° nachylenia, najwyżej o 25%; przy różnicy wysokości kalenic szedu mniejszej niż 5% odległości kalenicy od podłogi dach traktuje się jak płaski (A.6.5.1 b);\n- czujkę (poza liniową) montuje się co najmniej 0,5 m od ścian i przepierzeń; w pomieszczeniu węższym niż 1,2 m w środkowym pasie o szerokości 1/3 pomieszczenia; przegrody i regały sięgające bliżej niż 0,3 m od stropu traktuje się jak dochodzące do stropu; pod czujką wolna przestrzeń co najmniej 0,5 m we wszystkich kierunkach (A.6.5.1 c);\n- belka niższa niż 5% wysokości pomieszczenia nie zmienia zasad (strop płaski); wyższa działa jak ściana: czujka w każdym polu, gdy D > 0,25(H − h), w co drugim, gdy D < 0,25(H − h), w co trzecim, gdy D < 0,13(H − h) (A.6.5.1 f);\n- w stropie z małych pól jedna czujka obejmuje pola o kubaturze do 6 m² × (H − h) dla ciepła i 12 m² × (H − h) dla dymu (A.6.5.1 f);\n- bez stropu lub przy stratyfikacji efektywny promień wynosi 12,5% wysokości czujki nad najbardziej prawdopodobnym ogniskiem (A.6.5.1 i).\nWentylacja: przy ponad 5 wymianach na godzinę mogą być potrzebne dodatkowe czujki; nie montuje się ich na wlocie świeżego powietrza; perforację sufitu nawiewnego zaślepia się w promieniu co najmniej 0,6 m wokół czujki; bliżej niż 1 m od wlotu lub przy prędkości powietrza ponad 1 m/s trzeba ocenić wpływ strumienia; ponad 5 m/s grozi fałszywymi alarmami czujek jonizacyjnych (A.6.5.1 d). Czujkę w kanale montuje się na prostym odcinku, co najmniej trzy szerokości kanału od kolana lub złącza, i traktuje jako ochronę lokalną (A.6.5.1 e).",
    "table": {
     "head": [
@@ -250,16 +250,16 @@
    }
   },
   {
-   "h": "Przestrzenie ukryte, obszary bez ochrony, ROP",
+   "h": "Przestrzenie ukryte, obszary bez ochrony, ROP — PKN-CEN/TS 54-14:2006, wycofana; aktualna PKN-CEN/TS 54-14:2020-09",
    "text": "Sufit podwieszony perforowany: czujki nad sufitem mogą chronić także przestrzeń pod nim, gdy perforacja zajmuje ponad 40% dowolnego wycinka 1 m × 1 m, każdy otwór przekracza 10 mm × 10 mm, a grubość sufitu nie przekracza trzykrotnego najmniejszego wymiaru otworu (A.6.5.1 g). Pod podłogą podniesioną czujki instaluje się jak w odrębnym pomieszczeniu, z wyjątkami z A.6.5.1 h.\nAutomatyczne wykrywanie nie jest wymagane m.in. w łazienkach, natryskach, pralniach i ubikacjach bez materiałów palnych, w szybach kablowych o przekroju poniżej 2 m² (z warunkami odporności i bez kabli bezpieczeństwa), na niezadaszonych rampach i w niewentylowanych chłodniach żywności poniżej 20 m³ (A.5.3.8). Pustka budowlana nie wymaga odrębnej ochrony, gdy ma wysokość poniżej 1 m, długość i szerokość poniżej 10 m, jest obudowana niepalnie, obciążenie ogniowe nie przekracza 25 MJ/m² i nie biegną w niej kable bezpieczeństwa bez odporności 30 min (A.5.3.8).\nRęczne ostrzegacze pożarowe (ROP) umieszcza się na drogach ewakuacyjnych, przy każdym wejściu na schody ewakuacyjne i przy każdym wyjściu na zewnątrz (6.5.4). Droga do najbliższego ROP nie przekracza 30 m, krótsza tam, gdzie są osoby o ograniczonej zdolności poruszania się; ROP montuje się zwykle na wysokości od 1,2 m do 1,6 m (A.6.5.4). Wszystkie ROP w obiekcie działają na tej samej zasadzie (6.4.5).\nCentrala (CSP) stoi w miejscu dostępnym dla straży i odpowiedzialnych za obiekt, o małym ryzyku pożaru, dozorowanym co najmniej jedną czujką tej instalacji, najlepiej w strefie stałego przebywania ludzi (6.7.1); obok centrali jest mapa stref lub karty stref (A.6.7.4)."
   },
   {
-   "h": "Alarmowanie akustyczne i komunikaty głosowe (A.6.6.2)",
+   "h": "Alarmowanie akustyczne i komunikaty głosowe (A.6.6.2) — PKN-CEN/TS 54-14:2006, wycofana; aktualna PKN-CEN/TS 54-14:2020-09",
    "text": "Alarm skierowany do osób niewyszkolonych ogłasza się co najmniej środkami akustycznymi; sygnały optyczne są tylko uzupełnieniem (6.6.1, 6.6.3). W instalacji nie może pracować jednocześnie więcej niż jeden mikrofon lub generator komunikatów (6.6.1). Rodzaj dźwięku alarmu jest taki sam w całym budynku (6.6.2).\n- Poziom alarmu: co najmniej 65 dB(A) albo 5 dB(A) ponad szum trwający dłużej niż 30 s, zależnie od tego, która wartość jest większa; do budzenia 75 dB(A) na wysokości łóżka; nigdzie ponad 120 dB(A) (A.6.6.2 a).\n- Częstotliwość: dźwięki z przewagą energii w zakresie 500–2000 Hz (A.6.6.2 b).\n- Co najmniej dwa sygnalizatory w budynku i co najmniej jeden w każdej strefie pożarowej; poziom nie będzie wystarczający, gdy pomieszczenie oddziela od sygnalizatora więcej niż jedne drzwi (A.6.6.2 c).\n- Alarmowanie głosowe: komunikat nadawany automatycznie, niezależnie od obecności operatora; poziom co najmniej 10 dB(A) ponad inne dźwięki trwające dłużej niż 30 s; przerwy między komunikatami najwyżej 30 s, a przy przerwach ponad 10 s sygnały wypełniające; sygnały pożarowe mają najwyższy priorytet; mikrofony pożarowe dostępne tylko dla uprawnionych (A.6.6.2 e).\nWymagań PN-EN 54-16 (centrale DSO), PN-EN 54-24 (głośniki), PN-EN 54-23 (sygnalizatory optyczne) i PN-EN 50849 nie ma w korpusie. O PN-EN 60849 pytano o czas pracy z zasilania rezerwowego w trybie zagrożenia i poziom komunikatu w pokoju hotelowym; odpowiedzi trzeba sprawdzić w tekście normy."
   },
   {
    "h": "Zasilanie, konserwacja i współpraca z innymi urządzeniami",
-   "text": "Zasilanie główne pochodzi zwykle z sieci publicznej, z wydzielonym zabezpieczeniem możliwie blisko wejścia zasilania do budynku i ochroną przed nieuprawnionym odłączeniem (6.8.2). Zasilanie rezerwowe zawsze ma wydzieloną baterię akumulatorów, także przy agregacie lub UPS (6.8.3).\n- Bateria podtrzymuje instalację przez co najmniej 72 h, a potem jeszcze co najmniej 30 min alarmowania (A.6.8.3).\n- Przy natychmiastowym wykryciu uszkodzenia i umowie z naprawą w czasie krótszym niż 24 h czas można zmniejszyć do 30 h, a do 4 h, gdy całą dobę dostępne są części, serwis i agregat (A.6.8.3).\n- Na starzenie baterii zwykle wystarcza zapas 25% pojemności (A.6.8.3, uwaga 1).\nHarmonogram konserwacji (A.11.2.1): codziennie stan dozorowania i dziennik; co miesiąc rozruch agregatu i test wskaźników; co kwartał specjalista uruchamia co najmniej jedną czujkę lub ROP w każdej strefie i sprawdza łącze do straży; co rok sprawdza każdą czujkę (dopuszczalnie po 25% przy kolejnych kontrolach kwartalnych), wolną przestrzeń 0,5 m pod czujkami i baterie. Rozporządzenie wymaga przeglądów nie rzadziej niż raz w roku (§ 3 ust. 3).\nSSP steruje innymi urządzeniami. W strefach z instalacją sygnalizacyjno-alarmową klapy odcinające uruchamia ta instalacja, niezależnie od wyzwalacza termicznego (WT § 268 ust. 6, przepisy odniesienia). System wykrywania pożaru może być środkiem przywołania dźwigu na wyznaczony przystanek (PN-EN 81-73:2020-12, 5.1.3 b); przerwa w połączeniu interfejsu inicjuje jazdę pożarową (5.2), a ręczne urządzenie przywołania umieszcza się w centrum zarządzania budynkiem lub na wyznaczonym przystanku (5.1.4 d)."
+   "text": "Zasilanie główne pochodzi zwykle z sieci publicznej, z wydzielonym zabezpieczeniem możliwie blisko wejścia zasilania do budynku i ochroną przed nieuprawnionym odłączeniem (PKN-CEN/TS 54-14:2006, 6.8.2; aktualne wydanie 2020-09). Zasilanie rezerwowe zawsze ma wydzieloną baterię akumulatorów, także przy agregacie lub UPS (6.8.3).\n- Bateria podtrzymuje instalację przez co najmniej 72 h, a potem jeszcze co najmniej 30 min alarmowania (A.6.8.3).\n- Przy natychmiastowym wykryciu uszkodzenia i umowie z naprawą w czasie krótszym niż 24 h czas można zmniejszyć do 30 h, a do 4 h, gdy całą dobę dostępne są części, serwis i agregat (A.6.8.3).\n- Na starzenie baterii zwykle wystarcza zapas 25% pojemności (A.6.8.3, uwaga 1).\nHarmonogram konserwacji (A.11.2.1): codziennie stan dozorowania i dziennik; co miesiąc rozruch agregatu i test wskaźników; co kwartał specjalista uruchamia co najmniej jedną czujkę lub ROP w każdej strefie i sprawdza łącze do straży; co rok sprawdza każdą czujkę (dopuszczalnie po 25% przy kolejnych kontrolach kwartalnych), wolną przestrzeń 0,5 m pod czujkami i baterie. Rozporządzenie wymaga przeglądów nie rzadziej niż raz w roku (§ 3 ust. 3).\nSSP steruje innymi urządzeniami. W strefach z instalacją sygnalizacyjno-alarmową klapy odcinające uruchamia ta instalacja, niezależnie od wyzwalacza termicznego (WT § 268 ust. 6, przepisy odniesienia). System wykrywania pożaru może być środkiem przywołania dźwigu na wyznaczony przystanek (PN-EN 81-73:2020-12, 5.1.3 b); przerwa w połączeniu interfejsu inicjuje jazdę pożarową (5.2), a ręczne urządzenie przywołania umieszcza się w centrum zarządzania budynkiem lub na wyznaczonym przystanku (5.1.4 d)."
   }
  ],
  "keyValues": [
@@ -331,87 +331,87 @@
   {
    "label": "Strefa dozorowa",
    "value": "najwyżej 1600 m²; obejmująca kilka stref pożarowych najwyżej 400 m²",
-   "ref": "TS 54-14:2006, A.6.3.2 a, c"
+   "ref": "PKN-CEN/TS 54-14:2006 (aktualna 2020-09), A.6.3.2 a, c"
   },
   {
    "label": "Strefa dozorowa na kilku kondygnacjach",
    "value": "dopuszczalna dla klatki lub szybu w jednej strefie pożarowej albo w budynku poniżej 300 m²",
-   "ref": "TS 54-14:2006, A.6.3.2 d"
+   "ref": "PKN-CEN/TS 54-14:2006 (aktualna 2020-09), A.6.3.2 d"
   },
   {
    "label": "Promień czujki dymu punktowej",
    "value": "7,5 m do wysokości 11 m",
-   "ref": "TS 54-14:2006, tabl. A.1"
+   "ref": "PKN-CEN/TS 54-14:2006 (aktualna 2020-09), tabl. A.1"
   },
   {
    "label": "Promień czujki ciepła klasy 1",
    "value": "5 m do wysokości 8 m",
-   "ref": "TS 54-14:2006, tabl. A.1"
+   "ref": "PKN-CEN/TS 54-14:2006 (aktualna 2020-09), tabl. A.1"
   },
   {
    "label": "Położenie czujki pod stropem płaskim",
    "value": "element detekcyjny w górnych 5% wysokości pomieszczenia",
-   "ref": "TS 54-14:2006, A.6.5.1 a"
+   "ref": "PKN-CEN/TS 54-14:2006 (aktualna 2020-09), A.6.5.1 a"
   },
   {
    "label": "Strop pochyły",
    "value": "promień plus 1% na 1° nachylenia, najwyżej plus 25%",
-   "ref": "TS 54-14:2006, A.6.5.1 b"
+   "ref": "PKN-CEN/TS 54-14:2006 (aktualna 2020-09), A.6.5.1 b"
   },
   {
    "label": "Odległość od ścian i wolna przestrzeń pod czujką",
    "value": "co najmniej 0,5 m",
-   "ref": "TS 54-14:2006, A.6.5.1 c"
+   "ref": "PKN-CEN/TS 54-14:2006 (aktualna 2020-09), A.6.5.1 c"
   },
   {
    "label": "Przegroda traktowana jak pełna ściana",
    "value": "sięga bliżej niż 0,3 m od stropu",
-   "ref": "TS 54-14:2006, A.6.5.1 c"
+   "ref": "PKN-CEN/TS 54-14:2006 (aktualna 2020-09), A.6.5.1 c"
   },
   {
    "label": "Zaślepienie perforacji sufitu nawiewnego",
    "value": "w promieniu co najmniej 0,6 m wokół czujki",
-   "ref": "TS 54-14:2006, A.6.5.1 d"
+   "ref": "PKN-CEN/TS 54-14:2006 (aktualna 2020-09), A.6.5.1 d"
   },
   {
    "label": "Belka zmieniająca rozmieszczenie",
    "value": "wyższa niż 5% wysokości pomieszczenia",
-   "ref": "TS 54-14:2006, A.6.5.1 f"
+   "ref": "PKN-CEN/TS 54-14:2006 (aktualna 2020-09), A.6.5.1 f"
   },
   {
    "label": "Promień czujki bez stropu",
    "value": "12,5% wysokości czujki nad ogniskiem",
-   "ref": "TS 54-14:2006, A.6.5.1 i"
+   "ref": "PKN-CEN/TS 54-14:2006 (aktualna 2020-09), A.6.5.1 i"
   },
   {
    "label": "ROP",
    "value": "droga do ROP najwyżej 30 m; montaż zwykle 1,2–1,6 m",
-   "ref": "TS 54-14:2006, A.6.5.4"
+   "ref": "PKN-CEN/TS 54-14:2006 (aktualna 2020-09), A.6.5.4"
   },
   {
    "label": "Poziom alarmu akustycznego",
    "value": "co najmniej 65 dB(A) lub 5 dB(A) ponad szum; 75 dB(A) na wysokości łóżka; najwyżej 120 dB(A)",
-   "ref": "TS 54-14:2006, A.6.6.2 a"
+   "ref": "PKN-CEN/TS 54-14:2006 (aktualna 2020-09), A.6.6.2 a"
   },
   {
    "label": "Komunikaty głosowe",
    "value": "co najmniej 10 dB(A) ponad inne dźwięki; przerwy najwyżej 30 s",
-   "ref": "TS 54-14:2006, A.6.6.2 e"
+   "ref": "PKN-CEN/TS 54-14:2006 (aktualna 2020-09), A.6.6.2 e"
   },
   {
    "label": "Zasilanie rezerwowe SSP",
    "value": "72 h dozorowania plus 30 min alarmowania (30 h lub 4 h przy szybkiej naprawie)",
-   "ref": "TS 54-14:2006, A.6.8.3"
+   "ref": "PKN-CEN/TS 54-14:2006 (aktualna 2020-09), A.6.8.3"
   },
   {
    "label": "Pojedyncze uszkodzenie obwodu",
    "value": "wyłącza najwyżej 32 urządzenia",
-   "ref": "TS 54-14:2006, A.6.2.2.1"
+   "ref": "PKN-CEN/TS 54-14:2006 (aktualna 2020-09), A.6.2.2.1"
   },
   {
    "label": "Kable działające po wykryciu pożaru",
    "value": "odporność co najmniej 30 min, gdy potrzebne dłużej niż 1 min",
-   "ref": "TS 54-14:2006, A.6.11.2 a"
+   "ref": "PKN-CEN/TS 54-14:2006 (aktualna 2020-09), A.6.11.2 a"
   }
  ],
  "traps": [
@@ -421,12 +421,12 @@
   "Przy DSO inne akustyczne pożarowe urządzenia alarmowe wolno stosować tylko do alarmowania służb dozoru lub ochrony, nie np. w pomieszczeniu, w którym powstał pożar (§ 29 ust. 2).",
   "Teatr wymaga SSP już od ponad 300 miejsc, a kino od ponad 600; DSO dla obu od ponad 600 miejsc (§ 28 ust. 1 pkt 2–3, § 29 ust. 1 pkt 3).",
   "Stałe urządzenie gaśnicze zwalnia z SSP tylko wtedy, gdy SSP nie jest potrzebny do uruchamiania innych urządzeń działających w pożarze (§ 30).",
-  "Pod czujką zostawia się wolną przestrzeń co najmniej 0,5 m we wszystkich kierunkach, a nie 0,3 m; 0,3 m to granica, od której przegroda liczy się jak ściana do stropu (TS 54-14:2006, A.6.5.1 c).",
-  "Czujki na stropie płaskim montuje się tak, aby element detekcyjny był w górnych 5% wysokości pomieszczenia; wytyczne 2006 nie podają stałej odległości 0,5 m od stropu i zabraniają wpuszczania czujki w strop (TS 54-14:2006, A.6.5.1 a).",
-  "Belka o wysokości mniejszej niż 5% wysokości pomieszczenia nie dzieli stropu: w pomieszczeniu 5 m belki 24 cm są niższe od 25 cm, więc strop traktuje się jak płaski i stosuje promień 7,5 m (TS 54-14:2006, A.6.5.1 f).",
-  "Powiększenie promienia w kalenicy wynosi 1% na każdy stopień, ale najwyżej 25%: przy 10° promień czujki dymu wynosi 8,25 m (TS 54-14:2006, A.6.5.1 b i tabl. A.1).",
-  "Pytania powołujące wydanie PKN-CEN/TS 54-14:2020 mają w odpowiedziach wartości nieobecne w wydaniu 2006 (np. promień 6,2 m, strefa dozorowa 6000 m² przy adresacji czujek); tekstu 2020 nie mam, więc nie przenoś odpowiedzi między wydaniami bez sprawdzenia (TS 54-14:2006, A.6.3.2 i tabl. A.1; o to pytano).",
-  "Poziom dźwięku dla osób śpiących mierzy się na wysokości łóżka, nie przy sygnalizatorze ani przy podłodze (TS 54-14:2006, A.6.6.2 a)."
+  "Pod czujką zostawia się wolną przestrzeń co najmniej 0,5 m we wszystkich kierunkach, a nie 0,3 m; 0,3 m to granica, od której przegroda liczy się jak ściana do stropu (PKN-CEN/TS 54-14:2006, aktualna 2020-09, A.6.5.1 c).",
+  "Czujki na stropie płaskim montuje się tak, aby element detekcyjny był w górnych 5% wysokości pomieszczenia; wytyczne 2006 nie podają stałej odległości 0,5 m od stropu i zabraniają wpuszczania czujki w strop (PKN-CEN/TS 54-14:2006, aktualna 2020-09, A.6.5.1 a).",
+  "Belka o wysokości mniejszej niż 5% wysokości pomieszczenia nie dzieli stropu: w pomieszczeniu 5 m belki 24 cm są niższe od 25 cm, więc strop traktuje się jak płaski i stosuje promień 7,5 m (PKN-CEN/TS 54-14:2006, aktualna 2020-09, A.6.5.1 f).",
+  "Powiększenie promienia w kalenicy wynosi 1% na każdy stopień, ale najwyżej 25%: przy 10° promień czujki dymu wynosi 8,25 m (PKN-CEN/TS 54-14:2006, aktualna 2020-09, A.6.5.1 b i tabl. A.1).",
+  "Pytania powołujące wydanie PKN-CEN/TS 54-14:2020 mają w odpowiedziach wartości nieobecne w wydaniu 2006 (np. promień 6,2 m, strefa dozorowa 6000 m² przy adresacji czujek — do sprawdzenia w normie); tekstu 2020 nie mam, więc nie przenoś odpowiedzi między wydaniami bez sprawdzenia (PKN-CEN/TS 54-14:2006, aktualna 2020-09, A.6.3.2 i tabl. A.1; o to pytano).",
+  "Poziom dźwięku dla osób śpiących mierzy się na wysokości łóżka, nie przy sygnalizatorze ani przy podłodze (PKN-CEN/TS 54-14:2006, aktualna 2020-09, A.6.6.2 a)."
  ],
  "oral": [
   {
@@ -444,15 +444,15 @@
    "points": [
     "W obiekcie z DSO nie stosuje się innych akustycznych pożarowych urządzeń alarmowych dla użytkowników, z wyjątkiem służb dozoru lub ochrony (§ 29 ust. 2).",
     "Hotel wymaga DSO, gdy jest wysoki lub wysokościowy albo ma ponad 200 miejsc noclegowych (§ 29 ust. 1 pkt 6).",
-    "Według wytycznych alarm ma budzić śpiących poziomem 75 dB(A) na wysokości łóżka (TS 54-14:2006, A.6.6.2 a).",
-    "Komunikat głosowy powinien przekraczać o co najmniej 10 dB(A) inne dźwięki trwające dłużej niż 30 s i być zrozumiały (TS 54-14:2006, A.6.6.2 e).",
+    "Według wytycznych alarm ma budzić śpiących poziomem 75 dB(A) na wysokości łóżka (PKN-CEN/TS 54-14:2006, aktualna 2020-09, A.6.6.2 a).",
+    "Komunikat głosowy powinien przekraczać o co najmniej 10 dB(A) inne dźwięki trwające dłużej niż 30 s i być zrozumiały (PKN-CEN/TS 54-14:2006, aktualna 2020-09, A.6.6.2 e).",
     "Parametry DSO według PN-EN 50849 (dawniej PN-EN 60849) trzeba sprawdzić w normie, której tekstu nie mam w materiałach."
    ]
   },
   {
    "q": "Sprawdzasz projekt SSP dla hali biurowej 20 m × 30 m o wysokości 4 m, ze stropem płaskim. Ile czujek dymu wystarczy i jakie warunki rozmieszczenia sprawdzisz?",
    "points": [
-    "Promień czujki dymu punktowej przy wysokości do 4,5 m wynosi 7,5 m (TS 54-14:2006, tabl. A.1).",
+    "Promień czujki dymu punktowej przy wysokości do 4,5 m wynosi 7,5 m (PKN-CEN/TS 54-14:2006, aktualna 2020-09, tabl. A.1).",
     "Siatka 2 × 3 czujek dzieli halę na pola 10 m × 10 m; odległość od czujki do narożnika pola to około 7,07 m, czyli mniej niż 7,5 m, więc wystarczy 6 czujek; przy 4 czujkach pola 10 m × 15 m dają około 9 m (A.6.5.1 a).",
     "Czujki co najmniej 0,5 m od ścian, wolna przestrzeń 0,5 m pod czujką, element detekcyjny w górnych 5% wysokości (A.6.5.1 a, c).",
     "Hala 600 m² mieści się w jednej strefie dozorowej do 1600 m² (A.6.3.2 a).",
@@ -462,7 +462,7 @@
   {
    "q": "Jak podzielić budynek na strefy dozorowe i jak rozmieścić ręczne ostrzegacze pożarowe?",
    "points": [
-    "Strefa dozorowa ma pozwolić szybko ustalić miejsce alarmu (TS 54-14:2006, 6.3.2).",
+    "Strefa dozorowa ma pozwolić szybko ustalić miejsce alarmu (PKN-CEN/TS 54-14:2006, aktualna 2020-09, 6.3.2).",
     "Strefa do 1600 m²; przy więcej niż pięciu pomieszczeniach wskazanie pomieszczenia na centrali albo zewnętrzne wskaźniki przy drzwiach (A.6.3.2 a, b).",
     "Strefa obejmująca więcej niż jedną strefę pożarową ma granice zgodne ze strefami pożarowymi i najwyżej 400 m² (A.6.3.2 c).",
     "Zwykle jedna kondygnacja; wyjątki: klatka lub szyb w jednej strefie pożarowej, budynek poniżej 300 m² (A.6.3.2 d).",
@@ -476,13 +476,13 @@
     "Zwolnienie nie działa, gdy SSP jest niezbędny do uruchamiania urządzeń działających podczas pożaru (§ 30 ust. 2).",
     "Tam, gdzie wymagana jest instalacja sygnalizacyjno-alarmowa, klapy odcinające uruchamia ta instalacja (WT § 268 ust. 6, przepisy odniesienia).",
     "System wykrywania pożaru może być automatycznym środkiem przywołania dźwigów na wyznaczony przystanek (PN-EN 81-73:2020-12, 5.1.3 b); przerwa w interfejsie inicjuje jazdę pożarową (5.2).",
-    "Jeżeli obowiązek SSP wynika z § 28 ust. 1, a SUG nie zastępuje funkcji sterowania, SSP pozostaje; sposób połączenia z PSP uzgadnia się z komendantem (§ 31)."
+    "Tu SSP steruje klapami odcinającymi i przywołaniem dźwigów, więc zwolnienie z § 30 ust. 1 nie działa i SSP pozostaje (§ 30 ust. 2); sposób połączenia SSP z PSP uzgadnia się z komendantem powiatowym (miejskim) PSP (§ 31)."
    ]
   },
   {
    "q": "Jakie wymagania dotyczą zasilania i okablowania SSP oraz jak często się go konserwuje?",
    "points": [
-    "Zasilanie główne z sieci, z wydzielonym zabezpieczeniem blisko wejścia zasilania do budynku (TS 54-14:2006, 6.8.2).",
+    "Zasilanie główne z sieci, z wydzielonym zabezpieczeniem blisko wejścia zasilania do budynku (PKN-CEN/TS 54-14:2006, aktualna 2020-09, 6.8.2).",
     "Zasilanie rezerwowe z wydzielonej baterii: 72 h plus 30 min alarmowania, z możliwością skrócenia do 30 h lub 4 h przy szybkiej naprawie (A.6.8.3).",
     "Kable potrzebne dłużej niż 1 min po wykryciu pożaru mają odporność co najmniej 30 min (A.6.11.2 a).",
     "Pojedyncze uszkodzenie obwodu wyłącza najwyżej 32 urządzenia z jednej strefy i o jednej funkcji (A.6.2.2.1).",

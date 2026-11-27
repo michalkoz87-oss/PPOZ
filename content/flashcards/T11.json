@@ -166,7 +166,7 @@
   "topic": "U1",
   "front": "Jaka jest największa powierzchnia strefy dozorowej według wytycznych z 2006 r.?",
   "back": "1600 m² powierzchni użytkowej.",
-  "ref": "PKN-CEN/TS 54-14:2006, A.6.3.2 a",
+  "ref": "PKN-CEN/TS 54-14:2006 (wycofana; aktualna 2020-09), A.6.3.2 a",
   "conf": "wysoka",
   "week": 11
  },
@@ -175,7 +175,7 @@
   "topic": "U1",
   "front": "Jaka jest największa powierzchnia strefy dozorowej obejmującej więcej niż jedną strefę pożarową?",
   "back": "400 m², z granicami zgodnymi z granicami stref pożarowych.",
-  "ref": "PKN-CEN/TS 54-14:2006, A.6.3.2 c",
+  "ref": "PKN-CEN/TS 54-14:2006 (wycofana; aktualna 2020-09), A.6.3.2 c",
   "conf": "wysoka",
   "week": 11
  },
@@ -184,7 +184,7 @@
   "topic": "U1",
   "front": "Poniżej jakiej powierzchni całego budynku strefa dozorowa może obejmować kilka kondygnacji?",
   "back": "Poniżej 300 m² powierzchni użytkowej budynku.",
-  "ref": "PKN-CEN/TS 54-14:2006, A.6.3.2 d",
+  "ref": "PKN-CEN/TS 54-14:2006 (wycofana; aktualna 2020-09), A.6.3.2 d",
   "conf": "wysoka",
   "week": 11
  },
@@ -193,7 +193,7 @@
   "topic": "U1",
   "front": "Jaki jest promień działania punktowej czujki dymu w pomieszczeniu o wysokości do 11 m?",
   "back": "7,5 m.",
-  "ref": "PKN-CEN/TS 54-14:2006, tabl. A.1",
+  "ref": "PKN-CEN/TS 54-14:2006 (wycofana; aktualna 2020-09), tabl. A.1",
   "conf": "wysoka",
   "week": 11
  },
@@ -202,7 +202,7 @@
   "topic": "U1",
   "front": "Jaki jest promień działania czujki ciepła klasy 1 w pomieszczeniu o wysokości do 8 m?",
   "back": "5 m.",
-  "ref": "PKN-CEN/TS 54-14:2006, tabl. A.1",
+  "ref": "PKN-CEN/TS 54-14:2006 (wycofana; aktualna 2020-09), tabl. A.1",
   "conf": "wysoka",
   "week": 11
  },
@@ -211,7 +211,7 @@
   "topic": "U1",
   "front": "W jakim pasie pod stropem płaskim powinien znajdować się element detekcyjny czujki?",
   "back": "W górnych 5% wysokości pomieszczenia.",
-  "ref": "PKN-CEN/TS 54-14:2006, A.6.5.1 a",
+  "ref": "PKN-CEN/TS 54-14:2006 (wycofana; aktualna 2020-09), A.6.5.1 a",
   "conf": "wysoka",
   "week": 11
  },
@@ -220,7 +220,7 @@
   "topic": "U1",
   "front": "O ile można powiększyć promień czujki w kalenicy stropu pochyłego?",
   "back": "O 1% na każdy 1° nachylenia, najwyżej o 25%.",
-  "ref": "PKN-CEN/TS 54-14:2006, A.6.5.1 b",
+  "ref": "PKN-CEN/TS 54-14:2006 (wycofana; aktualna 2020-09), A.6.5.1 b",
   "conf": "wysoka",
   "week": 11
  },
@@ -229,7 +229,7 @@
   "topic": "U1",
   "front": "Jaka wolna przestrzeń ma pozostać pod czujką?",
   "back": "Co najmniej 0,5 m we wszystkich kierunkach.",
-  "ref": "PKN-CEN/TS 54-14:2006, A.6.5.1 c",
+  "ref": "PKN-CEN/TS 54-14:2006 (wycofana; aktualna 2020-09), A.6.5.1 c",
   "conf": "wysoka",
   "week": 11
  },
@@ -238,7 +238,7 @@
   "topic": "U1",
   "front": "Od jakiej odległości od stropu przegrodę lub regał traktuje się jak ścianę dochodzącą do stropu?",
   "back": "Gdy sięga bliżej niż 0,3 m od stropu.",
-  "ref": "PKN-CEN/TS 54-14:2006, A.6.5.1 c",
+  "ref": "PKN-CEN/TS 54-14:2006 (wycofana; aktualna 2020-09), A.6.5.1 c",
   "conf": "wysoka",
   "week": 11
  },
@@ -247,7 +247,7 @@
   "topic": "U1",
   "front": "W jakim promieniu wokół czujki zaślepia się perforację sufitu nawiewnego?",
   "back": "Co najmniej 0,6 m.",
-  "ref": "PKN-CEN/TS 54-14:2006, A.6.5.1 d",
+  "ref": "PKN-CEN/TS 54-14:2006 (wycofana; aktualna 2020-09), A.6.5.1 d",
   "conf": "wysoka",
   "week": 11
  },
@@ -256,7 +256,7 @@
   "topic": "U1",
   "front": "Od jakiej wysokości belka stropowa wymaga traktowania jej jak ściany?",
   "back": "Gdy jest wyższa niż 5% wysokości pomieszczenia.",
-  "ref": "PKN-CEN/TS 54-14:2006, A.6.5.1 f",
+  "ref": "PKN-CEN/TS 54-14:2006 (wycofana; aktualna 2020-09), A.6.5.1 f",
   "conf": "wysoka",
   "week": 11
  },
@@ -265,7 +265,7 @@
   "topic": "U1",
   "front": "Przy jakim rozstawie belek wystarczy czujka w co drugim polu?",
   "back": "Gdy D < 0,25(H − h).",
-  "ref": "PKN-CEN/TS 54-14:2006, A.6.5.1 f",
+  "ref": "PKN-CEN/TS 54-14:2006 (wycofana; aktualna 2020-09), A.6.5.1 f",
   "conf": "wysoka",
   "week": 11
  },
@@ -274,7 +274,7 @@
   "topic": "U1",
   "front": "Jaki efektywny promień przyjmuje się dla czujki działającej bez stropu?",
   "back": "12,5% wysokości czujki nad najbardziej prawdopodobnym ogniskiem.",
-  "ref": "PKN-CEN/TS 54-14:2006, A.6.5.1 i",
+  "ref": "PKN-CEN/TS 54-14:2006 (wycofana; aktualna 2020-09), A.6.5.1 i",
   "conf": "wysoka",
   "week": 11
  },
@@ -283,7 +283,7 @@
   "topic": "U1",
   "front": "Jaka jest najdłuższa droga do najbliższego ręcznego ostrzegacza pożarowego?",
   "back": "30 m (krótsza przy osobach o ograniczonej zdolności poruszania się).",
-  "ref": "PKN-CEN/TS 54-14:2006, A.6.5.4",
+  "ref": "PKN-CEN/TS 54-14:2006 (wycofana; aktualna 2020-09), A.6.5.4",
   "conf": "wysoka",
   "week": 11
  },
@@ -292,7 +292,7 @@
   "topic": "U1",
   "front": "Na jakiej wysokości montuje się zwykle ręczne ostrzegacze pożarowe?",
   "back": "Od 1,2 m do 1,6 m nad podłogą.",
-  "ref": "PKN-CEN/TS 54-14:2006, A.6.5.4",
+  "ref": "PKN-CEN/TS 54-14:2006 (wycofana; aktualna 2020-09), A.6.5.4",
   "conf": "wysoka",
   "week": 11
  },
@@ -301,7 +301,7 @@
   "topic": "U1",
   "front": "Gdzie mierzy się poziom dźwięku alarmu, który ma obudzić śpiących, i ile ma wynosić?",
   "back": "Na wysokości łóżka; 75 dB(A).",
-  "ref": "PKN-CEN/TS 54-14:2006, A.6.6.2 a",
+  "ref": "PKN-CEN/TS 54-14:2006 (wycofana; aktualna 2020-09), A.6.6.2 a",
   "conf": "wysoka",
   "week": 11
  },
@@ -310,7 +310,7 @@
   "topic": "U1",
   "front": "Jaki jest minimalny poziom dźwięku alarmu pożarowego w strefach, w których ma być słyszany?",
   "back": "65 dB(A) lub 5 dB(A) ponad szum trwający dłużej niż 30 s, zależnie od tego, która wartość jest większa.",
-  "ref": "PKN-CEN/TS 54-14:2006, A.6.6.2 a",
+  "ref": "PKN-CEN/TS 54-14:2006 (wycofana; aktualna 2020-09), A.6.6.2 a",
   "conf": "wysoka",
   "week": 11
  },
@@ -319,7 +319,7 @@
   "topic": "U2",
   "front": "O ile komunikat głosowy powinien przekraczać inne dźwięki trwające dłużej niż 30 s?",
   "back": "O co najmniej 10 dB(A).",
-  "ref": "PKN-CEN/TS 54-14:2006, A.6.6.2 e",
+  "ref": "PKN-CEN/TS 54-14:2006 (wycofana; aktualna 2020-09), A.6.6.2 e",
   "conf": "wysoka",
   "week": 11
  },
@@ -328,7 +328,7 @@
   "topic": "U1",
   "front": "Na jak długo zasilanie rezerwowe SSP ma podtrzymać instalację?",
   "back": "Co najmniej 72 h, a potem jeszcze co najmniej 30 min alarmowania.",
-  "ref": "PKN-CEN/TS 54-14:2006, A.6.8.3",
+  "ref": "PKN-CEN/TS 54-14:2006 (wycofana; aktualna 2020-09), A.6.8.3",
   "conf": "wysoka",
   "week": 11
  },
@@ -337,7 +337,7 @@
   "topic": "U1",
   "front": "Ile urządzeń może najwyżej przestać działać przy pojedynczym zwarciu lub przerwie obwodu?",
   "back": "32 urządzenia, z tej samej strefy i o tej samej funkcji.",
-  "ref": "PKN-CEN/TS 54-14:2006, A.6.2.2.1",
+  "ref": "PKN-CEN/TS 54-14:2006 (wycofana; aktualna 2020-09), A.6.2.2.1",
   "conf": "wysoka",
   "week": 11
  },
@@ -346,7 +346,7 @@
   "topic": "U1",
   "front": "Jaką odporność na ogień mają kable SSP potrzebne dłużej niż 1 min po wykryciu pożaru?",
   "back": "Co najmniej 30 min albo równoważne zabezpieczenie.",
-  "ref": "PKN-CEN/TS 54-14:2006, A.6.11.2 a",
+  "ref": "PKN-CEN/TS 54-14:2006 (wycofana; aktualna 2020-09), A.6.11.2 a",
   "conf": "wysoka",
   "week": 11
  },
