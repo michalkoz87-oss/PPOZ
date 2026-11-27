@@ -1,1 +1,362 @@
-[]
+[
+ {
+  "id": "T16-01",
+  "topic": "U3",
+  "front": "W jakich pomieszczeniach muzeum wymagane jest awaryjne oświetlenie ewakuacyjne?",
+  "back": "W pomieszczeniach wystawowych, niezależnie od ich powierzchni i liczby osób.",
+  "ref": "WT § 181 ust. 3 pkt 1 lit. c",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-02",
+  "topic": "U3",
+  "front": "Od jakiej liczby osób sala konferencyjna lub sportowa wymaga awaryjnego oświetlenia ewakuacyjnego?",
+  "back": "Gdy jest przeznaczona dla ponad 200 osób.",
+  "ref": "WT § 181 ust. 3 pkt 1 lit. b",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-03",
+  "topic": "U3",
+  "front": "Od jakiej powierzchni netto pomieszczenie w budynku magazynowym wymaga awaryjnego oświetlenia ewakuacyjnego?",
+  "back": "Ponad 2000 m².",
+  "ref": "WT § 181 ust. 3 pkt 1 lit. e",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-04",
+  "topic": "U3",
+  "front": "Od jakiej powierzchni netto pomieszczenie garażu oświetlonego wyłącznie światłem sztucznym wymaga oświetlenia ewakuacyjnego?",
+  "back": "Ponad 1000 m².",
+  "ref": "WT § 181 ust. 3 pkt 1 lit. d",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-05",
+  "topic": "U3",
+  "front": "Czy droga ewakuacyjna oświetlona wyłącznie światłem sztucznym wymaga awaryjnego oświetlenia ewakuacyjnego?",
+  "back": "Tak, zawsze.",
+  "ref": "WT § 181 ust. 3 pkt 2 lit. b",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-06",
+  "topic": "U3",
+  "front": "Jak długo co najmniej ma działać awaryjne oświetlenie ewakuacyjne według WT?",
+  "back": "Co najmniej 1 godzinę od zaniku oświetlenia podstawowego.",
+  "ref": "WT § 181 ust. 5",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-07",
+  "topic": "U7",
+  "front": "Jakie źródło zasilania musi mieć budynek wysokościowy wśród co najmniej dwóch niezależnych źródeł?",
+  "back": "Zespół prądotwórczy.",
+  "ref": "WT § 181 ust. 1",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-08",
+  "topic": "U3",
+  "front": "Jakie minimalne natężenie wymagane jest na linii środkowej drogi ewakuacyjnej o szerokości do 2 m?",
+  "back": "Co najmniej 1 lx na podłodze.",
+  "ref": "PN-EN 1838:2013 pkt 4.2.1",
+  "conf": "średnia",
+  "week": 16
+ },
+ {
+  "id": "T16-09",
+  "topic": "U3",
+  "front": "Jakie natężenie wymagane jest w pasie centralnym drogi ewakuacyjnej o szerokości do 2 m?",
+  "back": "Co najmniej 50 % wartości dla linii środkowej, czyli 0,5 lx.",
+  "ref": "PN-EN 1838:2013 pkt 4.2.1",
+  "conf": "średnia",
+  "week": 16
+ },
+ {
+  "id": "T16-10",
+  "topic": "U3",
+  "front": "W jakim czasie oświetlenie drogi ewakuacyjnej musi osiągnąć 100 % wymaganego natężenia?",
+  "back": "W ciągu 60 s (50 % w ciągu 5 s).",
+  "ref": "PN-EN 1838:2013 pkt 4.2.6",
+  "conf": "średnia",
+  "week": 16
+ },
+ {
+  "id": "T16-11",
+  "topic": "U3",
+  "front": "Jakie minimalne natężenie wymagane jest w strefie otwartej (antypanicznej)?",
+  "back": "0,5 lx na podłodze, z wyłączeniem pasa obwodowego o szerokości 0,5 m.",
+  "ref": "PN-EN 1838:2013 pkt 4.3.1",
+  "conf": "średnia",
+  "week": 16
+ },
+ {
+  "id": "T16-12",
+  "topic": "U3",
+  "front": "Jakie natężenie oświetlenia wymagane jest w strefie wysokiego ryzyka?",
+  "back": "Co najmniej 10 % natężenia eksploatacyjnego dla danej czynności, nie mniej niż 15 lx.",
+  "ref": "PN-EN 1838:2013 pkt 4.4.1",
+  "conf": "średnia",
+  "week": 16
+ },
+ {
+  "id": "T16-13",
+  "topic": "U3",
+  "front": "W jakim czasie oświetlenie strefy wysokiego ryzyka musi dać pełne natężenie?",
+  "back": "Stale lub w ciągu 0,5 s, zależnie od zastosowania.",
+  "ref": "PN-EN 1838:2013 pkt 4.4.6",
+  "conf": "średnia",
+  "week": 16
+ },
+ {
+  "id": "T16-14",
+  "topic": "U3",
+  "front": "Jaki jest minimalny stosunek Ud natężenia minimalnego do maksymalnego na drodze ewakuacyjnej?",
+  "back": "1:40.",
+  "ref": "PN-EN 1838:2013 pkt 4.2.2",
+  "conf": "średnia",
+  "week": 16
+ },
+ {
+  "id": "T16-15",
+  "topic": "U3",
+  "front": "Jakie natężenie pionowe trzeba zapewnić na ręcznym ostrzegaczu pożarowym i sprzęcie pożarowym?",
+  "back": "5 lx.",
+  "ref": "PN-EN 1838:2013 pkt 4.1.2 i",
+  "conf": "średnia",
+  "week": 16
+ },
+ {
+  "id": "T16-16",
+  "topic": "U3",
+  "front": "Jaką odległość oznacza określenie „w pobliżu” przy punktach o szczególnym znaczeniu?",
+  "back": "Do 2 m, mierzone w poziomie.",
+  "ref": "PN-EN 1838:2013 pkt 4.1.2, UWAGA 1",
+  "conf": "średnia",
+  "week": 16
+ },
+ {
+  "id": "T16-17",
+  "topic": "U3",
+  "front": "Czy oprawę oświetlenia awaryjnego trzeba przewidzieć w toalecie dla osób niepełnosprawnych?",
+  "back": "Tak, wymagane jest tam oświetlenie strefy otwartej.",
+  "ref": "PN-EN 1838:2013 pkt 4.3.8",
+  "conf": "średnia",
+  "week": 16
+ },
+ {
+  "id": "T16-18",
+  "topic": "U3",
+  "front": "Jaki jest współczynnik z we wzorze na odległość widzenia znaku oświetlonego wewnętrznie?",
+  "back": "z = 200 (dla oświetlonego zewnętrznie z = 100).",
+  "ref": "PN-EN 1838:2013 pkt 5.5",
+  "conf": "średnia",
+  "week": 16
+ },
+ {
+  "id": "T16-19",
+  "topic": "U3",
+  "front": "Z jakiej odległości jest czytelny oświetlony wewnętrznie znak ewakuacyjny o wysokości 15 cm?",
+  "back": "30 m (200 × 0,15 m).",
+  "ref": "PN-EN 1838:2013 pkt 5.5",
+  "conf": "średnia",
+  "week": 16
+ },
+ {
+  "id": "T16-20",
+  "topic": "U3",
+  "front": "Jaka jest minimalna luminancja każdej barwnej części znaku bezpieczeństwa?",
+  "back": "Co najmniej 2 cd/m².",
+  "ref": "PN-EN 1838:2013 pkt 5.4.1",
+  "conf": "średnia",
+  "week": 16
+ },
+ {
+  "id": "T16-21",
+  "topic": "U3",
+  "front": "Na jakiej wysokości co najmniej umieszcza się oprawy i znaki na drodze ewakuacyjnej?",
+  "back": "Co najmniej 2 m nad podłogą.",
+  "ref": "PN-EN 1838:2013 pkt 4.1.1",
+  "conf": "średnia",
+  "week": 16
+ },
+ {
+  "id": "T16-22",
+  "topic": "U3",
+  "front": "Czy obowiązek oznakowania dróg i wyjść ewakuacyjnych dotyczy budynków mieszkalnych?",
+  "back": "Nie, budynki mieszkalne są wyłączone z obowiązku z lit. a.",
+  "ref": "Rozp. MSWiA § 4 ust. 2 pkt 4 lit. a",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-23",
+  "topic": "U3",
+  "front": "Czy dźwigi dla straży pożarnej podlegają obowiązkowi oznakowania?",
+  "back": "Tak, oznakowuje się je znakami zgodnymi z Polskimi Normami.",
+  "ref": "Rozp. MSWiA § 4 ust. 2 pkt 4 lit. g",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-24",
+  "topic": "U3",
+  "front": "Do kiedy trzeba oznakować punkty schronienia zidentyfikowane przed zmianą z 28.09.2026?",
+  "back": "Niezwłocznie, najpóźniej do 31 grudnia 2026 r.",
+  "ref": "Rozp. zmieniające z 28.09.2026 § 2",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-25",
+  "topic": "U7",
+  "front": "W jakiej strefie pożarowej wymagany jest przeciwpożarowy wyłącznik prądu?",
+  "back": "O kubaturze ponad 1000 m³ lub zawierającej strefy zagrożone wybuchem.",
+  "ref": "WT § 183 ust. 2",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-26",
+  "topic": "U7",
+  "front": "Gdzie umieszcza się przeciwpożarowy wyłącznik prądu?",
+  "back": "W pobliżu głównego wejścia do obiektu lub złącza, z oznakowaniem.",
+  "ref": "WT § 183 ust. 3",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-27",
+  "topic": "U7",
+  "front": "Jakie źródło może się samoczynnie załączyć po zadziałaniu PWP?",
+  "back": "Tylko źródło zasilające oświetlenie awaryjne.",
+  "ref": "WT § 183 ust. 4",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-28",
+  "topic": "U7",
+  "front": "Do jakiego przekroju przewody muszą mieć żyły wyłącznie miedziane?",
+  "back": "Do 10 mm² włącznie.",
+  "ref": "WT § 183 ust. 1 pkt 9",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-29",
+  "topic": "U7",
+  "front": "Do jakiego czasu można ograniczyć ciągłość zasilania zespołów kablowych w przestrzeni z SUG wodnym?",
+  "back": "Do 30 minut.",
+  "ref": "WT § 187 ust. 7",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-30",
+  "topic": "U7",
+  "front": "Kiedy wymóg odporności zespołów kablowych na wodę w pomieszczeniu z SUG wodnym uznaje się za spełniony?",
+  "back": "Gdy kable ułożono w ognioochronnych kanałach kablowych.",
+  "ref": "WT § 187 ust. 4",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-31",
+  "topic": "U7",
+  "front": "Jaką klasę osłony muszą mieć kable palne w przestrzeni podpodłogowej używanej do wentylacji w budynku WW?",
+  "back": "Co najmniej EI 60 (w innych budynkach EI 30).",
+  "ref": "WT § 259 ust. 2",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-32",
+  "topic": "U7",
+  "front": "W budynku ZL IV kiedy wymagany jest dźwig dla ekip ratowniczych?",
+  "back": "Gdy budynek jest wysokościowy (WW).",
+  "ref": "WT § 253 ust. 1",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-33",
+  "topic": "U7",
+  "front": "Przy jakiej wysokości posadzki kondygnacji budynek ZL I, II, III lub V wymaga dźwigu dla ekip ratowniczych?",
+  "back": "Powyżej 25 m nad terenem przy najniżej położonym wejściu.",
+  "ref": "WT § 253 ust. 1",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-34",
+  "topic": "U7",
+  "front": "Jaką klasę odporności ogniowej mają ściany i stropy szybu dźwigu dla ekip ratowniczych?",
+  "back": "Jak stropy budynku według § 216.",
+  "ref": "WT § 253 ust. 3",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-35",
+  "topic": "U7",
+  "front": "Jaka jest minimalna szerokość w świetle wejścia do kabiny dźwigu dla straży pożarnej?",
+  "back": "800 mm.",
+  "ref": "PN-EN 81-72:2020 pkt 5.2.2",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-36",
+  "topic": "U7",
+  "front": "Jakie są minimalne wymiary kabiny dźwigu dla straży pożarnej?",
+  "back": "1100 mm szerokości i 1400 mm głębokości przy udźwigu 630 kg.",
+  "ref": "PN-EN 81-72:2020 pkt 5.2.2",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-37",
+  "topic": "U7",
+  "front": "Od jakiej chwili liczy się 60 s dojazdu dźwigu dla straży do najwyższego przystanku?",
+  "back": "Od chwili zamknięcia drzwi dźwigu.",
+  "ref": "PN-EN 81-72:2020 pkt 5.2.4",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-38",
+  "topic": "U7",
+  "front": "Jakie wymiary ma klapa awaryjna w dachu kabiny dźwigu dla straży o udźwigu 630 kg?",
+  "back": "0,4 m × 0,5 m (dla pozostałych 0,5 m × 0,7 m).",
+  "ref": "PN-EN 81-72:2020 pkt 5.4.1.1",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-39",
+  "topic": "U7",
+  "front": "Na jakiej wysokości umieszcza się łącznik dźwigu dla straży pożarnej?",
+  "back": "Od 1,4 m do 2,0 m nad podłogą, do 2 m w poziomie od dźwigu.",
+  "ref": "PN-EN 81-72:2020 pkt 5.8.1",
+  "conf": "wysoka",
+  "week": 16
+ },
+ {
+  "id": "T16-40",
+  "topic": "U7",
+  "front": "Gdzie lokalizuje się ręczne urządzenie przywołania pożarowego dźwigu według PN-EN 81-73?",
+  "back": "W centrum zarządzania budynkiem lub na wyznaczonym przystanku.",
+  "ref": "PN-EN 81-73:2020 pkt 5.1.4 d",
+  "conf": "wysoka",
+  "week": 16
+ }
+]
